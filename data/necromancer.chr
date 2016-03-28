@@ -1,0 +1,767 @@
+Updated 2011.04.14
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(11), Hp(1), Int(5), Wis(2), Sp_regen(3), Hp_regen(1)         |
+|   2 | Sp(12), Hp(1), Int(4), Wis(1), Sp_regen(3)                      |
+|   3 | Sp(11), Hp(1), Int(5), Wis(2), Con(1), Sp_regen(3),             |
+|     | Hp_regen(1), Magical resistance(1)                              |
+|   4 | Sp(12), Hp(1), Int(4), Wis(1), Sp_regen(3)                      |
+|   5 | Sp(11), Hp(2), Int(5), Wis(1), Sp_regen(3), Hp_regen(1)         |
+|   6 | Sp(12), Hp(1), Int(4), Wis(2), Con(1), Sp_regen(3),             |
+|     | Hp_regen(1), Magical resistance(1)                              |
+|   7 | Sp(11), Hp(1), Int(5), Wis(1), Sp_regen(3)                      |
+|   8 | Sp(12), Hp(1), Int(4), Wis(2), Sp_regen(3), Hp_regen(1)         |
+|   9 | Sp(11), Hp(1), Int(5), Wis(1), Sp_regen(3)                      |
+|  10 | Sp(11), Hp(1), Int(4), Wis(1), Con(1), Sp_regen(3),             |
+|     | Hp_regen(1), Magical resistance(1)                              |
+|  11 | Sp(11), Hp(1), Int(4), Wis(2), Sp_regen(3)                      |
+|  12 | Sp(11), Hp(1), Int(5), Wis(1), Sp_regen(2), Hp_regen(1)         |
+|  13 | Sp(10), Hp(1), Int(4), Wis(1), Sp_regen(3)                      |
+|  14 | Sp(11), Hp(1), Int(4), Wis(2), Con(1), Sp_regen(3),             |
+|     | Hp_regen(1), Magical resistance(1)                              |
+|  15 | Sp(11), Hp(1), Int(4), Wis(1), Sp_regen(2)                      |
+|  16 | Sp(10), Hp(1), Int(4), Wis(1), Sp_regen(3), Hp_regen(1)         |
+|  17 | Sp(11), Hp(1), Int(4), Wis(1), Sp_regen(3)                      |
+|  18 | Sp(11), Hp(2), Int(5), Wis(2), Con(1), Sp_regen(3),             |
+|     | Hp_regen(1), Magical resistance(1)                              |
+|  19 | Sp(10), Hp(1), Int(4), Wis(1), Sp_regen(2), Hp_regen(1)         |
+|  20 | Sp(11), Hp(1), Int(4), Wis(1), Sp_regen(3)                      |
+|  21 | Sp(9), Int(3), Wis(1), Sp_regen(2)                              |
+|  22 | Sp(9), Hp(1), Int(4), Wis(2), Con(1), Sp_regen(3), Hp_regen(1), |
+|     | Magical resistance(1)                                           |
+|  23 | Sp(9), Hp(1), Int(3), Wis(1), Sp_regen(2)                       |
+|  24 | Sp(9), Hp(1), Int(4), Wis(1), Sp_regen(2), Hp_regen(1)          |
+|  25 | Sp(7), Hp(1), Int(3), Wis(1), Sp_regen(2)                       |
+|  26 | Sp(7), Int(2), Sp_regen(2)                                      |
+|  27 | Sp(7), Hp(1), Int(3), Wis(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Magical resistance(1)                                           |
+|  28 | Sp(7), Hp(1), Int(3), Wis(1), Sp_regen(1)                       |
+|  29 | Sp(7), Hp(1), Int(3), Wis(1), Sp_regen(2), Hp_regen(1)          |
+|  30 | Sp(7), Int(2), Wis(1), Sp_regen(2)                              |
+|  31 | Sp(7), Hp(1), Int(3), Wis(1), Sp_regen(2)                       |
+|  32 | Sp(7), Hp(1), Int(3), Wis(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Magical resistance(1)                                           |
+|  33 | Sp(7), Int(2), Sp_regen(1)                                      |
+|  34 | Sp(7), Hp(1), Int(3), Wis(1), Sp_regen(2)                       |
+|  35 | Sp(6), Hp(1), Int(3), Wis(1), Sp_regen(2), Hp_regen(1)          |
+|  36 | Sp(6), Int(2), Wis(1), Sp_regen(1)                              |
+|  37 | Sp(6), Hp(1), Int(2), Wis(1), Sp_regen(2)                       |
+|  38 | Sp(6), Int(3), Sp_regen(1)                                      |
+|  39 | Sp(7), Hp(1), Int(2), Wis(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Magical resistance(1)                                           |
+|  40 | Sp(6), Hp(1), Int(3), Wis(1), Sp_regen(2)                       |
+|  41 | Sp(6), Int(2), Wis(1), Sp_regen(1)                              |
+|  42 | Sp(6), Hp(1), Int(2), Sp_regen(2), Hp_regen(1)                  |
+|  43 | Sp(6), Int(3), Wis(1), Sp_regen(1)                              |
+|  44 | Sp(6), Hp(1), Int(2), Wis(1), Sp_regen(2)                       |
+|  45 | Sp(7), Hp(1), Int(3), Wis(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Magical resistance(1)                                           |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell chain to 15%
+May study spell control to 15%
+May study spell darkness to 25%
+May study spell light to 25%
+May study spell mark undead to 15%
+May study spell reanimate skeleton to 10%
+May study spell recall undead to 5%
+May study spell soul merge to 10%
+May study spell summon servant to 25%
+May train skill appraise to 5%
+May train skill consider to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell chain to 25%
+May study spell control to 30%
+May study spell darkness to 45%
+May study spell detect alignment to 10%
+May study spell light to 45%
+May study spell reanimate skeleton to 20%
+May study spell recall undead to 10%
+May study spell soul merge to 20%
+May study spell summon servant to 50%
+May study spell unchain to 10%
+May train skill consider to 25%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell chain to 45%
+May study spell control to 45%
+May study spell darkness to 75%
+May study spell dispel enchantment to 5%
+May study spell light to 75%
+May study spell magic missile to 10%
+May study spell mark undead to 25%
+May study spell reanimate skeleton to 30%
+May study spell recall undead to 15%
+May study spell soul merge to 40%
+May study spell summon servant to 75%
+May study spell unchain to 25%
+May study spell wail of banshee to 15%
+May train skill tinning to 5%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell chain to 65%
+May study spell darkness to 100%
+May study spell detect alignment to 25%
+May study spell free servant to 100%
+May study spell light to 100%
+May study spell preservation to 10%
+May study spell raise dead to 100%
+May study spell reanimate skeleton to 40%
+May study spell recall undead to 25%
+May study spell soul merge to 45%
+May study spell summon servant to 100%
+May study spell teleport with error to 20%
+May study spell unchain to 35%
+May train skill appraise to 15%
+May train skill consider to 40%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell chain to 95%
+May study spell control to 65%
+May study spell dismiss to 10%
+May study spell dispel enchantment to 15%
+May study spell magic missile to 35%
+May study spell mark undead to 35%
+May study spell reanimate skeleton to 50%
+May study spell soul merge to 50%
+May study spell soul wrack to 5%
+May study spell summon horde to 5%
+May study spell unchain to 50%
+May study spell wail of banshee to 25%
+May train skill tinning to 15%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell chain to 100%
+May study spell control to 85%
+May study spell create money to 10%
+May study spell detect alignment to 45%
+May study spell magic missile to 45%
+May study spell make scar to 5%
+May study spell preservation to 25%
+May study spell reanimate skeleton to 60%
+May study spell soul merge to 55%
+May study spell soul wrack to 10%
+May study spell summon horde to 10%
+May study spell teleport with error to 45%
+May train skill consider to 65%
+May train skill hear noises to 15%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell detect alignment to 65%
+May study spell magic missile to 65%
+May study spell make scar to 10%
+May study spell preservation to 35%
+May study spell reanimate skeleton to 70%
+May study spell soul merge to 60%
+May study spell soul wrack to 15%
+May study spell summon horde to 15%
+May study spell unchain to 75%
+May study spell wail of banshee to 45%
+May train skill tinning to 35%
+May train skill essence eye to 5%
+May train skill appraise to 25%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell blurred image to 10%
+May study spell control to 100%
+May study spell create money to 25%
+May study spell dismiss to 25%
+May study spell dispel enchantment to 30%
+May study spell magic missile to 85%
+May study spell make scar to 15%
+May study spell mark undead to 50%
+May study spell reanimate skeleton to 80%
+May study spell soul merge to 65%
+May study spell soul wrack to 20%
+May study spell summon horde to 20%
+May study spell wail of banshee to 65%
+May train skill consider to 85%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell blurred image to 25%
+May study spell detect alignment to 85%
+May study spell dismiss to 45%
+May study spell magic missile to 90%
+May study spell make scar to 20%
+May study spell preservation to 55%
+May study spell reanimate skeleton to 90%
+May study spell soul merge to 70%
+May study spell soul wrack to 25%
+May study spell summon horde to 25%
+May study spell teleport with error to 55%
+May study spell unchain to 100%
+May study spell wail of banshee to 85%
+May train skill hear noises to 25%
+May train skill tinning to 45%
+May train skill attack to 15%
+May train skill essence eye to 15%
+May train skill appraise to 45%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell blurred image to 35%
+May study spell create money to 45%
+May study spell deadly attention to 15%
+May study spell dispel enchantment to 45%
+May study spell magic missile to 100%
+May study spell make scar to 25%
+May study spell mark undead to 70%
+May study spell plane of dead to 10%
+May study spell reanimate skeleton to 100%
+May study spell recall undead to 45%
+May study spell soul merge to 75%
+May study spell soul wrack to 30%
+May study spell summon horde to 30%
+May study spell wail of banshee to 90%
+May train skill consider to 100%
+May train skill tinning to 65%
+May train skill quick chant to 10%
+May train skill weapon skill 1h staff to 15%
+May train skill weapon skill 2h staff to 15%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell cure undead to 5%
+May study spell detect alignment to 100%
+May study spell dismiss to 65%
+May study spell make scar to 30%
+May study spell plane of dead to 15%
+May study spell reanimate zombie to 10%
+May study spell soul merge to 80%
+May study spell soul wrack to 35%
+May study spell summon horde to 35%
+May study spell wail of banshee to 100%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell blurred image to 55%
+May study spell create money to 65%
+May study spell cure undead to 10%
+May study spell dispel enchantment to 65%
+May study spell make scar to 35%
+May study spell plane of dead to 20%
+May study spell preservation to 75%
+May study spell reanimate zombie to 20%
+May study spell soul merge to 85%
+May study spell soul wrack to 40%
+May study spell summon horde to 40%
+May study spell teleport with error to 65%
+May train skill zapping to 5%
+May train skill appraise to 55%
+May train skill essence eye to 25%
+May train skill attack to 20%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell cure undead to 15%
+May study spell deadly attention to 25%
+May study spell dismiss to 75%
+May study spell make scar to 40%
+May study spell mark undead to 85%
+May study spell plane of dead to 30%
+May study spell reanimate zombie to 30%
+May study spell soul merge to 90%
+May study spell soul wrack to 45%
+May study spell summon horde to 45%
+May train skill weapon skill 2h staff to 20%
+May train skill weapon skill 1h staff to 20%
+May train skill quick chant to 25%
+May train skill hear noises to 45%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell blindness to 25%
+May study spell blurred image to 75%
+May study spell create money to 85%
+May study spell cure undead to 20%
+May study spell dismiss to 85%
+May study spell dispel enchantment to 85%
+May study spell make scar to 45%
+May study spell plane of dead to 40%
+May study spell preservation to 100%
+May study spell reanimate zombie to 40%
+May study spell soul merge to 95%
+May study spell soul wrack to 50%
+May study spell summon horde to 50%
+May study spell teleport with error to 75%
+May train skill tinning to 75%
+May train skill attack to 35%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell cure undead to 25%
+May study spell deadly attention to 45%
+May study spell dismiss to 100%
+May study spell dispel enchantment to 100%
+May study spell make scar to 50%
+May study spell mark undead to 100%
+May study spell plane of dead to 50%
+May study spell reanimate zombie to 50%
+May study spell relocate to 10%
+May study spell soul merge to 100%
+May study spell soul wrack to 55%
+May study spell summon horde to 55%
+May train skill hear noises to 65%
+May train skill weapon skill 2h staff to 35%
+May train skill quick chant to 35%
+May train skill weapon skill 1h staff to 35%
+May train skill essence eye to 45%
+May train skill attack to 45%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell blindness to 45%
+May study spell create money to 100%
+May study spell cure undead to 30%
+May study spell make scar to 60%
+May study spell plane of dead to 60%
+May study spell reanimate zombie to 60%
+May study spell teleport with error to 90%
+May train skill appraise to 75%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell blurred image to 90%
+May study spell cure undead to 35%
+May study spell floating disc to 10%
+May study spell make scar to 70%
+May study spell plane of dead to 70%
+May study spell reanimate zombie to 70%
+May study spell soul wrack to 60%
+May study spell summon horde to 60%
+May study spell teleport with error to 100%
+May train skill hear noises to 75%
+May train skill appraise to 100%
+May train skill essence eye to 65%
+May train skill attack to 65%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell blindness to 55%
+May study spell blurred image to 100%
+May study spell cure undead to 40%
+May study spell deadly attention to 55%
+May study spell estimate weight to 10%
+May study spell make scar to 80%
+May study spell plane of dead to 80%
+May study spell reanimate zombie to 80%
+May study spell recall undead to 55%
+May study spell soul wrack to 65%
+May study spell summon horde to 65%
+May train skill tinning to 100%
+May train skill weapon skill 1h staff to 55%
+May train skill quick chant to 45%
+May train skill weapon skill 2h staff to 55%
+May train skill zapping to 15%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell blindness to 75%
+May study spell cure undead to 45%
+May study spell curse to 10%
+May study spell deadly attention to 65%
+May study spell floating disc to 25%
+May study spell lesser cold invulnerability to 10%
+May study spell make scar to 90%
+May study spell reanimate zombie to 90%
+May study spell recall undead to 65%
+May study spell reincarnation to 10%
+May study spell soul wrack to 70%
+May study spell summon horde to 70%
+May train skill weapon skill 2h staff to 75%
+May train skill weapon skill 1h staff to 75%
+May train skill hear noises to 100%
+May train skill attack to 75%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell blindness to 85%
+May study spell cure undead to 50%
+May study spell enchant corpse to 15%
+May study spell estimate weight to 25%
+May study spell haunt to 15%
+May study spell make scar to 100%
+May study spell mana leech to 10%
+May study spell plane of dead to 90%
+May study spell reanimate zombie to 100%
+May study spell soul wrack to 75%
+May study spell summon horde to 75%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell cure undead to 55%
+May study spell deadly attention to 85%
+May study spell lesser cold invulnerability to 25%
+May study spell plane of dead to 95%
+May study spell reanimate flesh golem to 5%
+May study spell reanimate wight to 10%
+May study spell recall undead to 85%
+May study spell soul wrack to 80%
+May study spell summon horde to 80%
+May train skill essence eye to 75%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell cure undead to 60%
+May study spell deadly attention to 100%
+May study spell floating disc to 35%
+May study spell greater cold invulnerability to 10%
+May study spell mana leech to 25%
+May study spell plane of dead to 100%
+May study spell poison to 15%
+May study spell question unholiness to 5%
+May study spell reanimate flesh golem to 10%
+May study spell reanimate wight to 20%
+May study spell recall undead to 100%
+May study spell reincarnation to 25%
+May study spell relocate to 25%
+May study spell soul wrack to 85%
+May study spell summon horde to 85%
+May train skill zapping to 25%
+May train skill quick chant to 55%
+May train skill attack to 85%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell cure undead to 65%
+May study spell curse to 35%
+May study spell enchant corpse to 25%
+May study spell feather weight to 5%
+May study spell floating disc to 40%
+May study spell lesser elemental shield to 10%
+May study spell reanimate flesh golem to 15%
+May study spell reanimate wight to 30%
+May study spell soul wrack to 90%
+May study spell summon horde to 90%
+May train skill essence eye to 85%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell blindness to 90%
+May study spell cure undead to 70%
+May study spell estimate weight to 45%
+May study spell floating disc to 55%
+May study spell haunt to 25%
+May study spell lesser magical shield to 10%
+May study spell poison to 25%
+May study spell question unholiness to 10%
+May study spell reanimate flesh golem to 20%
+May study spell reanimate wight to 40%
+May study spell soul wrack to 95%
+May study spell summon horde to 95%
+May train skill weapon skill 2h staff to 100%
+May train skill weapon skill 1h staff to 100%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell cure undead to 75%
+May study spell curse to 45%
+May study spell enchant corpse to 35%
+May study spell feather weight to 10%
+May study spell floating disc to 75%
+May study spell greater cold invulnerability to 25%
+May study spell lesser cold invulnerability to 45%
+May study spell lesser elemental shield to 15%
+May study spell reanimate flesh golem to 25%
+May study spell reanimate wight to 50%
+May study spell reincarnation to 45%
+May study spell soul wrack to 100%
+May study spell summon horde to 100%
+May study spell teleport without error to 10%
+May train skill zapping to 45%
+May train skill leadership to 10%
+May train skill essence eye to 100%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell blindness to 100%
+May study spell cure undead to 80%
+May study spell poison to 30%
+May study spell reanimate flesh golem to 30%
+May study spell reanimate wight to 60%
+May train skill split corpse to 5%
+May train skill quick chant to 65%
+May train skill spiritual link to 5%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell cure undead to 85%
+May study spell enchant corpse to 45%
+May study spell haunt to 45%
+May study spell lesser cold invulnerability to 55%
+May study spell mana leech to 45%
+May study spell reanimate flesh golem to 35%
+May study spell reanimate wight to 70%
+May study spell relocate to 45%
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell cure undead to 90%
+May study spell curse to 65%
+May study spell estimate weight to 55%
+May study spell floating disc to 100%
+May study spell lesser magical shield to 15%
+May study spell question unholiness to 15%
+May study spell reanimate flesh golem to 40%
+May study spell reanimate wight to 80%
+May train skill zapping to 55%
+May train skill quick chant to 75%
+May train skill leadership to 25%
+May train skill spiritual link to 10%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell cure undead to 95%
+May study spell feather weight to 15%
+May study spell greater cold invulnerability to 45%
+May study spell haunt to 55%
+May study spell lesser cold invulnerability to 65%
+May study spell poison to 45%
+May study spell reanimate flesh golem to 45%
+May study spell reanimate wight to 90%
+May study spell soul fusion to 5%
+May study spell teleport without error to 20%
+May study spell unholy power to 5%
+May train skill split corpse to 10%
+May train skill unholy ceremony to 5%
+May train skill undead surgery to 5%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell cure undead to 100%
+May study spell enchant corpse to 65%
+May study spell greater magical shield to 5%
+May study spell reanimate flesh golem to 50%
+May study spell reanimate wight to 100%
+May study spell relocate to 65%
+May train skill quick chant to 80%
+May train skill spiritism to 5%
+May train skill estimate efficiency to 5%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell haunt to 65%
+May study spell lesser cold invulnerability to 75%
+May study spell reanimate flesh golem to 55%
+May study spell reincarnation to 65%
+May study spell unholy power to 10%
+May study spell unholy strength to 5%
+May train skill zapping to 65%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell estimate weight to 75%
+May study spell greater elemental shield to 5%
+May study spell greater magical shield to 10%
+May study spell lesser cold invulnerability to 85%
+May study spell lesser elemental shield to 25%
+May study spell mana leech to 55%
+May study spell poison to 55%
+May study spell question unholiness to 20%
+May study spell reanimate flesh golem to 60%
+May study spell soul fusion to 10%
+May study spell teleport without error to 30%
+May train skill split corpse to 15%
+May train skill undead surgery to 10%
+May train skill spiritual link to 20%
+May train skill estimate efficiency to 10%
+May train skill leadership to 40%
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell enchant corpse to 75%
+May study spell greater cold invulnerability to 55%
+May study spell haunt to 75%
+May study spell lesser cold invulnerability to 100%
+May study spell lesser magical shield to 25%
+May study spell reanimate flesh golem to 65%
+May study spell unholy power to 15%
+May study spell unholy strength to 10%
+May train skill willpower to 5%
+May train skill undead surgery to 15%
+May train skill eternal shielding to 5%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell curse to 85%
+May study spell enchant corpse to 85%
+May study spell feather weight to 25%
+May study spell greater elemental shield to 10%
+May study spell poison to 65%
+May study spell reanimate flesh golem to 70%
+May study spell relocate to 70%
+May study spell soul fusion to 15%
+May study spell unholy courage to 10%
+May train skill shielding of death to 5%
+May train skill spiritism to 15%
+May train skill unholy ceremony to 10%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell call spirit to 5%
+May study spell enchant corpse to 100%
+May study spell estimate weight to 100%
+May study spell greater magical shield to 15%
+May study spell haunt to 100%
+May study spell question unholiness to 25%
+May study spell reanimate flesh golem to 75%
+May study spell reincarnation to 75%
+May study spell teleport without error to 45%
+May study spell unholy power to 20%
+May study spell unholy strength to 15%
+May train skill willpower to 10%
+May train skill eternal shielding to 10%
+May train skill spiritual link to 30%
+May train skill quick chant to 85%
+May train skill zapping to 75%
+May train skill leadership to 60%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell enlarge spirit to 5%
+May study spell feather weight to 40%
+May study spell greater cold invulnerability to 65%
+May study spell poison to 75%
+May study spell reanimate flesh golem to 80%
+May train skill estimate efficiency to 15%
+May train skill unholy ceremony to 15%
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell enlarge spirit to 10%
+May study spell poison to 85%
+May study spell reanimate flesh golem to 85%
+May study spell relocate to 75%
+May study spell unholy courage to 15%
+May train skill eternal shielding to 15%
+May train skill undead surgery to 20%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell call spirit to 10%
+May study spell mana leech to 65%
+May study spell poison to 100%
+May study spell reanimate flesh golem to 90%
+May study spell soul fusion to 20%
+May study spell unholy strength to 20%
+May train skill split corpse to 20%
+May train skill willpower to 15%
+May train skill shielding of death to 10%
+May train skill estimate efficiency to 20%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell call spirit to 20%
+May study spell curse to 100%
+May study spell enlarge spirit to 15%
+May study spell greater elemental shield to 15%
+May study spell greater magical shield to 20%
+May study spell lesser elemental shield to 30%
+May study spell question unholiness to 40%
+May study spell reanimate flesh golem to 95%
+May study spell reincarnation to 85%
+May study spell teleport without error to 65%
+May study spell unholy courage to 20%
+May study spell unholy power to 25%
+May train skill undead surgery to 30%
+May train skill eternal shielding to 20%
+May train skill estimate efficiency to 30%
+May train skill spiritual link to 40%
+May train skill spiritism to 20%
+May train skill unholy ceremony to 20%
+May train skill shielding of death to 25%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell greater elemental shield to 20%
+May study spell lesser magical shield to 35%
+May study spell reanimate flesh golem to 100%
+May train skill willpower to 25%
+May train skill quick chant to 90%
+May train skill zapping to 85%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell mana leech to 75%
+May study spell unholy courage to 25%
+May study spell unholy power to 30%
+May train skill estimate efficiency to 40%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell call spirit to 25%
+May study spell greater cold invulnerability to 75%
+May study spell greater elemental shield to 25%
+May study spell greater magical shield to 25%
+May study spell reincarnation to 90%
+May study spell soul fusion to 30%
+May study spell unholy strength to 25%
+May train skill split corpse to 25%
+May train skill undead surgery to 40%
+May train skill willpower to 35%
+May train skill eternal shielding to 25%
+May train skill unholy ceremony to 30%
+May train skill zapping to 90%
+May train skill shielding of death to 30%
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell call spirit to 35%
+May study spell enlarge spirit to 25%
+May study spell greater elemental shield to 30%
+May study spell lesser elemental shield to 45%
+May study spell lesser magical shield to 45%
+May study spell mana leech to 85%
+May study spell teleport without error to 70%
+May study spell unholy courage to 35%
+May study spell unholy strength to 35%
+May train skill split corpse to 30%
+May train skill spiritism to 30%
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell soul fusion to 40%
+May study spell unholy power to 40%
+May train skill eternal shielding to 35%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell call spirit to 40%
+May study spell enlarge spirit to 35%
+May study spell greater cold invulnerability to 100%
+May study spell greater elemental shield to 40%
+May study spell greater magical shield to 40%
+May study spell mana leech to 100%
+May study spell reincarnation to 100%
+May study spell teleport without error to 75%
+May study spell unholy courage to 40%
+May study spell unholy strength to 40%
+May train skill willpower to 40%
+May train skill eternal shielding to 40%
+May train skill spiritism to 40%
+May train skill shielding of death to 40%
+May train skill leadership to 75%
+May train skill split corpse to 40%
+May train skill zapping to 100%
+May train skill quick chant to 100%
+May train skill unholy ceremony to 40%
+------------------------------------------------------.
+
+Subguilds:
+Advanced_undeads 5
+Unholy_protectors 5
+Masters_of_death 5

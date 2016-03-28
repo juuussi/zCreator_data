@@ -1,0 +1,660 @@
+Updated 2011.04.13
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hp(12), Sp(2), Str(2), Con(2), Dex(2), Hp_regen(3),             |
+|     | Physical resistance(1)                                          |
+|   2 | Hp(11), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(2)              |
+|   3 | Hp(11), Sp(2), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(3),     |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|   4 | Hp(11), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(3)              |
+|   5 | Hp(11), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(2),             |
+|     | Physical resistance(1)                                          |
+|   6 | Hp(12), Sp(2), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(3),     |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|   7 | Hp(11), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(3)              |
+|   8 | Hp(11), Sp(2), Str(2), Con(2), Dex(2), Hp_regen(2),             |
+|     | Physical resistance(1)                                          |
+|   9 | Hp(11), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(3)              |
+|  10 | Hp(11), Sp(1), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(3),     |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  11 | Hp(11), Sp(2), Str(2), Con(2), Dex(2), Hp_regen(2)              |
+|  12 | Hp(10), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(3),             |
+|     | Physical resistance(1)                                          |
+|  13 | Hp(11), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(2)              |
+|  14 | Hp(10), Sp(2), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(2),     |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  15 | Hp(10), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(3)              |
+|  16 | Hp(11), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(2),             |
+|     | Physical resistance(1)                                          |
+|  17 | Hp(10), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(3)              |
+|  18 | Hp(11), Sp(2), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(2),     |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  19 | Hp(10), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(3),             |
+|     | Physical resistance(1)                                          |
+|  20 | Hp(10), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(2)              |
+|  21 | Hp(9), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(2)               |
+|  22 | Hp(9), Sp(2), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  23 | Hp(9), Sp(1), Str(2), Con(2), Dex(2), Hp_regen(3)               |
+|  24 | Hp(9), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  25 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(1)               |
+|  26 | Hp(7), Str(1), Con(1), Dex(1), Hp_regen(2)                      |
+|  27 | Hp(7), Sp(1), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  28 | Hp(7), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(1)               |
+|  29 | Hp(7), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  30 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(1)               |
+|  31 | Hp(7), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(2)               |
+|  32 | Hp(7), Sp(1), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  33 | Hp(7), Str(1), Con(1), Dex(1), Hp_regen(1)                      |
+|  34 | Hp(7), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(2)               |
+|  35 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(1),              |
+|     | Physical resistance(1)                                          |
+|  36 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(2)               |
+|  37 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(1)               |
+|  38 | Hp(6), Str(1), Con(1), Dex(1), Hp_regen(2)                      |
+|  39 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Wis(1), Hp_regen(1),      |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  40 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(1)               |
+|  41 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(2)               |
+|  42 | Hp(6), Str(1), Con(1), Dex(1), Hp_regen(1),                     |
+|     | Physical resistance(1)                                          |
+|  43 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(2)               |
+|  44 | Hp(6), Sp(1), Str(1), Con(1), Dex(1), Hp_regen(1)               |
+|  45 | Hp(6), Sp(1), Str(2), Con(2), Dex(2), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1), Physical resistance(1)                             |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May train skill attend wounds to 10%
+May train skill aiming to 10%
+May train skill consider to 20%
+May train skill foraging to 10%
+May train skill torch creation to 20%
+May train skill zapping to 10%
+May train skill appraise to 10%
+May train skill attack to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell summon wild cat to 10%
+May train skill corpse skinning to 10%
+May train skill beast speech to 10%
+May train skill consider to 40%
+May train skill critical to 10%
+May train skill torch creation to 30%
+May train skill kick to 10%
+------------------------------------------------------.
+
+Level 3 abilities:
+May train skill aiming to 20%
+May train skill consider to 60%
+May train skill torch creation to 40%
+May train skill foraging to 20%
+May train skill attack to 20%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell clairvoyance to 10%
+May study spell darkness to 10%
+May study spell light to 10%
+May train skill dodge to 5%
+May train skill kick to 20%
+May train skill weapon skill 2h axe to 10%
+May train skill weapon skill 1h sword to 10%
+May train skill weapon skill 2h sword to 10%
+May train skill corpse skinning to 20%
+May train skill consider to 80%
+May train skill beast speech to 20%
+May train skill zapping to 20%
+May train skill weapon skill bow to 10%
+May train skill weapon skill 1h axe to 10%
+May train skill attack to 30%
+------------------------------------------------------.
+
+Level 5 abilities:
+May train skill attend wounds to 20%
+May train skill aiming to 30%
+May train skill parry to 5%
+May train skill tinning to 10%
+May train skill critical to 20%
+May train skill torch creation to 50%
+May train skill foraging to 30%
+May train skill appraise to 20%
+May train skill consider to 100%
+May train skill attack to 40%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell cure light wounds to 10%
+May train skill hear noises to 10%
+May train skill corpse skinning to 30%
+May train skill beast speech to 30%
+May train skill dodge to 10%
+May train skill tinning to 20%
+May train skill attack to 50%
+May train skill kick to 30%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell summon wild cat to 20%
+May train skill aiming to 40%
+May train skill parry to 10%
+May train skill torch creation to 60%
+May train skill foraging to 40%
+May train skill hunting to 10%
+May train skill weapon skill 2h axe to 20%
+May train skill weapon skill 1h sword to 20%
+May train skill weapon skill 2h sword to 20%
+May train skill animal lore to 10%
+May train skill zapping to 30%
+May train skill weapon skill bow to 20%
+May train skill weapon skill 1h axe to 20%
+May train skill attack to 60%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell clairvoyance to 20%
+May study spell darkness to 20%
+May study spell light to 20%
+May train skill camping to 10%
+May train skill tinning to 30%
+May train skill kick to 40%
+May train skill stun to 10%
+May train skill hear noises to 20%
+May train skill corpse skinning to 40%
+May train skill beast speech to 40%
+May train skill doublehit to 10%
+May train skill attack to 70%
+------------------------------------------------------.
+
+Level 9 abilities:
+May train skill attend wounds to 30%
+May train skill parry to 15%
+May train skill aiming to 50%
+May train skill tinning to 40%
+May train skill torch creation to 70%
+May train skill foraging to 50%
+May train skill hunting to 20%
+May train skill appraise to 30%
+May train skill attack to 80%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell barkskin to 10%
+May study spell darkness to 30%
+May study spell light to 30%
+May study spell summon wild cat to 30%
+May train skill dodge to 20%
+May train skill critical to 30%
+May train skill hear noises to 30%
+May train skill stun to 20%
+May train skill zapping to 40%
+May train skill weapon skill 1h axe to 30%
+May train skill camping to 20%
+May train skill tinning to 50%
+May train skill kick to 50%
+May train skill weapon skill 2h sword to 30%
+May train skill weapon skill 1h sword to 30%
+May train skill weapon skill 2h axe to 30%
+May train skill corpse skinning to 60%
+May train skill beast speech to 50%
+May train skill leftwield to 10%
+May train skill weapon skill bow to 30%
+May train skill doublehit to 20%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell cure light wounds to 20%
+May train skill aiming to 60%
+May train skill parry to 20%
+May train skill tinning to 60%
+May train skill torch creation to 80%
+May train skill foraging to 60%
+May train skill hunting to 30%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell clairvoyance to 30%
+May study spell darkness to 40%
+May study spell light to 40%
+May train skill hear noises to 40%
+May train skill corpse skinning to 70%
+May train skill beast speech to 60%
+May train skill camping to 30%
+May train skill animal lore to 20%
+May train skill tinning to 70%
+May train skill fire building to 10%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell summon wild cat to 40%
+May train skill attend wounds to 40%
+May train skill aiming to 70%
+May train skill parry to 30%
+May train skill dodge to 25%
+May train skill tinning to 80%
+May train skill foraging to 70%
+May train skill torch creation to 90%
+May train skill appraise to 40%
+May train skill hunting to 40%
+May train skill weapon skill 2h axe to 40%
+May train skill weapon skill 1h sword to 40%
+May train skill weapon skill 2h sword to 40%
+May train skill zapping to 50%
+May train skill weapon skill bow to 40%
+May train skill weapon skill 1h axe to 40%
+May train skill doublehit to 30%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell darkness to 50%
+May study spell light to 50%
+May study spell remove poison to 10%
+May study spell wolf eyes to 10%
+May train skill weapon skill 2h dagger to 10%
+May train skill camping to 40%
+May train skill tinning to 90%
+May train skill weapon skill 2h polearm to 10%
+May train skill weapon skill 1h dagger to 10%
+May train skill hear noises to 50%
+May train skill bladed fury to 10%
+May train skill corpse skinning to 80%
+May train skill beast speech to 70%
+May train skill leftwield to 20%
+May train skill weapon skill 1h polearm to 10%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell barkskin to 20%
+May train skill parry to 45%
+May train skill dodge to 30%
+May train skill tinning to 100%
+May train skill torch creation to 100%
+May train skill critical to 40%
+May train skill hunting to 50%
+May train skill kick to 60%
+May train skill fire building to 20%
+May train skill stun to 30%
+May train skill attack to 90%
+May train skill doublehit to 40%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell clairvoyance to 40%
+May study spell cure light wounds to 30%
+May study spell summon wild cat to 50%
+May train skill camping to 50%
+May train skill weapon skill 2h axe to 50%
+May train skill bladed fury to 20%
+May train skill hear noises to 60%
+May train skill weapon skill 2h sword to 50%
+May train skill weapon skill 1h sword to 50%
+May train skill corpse skinning to 90%
+May train skill beast speech to 80%
+May train skill weapon skill bow to 50%
+May train skill zapping to 60%
+May train skill weapon skill 1h axe to 50%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell darkness to 60%
+May study spell light to 60%
+May study spell wolf eyes to 20%
+May train skill attend wounds to 50%
+May train skill weapon skill 2h dagger to 20%
+May train skill aiming to 80%
+May train skill dodge to 35%
+May train skill parry to 50%
+May train skill foraging to 80%
+May train skill weapon skill 2h polearm to 20%
+May train skill appraise to 50%
+May train skill hunting to 60%
+May train skill kick to 70%
+May train skill weapon skill 1h dagger to 20%
+May train skill animal lore to 30%
+May train skill leftwield to 30%
+May train skill weapon skill 1h polearm to 20%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell remove poison to 20%
+May train skill bladed fury to 30%
+May train skill hear noises to 70%
+May train skill corpse skinning to 100%
+May train skill steady aim to 10%
+May train skill beast speech to 90%
+May train skill camping to 60%
+May train skill fire building to 30%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell summon wild cat to 60%
+May train skill dodge to 40%
+May train skill hunting to 70%
+May train skill kick to 80%
+May train skill weapon skill 2h axe to 60%
+May train skill weapon skill 2h sword to 60%
+May train skill weapon skill 1h sword to 60%
+May train skill marksmanship to 10%
+May train skill zapping to 70%
+May train skill weapon skill bow to 60%
+May train skill weapon skill 1h axe to 60%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell barkskin to 30%
+May study spell clairvoyance to 50%
+May study spell darkness to 75%
+May study spell light to 75%
+May study spell wolf eyes to 30%
+May train skill weapon skill 2h dagger to 30%
+May train skill camping to 70%
+May train skill parry to 60%
+May train skill arrow handling to 10%
+May train skill weapon skill 2h polearm to 30%
+May train skill fire building to 40%
+May train skill leadership to 10%
+May train skill quick shot to 10%
+May train skill bladed fury to 40%
+May train skill weapon skill 1h dagger to 30%
+May train skill hear noises to 80%
+May train skill beast speech to 100%
+May train skill doublehit to 50%
+May train skill weapon skill 1h polearm to 30%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell cure light wounds to 40%
+May train skill attend wounds to 60%
+May train skill animal lore to 40%
+May train skill leftwield to 40%
+May train skill appraise to 60%
+May train skill kick to 100%
+May train skill hunting to 80%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell remove poison to 30%
+May study spell summon wild cat to 70%
+May train skill camping to 80%
+May train skill leadership to 20%
+May train skill fire building to 50%
+May train skill weapon skill 2h axe to 70%
+May train skill weapon skill 1h sword to 70%
+May train skill weapon skill 2h sword to 70%
+May train skill treecutting to 10%
+May train skill stun to 40%
+May train skill hear noises to 90%
+May train skill bladed fury to 50%
+May train skill zapping to 80%
+May train skill weapon skill bow to 70%
+May train skill weapon skill 1h axe to 70%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell wolf eyes to 40%
+May train skill tracking to 10%
+May train skill weapon skill 1h dagger to 40%
+May train skill weapon skill 2h dagger to 40%
+May train skill steady aim to 20%
+May train skill critical to 50%
+May train skill weapon skill 2h polearm to 40%
+May train skill weapon skill 1h polearm to 40%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell clairvoyance to 60%
+May train skill dodge to 50%
+May train skill camping to 90%
+May train skill fire building to 60%
+May train skill hunting to 90%
+May train skill treecutting to 20%
+May train skill bladed fury to 60%
+May train skill hear noises to 100%
+May train skill marksmanship to 20%
+May train skill leftwield to 50%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell barkskin to 40%
+May study spell summon wild cat to 75%
+May train skill attend wounds to 70%
+May train skill parry to 70%
+May train skill arrow handling to 20%
+May train skill leadership to 30%
+May train skill wilderness survival to 10%
+May train skill appraise to 70%
+May train skill weapon skill 2h axe to 80%
+May train skill weapon skill 1h sword to 80%
+May train skill weapon skill 2h sword to 80%
+May train skill quick shot to 20%
+May train skill camouflage to 10%
+May train skill animal lore to 50%
+May train skill weapon skill bow to 80%
+May train skill weapon skill 1h axe to 80%
+May train skill attack to 100%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell cure light wounds to 50%
+May study spell remove poison to 40%
+May study spell wolf eyes to 50%
+May train skill weapon skill 2h dagger to 50%
+May train skill tracking to 20%
+May train skill aiming to 90%
+May train skill camping to 100%
+May train skill foraging to 90%
+May train skill weapon skill 2h polearm to 50%
+May train skill fire building to 70%
+May train skill weapon skill 1h dagger to 50%
+May train skill stun to 50%
+May train skill bladed fury to 70%
+May train skill zapping to 90%
+May train skill weapon skill 1h polearm to 50%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell clairvoyance to 70%
+May study spell summon wolf to 10%
+May train skill hunting to 100%
+May train skill leadership to 40%
+------------------------------------------------------.
+
+Level 28 abilities:
+May train skill treecutting to 30%
+May train skill bladed fury to 80%
+May train skill steady aim to 30%
+May train skill camouflage to 20%
+May train skill leftwield to 60%
+May train skill doublehit to 60%
+May train skill fire building to 80%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell summon wolf to 20%
+May study spell wolf eyes to 60%
+May train skill weapon skill 2h dagger to 60%
+May train skill tracking to 30%
+May train skill weapon skill 2h polearm to 60%
+May train skill critical to 60%
+May train skill wilderness survival to 20%
+May train skill weapon skill 1h dagger to 60%
+May train skill marksmanship to 30%
+May train skill animal lore to 60%
+May train skill weapon skill 1h polearm to 60%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell barkskin to 50%
+May study spell clairvoyance to 75%
+May study spell remove poison to 50%
+May train skill attend wounds to 80%
+May train skill parry to 80%
+May train skill dodge to 60%
+May train skill arrow handling to 30%
+May train skill switch weapon to 15%
+May train skill appraise to 80%
+May train skill leadership to 50%
+May train skill fire building to 90%
+May train skill quick shot to 30%
+May train skill stun to 60%
+May train skill bladed fury to 85%
+May train skill zapping to 100%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell cure light wounds to 60%
+May train skill aiming to 100%
+May train skill camouflage to 30%
+May train skill leftwield to 70%
+May train skill foraging to 100%
+May train skill doublehit to 70%
+May train skill leadership to 60%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell summon wolf to 30%
+May study spell wolf eyes to 70%
+May train skill treecutting to 40%
+May train skill bladed fury to 90%
+May train skill weapon skill 1h dagger to 70%
+May train skill weapon skill 2h dagger to 70%
+May train skill weapon skill 2h polearm to 70%
+May train skill switch weapon to 30%
+May train skill fire building to 100%
+May train skill weapon skill 1h polearm to 70%
+------------------------------------------------------.
+
+Level 33 abilities:
+May train skill tracking to 40%
+May train skill animal lore to 70%
+May train skill critical to 70%
+May train skill wilderness survival to 30%
+May train skill leadership to 70%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell remove poison to 60%
+May study spell summon wolf to 40%
+May train skill stun to 70%
+May train skill bladed fury to 95%
+May train skill camouflage to 40%
+May train skill switch weapon to 45%
+May train skill doublehit to 80%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell barkskin to 60%
+May study spell wolf eyes to 75%
+May train skill weapon skill 2h dagger to 80%
+May train skill attend wounds to 90%
+May train skill dodge to 70%
+May train skill weapon skill 2h polearm to 80%
+May train skill appraise to 90%
+May train skill leadership to 80%
+May train skill treecutting to 50%
+May train skill weapon skill 1h dagger to 80%
+May train skill leftwield to 80%
+May train skill weapon skill 1h polearm to 80%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell cure light wounds to 70%
+May study spell remove poison to 70%
+May study spell summon wolf to 50%
+May train skill bladed fury to 100%
+May train skill tracking to 50%
+May train skill switch weapon to 60%
+------------------------------------------------------.
+
+Level 37 abilities:
+May train skill treecutting to 65%
+May train skill stun to 80%
+May train skill camouflage to 50%
+May train skill animal lore to 75%
+May train skill critical to 80%
+May train skill doublehit to 90%
+May train skill wilderness survival to 40%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell summon wolf to 60%
+May train skill tracking to 60%
+May train skill switch weapon to 75%
+May train skill steady aim to 40%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell remove poison to 75%
+May train skill treecutting to 75%
+May train skill camouflage to 60%
+May train skill marksmanship to 40%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell barkskin to 70%
+May study spell summon wolf to 70%
+May train skill tracking to 70%
+May train skill attend wounds to 100%
+May train skill dodge to 80%
+May train skill arrow handling to 40%
+May train skill switch weapon to 90%
+May train skill appraise to 100%
+May train skill wilderness survival to 50%
+May train skill leadership to 90%
+May train skill quick shot to 40%
+May train skill stun to 90%
+May train skill leftwield to 90%
+May train skill doublehit to 100%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell cure light wounds to 75%
+May train skill treecutting to 90%
+May train skill critical to 90%
+May train skill camouflage to 70%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell summon wolf to 75%
+May train skill tracking to 80%
+May train skill stun to 100%
+May train skill switch weapon to 100%
+May train skill wilderness survival to 60%
+------------------------------------------------------.
+
+Level 43 abilities:
+May train skill steady aim to 50%
+May train skill camouflage to 80%
+------------------------------------------------------.
+
+Level 44 abilities:
+May train skill tracking to 90%
+May train skill marksmanship to 50%
+May train skill camouflage to 85%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell barkskin to 75%
+May train skill treecutting to 100%
+May train skill quick shot to 50%
+May train skill arrow handling to 50%
+May train skill critical to 100%
+May train skill leftwield to 100%
+May train skill wilderness survival to 70%
+May train skill leadership to 100%
+------------------------------------------------------.
+
+Subguilds:
+Ranger_loremasters 5
+Rangers_of_the_deep_forest 10
+Rangers_of_the_forgotten_desert 10
+Rangers_of_the_high_mountains 10

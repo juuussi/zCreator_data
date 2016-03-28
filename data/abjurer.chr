@@ -1,0 +1,1189 @@
+Updated 2011.04.14
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(10), Hp(3), Wis(4), Int(2), Sp_regen(3)                      |
+|   2 | Sp(10), Hp(3), Wis(4), Int(3), Sp_regen(3)                      |
+|   3 | Sp(10), Hp(3), Wis(3), Int(2), Sp_regen(3), Acid resistance(1), |
+|     | Poison resistance(1)                                            |
+|   4 | Sp(10), Hp(2), Wis(4), Int(3), Sp_regen(3)                      |
+|   5 | Sp(9), Hp(3), Wis(4), Int(2), Sp_regen(3)                       |
+|   6 | Sp(10), Hp(3), Wis(3), Int(3), Sp_regen(3), Acid resistance(1), |
+|     | Poison resistance(1)                                            |
+|   7 | Sp(10), Hp(3), Wis(4), Int(2), Sp_regen(3)                      |
+|   8 | Sp(10), Hp(3), Wis(3), Int(3), Sp_regen(3)                      |
+|   9 | Sp(10), Hp(2), Wis(4), Int(3), Sp_regen(3)                      |
+|  10 | Sp(9), Hp(3), Wis(4), Int(2), Sp_regen(3), Acid resistance(1),  |
+|     | Poison resistance(1)                                            |
+|  11 | Sp(10), Hp(3), Wis(3), Int(2), Sp_regen(3)                      |
+|  12 | Sp(9), Hp(2), Wis(3), Int(3), Sp_regen(2)                       |
+|  13 | Sp(9), Hp(3), Wis(4), Int(2), Sp_regen(3)                       |
+|  14 | Sp(9), Hp(3), Wis(3), Int(2), Sp_regen(3), Acid resistance(1),  |
+|     | Poison resistance(1)                                            |
+|  15 | Sp(9), Hp(2), Wis(4), Int(3), Sp_regen(2)                       |
+|  16 | Sp(9), Hp(3), Wis(3), Int(2), Sp_regen(3)                       |
+|  17 | Sp(9), Hp(2), Wis(3), Int(2), Sp_regen(3)                       |
+|  18 | Sp(9), Hp(3), Wis(4), Int(3), Sp_regen(3), Acid resistance(1),  |
+|     | Poison resistance(1)                                            |
+|  19 | Sp(9), Hp(3), Wis(3), Int(2), Sp_regen(2)                       |
+|  20 | Sp(9), Hp(2), Wis(4), Int(2), Sp_regen(3)                       |
+|  21 | Sp(8), Hp(2), Wis(2), Int(2), Sp_regen(2)                       |
+|  22 | Sp(8), Hp(3), Wis(3), Int(2), Sp_regen(3), Acid resistance(1),  |
+|     | Poison resistance(1)                                            |
+|  23 | Sp(8), Hp(2), Wis(3), Int(2), Sp_regen(2)                       |
+|  24 | Sp(7), Hp(2), Wis(3), Int(2), Sp_regen(2)                       |
+|  25 | Sp(6), Hp(2), Wis(2), Int(2), Sp_regen(2)                       |
+|  26 | Sp(6), Hp(1), Wis(2), Int(1), Sp_regen(2)                       |
+|  27 | Sp(6), Hp(2), Wis(3), Int(2), Sp_regen(2), Acid resistance(1),  |
+|     | Poison resistance(1)                                            |
+|  28 | Sp(6), Hp(2), Wis(2), Int(1), Sp_regen(1)                       |
+|  29 | Sp(6), Hp(2), Wis(2), Int(2), Sp_regen(2)                       |
+|  30 | Sp(6), Hp(1), Wis(2), Int(2), Sp_regen(2)                       |
+|  31 | Sp(6), Hp(2), Wis(2), Int(1), Sp_regen(2)                       |
+|  32 | Sp(6), Hp(2), Wis(3), Int(2), Sp_regen(2), Acid resistance(1),  |
+|     | Poison resistance(1)                                            |
+|  33 | Sp(6), Hp(1), Wis(2), Int(1), Sp_regen(1)                       |
+|  34 | Sp(6), Hp(2), Wis(2), Int(2), Sp_regen(2)                       |
+|  35 | Sp(5), Hp(2), Wis(2), Int(1), Sp_regen(2)                       |
+|  36 | Sp(5), Hp(1), Wis(2), Int(1), Sp_regen(1)                       |
+|  37 | Sp(6), Hp(2), Wis(2), Int(2), Sp_regen(2)                       |
+|  38 | Sp(5), Hp(1), Wis(2), Int(1), Sp_regen(1)                       |
+|  39 | Sp(5), Hp(2), Wis(2), Int(1), Sp_regen(2), Acid resistance(1),  |
+|     | Poison resistance(1)                                            |
+|  40 | Sp(5), Hp(1), Wis(2), Int(2), Sp_regen(2)                       |
+|  41 | Sp(6), Hp(2), Wis(2), Int(1), Sp_regen(1)                       |
+|  42 | Sp(5), Hp(1), Wis(2), Int(1), Sp_regen(2)                       |
+|  43 | Sp(5), Hp(2), Wis(2), Int(2), Sp_regen(1)                       |
+|  44 | Sp(5), Hp(1), Wis(2), Int(1), Sp_regen(2)                       |
+|  45 | Sp(6), Hp(2), Wis(2), Int(2), Sp_regen(2), Acid resistance(1),  |
+|     | Poison resistance(1)                                            |
+`-----------------------------------------------------------------------'
+
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell bright light to 25%
+May study spell create food to 10%
+May study spell cure light wounds to 5%
+May study spell darkness to 10%
+May study spell floating letters to 10%
+May study spell identify to 10%
+May study spell light to 10%
+May study spell magic missile to 20%
+May study spell vestment of flame to 5%
+May study spell water walking to 20%
+May train skill tinning to 10%
+May train skill consider to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell bright light to 45%
+May study spell clairvoyance to 5%
+May study spell cure light wounds to 10%
+May study spell cure serious wounds to 5%
+May study spell darkness to 20%
+May study spell floating disc to 10%
+May study spell floating letters to 15%
+May study spell light to 20%
+May study spell magic missile to 25%
+May study spell rebuke of ice to 5%
+May study spell vestment of flame to 10%
+May train skill appraise to 5%
+May train skill consider to 25%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell acid arrow to 15%
+May study spell black orb to 30%
+May study spell bright light to 65%
+May study spell create food to 25%
+May study spell cure light wounds to 15%
+May study spell detect alignment to 10%
+May study spell displacement to 10%
+May study spell endure void to 5%
+May study spell floating letters to 25%
+May study spell identify to 25%
+May study spell magic missile to 30%
+May study spell rebuke of ice to 10%
+May study spell see magic to 10%
+May study spell shield of protection to 15%
+May study spell vestment of flame to 15%
+May study spell water walking to 35%
+May train skill tinning to 20%
+May train skill consider to 35%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell aura detection to 15%
+May study spell bright light to 75%
+May study spell clairvoyance to 15%
+May study spell create food to 30%
+May study spell cure light wounds to 20%
+May study spell cure serious wounds to 10%
+May study spell endure void to 10%
+May study spell floating letters to 40%
+May study spell identify to 35%
+May study spell infravision to 15%
+May study spell magic missile to 35%
+May study spell rebuke of ice to 15%
+May study spell see invisible to 10%
+May study spell vestment of flame to 20%
+May study spell ward of stone to 5%
+May study spell white orb to 30%
+May train skill consider to 45%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell black orb to 45%
+May study spell blurred image to 5%
+May study spell bright light to 80%
+May study spell clairvoyance to 20%
+May study spell create food to 45%
+May study spell create money to 20%
+May study spell cure light wounds to 25%
+May study spell darkness to 40%
+May study spell detect alignment to 35%
+May study spell displacement to 20%
+May study spell endure void to 15%
+May study spell floating disc to 25%
+May study spell floating letters to 55%
+May study spell light to 40%
+May study spell magic missile to 40%
+May study spell poison fend to 5%
+May study spell rebuke of ice to 20%
+May study spell shield of protection to 35%
+May study spell teleport with error to 10%
+May study spell vestment of flame to 25%
+May study spell ward of stone to 10%
+May study spell water walking to 45%
+May train skill mastery of shielding to 5%
+May train skill consider to 55%
+May train skill quick chant to 10%
+May train skill appraise to 20%
+May train skill essence eye to 10%
+May train skill skill that saves sp to 15%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell blurred image to 10%
+May study spell bright light to 85%
+May study spell create food to 75%
+May study spell cure light wounds to 30%
+May study spell cure serious wounds to 15%
+May study spell detect alignment to 45%
+May study spell endure void to 20%
+May study spell floating letters to 75%
+May study spell infravision to 25%
+May study spell mental aegis to 5%
+May study spell poison fend to 10%
+May study spell rebuke of ice to 25%
+May study spell see magic to 25%
+May study spell vestment of flame to 30%
+May study spell ward of stone to 15%
+May study spell white orb to 45%
+May train skill tinning to 30%
+May train skill consider to 65%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell aura detection to 25%
+May study spell black orb to 60%
+May study spell blurred image to 15%
+May study spell bright light to 90%
+May study spell cure light wounds to 35%
+May study spell darkness to 60%
+May study spell detect alignment to 65%
+May study spell displacement to 35%
+May study spell endure void to 25%
+May study spell energy drain to 15%
+May study spell floating disc to 45%
+May study spell floating letters to 95%
+May study spell identify to 55%
+May study spell infravision to 35%
+May study spell light to 60%
+May study spell mental aegis to 10%
+May study spell mystic bulwark to 5%
+May study spell poison to 10%
+May study spell poison fend to 15%
+May study spell rebuke of ice to 30%
+May study spell see invisible to 25%
+May study spell shield of protection to 55%
+May study spell teleport with error to 25%
+May study spell vestment of flame to 35%
+May study spell ward of stone to 20%
+May study spell water walking to 55%
+May train skill tinning to 40%
+May train skill consider to 75%
+May train skill appraise to 35%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell acid arrow to 35%
+May study spell aura detection to 30%
+May study spell blurred image to 25%
+May study spell bright light to 100%
+May study spell caustic opposition to 5%
+May study spell clairvoyance to 35%
+May study spell create food to 100%
+May study spell cure light wounds to 40%
+May study spell cure serious wounds to 20%
+May study spell detect alignment to 85%
+May study spell endure void to 30%
+May study spell floating disc to 50%
+May study spell magic missile to 45%
+May study spell mental aegis to 15%
+May study spell mirror image to 5%
+May study spell mystic bulwark to 10%
+May study spell poison fend to 20%
+May study spell rebuke of ice to 35%
+May study spell shelter to 10%
+May study spell spark shelter to 5%
+May study spell vestment of flame to 40%
+May study spell ward of stone to 25%
+May study spell white orb to 60%
+May train skill essence eye to 25%
+May train skill consider to 85%
+May train skill skill that saves sp to 25%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell black orb to 70%
+May study spell caustic opposition to 10%
+May study spell cure light wounds to 45%
+May study spell darkness to 90%
+May study spell detect alignment to 90%
+May study spell displacement to 45%
+May study spell endure void to 35%
+May study spell energy drain to 25%
+May study spell floating letters to 100%
+May study spell identify to 75%
+May study spell infravision to 55%
+May study spell light to 90%
+May study spell mental aegis to 20%
+May study spell mystic bulwark to 15%
+May study spell poison fend to 25%
+May study spell rebuke of ice to 40%
+May study spell see magic to 45%
+May study spell shield of protection to 70%
+May study spell spark shelter to 10%
+May study spell vestment of flame to 45%
+May study spell ward of stone to 30%
+May study spell water walking to 75%
+May train skill tinning to 50%
+May train skill appraise to 45%
+May train skill consider to 100%
+May train skill essence eye to 35%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell aura detection to 45%
+May study spell barkskin to 15%
+May study spell blurred image to 45%
+May study spell caustic opposition to 15%
+May study spell clairvoyance to 45%
+May study spell create money to 40%
+May study spell cure light wounds to 50%
+May study spell cure serious wounds to 25%
+May study spell darkness to 100%
+May study spell detect alignment to 100%
+May study spell dispel curse to 10%
+May study spell enchant arrow to 5%
+May study spell endure void to 40%
+May study spell energy hauberk to 10%
+May study spell light to 100%
+May study spell magic missile to 50%
+May study spell mental aegis to 25%
+May study spell mirror image to 15%
+May study spell mystic bulwark to 20%
+May study spell poison fend to 30%
+May study spell rebuke of ice to 45%
+May study spell relocate to 5%
+May study spell see invisible to 45%
+May study spell shelter to 25%
+May study spell shield of protection to 85%
+May study spell spark shelter to 15%
+May study spell teleport with error to 35%
+May study spell vestment of flame to 50%
+May study spell ward of stone to 35%
+May study spell white orb to 70%
+May train skill magical enchanting to 5%
+May train skill electric enchanting to 5%
+May train skill quick chant to 25%
+May train skill skill that saves sp to 45%
+May train skill appraise to 65%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell black orb to 80%
+May study spell caustic opposition to 20%
+May study spell clairvoyance to 50%
+May study spell cure light wounds to 55%
+May study spell displacement to 65%
+May study spell endure void to 45%
+May study spell feather weight to 10%
+May study spell identify to 85%
+May study spell infravision to 75%
+May study spell magic missile to 55%
+May study spell mental aegis to 30%
+May study spell mystic bulwark to 25%
+May study spell poison fend to 35%
+May study spell rebuke of ice to 50%
+May study spell spark shelter to 20%
+May study spell vestment of flame to 55%
+May study spell ward of stone to 40%
+May study spell water walking to 85%
+May train skill tinning to 60%
+May train skill zapping to 10%
+May train skill appraise to 75%
+May train skill essence eye to 45%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell aura detection to 55%
+May study spell barkskin to 30%
+May study spell blurred image to 65%
+May study spell caustic opposition to 25%
+May study spell cure light wounds to 60%
+May study spell cure serious wounds to 30%
+May study spell dispel curse to 25%
+May study spell displacement to 75%
+May study spell endure void to 50%
+May study spell energy hauberk to 15%
+May study spell floating disc to 65%
+May study spell identify to 100%
+May study spell magic missile to 60%
+May study spell mental aegis to 35%
+May study spell mirror image to 25%
+May study spell mystic bulwark to 30%
+May study spell poison fend to 40%
+May study spell rebuke of ice to 55%
+May study spell relocate to 10%
+May study spell see invisible to 55%
+May study spell see magic to 55%
+May study spell shield of protection to 100%
+May study spell spark shelter to 25%
+May study spell teleport with error to 45%
+May study spell vestment of flame to 60%
+May study spell ward of stone to 45%
+May study spell water walking to 100%
+May study spell white orb to 80%
+May train skill tinning to 70%
+May train skill appraise to 85%
+May train skill skill that saves sp to 55%
+May train skill essence eye to 65%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell aura detection to 70%
+May study spell black orb to 90%
+May study spell caustic opposition to 30%
+May study spell cure light wounds to 65%
+May study spell curse to 20%
+May study spell displacement to 85%
+May study spell endure void to 55%
+May study spell energy drain to 45%
+May study spell feather weight to 25%
+May study spell infravision to 85%
+May study spell magic missile to 65%
+May study spell mental aegis to 40%
+May study spell mystic bulwark to 35%
+May study spell poison fend to 45%
+May study spell rebuke of ice to 60%
+May study spell shelter to 35%
+May study spell spark shelter to 30%
+May study spell teleport with error to 55%
+May study spell vestment of flame to 65%
+May study spell ward of stone to 50%
+May train skill tinning to 80%
+May train skill zapping to 25%
+May train skill appraise to 100%
+May train skill essence eye to 75%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell acid arrow to 45%
+May study spell aura detection to 85%
+May study spell blurred image to 85%
+May study spell caustic opposition to 35%
+May study spell clairvoyance to 65%
+May study spell cure light wounds to 70%
+May study spell cure serious wounds to 35%
+May study spell enchant arrow to 10%
+May study spell endure void to 60%
+May study spell energy hauberk to 20%
+May study spell floating disc to 75%
+May study spell magic missile to 70%
+May study spell mental aegis to 45%
+May study spell mirror image to 30%
+May study spell mystic bulwark to 40%
+May study spell poison to 35%
+May study spell poison fend to 50%
+May study spell rebuke of ice to 65%
+May study spell see magic to 65%
+May study spell spark shelter to 35%
+May study spell teleport with error to 75%
+May study spell vestment of flame to 70%
+May study spell ward of stone to 55%
+May study spell white orb to 90%
+May train skill magical enchanting to 15%
+May train skill electric enchanting to 15%
+May train skill skill that saves sp to 65%
+May train skill essence eye to 85%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell aura detection to 100%
+May study spell black orb to 100%
+May study spell caustic opposition to 40%
+May study spell create money to 60%
+May study spell cure light wounds to 75%
+May study spell dispel curse to 35%
+May study spell displacement to 100%
+May study spell endure void to 65%
+May study spell energy drain to 55%
+May study spell feather weight to 35%
+May study spell floating disc to 85%
+May study spell infravision to 100%
+May study spell magic missile to 75%
+May study spell mana drain to 20%
+May study spell mental aegis to 50%
+May study spell mystic bulwark to 45%
+May study spell poison fend to 55%
+May study spell rebuke of ice to 70%
+May study spell relocate to 25%
+May study spell see invisible to 75%
+May study spell shelter to 40%
+May study spell spark shelter to 40%
+May study spell teleport with error to 85%
+May study spell vestment of flame to 75%
+May study spell ward of stone to 60%
+May train skill quick chant to 35%
+May train skill mastery of shielding to 10%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell acid arrow to 55%
+May study spell barkskin to 40%
+May study spell caustic opposition to 45%
+May study spell clairvoyance to 75%
+May study spell cure light wounds to 80%
+May study spell cure serious wounds to 40%
+May study spell endure void to 70%
+May study spell energy hauberk to 25%
+May study spell magic missile to 85%
+May study spell mental aegis to 55%
+May study spell mirror image to 45%
+May study spell mystic bulwark to 50%
+May study spell poison fend to 60%
+May study spell rebuke of ice to 75%
+May study spell spark shelter to 45%
+May study spell vestment of flame to 80%
+May study spell ward of stone to 65%
+May study spell white orb to 100%
+May train skill essence eye to 100%
+May train skill skill that saves sp to 75%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell blurred image to 100%
+May study spell caustic opposition to 50%
+May study spell cure light wounds to 85%
+May study spell curse to 40%
+May study spell dispel curse to 45%
+May study spell enchant arrow to 15%
+May study spell endure void to 75%
+May study spell energy drain to 65%
+May study spell floating disc to 90%
+May study spell infernal vestment to 5%
+May study spell iron will to 5%
+May study spell magic missile to 100%
+May study spell mental aegis to 60%
+May study spell mystic bulwark to 55%
+May study spell poison fend to 65%
+May study spell rebuke of ice to 80%
+May study spell relocate to 35%
+May study spell see magic to 85%
+May study spell spark shelter to 50%
+May study spell teleport with error to 100%
+May study spell vestment of flame to 85%
+May study spell ward of stone to 70%
+May train skill zapping to 35%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell acid arrow to 70%
+May study spell caustic opposition to 55%
+May study spell clairvoyance to 85%
+May study spell create money to 80%
+May study spell cure light wounds to 90%
+May study spell cure serious wounds to 45%
+May study spell endure void to 80%
+May study spell energy hauberk to 30%
+May study spell floating disc to 95%
+May study spell infernal vestment to 10%
+May study spell iron will to 10%
+May study spell mana drain to 45%
+May study spell mental aegis to 65%
+May study spell mirror image to 55%
+May study spell mystic bulwark to 60%
+May study spell poison to 50%
+May study spell poison fend to 70%
+May study spell rebuke of ice to 85%
+May study spell shelter to 55%
+May study spell spark shelter to 55%
+May study spell vestment of flame to 90%
+May study spell ward of stone to 75%
+May study spell winter's rebuke to 5%
+May train skill magical enchanting to 25%
+May train skill skill that saves sp to 90%
+May train skill electric enchanting to 25%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell caustic opposition to 60%
+May study spell clairvoyance to 95%
+May study spell cure light wounds to 95%
+May study spell enchant arrow to 20%
+May study spell endure void to 85%
+May study spell energy drain to 75%
+May study spell feather weight to 45%
+May study spell infernal vestment to 15%
+May study spell mental aegis to 70%
+May study spell mystic bulwark to 65%
+May study spell poison fend to 75%
+May study spell rebuke of ice to 90%
+May study spell resist void to 5%
+May study spell see invisible to 90%
+May study spell spark shelter to 60%
+May study spell vestment of flame to 95%
+May study spell ward of stone to 80%
+May study spell winter's rebuke to 10%
+May train skill zapping to 45%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell barkskin to 55%
+May study spell caustic opposition to 65%
+May study spell clairvoyance to 100%
+May study spell create money to 100%
+May study spell cure light wounds to 100%
+May study spell cure serious wounds to 50%
+May study spell dispel curse to 55%
+May study spell effusion of entity to 5%
+May study spell endure void to 90%
+May study spell energy drain to 85%
+May study spell energy hauberk to 35%
+May study spell floating disc to 100%
+May study spell infernal vestment to 20%
+May study spell iron will to 15%
+May study spell mental aegis to 75%
+May study spell mirror image to 65%
+May study spell mystic bulwark to 70%
+May study spell poison fend to 80%
+May study spell rebuke of ice to 95%
+May study spell relocate to 45%
+May study spell resist void to 10%
+May study spell see magic to 100%
+May study spell shelter to 75%
+May study spell spark shelter to 65%
+May study spell teleport without error to 10%
+May study spell vestment of flame to 100%
+May study spell ward of steel to 5%
+May study spell ward of stone to 85%
+May study spell winter's rebuke to 15%
+May train skill quick chant to 45%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell acid arrow to 100%
+May study spell banishment to 15%
+May study spell caustic opposition to 70%
+May study spell curse to 60%
+May study spell effusion of entity to 10%
+May study spell enchant arrow to 25%
+May study spell endure void to 95%
+May study spell energy drain to 95%
+May study spell enlarge weapon to 20%
+May study spell infernal vestment to 25%
+May study spell iron will to 20%
+May study spell mental aegis to 80%
+May study spell mystic bulwark to 75%
+May study spell poison fend to 85%
+May study spell rebuke of ice to 100%
+May study spell reduce weapon to 20%
+May study spell resist void to 15%
+May study spell spark shelter to 70%
+May study spell venom fend to 5%
+May study spell ward of steel to 10%
+May study spell ward of stone to 90%
+May study spell winter's rebuke to 20%
+May train skill skill that saves sp to 100%
+May train skill zapping to 60%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell caustic opposition to 75%
+May study spell cure serious wounds to 55%
+May study spell effusion of entity to 15%
+May study spell endure void to 100%
+May study spell energy drain to 100%
+May study spell energy hauberk to 40%
+May study spell feather weight to 60%
+May study spell infernal vestment to 30%
+May study spell mental aegis to 85%
+May study spell mirror image to 75%
+May study spell mystic bulwark to 80%
+May study spell poison to 60%
+May study spell poison fend to 90%
+May study spell psychic aegis to 5%
+May study spell relocate to 55%
+May study spell resist void to 20%
+May study spell see invisible to 100%
+May study spell spark shelter to 75%
+May study spell venom fend to 10%
+May study spell ward of steel to 15%
+May study spell ward of stone to 95%
+May study spell winter's rebuke to 25%
+May train skill magical enchanting to 35%
+May train skill zapping to 75%
+May train skill electric enchanting to 35%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell arcane bulwark to 5%
+May study spell caustic opposition to 80%
+May study spell effusion of entity to 20%
+May study spell enchant arrow to 30%
+May study spell infernal vestment to 35%
+May study spell iron will to 25%
+May study spell mana drain to 60%
+May study spell mental aegis to 90%
+May study spell mystic bulwark to 85%
+May study spell poison fend to 95%
+May study spell psychic aegis to 10%
+May study spell resist void to 25%
+May study spell shelter to 85%
+May study spell spark shelter to 80%
+May study spell venom fend to 15%
+May study spell ward of steel to 20%
+May study spell ward of stone to 100%
+May study spell winter's rebuke to 30%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell arcane bulwark to 10%
+May study spell caustic opposition to 85%
+May study spell corrosive opposition to 5%
+May study spell cure serious wounds to 60%
+May study spell effusion of entity to 25%
+May study spell energy hauberk to 45%
+May study spell infernal vestment to 40%
+May study spell iron will to 30%
+May study spell lightning guard to 5%
+May study spell mental aegis to 95%
+May study spell mirror image to 85%
+May study spell mystic bulwark to 90%
+May study spell poison fend to 100%
+May study spell psychic aegis to 15%
+May study spell relocate to 65%
+May study spell resist void to 30%
+May study spell spark shelter to 85%
+May study spell teleport without error to 25%
+May study spell venom fend to 20%
+May study spell ward of steel to 25%
+May study spell winter's rebuke to 35%
+May train skill magical enchanting to 45%
+May train skill electric enchanting to 45%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell arcane bulwark to 15%
+May study spell banishment to 30%
+May study spell barkskin to 70%
+May study spell caustic opposition to 90%
+May study spell corrosive opposition to 10%
+May study spell curse to 75%
+May study spell dispel curse to 65%
+May study spell effusion of entity to 30%
+May study spell feather weight to 70%
+May study spell fragile frame to 10%
+May study spell infernal vestment to 45%
+May study spell languished soul to 10%
+May study spell lightning guard to 10%
+May study spell mana drain to 70%
+May study spell mental aegis to 100%
+May study spell mirror image to 100%
+May study spell mystic bulwark to 95%
+May study spell psychic aegis to 20%
+May study spell resist void to 35%
+May study spell shelter to 100%
+May study spell spark shelter to 90%
+May study spell venom fend to 25%
+May study spell ward of steel to 30%
+May study spell winter's rebuke to 40%
+May train skill zapping to 85%
+May train skill mastery of shielding to 15%
+May train skill quick chant to 55%
+May train skill greater vulnerability to 5%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell arcane bulwark to 20%
+May study spell caustic opposition to 95%
+May study spell corrosive opposition to 15%
+May study spell cure serious wounds to 65%
+May study spell deprive warmth to 10%
+May study spell effusion of entity to 35%
+May study spell enchant arrow to 40%
+May study spell energy hauberk to 50%
+May study spell heavy weight to 10%
+May study spell incendiary coating to 10%
+May study spell infernal vestment to 50%
+May study spell iron will to 35%
+May study spell lightning guard to 15%
+May study spell mystic bulwark to 100%
+May study spell mystic impairment to 10%
+May study spell psychic aegis to 25%
+May study spell resist void to 40%
+May study spell spark shelter to 95%
+May study spell teleport without error to 35%
+May study spell venom fend to 30%
+May study spell ward of steel to 35%
+May study spell winter's rebuke to 45%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell anti-magic field to 35%
+May study spell arcane bulwark to 25%
+May study spell blemished health to 10%
+May study spell caustic opposition to 100%
+May study spell corrosive opposition to 20%
+May study spell deprive warmth to 15%
+May study spell dispel curse to 75%
+May study spell effusion of entity to 40%
+May study spell elemental disarray to 5%
+May study spell fragile frame to 15%
+May study spell incendiary coating to 15%
+May study spell infernal vestment to 55%
+May study spell iron will to 40%
+May study spell labored breathing to 10%
+May study spell languished soul to 15%
+May study spell lightning guard to 20%
+May study spell mystic impairment to 15%
+May study spell poison to 75%
+May study spell psychic aegis to 30%
+May study spell ray of enervation to 5%
+May study spell resist void to 45%
+May study spell spark shelter to 100%
+May study spell venom fend to 35%
+May study spell ward of steel to 40%
+May study spell winter's rebuke to 50%
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell arcane bulwark to 30%
+May study spell banishment to 40%
+May study spell barkskin to 85%
+May study spell corrosive opposition to 25%
+May study spell cure serious wounds to 70%
+May study spell effusion of entity to 45%
+May study spell elemental disarray to 10%
+May study spell energetic frailty to 10%
+May study spell energy hauberk to 55%
+May study spell feather weight to 80%
+May study spell infernal vestment to 60%
+May study spell lightning guard to 25%
+May study spell psychic aegis to 35%
+May study spell ray of enervation to 10%
+May study spell resist void to 50%
+May study spell venom fend to 40%
+May study spell vitriolic bane to 10%
+May study spell ward of steel to 45%
+May study spell winter's rebuke to 55%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell arcane bulwark to 35%
+May study spell barkskin to 100%
+May study spell blemished health to 15%
+May study spell corrosive opposition to 30%
+May study spell curse to 90%
+May study spell deprive warmth to 20%
+May study spell effusion of entity to 50%
+May study spell elemental disarray to 15%
+May study spell enlarge weapon to 50%
+May study spell heavy weight to 15%
+May study spell incendiary coating to 20%
+May study spell infernal vestment to 65%
+May study spell iron will to 45%
+May study spell labored breathing to 15%
+May study spell lightning guard to 30%
+May study spell mystic impairment to 20%
+May study spell psychic aegis to 40%
+May study spell ray of enervation to 15%
+May study spell reduce weapon to 50%
+May study spell resist void to 55%
+May study spell venom fend to 45%
+May study spell ward of steel to 50%
+May study spell winter's rebuke to 60%
+May train skill magical enchanting to 55%
+May train skill electric enchanting to 55%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell arcane bulwark to 40%
+May study spell corrosive opposition to 35%
+May study spell cure serious wounds to 75%
+May study spell dispel curse to 85%
+May study spell effusion of entity to 55%
+May study spell elemental disarray to 20%
+May study spell enchant arrow to 45%
+May study spell energetic frailty to 15%
+May study spell energy hauberk to 60%
+May study spell fragile frame to 20%
+May study spell infernal vestment to 70%
+May study spell iron will to 50%
+May study spell languished soul to 20%
+May study spell lightning guard to 35%
+May study spell psychic aegis to 45%
+May study spell ray of enervation to 20%
+May study spell resist void to 60%
+May study spell venom fend to 50%
+May study spell vitriolic bane to 15%
+May study spell ward of steel to 55%
+May study spell winter's rebuke to 65%
+May train skill quick chant to 65%
+May train skill greater vulnerability to 10%
+May train skill leadership to 20%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell arcane bulwark to 45%
+May study spell blemished health to 20%
+May study spell corrosive opposition to 40%
+May study spell curse to 100%
+May study spell deprive warmth to 25%
+May study spell effusion of entity to 60%
+May study spell enchant arrow to 55%
+May study spell feather weight to 100%
+May study spell heavy weight to 25%
+May study spell incendiary coating to 25%
+May study spell infernal vestment to 75%
+May study spell labored breathing to 20%
+May study spell lightning guard to 40%
+May study spell mana drain to 90%
+May study spell mana leech to 10%
+May study spell mystic impairment to 25%
+May study spell poison to 100%
+May study spell psychic aegis to 50%
+May study spell relocate to 75%
+May study spell resist void to 65%
+May study spell teleport without error to 45%
+May study spell venom fend to 55%
+May study spell ward of steel to 60%
+May study spell winter's rebuke to 70%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell anti-magic field to 60%
+May study spell arcane bulwark to 50%
+May study spell banishment to 70%
+May study spell corrosive opposition to 45%
+May study spell cure serious wounds to 80%
+May study spell effusion of entity to 65%
+May study spell energetic frailty to 20%
+May study spell energy hauberk to 65%
+May study spell fragile frame to 25%
+May study spell infernal vestment to 80%
+May study spell iron will to 55%
+May study spell languished soul to 25%
+May study spell lightning guard to 45%
+May study spell psychic aegis to 55%
+May study spell resist void to 70%
+May study spell venom fend to 60%
+May study spell vitriolic bane to 20%
+May study spell ward of steel to 65%
+May study spell winter's rebuke to 75%
+May train skill magical enchanting to 65%
+May train skill leadership to 30%
+May train skill electric enchanting to 65%
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell arcane bulwark to 55%
+May study spell corrosive opposition to 50%
+May study spell effusion of entity to 70%
+May study spell enchant arrow to 65%
+May study spell enlarge weapon to 70%
+May study spell infernal vestment to 85%
+May study spell iron will to 60%
+May study spell lightning guard to 50%
+May study spell psychic aegis to 60%
+May study spell reduce weapon to 70%
+May study spell resist void to 75%
+May study spell venom fend to 65%
+May study spell ward of steel to 70%
+May study spell winter's rebuke to 80%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell arcane bulwark to 60%
+May study spell blemished health to 25%
+May study spell corrosive opposition to 55%
+May study spell cure serious wounds to 85%
+May study spell deprive warmth to 30%
+May study spell effusion of entity to 75%
+May study spell enchant arrow to 70%
+May study spell energy hauberk to 70%
+May study spell heavy weight to 35%
+May study spell incendiary coating to 30%
+May study spell infernal vestment to 90%
+May study spell labored breathing to 25%
+May study spell lightning guard to 55%
+May study spell mystic impairment to 30%
+May study spell psychic aegis to 65%
+May study spell resist void to 80%
+May study spell teleport without error to 65%
+May study spell venom fend to 70%
+May study spell ward of steel to 75%
+May study spell winter's rebuke to 85%
+May train skill leadership to 40%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell arcane bulwark to 65%
+May study spell corrosive opposition to 60%
+May study spell dispel curse to 100%
+May study spell effusion of entity to 80%
+May study spell elemental disarray to 25%
+May study spell energetic frailty to 25%
+May study spell fragile frame to 30%
+May study spell infernal vestment to 95%
+May study spell iron will to 65%
+May study spell languished soul to 30%
+May study spell lightning guard to 60%
+May study spell mana drain to 100%
+May study spell mana leech to 30%
+May study spell psychic aegis to 70%
+May study spell ray of enervation to 25%
+May study spell resist void to 85%
+May study spell venom fend to 75%
+May study spell vitriolic bane to 25%
+May study spell ward of steel to 80%
+May study spell winter's rebuke to 90%
+May train skill magical enchanting to 75%
+May train skill mastery of shielding to 20%
+May train skill greater vulnerability to 15%
+May train skill electric enchanting to 75%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell arcane bulwark to 70%
+May study spell blemished health to 30%
+May study spell corrosive opposition to 65%
+May study spell cure serious wounds to 90%
+May study spell deprive warmth to 35%
+May study spell effusion of entity to 85%
+May study spell elemental disarray to 30%
+May study spell enchant arrow to 75%
+May study spell energy hauberk to 75%
+May study spell heavy weight to 45%
+May study spell incendiary coating to 35%
+May study spell infernal vestment to 100%
+May study spell invisibility to 10%
+May study spell iron will to 70%
+May study spell labored breathing to 30%
+May study spell lightning guard to 65%
+May study spell mystic impairment to 35%
+May study spell psychic aegis to 75%
+May study spell ray of enervation to 30%
+May study spell resist void to 90%
+May study spell teleport without error to 75%
+May study spell venom fend to 80%
+May study spell ward of steel to 85%
+May study spell winter's rebuke to 95%
+May train skill leadership to 50%
+May train skill quick chant to 75%
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell anti-magic field to 80%
+May study spell arcane bulwark to 75%
+May study spell banishment to 85%
+May study spell corrosive opposition to 70%
+May study spell effusion of entity to 90%
+May study spell elemental disarray to 35%
+May study spell energetic frailty to 30%
+May study spell fragile frame to 35%
+May study spell heavy weight to 50%
+May study spell invisibility to 25%
+May study spell languished soul to 35%
+May study spell lightning guard to 70%
+May study spell mana leech to 45%
+May study spell psychic aegis to 80%
+May study spell ray of enervation to 35%
+May study spell resist void to 95%
+May study spell teleport without error to 85%
+May study spell venom fend to 85%
+May study spell vitriolic bane to 30%
+May study spell ward of steel to 90%
+May study spell winter's rebuke to 100%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell arcane bulwark to 80%
+May study spell blemished health to 35%
+May study spell corrosive opposition to 75%
+May study spell cure serious wounds to 95%
+May study spell effusion of entity to 95%
+May study spell elemental disarray to 40%
+May study spell enchant arrow to 80%
+May study spell energy hauberk to 80%
+May study spell enlarge weapon to 100%
+May study spell heavy weight to 55%
+May study spell invisibility to 35%
+May study spell iron will to 75%
+May study spell labored breathing to 35%
+May study spell lightning guard to 75%
+May study spell psychic aegis to 85%
+May study spell ray of enervation to 40%
+May study spell reduce weapon to 100%
+May study spell resist void to 100%
+May study spell teleport without error to 95%
+May study spell venom fend to 90%
+May study spell ward of steel to 95%
+May train skill leadership to 60%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell anti-magic field to 100%
+May study spell arcane bulwark to 85%
+May study spell banishment to 100%
+May study spell corrosive opposition to 80%
+May study spell deprive warmth to 40%
+May study spell effusion of entity to 100%
+May study spell elemental disarray to 45%
+May study spell energetic frailty to 35%
+May study spell heavy weight to 60%
+May study spell incendiary coating to 40%
+May study spell invisibility to 45%
+May study spell iron will to 80%
+May study spell lightning guard to 80%
+May study spell mana leech to 60%
+May study spell mystic impairment to 40%
+May study spell psychic aegis to 90%
+May study spell ray of enervation to 45%
+May study spell venom fend to 95%
+May study spell vitriolic bane to 35%
+May study spell ward of steel to 100%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell arcane bulwark to 90%
+May study spell blemished health to 40%
+May study spell corrosive opposition to 85%
+May study spell cure serious wounds to 100%
+May study spell elemental disarray to 50%
+May study spell enchant arrow to 85%
+May study spell energy hauberk to 85%
+May study spell fragile frame to 40%
+May study spell invisibility to 55%
+May study spell labored breathing to 40%
+May study spell languished soul to 40%
+May study spell lightning guard to 85%
+May study spell mana leech to 70%
+May study spell psychic aegis to 95%
+May study spell ray of enervation to 50%
+May study spell teleport without error to 100%
+May study spell venom fend to 100%
+May train skill magical enchanting to 85%
+May train skill electric enchanting to 85%
+May train skill quick chant to 90%
+May train skill greater vulnerability to 20%
+May train skill leadership to 70%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell arcane bulwark to 95%
+May study spell corrosive opposition to 90%
+May study spell elemental disarray to 55%
+May study spell energetic frailty to 40%
+May study spell invisibility to 65%
+May study spell iron will to 85%
+May study spell lightning guard to 90%
+May study spell mana leech to 80%
+May study spell psychic aegis to 100%
+May study spell ray of enervation to 55%
+May study spell vitriolic bane to 40%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell arcane bulwark to 100%
+May study spell corrosive opposition to 95%
+May study spell deprive warmth to 45%
+May study spell elemental disarray to 60%
+May study spell enchant arrow to 90%
+May study spell energy hauberk to 90%
+May study spell fragile frame to 45%
+May study spell incendiary coating to 45%
+May study spell invisibility to 75%
+May study spell iron will to 90%
+May study spell languished soul to 45%
+May study spell lightning guard to 95%
+May study spell mana leech to 90%
+May study spell mystic impairment to 45%
+May study spell ray of enervation to 60%
+May train skill magical enchanting to 90%
+May train skill electric enchanting to 90%
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell blemished health to 45%
+May study spell corrosive opposition to 100%
+May study spell elemental disarray to 65%
+May study spell energetic frailty to 45%
+May study spell invisibility to 85%
+May study spell labored breathing to 45%
+May study spell lightning guard to 100%
+May study spell mana leech to 100%
+May study spell ray of enervation to 65%
+May study spell vitriolic bane to 45%
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell elemental disarray to 70%
+May study spell energy hauberk to 95%
+May study spell invisibility to 90%
+May study spell iron will to 95%
+May study spell ray of enervation to 70%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell blemished health to 50%
+May study spell deprive warmth to 50%
+May study spell elemental disarray to 75%
+May study spell enchant arrow to 100%
+May study spell energetic frailty to 50%
+May study spell energy hauberk to 100%
+May study spell fragile frame to 50%
+May study spell incendiary coating to 50%
+May study spell invisibility to 100%
+May study spell iron will to 100%
+May study spell labored breathing to 50%
+May study spell languished soul to 50%
+May study spell mystic impairment to 50%
+May study spell ray of enervation to 75%
+May study spell vitriolic bane to 50%
+May train skill magical enchanting to 100%
+May train skill mastery of shielding to 25%
+May train skill electric enchanting to 100%
+May train skill quick chant to 100%
+May train skill greater vulnerability to 25%
+May train skill leadership to 80%
+------------------------------------------------------.
+
+Subguilds:
+Masters_of_the_elements 7
+Masters_of_magic 8

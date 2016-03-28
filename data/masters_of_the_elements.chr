@@ -1,0 +1,82 @@
+Updated 2011.04.14
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(8), Hp(2), Wis(4), Int(1), Sp_regen(2)                       |
+|   2 | Sp(9), Hp(2), Wis(4), Int(1), Sp_regen(2),                      |
+|     | Asphyxiation resistance(1)                                      |
+|   3 | Sp(8), Hp(2), Wis(4), Int(2), Sp_regen(2),                      |
+|     | Asphyxiation resistance(1)                                      |
+|   4 | Sp(9), Hp(2), Wis(5), Int(1), Sp_regen(2)                       |
+|   5 | Sp(8), Hp(2), Wis(4), Int(2), Sp_regen(2),                      |
+|     | Asphyxiation resistance(1)                                      |
+|   6 | Sp(9), Hp(2), Wis(4), Int(1), Sp_regen(2),                      |
+|     | Asphyxiation resistance(1)                                      |
+|   7 | Sp(9), Hp(3), Wis(5), Int(2), Sp_regen(3),                      |
+|     | Asphyxiation resistance(1)                                      |
+`-----------------------------------------------------------------------'
+
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell deprive warmth to 60%
+May study spell elemental disarray to 80%
+May study spell energetic frailty to 60%
+May study spell fragile frame to 60%
+May study spell incendiary coating to 60%
+May study spell remove invulnerabilities to 40%
+May train skill mastery of shielding to 50%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell elemental disarray to 85%
+May study spell know your audience to 30%
+May study spell remove invulnerabilities to 60%
+May train skill mastery of shielding to 55%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell deprive warmth to 70%
+May study spell energetic frailty to 70%
+May study spell fragile frame to 70%
+May study spell incendiary coating to 70%
+May study spell know your audience to 50%
+May study spell remove invulnerabilities to 70%
+May train skill mastery of shielding to 60%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell elemental disarray to 90%
+May study spell know your audience to 70%
+May study spell remove invulnerabilities to 80%
+May train skill mastery of shielding to 70%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell deprive warmth to 80%
+May study spell elemental disarray to 95%
+May study spell energetic frailty to 80%
+May study spell fragile frame to 80%
+May study spell incendiary coating to 80%
+May study spell know your audience to 80%
+May study spell remove invulnerabilities to 90%
+May train skill mastery of shielding to 80%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell know your audience to 90%
+May train skill mastery of shielding to 90%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell deprive warmth to 100%
+May study spell elemental disarray to 100%
+May study spell energetic frailty to 100%
+May study spell fragile frame to 100%
+May study spell incendiary coating to 100%
+May study spell know your audience to 100%
+May study spell remove invulnerabilities to 100%
+May train skill mastery of shielding to 100%
+------------------------------------------------------.

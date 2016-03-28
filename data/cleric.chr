@@ -1,0 +1,791 @@
+Updated 2011.04.13
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(7), Hp(6), Wis(4), Str(1), Con(1), Sp_regen(3)               |
+|   2 | Sp(7), Hp(5), Wis(4), Str(2), Con(2), Sp_regen(3)               |
+|   3 | Sp(7), Hp(6), Wis(3), Str(1), Con(1), Sp_regen(3),              |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|   4 | Sp(7), Hp(5), Wis(4), Str(1), Con(1), Sp_regen(2)               |
+|   5 | Sp(7), Hp(6), Wis(4), Str(1), Con(1), Sp_regen(3)               |
+|   6 | Sp(7), Hp(6), Wis(3), Str(2), Con(2), Sp_regen(3), Hp_regen(1), |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|   7 | Sp(7), Hp(5), Wis(4), Str(1), Con(1), Sp_regen(3)               |
+|   8 | Sp(7), Hp(6), Wis(3), Str(1), Con(1), Sp_regen(3)               |
+|   9 | Sp(7), Hp(5), Wis(4), Str(2), Con(2), Sp_regen(2)               |
+|  10 | Sp(7), Hp(6), Wis(4), Str(1), Con(1), Sp_regen(3),              |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  11 | Sp(6), Hp(5), Wis(3), Str(1), Con(1), Sp_regen(3)               |
+|  12 | Sp(7), Hp(5), Wis(3), Str(1), Con(1), Sp_regen(2)               |
+|  13 | Sp(6), Hp(6), Wis(4), Str(1), Con(1), Sp_regen(3)               |
+|  14 | Sp(7), Hp(5), Wis(3), Str(1), Con(1), Sp_regen(3), Hp_regen(1), |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  15 | Sp(6), Hp(5), Wis(4), Str(2), Con(2), Sp_regen(2)               |
+|  16 | Sp(7), Hp(5), Wis(3), Str(1), Con(1), Sp_regen(3)               |
+|  17 | Sp(6), Hp(5), Wis(3), Str(1), Con(1), Sp_regen(2)               |
+|  18 | Sp(7), Hp(6), Wis(4), Str(1), Con(1), Sp_regen(3),              |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  19 | Sp(6), Hp(5), Wis(3), Str(1), Con(1), Sp_regen(3)               |
+|  20 | Sp(7), Hp(5), Wis(4), Str(1), Con(1), Sp_regen(2)               |
+|  21 | Sp(5), Hp(4), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  22 | Sp(6), Hp(5), Wis(3), Str(1), Con(1), Sp_regen(3), Hp_regen(1), |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  23 | Sp(5), Hp(4), Wis(3), Str(1), Con(1), Sp_regen(2)               |
+|  24 | Sp(6), Hp(5), Wis(3), Str(1), Con(1), Sp_regen(2)               |
+|  25 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  26 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(1)               |
+|  27 | Sp(5), Hp(4), Wis(3), Str(1), Con(1), Sp_regen(2),              |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  28 | Sp(4), Hp(3), Wis(2), Sp_regen(2)                               |
+|  29 | Sp(4), Hp(4), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  30 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(1)               |
+|  31 | Sp(5), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  32 | Sp(4), Hp(4), Wis(3), Str(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  33 | Sp(4), Hp(3), Wis(2), Sp_regen(1)                               |
+|  34 | Sp(4), Hp(4), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  35 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  36 | Sp(4), Hp(3), Wis(2), Sp_regen(1)                               |
+|  37 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  38 | Sp(3), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(1)               |
+|  39 | Sp(4), Hp(3), Wis(2), Sp_regen(2), Magical resistance(1),       |
+|     | Physical resistance(1)                                          |
+|  40 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(1)               |
+|  41 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  42 | Sp(3), Hp(3), Wis(2), Sp_regen(1)                               |
+|  43 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(2)               |
+|  44 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(1)               |
+|  45 | Sp(4), Hp(3), Wis(2), Str(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Magical resistance(1), Physical resistance(1)                   |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell cause light wounds to 20%
+May study spell create food to 10%
+May study spell create money to 20%
+May study spell cure light wounds to 10%
+May study spell darkness to 10%
+May study spell light to 10%
+May train skill commune to 50%
+May train skill convert to 40%
+May train skill ceremony to 10%
+May train skill consider to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell cause light wounds to 40%
+May study spell create food to 20%
+May study spell create money to 30%
+May study spell cure light wounds to 20%
+May study spell darkness to 20%
+May study spell light to 20%
+May train skill commune to 65%
+May train skill convert to 50%
+May train skill ceremony to 25%
+May train skill consider to 25%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell cause light wounds to 60%
+May study spell cause serious wounds to 10%
+May study spell create food to 30%
+May study spell create money to 40%
+May study spell cure light wounds to 25%
+May study spell darkness to 30%
+May study spell light to 30%
+May train skill commune to 75%
+May train skill convert to 60%
+May train skill ceremony to 30%
+May train skill consider to 35%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell cause light wounds to 75%
+May study spell cause serious wounds to 20%
+May study spell create money to 50%
+May study spell cure light wounds to 30%
+May study spell darkness to 40%
+May study spell light to 40%
+May train skill commune to 100%
+May train skill convert to 70%
+May train skill ceremony to 40%
+May train skill consider to 45%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell cause light wounds to 90%
+May study spell cause serious wounds to 30%
+May study spell celestial disposition to 5%
+May study spell create food to 40%
+May study spell create money to 60%
+May study spell cure light wounds to 40%
+May study spell darkness to 50%
+May study spell dispel curse to 10%
+May study spell light to 50%
+May train skill consider to 55%
+May train skill smash to 10%
+May train skill attack to 15%
+May train skill ceremony to 50%
+May train skill essence eye to 10%
+May train skill skill that saves sp to 15%
+May train skill weapon skill 1h staff to 5%
+May train skill weapon skill 2h staff to 5%
+May train skill convert to 100%
+May train skill tinning to 10%
+May train skill weapon skill 2h bludgeon to 5%
+May train skill weapon skill 1h bludgeon to 5%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell cause light wounds to 100%
+May study spell cause serious wounds to 40%
+May study spell create money to 70%
+May study spell cure light wounds to 50%
+May study spell darkness to 60%
+May study spell dispel curse to 20%
+May study spell light to 60%
+May train skill weapon skill 2h staff to 10%
+May train skill consider to 65%
+May train skill weapon skill 1h staff to 10%
+May train skill ceremony to 60%
+May train skill weapon skill 2h bludgeon to 10%
+May train skill weapon skill 1h bludgeon to 10%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell cause serious wounds to 50%
+May study spell celestial disposition to 10%
+May study spell create food to 60%
+May study spell create money to 85%
+May study spell cure light wounds to 60%
+May study spell darkness to 70%
+May study spell dispel curse to 30%
+May study spell infravision to 20%
+May study spell light to 70%
+May train skill weapon skill 2h staff to 15%
+May train skill consider to 75%
+May train skill weapon skill 1h staff to 15%
+May train skill smash to 15%
+May train skill ceremony to 70%
+May train skill tinning to 20%
+May train skill weapon skill 2h bludgeon to 15%
+May train skill weapon skill 1h bludgeon to 15%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell cause critical wounds to 10%
+May study spell cause serious wounds to 60%
+May study spell cure light wounds to 75%
+May study spell darkness to 80%
+May study spell detect alignment to 10%
+May study spell light to 80%
+May train skill ceremony to 80%
+May train skill consider to 85%
+May train skill essence eye to 25%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell cause critical wounds to 20%
+May study spell cause serious wounds to 70%
+May study spell create food to 90%
+May study spell create money to 100%
+May study spell cure light wounds to 90%
+May study spell darkness to 90%
+May study spell detect alignment to 15%
+May study spell dispel curse to 40%
+May study spell infravision to 60%
+May study spell light to 90%
+May train skill weapon skill 2h staff to 20%
+May train skill consider to 100%
+May train skill weapon skill 1h staff to 20%
+May train skill ceremony to 90%
+May train skill tinning to 30%
+May train skill essence eye to 35%
+May train skill weapon skill 2h bludgeon to 20%
+May train skill weapon skill 1h bludgeon to 20%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell cause critical wounds to 30%
+May study spell cause serious wounds to 80%
+May study spell celestial disposition to 15%
+May study spell create food to 100%
+May study spell cure light wounds to 100%
+May study spell cure serious wounds to 20%
+May study spell darkness to 100%
+May study spell detect alignment to 20%
+May study spell dispel curse to 50%
+May study spell flamestrike to 20%
+May study spell infravision to 70%
+May study spell light to 100%
+May study spell remove poison to 5%
+May study spell resurrect to 5%
+May study spell shield of protection to 20%
+May study spell teleport with error to 20%
+May study spell water walking to 30%
+May train skill quick chant to 10%
+May train skill attack to 25%
+May train skill smash to 20%
+May train skill ceremony to 100%
+May train skill skill that saves sp to 25%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell cause critical wounds to 40%
+May study spell cause serious wounds to 90%
+May study spell cure serious wounds to 30%
+May study spell detect alignment to 25%
+May study spell slow poison to 20%
+May train skill weapon skill 1h staff to 25%
+May train skill weapon skill 2h staff to 25%
+May train skill benediction of embedding to 5%
+May train skill tinning to 40%
+May train skill essence eye to 45%
+May train skill weapon skill 2h bludgeon to 25%
+May train skill weapon skill 1h bludgeon to 25%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell cause critical wounds to 50%
+May study spell cause serious wounds to 100%
+May study spell cure serious wounds to 40%
+May study spell detect alignment to 35%
+May study spell dispel curse to 70%
+May study spell displacement to 10%
+May study spell infravision to 80%
+May study spell remove poison to 10%
+May study spell shield of protection to 40%
+May study spell teleport with error to 30%
+May train skill essence eye to 65%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell cause critical wounds to 60%
+May study spell cure serious wounds to 50%
+May study spell detect alignment to 45%
+May study spell displacement to 20%
+May study spell flamestrike to 30%
+May study spell floating disc to 10%
+May study spell resurrect to 10%
+May study spell shield of protection to 50%
+May study spell slow poison to 40%
+May study spell water walking to 40%
+May train skill weapon skill 1h staff to 30%
+May train skill weapon skill 2h staff to 30%
+May train skill smash to 25%
+May train skill tinning to 50%
+May train skill essence eye to 75%
+May train skill skill that saves sp to 45%
+May train skill weapon skill 2h bludgeon to 30%
+May train skill weapon skill 1h bludgeon to 30%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell cause critical wounds to 70%
+May study spell celestial disposition to 20%
+May study spell cure serious wounds to 75%
+May study spell dispel curse to 90%
+May study spell displacement to 30%
+May study spell floating disc to 20%
+May study spell remove poison to 15%
+May study spell resurrect to 15%
+May study spell shield of protection to 60%
+May study spell slow poison to 50%
+May study spell teleport with error to 40%
+May train skill benediction of embedding to 15%
+May train skill essence eye to 85%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell cure disease to 20%
+May study spell cure serious wounds to 100%
+May study spell detect alignment to 60%
+May study spell dispel curse to 100%
+May study spell displacement to 40%
+May study spell estimate worth to 20%
+May study spell floating disc to 30%
+May study spell harm to 5%
+May study spell infravision to 90%
+May study spell lesser poison invulnerability to 20%
+May study spell remove poison to 20%
+May study spell remove scar to 20%
+May study spell resurrect to 20%
+May study spell shield of protection to 70%
+May study spell slow poison to 75%
+May study spell water walking to 50%
+May train skill weapon skill 2h staff to 40%
+May train skill weapon skill 1h staff to 40%
+May train skill quick chant to 25%
+May train skill attack to 35%
+May train skill tinning to 60%
+May train skill skill that saves sp to 55%
+May train skill weapon skill 1h bludgeon to 40%
+May train skill weapon skill 2h bludgeon to 40%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell cause critical wounds to 80%
+May study spell cure disease to 25%
+May study spell detect alignment to 80%
+May study spell displacement to 50%
+May study spell flamestrike to 40%
+May study spell floating disc to 45%
+May study spell harm to 10%
+May study spell remove poison to 25%
+May study spell resurrect to 25%
+May study spell slow poison to 100%
+May train skill smash to 30%
+May train skill essence eye to 100%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell cure disease to 30%
+May study spell detect alignment to 100%
+May study spell displacement to 60%
+May study spell estimate worth to 40%
+May study spell floating disc to 60%
+May study spell harm to 15%
+May study spell lesser poison invulnerability to 30%
+May study spell remove poison to 30%
+May study spell remove scar to 40%
+May study spell resurrect to 30%
+May study spell shield of protection to 80%
+May study spell teleport with error to 50%
+May study spell water walking to 60%
+May train skill tinning to 70%
+May train skill skill that saves sp to 65%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell blurred image to 10%
+May study spell cause critical wounds to 90%
+May study spell celestial disposition to 25%
+May study spell displacement to 70%
+May study spell floating disc to 80%
+May study spell harm to 20%
+May study spell sex change to 20%
+May study spell water walking to 70%
+May train skill benediction of embedding to 25%
+May train skill attack to 45%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell blurred image to 15%
+May study spell cure disease to 35%
+May study spell displacement to 80%
+May study spell floating disc to 100%
+May study spell harm to 25%
+May study spell lesser poison invulnerability to 40%
+May study spell remove poison to 35%
+May study spell resurrect to 35%
+May study spell sex change to 40%
+May study spell teleport with error to 60%
+May study spell water walking to 80%
+May train skill smash to 40%
+May train skill skill that saves sp to 75%
+May train skill tinning to 80%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell blurred image to 20%
+May study spell cause critical wounds to 100%
+May study spell cure critical wounds to 20%
+May study spell cure disease to 40%
+May study spell displacement to 100%
+May study spell estimate worth to 60%
+May study spell flamestrike to 60%
+May study spell harm to 30%
+May study spell heal to 20%
+May study spell infravision to 100%
+May study spell lesser poison invulnerability to 50%
+May study spell reincarnation to 10%
+May study spell relocate to 20%
+May study spell remove poison to 40%
+May study spell remove scar to 60%
+May study spell resurrect to 40%
+May study spell sex change to 60%
+May study spell shield of protection to 90%
+May study spell summon ghost to 5%
+May study spell water walking to 100%
+May train skill arcane lore to 15%
+May train skill weapon skill 2h staff to 50%
+May train skill weapon skill 1h staff to 50%
+May train skill attack to 65%
+May train skill tinning to 100%
+May train skill skill that saves sp to 90%
+May train skill weapon skill 1h bludgeon to 50%
+May train skill weapon skill 2h bludgeon to 50%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell blurred image to 30%
+May study spell dispel undead to 20%
+May study spell harm to 35%
+May study spell lesser poison invulnerability to 60%
+May study spell reincarnation to 20%
+May study spell teleport with error to 70%
+May train skill smash to 50%
+May train skill skill that saves sp to 100%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell blurred image to 40%
+May study spell celestial disposition to 30%
+May study spell cure critical wounds to 40%
+May study spell cure disease to 10%
+May study spell dispel undead to 30%
+May study spell flamestrike to 70%
+May study spell harm to 40%
+May study spell lesser poison invulnerability to 70%
+May study spell reincarnation to 30%
+May study spell sex change to 100%
+May study spell shield of protection to 100%
+May study spell summon ghost to 10%
+May study spell teleport with error to 80%
+May train skill benediction of embedding to 35%
+May train skill attack to 75%
+May train skill arcane lore to 20%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell blurred image to 50%
+May study spell cure critical wounds to 60%
+May study spell dispel undead to 40%
+May study spell estimate worth to 80%
+May study spell flamestrike to 80%
+May study spell harm to 45%
+May study spell lesser poison invulnerability to 80%
+May study spell reincarnation to 40%
+May study spell relocate to 30%
+May study spell teleport with error to 90%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell blurred image to 60%
+May study spell celestial disposition to 35%
+May study spell cure critical wounds to 80%
+May study spell cure disease to 15%
+May study spell dispel undead to 50%
+May study spell flamestrike to 90%
+May study spell harm to 50%
+May study spell lesser poison invulnerability to 90%
+May study spell reincarnation to 50%
+May study spell summon ghost to 15%
+May train skill benediction of embedding to 45%
+May train skill attack to 100%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell cure critical wounds to 100%
+May study spell cure disease to 45%
+May study spell dispel undead to 60%
+May study spell estimate worth to 100%
+May study spell flamestrike to 100%
+May study spell greater poison invulnerability to 20%
+May study spell harm to 55%
+May study spell harm body to 5%
+May study spell heal to 30%
+May study spell lesser poison invulnerability to 100%
+May study spell reincarnation to 60%
+May study spell relocate to 40%
+May study spell remove poison to 45%
+May study spell remove scar to 80%
+May study spell resurrect to 45%
+May study spell teleport with error to 100%
+May train skill purify soul to 10%
+May train skill arcane lore to 25%
+May train skill weapon skill 2h staff to 65%
+May train skill quick chant to 45%
+May train skill weapon skill 1h staff to 65%
+May train skill smash to 70%
+May train skill weapon skill 2h bludgeon to 65%
+May train skill weapon skill 1h bludgeon to 65%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell blurred image to 70%
+May study spell celestial disposition to 40%
+May study spell cure disease to 50%
+May study spell dispel undead to 70%
+May study spell harm to 60%
+May study spell harm body to 10%
+May study spell reincarnation to 70%
+May study spell remove poison to 50%
+May study spell resurrect to 50%
+May study spell summon ghost to 20%
+May train skill purify soul to 15%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell cure disease to 60%
+May study spell dispel undead to 80%
+May study spell greater poison invulnerability to 30%
+May study spell harm to 65%
+May study spell harm body to 15%
+May study spell reincarnation to 80%
+May study spell relocate to 50%
+May study spell remove poison to 60%
+May study spell resurrect to 60%
+May study spell summon ghost to 25%
+May train skill purify soul to 20%
+May train skill arcane lore to 30%
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell blurred image to 85%
+May study spell celestial disposition to 45%
+May study spell cure disease to 80%
+May study spell dispel undead to 100%
+May study spell harm to 70%
+May study spell harm body to 20%
+May study spell reincarnation to 90%
+May study spell remove poison to 80%
+May study spell resurrect to 80%
+May study spell shelter to 20%
+May study spell summon ghost to 30%
+May train skill purify soul to 25%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell greater poison invulnerability to 40%
+May study spell harm to 75%
+May study spell harm body to 25%
+May study spell heal to 40%
+May study spell reincarnation to 95%
+May study spell relocate to 65%
+May study spell resurrect to 90%
+May study spell shelter to 40%
+May train skill benediction of embedding to 55%
+May train skill purify soul to 30%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell blurred image to 100%
+May study spell celestial disposition to 50%
+May study spell cure disease to 100%
+May study spell greater poison invulnerability to 50%
+May study spell harm to 80%
+May study spell harm body to 30%
+May study spell healing wind to 20%
+May study spell reincarnation to 100%
+May study spell remove poison to 100%
+May study spell remove scar to 100%
+May study spell resurrect to 100%
+May study spell shelter to 60%
+May train skill arcane lore to 35%
+May train skill leadership to 20%
+May train skill holy might to 5%
+May train skill purify soul to 35%
+May train skill weapon skill 1h staff to 85%
+May train skill quick chant to 60%
+May train skill weapon skill 2h staff to 85%
+May train skill weapon skill 1h bludgeon to 85%
+May train skill weapon skill 2h bludgeon to 85%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell harm to 85%
+May study spell harm body to 35%
+May study spell heal to 50%
+May study spell relocate to 80%
+May study spell shelter to 80%
+May train skill purify soul to 40%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell celestial disposition to 55%
+May study spell greater poison invulnerability to 60%
+May study spell harm to 90%
+May study spell harm body to 40%
+May study spell heal to 60%
+May study spell healing wind to 25%
+May study spell shelter to 100%
+May study spell summon ghost to 40%
+May train skill benediction of embedding to 65%
+May train skill purify soul to 45%
+May train skill arcane lore to 40%
+May train skill leadership to 35%
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell harm to 95%
+May study spell harm body to 45%
+May study spell healing wind to 30%
+May study spell ward undead to 10%
+May train skill purify soul to 50%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell celestial disposition to 60%
+May study spell greater poison invulnerability to 70%
+May study spell harm to 100%
+May study spell harm body to 50%
+May study spell heal to 70%
+May study spell healing wind to 35%
+May study spell ward undead to 20%
+May train skill purify soul to 55%
+May train skill leadership to 50%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell feast to 20%
+May study spell heal to 80%
+May study spell healing wind to 40%
+May study spell holy presence to 20%
+May study spell holy wisdom to 20%
+May study spell relocate to 100%
+May study spell sacred ritual to 5%
+May study spell teleport without error to 30%
+May study spell unholy presence to 20%
+May study spell ward undead to 30%
+May train skill purify soul to 60%
+May train skill arcane lore to 50%
+May train skill quick chant to 70%
+May train skill benediction of embedding to 75%
+May train skill zapping to 10%
+May train skill holy might to 10%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell celestial disposition to 65%
+May study spell greater poison invulnerability to 80%
+May study spell harm body to 55%
+May study spell heal to 90%
+May study spell summon ghost to 60%
+May study spell teleport without error to 35%
+May study spell ward undead to 40%
+May train skill bless to 10%
+May train skill purify soul to 65%
+May train skill leadership to 60%
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell feast to 25%
+May study spell holy presence to 25%
+May study spell holy wisdom to 25%
+May study spell sacred ritual to 10%
+May study spell teleport without error to 40%
+May study spell unholy presence to 25%
+May study spell ward undead to 50%
+May train skill bless to 20%
+May train skill purify soul to 70%
+May train skill zapping to 25%
+May train skill arcane lore to 60%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell celestial disposition to 70%
+May study spell harm body to 60%
+May study spell teleport without error to 45%
+May study spell ward undead to 60%
+May train skill bless to 30%
+May train skill purify soul to 75%
+May train skill leadership to 75%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell greater poison invulnerability to 90%
+May study spell holy presence to 30%
+May study spell sacred ritual to 15%
+May study spell unholy presence to 30%
+May study spell ward undead to 70%
+May train skill bless to 40%
+May train skill purify soul to 85%
+May train skill zapping to 45%
+May train skill arcane lore to 70%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell celestial disposition to 75%
+May study spell feast to 30%
+May study spell greater poison invulnerability to 100%
+May study spell harm body to 65%
+May study spell heal to 100%
+May study spell healing wind to 45%
+May study spell holy presence to 35%
+May study spell holy wisdom to 30%
+May study spell sacred ritual to 20%
+May study spell summon ghost to 65%
+May study spell teleport without error to 50%
+May study spell unholy presence to 35%
+May study spell ward undead to 80%
+May train skill purify soul to 100%
+May train skill quick chant to 75%
+May train skill benediction of embedding to 85%
+May train skill bless to 50%
+May train skill zapping to 55%
+May train skill leadership to 85%
+May train skill holy might to 20%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell celestial disposition to 80%
+May study spell sacred ritual to 25%
+May study spell ward undead to 100%
+May train skill bless to 60%
+May train skill quick chant to 80%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell celestial disposition to 85%
+May study spell feast to 40%
+May study spell harm body to 70%
+May study spell holy presence to 40%
+May study spell holy wisdom to 40%
+May study spell sacred ritual to 30%
+May study spell teleport without error to 60%
+May study spell unholy presence to 40%
+May train skill arcane lore to 75%
+May train skill quick chant to 85%
+May train skill benediction of embedding to 90%
+May train skill zapping to 65%
+May train skill bless to 70%
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell celestial disposition to 90%
+May study spell holy presence to 45%
+May study spell sacred ritual to 35%
+May study spell teleport without error to 75%
+May study spell unholy presence to 45%
+May train skill bless to 80%
+May train skill zapping to 75%
+May train skill quick chant to 90%
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell celestial disposition to 95%
+May study spell remove werecurse to 5%
+May study spell sacred ritual to 40%
+May train skill bless to 90%
+May train skill zapping to 85%
+May train skill quick chant to 95%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell celestial disposition to 100%
+May study spell feast to 50%
+May study spell harm body to 75%
+May study spell healing wind to 50%
+May study spell holy presence to 50%
+May study spell holy wisdom to 50%
+May study spell remove werecurse to 10%
+May study spell sacred ritual to 50%
+May study spell unholy presence to 50%
+May train skill arcane lore to 80%
+May train skill quick chant to 100%
+May train skill benediction of embedding to 100%
+May train skill bless to 100%
+May train skill zapping to 100%
+May train skill leadership to 90%
+May train skill holy might to 35%
+------------------------------------------------------.
+
+Subguilds:
+Terran_Knights 10
+Mist_Walkers 10
+Order_of_Light 10
+Order_of_Shadow 10

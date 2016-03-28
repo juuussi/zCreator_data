@@ -1,0 +1,891 @@
+Updated 2012.04.02
+
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Spell points(8), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2)       |
+|   2 | Spell points(8), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1)                                       |
+|   3 | Spell points(9), Hit points(5), Wisdom(3), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Dexterity(1),                     |
+|     | Spell point regeneration(3), Hit point regeneration(1),         |
+|     | Physical resistance(1)                                          |
+|   4 | Spell points(8), Hit points(4), Wisdom(2), Intelligence(2),     |
+|     | Spell point regeneration(2), Hit point regeneration(1),         |
+|     | Cold resistance(1), Fire resistance(1)                          |
+|   5 | Spell points(9), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1)                                       |
+|   6 | Spell points(8), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Dexterity(1),                     |
+|     | Spell point regeneration(2), Hit point regeneration(1),         |
+|     | Physical resistance(1)                                          |
+|   7 | Spell points(8), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Spell point regeneration(2)                                     |
+|   8 | Spell points(9), Hit points(5), Wisdom(3), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1), Cold resistance(1)                   |
+|   9 | Spell points(8), Hit points(4), Wisdom(2), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1), Fire resistance(1)                   |
+|  10 | Spell points(9), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Dexterity(1), Spell point regeneration(2),                      |
+|     | Hit point regeneration(1), Physical resistance(1)               |
+|  11 | Spell points(7), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1)                                       |
+|  12 | Spell points(8), Hit points(4), Wisdom(2), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1)                                       |
+|  13 | Spell points(8), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Spell point regeneration(2), Cold resistance(1)                 |
+|  14 | Spell points(8), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Dexterity(1),                     |
+|     | Spell point regeneration(2), Hit point regeneration(1),         |
+|     | Physical resistance(1)                                          |
+|  15 | Spell points(8), Hit points(4), Wisdom(2), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1), Fire resistance(1)                   |
+|  16 | Spell points(7), Hit points(3), Wisdom(3), Intelligence(1),     |
+|     | Spell point regeneration(2), Hit point regeneration(1)          |
+|  17 | Spell points(8), Hit points(4), Wisdom(2), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2)       |
+|  18 | Spell points(8), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Dexterity(1),                     |
+|     | Spell point regeneration(2), Hit point regeneration(1),         |
+|     | Cold resistance(1), Physical resistance(1)                      |
+|  19 | Spell points(8), Hit points(4), Wisdom(3), Intelligence(1),     |
+|     | Spell point regeneration(2), Hit point regeneration(1)          |
+|  20 | Spell points(8), Hit points(4), Wisdom(2), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1), Fire resistance(1)                   |
+|  21 | Spell points(6), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Spell point regeneration(1)                                     |
+|  22 | Spell points(7), Hit points(4), Wisdom(3), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Dexterity(1),                     |
+|     | Spell point regeneration(2), Hit point regeneration(1),         |
+|     | Physical resistance(1)                                          |
+|  23 | Spell points(6), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1), Cold resistance(1)                   |
+|  24 | Spell points(7), Hit points(3), Wisdom(2), Intelligence(2),     |
+|     | Spell point regeneration(1)                                     |
+|  25 | Spell points(5), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1)                                       |
+|  26 | Spell points(5), Hit points(2), Wisdom(1), Intelligence(1),     |
+|     | Spell point regeneration(1)                                     |
+|  27 | Spell points(5), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Dexterity(1), Spell point regeneration(1),                      |
+|     | Hit point regeneration(1), Fire resistance(1),                  |
+|     | Physical resistance(1)                                          |
+|  28 | Spell points(5), Hit points(2), Wisdom(2), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(1)       |
+|  29 | Spell points(6), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Spell point regeneration(2), Hit point regeneration(1),         |
+|     | Cold resistance(1)                                              |
+|  30 | Spell points(5), Hit points(3), Wisdom(1), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(1),      |
+|     | Hit point regeneration(1)                                       |
+|  31 | Spell points(5), Hit points(2), Wisdom(2), Intelligence(1),     |
+|     | Spell point regeneration(1)                                     |
+|  32 | Spell points(5), Hit points(3), Wisdom(2), Intelligence(2),     |
+|     | Strength(1), Constitution(1), Dexterity(1),                     |
+|     | Spell point regeneration(2), Hit point regeneration(1),         |
+|     | Physical resistance(1)                                          |
+|  33 | Spell points(5), Hit points(2), Wisdom(1), Intelligence(1),     |
+|     | Spell point regeneration(1)                                     |
+|  34 | Spell points(5), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Spell point regeneration(1), Hit point regeneration(1)          |
+|  35 | Spell points(5), Hit points(2), Wisdom(2), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(1)       |
+|  36 | Spell points(4), Hit points(2), Wisdom(1), Intelligence(1),     |
+|     | Spell point regeneration(1), Fire resistance(1)                 |
+|  37 | Spell points(5), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(2),      |
+|     | Hit point regeneration(1), Cold resistance(1)                   |
+|  38 | Spell points(4), Hit points(2), Wisdom(1), Intelligence(1),     |
+|     | Spell point regeneration(1)                                     |
+|  39 | Spell points(5), Hit points(2), Wisdom(2), Intelligence(1),     |
+|     | Dexterity(1), Spell point regeneration(1),                      |
+|     | Hit point regeneration(1), Physical resistance(1)               |
+|  40 | Spell points(4), Hit points(2), Wisdom(1), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(1)       |
+|  41 | Spell points(5), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Spell point regeneration(1), Hit point regeneration(1)          |
+|  42 | Spell points(4), Hit points(2), Wisdom(1), Intelligence(1),     |
+|     | Spell point regeneration(1)                                     |
+|  43 | Spell points(5), Hit points(2), Wisdom(2), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Spell point regeneration(1),      |
+|     | Hit point regeneration(1)                                       |
+|  44 | Spell points(4), Hit points(2), Wisdom(1), Intelligence(1),     |
+|     | Spell point regeneration(1)                                     |
+|  45 | Spell points(5), Hit points(3), Wisdom(2), Intelligence(1),     |
+|     | Strength(1), Constitution(1), Dexterity(1),                     |
+|     | Spell point regeneration(2), Hit point regeneration(1),         |
+|     | Cold resistance(1), Fire resistance(1), Physical resistance(1)  |
+`-----------------------------------------------------------------------'
+
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell banishment to 5%
+May study spell call demonic armour to 10%
+May study spell call grimoire to 20%
+May study spell darkfire to 5%
+May study spell darkness to 20%
+May study spell demonic test to 5%
+May study spell detect alignment to 10%
+May study spell devilish tickle to 5%
+May study spell infravision to 10%
+May study spell light to 20%
+May study spell magic missile to 10%
+May study spell moaning laughter to 5%
+May study spell planar rescue to 20%
+May study spell teleport with error to 10%
+May study spell weary arms to 5%
+May train skill skill that saves sp to 5%
+May train skill essence eye to 5%
+May train skill hear noises to 5%
+May train skill tinning to 5%
+May train skill attack to 5%
+May train skill weapon skill 1h bludgeon to 5%
+May train skill weapon skill 2h bludgeon to 5%
+May train skill consider to 20%
+May train skill soul manipulation to 5%
+May train skill power manipulation to 5%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell call demonic armour to 20%
+May study spell call grimoire to 40%
+May study spell darkness to 30%
+May study spell infravision to 15%
+May study spell light to 30%
+May study spell magic missile to 15%
+May study spell summon minor hunter to 5%
+May study spell teleport with error to 15%
+May train skill weapon skill 2h staff to 5%
+May train skill weapon skill 1h staff to 5%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell banishment to 10%
+May study spell call demonic armour to 30%
+May study spell call grimoire to 60%
+May study spell darkness to 40%
+May study spell demonic test to 10%
+May study spell detect alignment to 20%
+May study spell infravision to 20%
+May study spell magic missile to 20%
+May study spell planar rescue to 30%
+May study spell summon minor hunter to 10%
+May study spell teleport with error to 20%
+May study spell water walking to 5%
+May train skill skill that saves sp to 10%
+May train skill essence eye to 10%
+May train skill hear noises to 10%
+May train skill attack to 10%
+May train skill tinning to 10%
+May train skill weapon skill 1h bludgeon to 10%
+May train skill weapon skill 2h bludgeon to 10%
+May train skill demon control to 5%
+May train skill consider to 30%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell call demonic armour to 40%
+May study spell call grimoire to 80%
+May study spell cure critical wounds to 5%
+May study spell cure demon to 5%
+May study spell darkfire to 15%
+May study spell darkness to 50%
+May study spell devilish tickle to 15%
+May study spell light to 50%
+May study spell moaning laughter to 15%
+May study spell weary arms to 15%
+May train skill dark ritual to 5%
+May train skill weapon skill 1h staff to 10%
+May train skill weapon skill 2h staff to 10%
+May train skill soul manipulation to 10%
+May train skill zapping to 5%
+May train skill quick chant to 5%
+May train skill power manipulation to 15%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell call demonic armour to 50%
+May study spell call grimoire to 100%
+May study spell darkness to 60%
+May study spell infravision to 25%
+May study spell magic missile to 25%
+May study spell teleport with error to 25%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell banishment to 20%
+May study spell call demonic armour to 60%
+May study spell darkness to 80%
+May study spell demonic test to 20%
+May study spell detect alignment to 30%
+May study spell light to 60%
+May study spell planar rescue to 40%
+May study spell summon minor hunter to 20%
+May train skill hear noises to 20%
+May train skill skill that saves sp to 20%
+May train skill essence eye to 20%
+May train skill consider to 40%
+May train skill tinning to 20%
+May train skill attack to 20%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell call demonic armour to 70%
+May study spell darkness to 100%
+May study spell infravision to 30%
+May study spell magic missile to 30%
+May study spell relocate to 5%
+May study spell sharp nails to 5%
+May study spell teleport with error to 30%
+May study spell water walking to 10%
+May train skill demon control to 10%
+May train skill weapon skill 1h staff to 20%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell call demonic armour to 80%
+May study spell cure critical wounds to 10%
+May study spell cure demon to 10%
+May study spell darkfire to 25%
+May study spell devilish tickle to 25%
+May study spell light to 80%
+May study spell moaning laughter to 25%
+May study spell shelter to 10%
+May study spell weary arms to 25%
+May train skill dark ritual to 10%
+May train skill weapon skill 2h staff to 20%
+May train skill soul manipulation to 15%
+May train skill quick chant to 10%
+May train skill power manipulation to 25%
+May train skill zapping to 10%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell call demonic armour to 90%
+May study spell infravision to 40%
+May study spell magic missile to 40%
+May study spell teleport with error to 40%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell call demonic armour to 100%
+May study spell demonic shield to 5%
+May study spell light to 100%
+May study spell protection from good to 5%
+May study spell shelter to 20%
+May study spell summon minor hunter to 30%
+May study spell teleport without error to 10%
+May study spell water walking to 15%
+May train skill leadership to 15%
+May train skill essence eye to 30%
+May train skill weapon skill 2h bludgeon to 20%
+May train skill weapon skill 1h bludgeon to 20%
+May train skill skill that saves sp to 30%
+May train skill demon control to 15%
+May train skill attack to 30%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell banishment to 30%
+May study spell cure critical wounds to 15%
+May study spell cure demon to 15%
+May study spell demonic test to 30%
+May study spell detect alignment to 40%
+May study spell infravision to 50%
+May study spell magic missile to 50%
+May study spell planar rescue to 50%
+May study spell teleport with error to 50%
+May train skill hear noises to 30%
+May train skill dark ritual to 15%
+May train skill consider to 50%
+May train skill weapon skill 1h staff to 30%
+May train skill tinning to 30%
+May train skill soul manipulation to 20%
+May train skill quick chant to 15%
+May train skill zapping to 15%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell fireclaws to 5%
+May study spell relocate to 10%
+May study spell sharp nails to 10%
+May train skill weapon skill 1h bludgeon to 40%
+May train skill weapon skill 2h bludgeon to 40%
+May train skill weapon skill 2h staff to 40%
+May train skill weapon skill 1h staff to 40%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell darkfire to 35%
+May study spell devilish tickle to 35%
+May study spell infravision to 65%
+May study spell magic missile to 65%
+May study spell moaning laughter to 35%
+May study spell shelter to 35%
+May study spell teleport with error to 65%
+May study spell teleport without error to 15%
+May study spell water walking to 20%
+May study spell weary arms to 35%
+May train skill leadership to 20%
+May train skill skill that saves sp to 40%
+May train skill essence eye to 40%
+May train skill demon control to 20%
+May train skill power manipulation to 35%
+May train skill attack to 40%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell banishment to 40%
+May study spell cure critical wounds to 20%
+May study spell cure demon to 20%
+May study spell demonic blood to 5%
+May study spell demonic shield to 10%
+May study spell demonic test to 40%
+May study spell detect alignment to 50%
+May study spell planar rescue to 60%
+May study spell protection from good to 10%
+May train skill hear noises to 40%
+May train skill consider to 60%
+May train skill dark ritual to 20%
+May train skill tinning to 40%
+May train skill quick chant to 20%
+May train skill zapping to 20%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell dark absolution to 10%
+May study spell darkfire to 45%
+May study spell fireclaws to 10%
+May study spell moaning laughter to 45%
+May study spell summon minor hunter to 40%
+May train skill weapon skill 2h bludgeon to 50%
+May train skill weapon skill 1h bludgeon to 50%
+May train skill weapon skill 1h staff to 50%
+May train skill soul manipulation to 30%
+May train skill power manipulation to 45%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell clairvoyance to 5%
+May study spell devilish tickle to 45%
+May study spell infravision to 75%
+May study spell magic missile to 75%
+May study spell shelter to 50%
+May study spell teleport with error to 75%
+May study spell weary arms to 45%
+May train skill essence eye to 50%
+May train skill skill that saves sp to 50%
+May train skill attack to 50%
+May train skill weapon skill 2h staff to 50%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell banishment to 50%
+May study spell cure critical wounds to 30%
+May study spell cure demon to 30%
+May study spell demonic blood to 10%
+May study spell demonic test to 50%
+May study spell detect alignment to 60%
+May study spell relocate to 15%
+May study spell screaming mind to 10%
+May study spell sharp nails to 15%
+May study spell teleport without error to 20%
+May study spell water walking to 30%
+May train skill hear noises to 50%
+May train skill leadership to 30%
+May train skill demon control to 30%
+May train skill dark ritual to 30%
+May train skill tinning to 50%
+May train skill zapping to 30%
+May train skill quick chant to 30%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell crumbling feet to 10%
+May study spell dark absolution to 15%
+May study spell demonic shield to 15%
+May study spell fireclaws to 20%
+May study spell infravision to 90%
+May study spell magic missile to 90%
+May study spell planar rescue to 80%
+May study spell protection from good to 15%
+May study spell summon minor hunter to 50%
+May study spell teleport with error to 90%
+May train skill weapon skill 2h bludgeon to 60%
+May train skill weapon skill 1h bludgeon to 60%
+May train skill weapon skill 2h staff to 60%
+May train skill consider to 80%
+May train skill weapon skill 1h staff to 60%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell call mind control device to 10%
+May study spell shelter to 60%
+May train skill skill that saves sp to 60%
+May train skill essence eye to 60%
+May train skill conceal spellcasting to 5%
+May train skill soul manipulation to 40%
+May train skill attack to 60%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell banishment to 60%
+May study spell cure critical wounds to 40%
+May study spell cure demon to 40%
+May study spell darkfire to 50%
+May study spell demonic blood to 15%
+May study spell demonic test to 60%
+May study spell detect alignment to 70%
+May study spell devilish tickle to 50%
+May study spell dispel good to 10%
+May study spell fireclaws to 25%
+May study spell infravision to 100%
+May study spell magic missile to 100%
+May study spell moaning laughter to 50%
+May study spell planar rescue to 100%
+May study spell summon lesser hunter to 10%
+May study spell summon minor hunter to 60%
+May study spell teleport with error to 100%
+May study spell teleport without error to 25%
+May study spell warriors bane to 10%
+May study spell water walking to 40%
+May study spell weary arms to 50%
+May train skill leadership to 40%
+May train skill hear noises to 60%
+May train skill tinning to 60%
+May train skill quick chant to 40%
+May train skill leftwield to 10%
+May train skill demon control to 40%
+May train skill consider to 100%
+May train skill dark ritual to 40%
+May train skill demon and devil lore to 5%
+May train skill power manipulation to 50%
+May train skill zapping to 40%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell clairvoyance to 10%
+May study spell mages bane to 10%
+May study spell recall hunter to 10%
+May study spell screaming mind to 20%
+May train skill weapon skill 1h bludgeon to 70%
+May train skill weapon skill 2h bludgeon to 70%
+May train skill weapon skill 2h staff to 70%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell banishment to 70%
+May study spell call mind control device to 20%
+May study spell crumbling feet to 20%
+May study spell demonic shield to 20%
+May study spell demonic test to 70%
+May study spell detect alignment to 80%
+May study spell fireclaws to 30%
+May study spell protection from good to 20%
+May study spell relocate to 20%
+May study spell sharp nails to 20%
+May study spell summon lesser hunter to 15%
+May study spell warriors bane to 15%
+May train skill hear noises to 70%
+May train skill conceal spellcasting to 10%
+May train skill weapon skill 1h staff to 70%
+May train skill tinning to 70%
+May train skill soul manipulation to 50%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell cure critical wounds to 50%
+May study spell cure demon to 50%
+May study spell dark absolution to 20%
+May study spell darkfire to 60%
+May study spell demonic blood to 20%
+May study spell dispel good to 15%
+May study spell mages bane to 15%
+May study spell moaning laughter to 60%
+May study spell recall hunter to 15%
+May study spell shelter to 70%
+May study spell summon minor hunter to 70%
+May train skill essence eye to 70%
+May train skill skill that saves sp to 70%
+May train skill dark ritual to 50%
+May train skill power manipulation to 60%
+May train skill attack to 70%
+May train skill quick chant to 50%
+May train skill zapping to 50%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell call mind control device to 30%
+May study spell crumbling feet to 30%
+May study spell devilish tickle to 60%
+May study spell fireclaws to 35%
+May study spell screaming mind to 30%
+May study spell summon lesser hunter to 20%
+May study spell teleport without error to 30%
+May study spell water walking to 50%
+May study spell weary arms to 60%
+May train skill weapon skill 2h bludgeon to 80%
+May train skill weapon skill 1h bludgeon to 80%
+May train skill leadership to 50%
+May train skill demon control to 50%
+May train skill conceal spellcasting to 15%
+May train skill weapon skill 2h staff to 80%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell banishment to 80%
+May study spell dark absolution to 25%
+May study spell demonic test to 80%
+May study spell detect alignment to 90%
+May study spell mages bane to 20%
+May study spell recall hunter to 20%
+May study spell warriors bane to 20%
+May train skill hear noises to 80%
+May train skill weapon skill 1h staff to 80%
+May train skill demon and devil lore to 10%
+May train skill tinning to 80%
+May train skill focus dark energies to 10%
+May train skill leftwield to 20%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell clairvoyance to 15%
+May study spell demonic shield to 25%
+May study spell fireclaws to 40%
+May study spell protection from good to 25%
+May study spell shelter to 80%
+May study spell summon lesser hunter to 30%
+May study spell summon minor hunter to 80%
+May train skill soul manipulation to 60%
+May train skill essence eye to 80%
+May train skill attack to 80%
+May train skill skill that saves sp to 80%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell cure critical wounds to 60%
+May study spell cure demon to 60%
+May study spell darkfire to 70%
+May study spell demonic blood to 25%
+May study spell devilish tickle to 70%
+May study spell dispel good to 20%
+May study spell mages bane to 30%
+May study spell moaning laughter to 70%
+May study spell recall hunter to 30%
+May study spell relocate to 25%
+May study spell sharp nails to 25%
+May study spell teleport without error to 35%
+May study spell warriors bane to 30%
+May study spell weary arms to 70%
+May train skill zapping to 60%
+May train skill power manipulation to 70%
+May train skill quick chant to 60%
+May train skill dark ritual to 60%
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell call mind control device to 40%
+May study spell crumbling feet to 40%
+May study spell dark absolution to 30%
+May study spell fireclaws to 45%
+May study spell screaming mind to 40%
+May study spell water walking to 60%
+May train skill leadership to 60%
+May train skill demon control to 60%
+May train skill conceal spellcasting to 20%
+May train skill focus dark energies to 15%
+May train skill demon and devil lore to 15%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell darkfire to 80%
+May study spell detect alignment to 100%
+May study spell devilish tickle to 80%
+May study spell mages bane to 40%
+May study spell moaning laughter to 80%
+May study spell weary arms to 80%
+May train skill power manipulation to 80%
+May train skill weapon skill 2h staff to 90%
+May train skill weapon skill 1h staff to 90%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell clairvoyance to 20%
+May study spell dark absolution to 35%
+May study spell demonic shield to 30%
+May study spell dispel good to 25%
+May study spell fireclaws to 50%
+May study spell protection from good to 30%
+May study spell recall hunter to 40%
+May study spell shelter to 90%
+May study spell summon lesser hunter to 40%
+May study spell teleport without error to 40%
+May study spell warriors bane to 40%
+May train skill essence eye to 90%
+May train skill skill that saves sp to 90%
+May train skill weapon skill 2h bludgeon to 90%
+May train skill weapon skill 1h bludgeon to 90%
+May train skill attack to 90%
+May train skill leftwield to 35%
+May train skill doublehit to 5%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell banishment to 90%
+May study spell cure critical wounds to 70%
+May study spell cure demon to 70%
+May study spell demonic blood to 30%
+May study spell demonic test to 90%
+May study spell water walking to 70%
+May train skill hear noises to 90%
+May train skill leadership to 70%
+May train skill demon control to 70%
+May train skill dark ritual to 70%
+May train skill tinning to 90%
+May train skill quick chant to 70%
+May train skill focus dark energies to 20%
+May train skill zapping to 70%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell call mind control device to 50%
+May study spell crumbling feet to 50%
+May study spell darkfire to 90%
+May study spell moaning laughter to 90%
+May study spell relocate to 30%
+May study spell screaming mind to 50%
+May study spell sharp nails to 30%
+May study spell summon minor hunter to 90%
+May train skill demon and devil lore to 20%
+May train skill soul manipulation to 70%
+May train skill power manipulation to 90%
+May train skill conceal spellcasting to 25%
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell dark absolution to 40%
+May study spell devilish tickle to 90%
+May study spell dispel good to 30%
+May study spell fireclaws to 55%
+May study spell mages bane to 55%
+May study spell shelter to 100%
+May study spell teleport without error to 45%
+May study spell weary arms to 90%
+May train skill essence eye to 100%
+May train skill skill that saves sp to 100%
+May train skill weapon skill 2h staff to 100%
+May train skill attack to 100%
+May train skill focus dark energies to 25%
+May train skill doublehit to 10%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell clairvoyance to 25%
+May study spell demonic shield to 45%
+May study spell protection from good to 35%
+May study spell recall hunter to 55%
+May study spell summon lesser hunter to 55%
+May study spell warriors bane to 55%
+May train skill weapon skill 1h staff to 100%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell banishment to 100%
+May study spell call mind control device to 60%
+May study spell crumbling feet to 60%
+May study spell demonic test to 100%
+May study spell screaming mind to 60%
+May study spell summon demonic guardian to 15%
+May train skill hear noises to 100%
+May train skill weapon skill 2h bludgeon to 100%
+May train skill weapon skill 1h bludgeon to 100%
+May train skill conceal spellcasting to 30%
+May train skill demon and devil lore to 25%
+May train skill tinning to 100%
+May train skill leftwield to 50%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell cure critical wounds to 80%
+May study spell cure demon to 80%
+May study spell dark absolution to 45%
+May study spell demonic blood to 35%
+May study spell dispel good to 35%
+May study spell fireclaws to 60%
+May study spell mages bane to 65%
+May study spell recall hunter to 65%
+May study spell summon lesser hunter to 65%
+May study spell summon minor hunter to 100%
+May study spell teleport without error to 50%
+May study spell warriors bane to 65%
+May train skill dark ritual to 80%
+May train skill soul manipulation to 80%
+May train skill zapping to 80%
+May train skill focus dark energies to 30%
+May train skill power manipulation to 100%
+May train skill quick chant to 80%
+May train skill doublehit to 15%
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell call mind control device to 70%
+May study spell crumbling feet to 70%
+May study spell darkfire to 100%
+May study spell moaning laughter to 100%
+May study spell relocate to 40%
+May study spell screaming mind to 70%
+May study spell sharp nails to 40%
+May study spell summon demonic guardian to 25%
+May study spell water walking to 80%
+May train skill leadership to 80%
+May train skill demon control to 80%
+May train skill conceal spellcasting to 35%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell acid fangs to 5%
+May study spell chaos bane to 5%
+May study spell clairvoyance to 30%
+May study spell demonic shield to 40%
+May study spell devilish tickle to 100%
+May study spell mages bane to 75%
+May study spell protection from good to 40%
+May study spell recall hunter to 75%
+May study spell summon lesser hunter to 75%
+May study spell warriors bane to 75%
+May study spell weary arms to 100%
+May train skill demon and devil lore to 30%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell call mind control device to 80%
+May study spell crumbling feet to 80%
+May study spell cure critical wounds to 90%
+May study spell cure demon to 90%
+May study spell dark absolution to 55%
+May study spell dispel good to 40%
+May study spell fireclaws to 65%
+May study spell screaming mind to 80%
+May study spell summon demonic guardian to 40%
+May study spell teleport without error to 55%
+May train skill focus dark energies to 35%
+May train skill conceal spellcasting to 40%
+May train skill doublehit to 20%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell celestial disposition to 5%
+May study spell mages bane to 80%
+May study spell summon greater hunter to 4%
+May study spell summon lesser hunter to 80%
+May train skill soul manipulation to 90%
+May train skill leftwield to 65%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell demonic blood to 40%
+May study spell recall hunter to 80%
+May study spell summon demonic guardian to 60%
+May study spell warriors bane to 80%
+May train skill dark ritual to 90%
+May train skill demon and devil lore to 35%
+May train skill quick chant to 90%
+May train skill focus dark energies to 40%
+May train skill zapping to 90%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell acid fangs to 10%
+May study spell call mind control device to 90%
+May study spell chaos bane to 10%
+May study spell clairvoyance to 35%
+May study spell crumbling feet to 90%
+May study spell dark absolution to 65%
+May study spell demonic shield to 45%
+May study spell dispel good to 45%
+May study spell fireclaws to 70%
+May study spell mages bane to 90%
+May study spell protection from good to 45%
+May study spell relocate to 50%
+May study spell screaming mind to 90%
+May study spell sharp nails to 50%
+May study spell teleport without error to 60%
+May train skill conceal spellcasting to 45%
+May train skill doublehit to 25%
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell cure critical wounds to 100%
+May study spell cure demon to 100%
+May study spell demonic blood to 45%
+May study spell recall hunter to 90%
+May study spell relocate to 65%
+May study spell summon demonic guardian to 80%
+May study spell summon lesser hunter to 90%
+May study spell warriors bane to 90%
+May study spell water walking to 90%
+May train skill dodge to 5%
+May train skill leadership to 85%
+May train skill demon control to 90%
+May train skill focus dark energies to 45%
+May train skill zapping to 100%
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell call mind control device to 100%
+May study spell crumbling feet to 100%
+May study spell recall hunter to 100%
+May study spell screaming mind to 100%
+May study spell summon greater hunter to 10%
+May study spell warriors bane to 100%
+May train skill conceal spellcasting to 50%
+May train skill dark ritual to 100%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell acid fangs to 20%
+May study spell celestial disposition to 10%
+May study spell chaos bane to 15%
+May study spell clairvoyance to 40%
+May study spell dark absolution to 75%
+May study spell demonic blood to 50%
+May study spell demonic shield to 50%
+May study spell dispel good to 50%
+May study spell fireclaws to 75%
+May study spell mages bane to 100%
+May study spell protection from good to 50%
+May study spell relocate to 75%
+May study spell sharp nails to 60%
+May study spell summon demonic guardian to 100%
+May study spell summon lesser hunter to 100%
+May study spell teleport without error to 70%
+May study spell water walking to 100%
+May train skill leadership to 90%
+May train skill focus dark energies to 45%
+May train skill quick chant to 100%
+May train skill leftwield to 75%
+May train skill doublehit to 30%
+May train skill dodge to 10%
+May train skill demon control to 100%
+May train skill soul manipulation to 100%
+May train skill demon and devil lore to 40%
+------------------------------------------------------.
+
+Subguilds:
+Dark_Adepts 10
+Followers_of_Asmodeus 5
+Followers_of_Mortos 5

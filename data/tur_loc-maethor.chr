@@ -1,0 +1,154 @@
+Updated 2011.04.13
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hp(5), Sp(2), Str(1), Dex(1), Hp_regen(1),                      |
+|     | Physical resistance(1)                                          |
+|   2 | Hp(5), Sp(2), Str(2), Dex(1), Wis(1), Con(1), Hp_regen(2),      |
+|     | Sp_regen(1), Magical resistance(1), Physical resistance(1)      |
+|   3 | Hp(5), Sp(2), Str(1), Dex(1), Hp_regen(1),                      |
+|     | Physical resistance(1)                                          |
+|   4 | Hp(5), Sp(2), Str(2), Dex(1), Wis(1), Con(1), Hp_regen(2),      |
+|     | Sp_regen(1), Magical resistance(1), Physical resistance(1)      |
+|   5 | Hp(5), Sp(2), Str(1), Dex(1), Hp_regen(1),                      |
+|     | Physical resistance(1)                                          |
+|   6 | Hp(5), Sp(2), Str(2), Dex(1), Wis(1), Con(1), Hp_regen(2),      |
+|     | Sp_regen(1), Magical resistance(1), Physical resistance(1)      |
+|   7 | Hp(5), Sp(2), Str(1), Dex(1), Hp_regen(1),                      |
+|     | Physical resistance(1)                                          |
+|   8 | Hp(5), Sp(2), Str(2), Dex(1), Wis(1), Con(1), Hp_regen(2),      |
+|     | Sp_regen(1), Magical resistance(1), Physical resistance(1)      |
+|   9 | Hp(5), Sp(2), Str(1), Dex(1), Hp_regen(1),                      |
+|     | Physical resistance(1)                                          |
+|  10 | Hp(5), Sp(2), Str(2), Dex(1), Wis(1), Con(1), Hp_regen(2),      |
+|     | Sp_regen(1), Magical resistance(1), Physical resistance(1)      |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May train skill loc ecsuram to 30%
+May train skill magus to 10%
+May train skill pra evaleo to 10%
+May train skill volo to 10%
+May train skill critical to 10%
+May train skill weapon skill 2h staff to 20%
+May train skill pon arila to 40%
+May train skill attack to 20%
+------------------------------------------------------.
+
+Level 2 abilities:
+May train skill volo to 20%
+May train skill critical to 20%
+May train skill prev enire to 5%
+May train skill loc ecsuram to 60%
+May train skill pon deila to 5%
+May train skill magus to 20%
+May train skill pra evaleo to 20%
+May train skill ca reo to 5%
+May train skill weapon skill 2h staff to 40%
+May train skill pon arila to 50%
+May train skill attack to 40%
+------------------------------------------------------.
+
+Level 3 abilities:
+May train skill dodge to 10%
+May train skill critical to 30%
+May train skill prev enire to 10%
+May train skill volo to 30%
+May train skill stun to 10%
+May train skill loc ecsuram to 90%
+May train skill pon deila to 10%
+May train skill pra evaleo to 30%
+May train skill weapon skill 2h staff to 60%
+May train skill attack to 60%
+May train skill healing trance to 20%
+May train skill clot wounds to 20%
+May train skill ca reo to 10%
+May train skill magus to 30%
+May train skill whirlwind attack to 10%
+May train skill doublehit to 20%
+May train skill pon arila to 60%
+------------------------------------------------------.
+
+Level 4 abilities:
+May train skill volo to 40%
+May train skill critical to 40%
+May train skill prev enire to 15%
+May train skill loc ecsuram to 100%
+May train skill pon deila to 15%
+May train skill magus to 40%
+May train skill pra evaleo to 40%
+May train skill ca reo to 15%
+May train skill weapon skill 2h staff to 80%
+May train skill pon arila to 70%
+May train skill attack to 80%
+------------------------------------------------------.
+
+Level 5 abilities:
+May train skill critical to 50%
+May train skill prev enire to 20%
+May train skill volo to 50%
+May train skill pon deila to 20%
+May train skill magus to 50%
+May train skill pra evaleo to 50%
+May train skill ca reo to 20%
+May train skill weapon skill 2h staff to 100%
+May train skill pon arila to 80%
+May train skill attack to 100%
+------------------------------------------------------.
+
+Level 6 abilities:
+May train skill dodge to 20%
+May train skill volo to 60%
+May train skill prev enire to 30%
+May train skill healing trance to 40%
+May train skill pon deila to 30%
+May train skill stun to 20%
+May train skill magus to 60%
+May train skill pra evaleo to 60%
+May train skill clot wounds to 40%
+May train skill ca reo to 30%
+May train skill pon arila to 85%
+May train skill whirlwind attack to 20%
+May train skill doublehit to 40%
+------------------------------------------------------.
+
+Level 7 abilities:
+May train skill pon deila to 40%
+May train skill magus to 70%
+May train skill pra evaleo to 70%
+May train skill ca reo to 40%
+May train skill volo to 70%
+May train skill prev enire to 40%
+May train skill pon arila to 90%
+------------------------------------------------------.
+
+Level 8 abilities:
+May train skill pon deila to 50%
+May train skill prev enire to 50%
+May train skill pon arila to 95%
+May train skill ca reo to 50%
+------------------------------------------------------.
+
+Level 9 abilities:
+May train skill dodge to 30%
+May train skill prev enire to 60%
+May train skill healing trance to 60%
+May train skill stun to 30%
+May train skill pon deila to 60%
+May train skill clot wounds to 60%
+May train skill ca reo to 60%
+May train skill pon arila to 100%
+May train skill whirlwind attack to 30%
+May train skill doublehit to 60%
+------------------------------------------------------.
+
+Level 10 abilities:
+May train skill healing trance to 70%
+May train skill pon deila to 70%
+May train skill clot wounds to 70%
+May train skill ca reo to 70%
+May train skill prev enire to 70%
+------------------------------------------------------.

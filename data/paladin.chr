@@ -1,0 +1,936 @@
+Updated 2011.03.25
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hp(10), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(3)              |
+|   2 | Hp(10), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(3),             |
+|     | Physical resistance(1)                                          |
+|   3 | Hp(10), Sp(3), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(3)      |
+|   4 | Hp(10), Sp(2), Str(2), Wis(2), Con(2), Sp_regen(3),             |
+|     | Physical resistance(1)                                          |
+|   5 | Hp(9), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(3)               |
+|   6 | Hp(10), Sp(3), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(3),     |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|   7 | Hp(10), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(3)              |
+|   8 | Hp(10), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(3)              |
+|   9 | Hp(10), Sp(2), Str(2), Wis(2), Con(2), Sp_regen(3),             |
+|     | Physical resistance(1)                                          |
+|  10 | Hp(9), Sp(3), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(3)       |
+|  11 | Hp(10), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(3),             |
+|     | Physical resistance(1)                                          |
+|  12 | Hp(9), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  13 | Hp(9), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(3)               |
+|  14 | Hp(9), Sp(3), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(3),      |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  15 | Hp(9), Sp(2), Str(2), Wis(2), Con(2), Sp_regen(2)               |
+|  16 | Hp(9), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(3),              |
+|     | Physical resistance(1)                                          |
+|  17 | Hp(9), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(3)               |
+|  18 | Hp(9), Sp(3), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(3)       |
+|  19 | Hp(9), Sp(3), Str(2), Wis(2), Con(2), Sp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  20 | Hp(9), Sp(2), Str(2), Wis(2), Con(2), Sp_regen(3)               |
+|  21 | Hp(8), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  22 | Hp(8), Sp(3), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(3),      |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  23 | Hp(8), Sp(2), Str(2), Wis(2), Con(2), Sp_regen(2)               |
+|  24 | Hp(7), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  25 | Hp(6), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  26 | Hp(6), Sp(1), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  27 | Hp(6), Sp(2), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(2)       |
+|  28 | Hp(6), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(1)               |
+|  29 | Hp(6), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  30 | Hp(6), Sp(1), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  31 | Hp(6), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  32 | Hp(6), Sp(2), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(2),      |
+|     | Magical resistance(1), Physical resistance(1)                   |
+|  33 | Hp(6), Sp(1), Str(1), Wis(1), Con(1), Sp_regen(1)               |
+|  34 | Hp(6), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  35 | Hp(5), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  36 | Hp(5), Sp(1), Str(1), Wis(1), Con(1), Sp_regen(1)               |
+|  37 | Hp(6), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  38 | Hp(5), Sp(1), Str(1), Wis(1), Con(1), Sp_regen(1)               |
+|  39 | Hp(5), Sp(2), Str(1), Wis(1), Con(1), Dex(1), Sp_regen(2)       |
+|  40 | Hp(5), Sp(1), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  41 | Hp(6), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(1),              |
+|     | Physical resistance(1)                                          |
+|  42 | Hp(5), Sp(1), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  43 | Hp(5), Sp(2), Str(1), Wis(1), Con(1), Sp_regen(1)               |
+|  44 | Hp(5), Sp(1), Str(1), Wis(1), Con(1), Sp_regen(2)               |
+|  45 | Hp(6), Sp(2), Str(2), Wis(2), Con(2), Dex(1), Sp_regen(2),      |
+|     | Magical resistance(1), Physical resistance(1)                   |
+`-----------------------------------------------------------------------'
+
+
+info full
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell cure light wounds to 10%
+May study spell cure serious wounds to 5%
+May study spell darkness to 20%
+May study spell detect alignment to 20%
+May study spell dispel undead to 5%
+May study spell flamestrike to 20%
+May study spell light to 20%
+May train skill attack to 20%
+May train skill zapping to 20%
+May train skill appraise to 20%
+May train skill consider to 20%
+May train skill parry to 5%
+May train skill weapon skill 1h sword to 20%
+May train skill weapon skill 2h sword to 20%
+May train skill first aid to 20%
+May train skill bash to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell armour of god to 5%
+May study spell cure light wounds to 15%
+May study spell cure serious wounds to 10%
+May study spell darkness to 40%
+May study spell detect alignment to 35%
+May study spell dispel undead to 15%
+May study spell flamestrike to 30%
+May study spell light to 40%
+May train skill attack to 40%
+May train skill hear noises to 10%
+May train skill zapping to 40%
+May train skill appraise to 35%
+May train skill consider to 40%
+May train skill weapon skill 1h sword to 40%
+May train skill weapon skill 2h sword to 40%
+May train skill first aid to 40%
+May train skill bash to 20%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell cure light wounds to 30%
+May study spell cure serious wounds to 15%
+May study spell darkness to 60%
+May study spell detect alignment to 50%
+May study spell dispel undead to 25%
+May study spell flamestrike to 40%
+May study spell light to 60%
+May train skill hear noises to 25%
+May train skill attack to 60%
+May train skill inner strength to 5%
+May train skill zapping to 60%
+May train skill consider to 60%
+May train skill appraise to 50%
+May train skill quick chant to 5%
+May train skill weapon skill 1h sword to 60%
+May train skill weapon skill 2h sword to 60%
+May train skill tinning to 10%
+May train skill first aid to 60%
+May train skill skill that saves sp to 10%
+May train skill bash to 30%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell armour of god to 10%
+May study spell create food to 10%
+May study spell cure light wounds to 45%
+May study spell cure serious wounds to 20%
+May study spell darkness to 80%
+May study spell detect alignment to 70%
+May study spell dispel undead to 35%
+May study spell flamestrike to 50%
+May study spell light to 80%
+May train skill hear noises to 35%
+May train skill attack to 80%
+May train skill zapping to 80%
+May train skill appraise to 70%
+May train skill consider to 80%
+May train skill weapon skill 1h sword to 80%
+May train skill weapon skill 2h sword to 80%
+May train skill tinning to 20%
+May train skill first aid to 80%
+May train skill skill that saves sp to 20%
+May train skill bash to 40%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell create food to 15%
+May study spell cure light wounds to 60%
+May study spell cure serious wounds to 25%
+May study spell darkness to 100%
+May study spell detect alignment to 85%
+May study spell dispel curse to 10%
+May study spell dispel undead to 45%
+May study spell flamestrike to 60%
+May study spell light to 100%
+May study spell shield of protection to 5%
+May train skill hear noises to 50%
+May train skill attack to 100%
+May train skill zapping to 100%
+May train skill consider to 100%
+May train skill appraise to 85%
+May train skill stun to 5%
+May train skill parry to 10%
+May train skill weapon skill 2h sword to 100%
+May train skill weapon skill 1h sword to 100%
+May train skill tinning to 25%
+May train skill first aid to 100%
+May train skill skill that saves sp to 25%
+May train skill bash to 50%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell armour of god to 15%
+May study spell create food to 25%
+May study spell cure light wounds to 75%
+May study spell cure serious wounds to 30%
+May study spell detect alignment to 100%
+May study spell dispel curse to 15%
+May study spell dispel undead to 55%
+May study spell shield of protection to 10%
+May train skill hear noises to 60%
+May train skill prayer to 5%
+May train skill tinning to 35%
+May train skill appraise to 100%
+May train skill skill that saves sp to 35%
+May train skill stun to 10%
+May train skill bash to 60%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell create food to 30%
+May study spell cure blindness to 5%
+May study spell cure critical wounds to 5%
+May study spell cure light wounds to 85%
+May study spell cure serious wounds to 40%
+May study spell dimension door to 5%
+May study spell dispel curse to 20%
+May study spell dispel undead to 60%
+May study spell flamestrike to 70%
+May study spell shield of protection to 15%
+May study spell white orb to 5%
+May study spell word of recall to 5%
+May train skill hear noises to 75%
+May train skill inner strength to 10%
+May train skill stun to 15%
+May train skill quick chant to 10%
+May train skill doublehit to 5%
+May train skill parry to 15%
+May train skill prayer to 10%
+May train skill tinning to 40%
+May train skill skill that saves sp to 40%
+May train skill bash to 70%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell armour of god to 20%
+May study spell create food to 40%
+May study spell cure blindness to 10%
+May study spell cure critical wounds to 10%
+May study spell cure disease to 5%
+May study spell cure light wounds to 100%
+May study spell cure serious wounds to 45%
+May study spell dimension door to 10%
+May study spell dispel curse to 30%
+May study spell dispel undead to 65%
+May study spell remove poison to 5%
+May study spell shield of protection to 20%
+May study spell white orb to 10%
+May study spell word of recall to 10%
+May train skill hear noises to 90%
+May train skill prayer to 15%
+May train skill doublehit to 10%
+May train skill tinning to 50%
+May train skill skill that saves sp to 50%
+May train skill stun to 20%
+May train skill bash to 80%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell create food to 45%
+May study spell cure disease to 10%
+May study spell cure serious wounds to 50%
+May study spell dispel curse to 35%
+May study spell dispel undead to 70%
+May study spell flamestrike to 75%
+May study spell lesser fire invulnerability to 5%
+May study spell lesser magical invulnerability to 5%
+May study spell remove poison to 10%
+May study spell shield of protection to 25%
+May study spell word of recall to 15%
+May train skill hear noises to 100%
+May train skill essence eye to 5%
+May train skill riposte to 5%
+May train skill stun to 25%
+May train skill doublehit to 15%
+May train skill prayer to 20%
+May train skill tinning to 60%
+May train skill bash to 90%
+May train skill skill that saves sp to 60%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell armour of god to 25%
+May study spell create food to 50%
+May study spell cure blindness to 15%
+May study spell cure critical wounds to 15%
+May study spell cure serious wounds to 55%
+May study spell dimension door to 15%
+May study spell dispel curse to 40%
+May study spell dispel evil to 5%
+May study spell dispel undead to 75%
+May study spell enlightenment to 5%
+May study spell holy hand to 10%
+May study spell remove scar to 5%
+May study spell shelter to 5%
+May study spell shield of protection to 30%
+May study spell white orb to 15%
+May train skill shield fighting to 10%
+May train skill inner strength to 15%
+May train skill whirlwind attack to 5%
+May train skill leadership to 20%
+May train skill stun to 30%
+May train skill quick chant to 15%
+May train skill prayer to 25%
+May train skill doublehit to 20%
+May train skill tinning to 65%
+May train skill skill that saves sp to 65%
+May train skill critical to 5%
+May train skill bash to 100%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell create food to 60%
+May study spell cure blindness to 20%
+May study spell cure critical wounds to 20%
+May study spell cure disease to 15%
+May study spell cure serious wounds to 60%
+May study spell dimension door to 20%
+May study spell dispel curse to 45%
+May study spell dispel undead to 80%
+May study spell flamestrike to 80%
+May study spell lesser fire invulnerability to 10%
+May study spell lesser magical invulnerability to 10%
+May study spell remove poison to 15%
+May study spell shield of protection to 40%
+May study spell white orb to 20%
+May study spell word of recall to 20%
+May train skill prayer to 30%
+May train skill parry to 35%
+May train skill doublehit to 25%
+May train skill tinning to 75%
+May train skill essence eye to 10%
+May train skill skill that saves sp to 75%
+May train skill stun to 40%
+May train skill riposte to 10%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell armour of god to 30%
+May study spell create food to 65%
+May study spell cure blindness to 25%
+May study spell cure critical wounds to 25%
+May study spell cure disease to 20%
+May study spell cure serious wounds to 65%
+May study spell dimension door to 25%
+May study spell dispel curse to 50%
+May study spell dispel undead to 85%
+May study spell enlightenment to 10%
+May study spell holy hand to 20%
+May study spell lesser fire invulnerability to 15%
+May study spell lesser magical invulnerability to 15%
+May study spell remove poison to 20%
+May study spell remove scar to 10%
+May study spell shelter to 10%
+May study spell shield of protection to 45%
+May study spell white orb to 25%
+May study spell word of recall to 25%
+May train skill shield fighting to 20%
+May train skill whirlwind attack to 10%
+May train skill essence eye to 15%
+May train skill stun to 45%
+May train skill riposte to 15%
+May train skill prayer to 35%
+May train skill doublehit to 30%
+May train skill parry to 45%
+May train skill tinning to 80%
+May train skill skill that saves sp to 80%
+May train skill critical to 10%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell create food to 70%
+May study spell cure serious wounds to 70%
+May study spell dispel curse to 60%
+May study spell dispel undead to 90%
+May study spell flamestrike to 85%
+May study spell shield of protection to 50%
+May study spell word of recall to 30%
+May train skill doublehit to 35%
+May train skill prayer to 40%
+May train skill tinning to 90%
+May train skill skill that saves sp to 90%
+May train skill stun to 50%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell armour of god to 35%
+May study spell create food to 75%
+May study spell cure blindness to 30%
+May study spell cure critical wounds to 30%
+May study spell cure disease to 25%
+May study spell cure serious wounds to 75%
+May study spell dimension door to 30%
+May study spell dispel curse to 65%
+May study spell dispel undead to 95%
+May study spell enlightenment to 15%
+May study spell holy hand to 30%
+May study spell lesser fire invulnerability to 20%
+May study spell lesser magical invulnerability to 20%
+May study spell remove poison to 25%
+May study spell remove scar to 15%
+May study spell shelter to 15%
+May study spell shield of protection to 55%
+May study spell white orb to 30%
+May train skill shield fighting to 30%
+May train skill inner strength to 20%
+May train skill whirlwind attack to 15%
+May train skill essence eye to 20%
+May train skill riposte to 20%
+May train skill stun to 55%
+May train skill quick chant to 20%
+May train skill prayer to 45%
+May train skill doublehit to 40%
+May train skill tinning to 100%
+May train skill skill that saves sp to 100%
+May train skill critical to 15%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell create food to 80%
+May study spell cure blindness to 35%
+May study spell cure critical wounds to 35%
+May study spell cure disease to 30%
+May study spell cure serious wounds to 80%
+May study spell dimension door to 35%
+May study spell dispel curse to 70%
+May study spell dispel undead to 100%
+May study spell enlightenment to 20%
+May study spell flamestrike to 90%
+May study spell lesser fire invulnerability to 25%
+May study spell lesser magical invulnerability to 25%
+May study spell remove poison to 30%
+May study spell remove scar to 20%
+May study spell shelter to 20%
+May study spell shield of protection to 60%
+May study spell white orb to 35%
+May study spell word of recall to 35%
+May train skill prayer to 50%
+May train skill parry to 50%
+May train skill doublehit to 45%
+May train skill whirlwind attack to 20%
+May train skill leadership to 35%
+May train skill essence eye to 25%
+May train skill stun to 60%
+May train skill riposte to 25%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell armour of god to 40%
+May study spell create food to 85%
+May study spell cure blindness to 40%
+May study spell cure critical wounds to 40%
+May study spell cure disease to 35%
+May study spell cure serious wounds to 85%
+May study spell dimension door to 40%
+May study spell dispel curse to 75%
+May study spell dispel evil to 10%
+May study spell holy hand to 40%
+May study spell remove poison to 35%
+May study spell shield of protection to 65%
+May study spell white orb to 40%
+May study spell word of recall to 40%
+May train skill shield fighting to 40%
+May train skill doublehit to 50%
+May train skill prayer to 55%
+May train skill stun to 65%
+May train skill critical to 20%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell create food to 95%
+May study spell cure blindness to 45%
+May study spell cure critical wounds to 45%
+May study spell cure serious wounds to 95%
+May study spell dimension door to 45%
+May study spell dispel curse to 80%
+May study spell enlightenment to 25%
+May study spell flamestrike to 95%
+May study spell lesser fire invulnerability to 30%
+May study spell lesser magical invulnerability to 30%
+May study spell remove scar to 25%
+May study spell shelter to 25%
+May study spell shield of protection to 70%
+May study spell white orb to 45%
+May study spell word of recall to 45%
+May train skill inner strength to 25%
+May train skill whirlwind attack to 25%
+May train skill essence eye to 30%
+May train skill riposte to 30%
+May train skill stun to 70%
+May train skill quick chant to 25%
+May train skill prayer to 60%
+May train skill doublehit to 55%
+May train skill parry to 55%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell armour of god to 45%
+May study spell create food to 100%
+May study spell cure disease to 40%
+May study spell cure serious wounds to 100%
+May study spell dispel curse to 90%
+May study spell dispel evil to 20%
+May study spell holy hand to 50%
+May study spell lesser fire invulnerability to 35%
+May study spell lesser magical invulnerability to 35%
+May study spell remove poison to 40%
+May study spell shield of protection to 75%
+May study spell word of recall to 50%
+May train skill shield fighting to 45%
+May train skill prayer to 65%
+May train skill doublehit to 60%
+May train skill essence eye to 35%
+May train skill stun to 75%
+May train skill critical to 25%
+May train skill riposte to 35%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell cure blindness to 50%
+May study spell cure critical wounds to 50%
+May study spell cure disease to 45%
+May study spell dimension door to 50%
+May study spell dispel curse to 95%
+May study spell enlightenment to 30%
+May study spell flamestrike to 100%
+May study spell remove poison to 45%
+May study spell remove scar to 30%
+May study spell shelter to 30%
+May study spell shield of protection to 80%
+May study spell white orb to 50%
+May study spell word of recall to 55%
+May train skill prayer to 70%
+May train skill doublehit to 65%
+May train skill whirlwind attack to 30%
+May train skill stun to 80%
+May train skill critical to 30%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell armour of god to 50%
+May study spell cure blindness to 55%
+May study spell cure critical wounds to 55%
+May study spell dimension door to 55%
+May study spell dispel curse to 100%
+May study spell dispel evil to 30%
+May study spell enlightenment to 35%
+May study spell holy glow to 5%
+May study spell holy hand to 60%
+May study spell lesser fire invulnerability to 40%
+May study spell lesser magical invulnerability to 40%
+May study spell remove scar to 35%
+May study spell shelter to 35%
+May study spell shield of protection to 85%
+May study spell white orb to 55%
+May study spell word of recall to 60%
+May train skill shield fighting to 50%
+May train skill whirlwind attack to 35%
+May train skill essence eye to 40%
+May train skill leadership to 50%
+May train skill riposte to 40%
+May train skill stun to 85%
+May train skill doublehit to 70%
+May train skill parry to 90%
+May train skill prayer to 75%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell cure blindness to 60%
+May study spell cure critical wounds to 60%
+May study spell cure disease to 50%
+May study spell dimension door to 60%
+May study spell lesser fire invulnerability to 45%
+May study spell lesser magical invulnerability to 45%
+May study spell remove poison to 50%
+May study spell shield of protection to 95%
+May study spell white orb to 60%
+May train skill inner strength to 30%
+May train skill essence eye to 45%
+May train skill stun to 95%
+May train skill riposte to 45%
+May train skill quick chant to 30%
+May train skill prayer to 80%
+May train skill doublehit to 75%
+May train skill parry to 65%
+May train skill critical to 35%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell armour of god to 55%
+May study spell cure disease to 55%
+May study spell dispel evil to 40%
+May study spell enlightenment to 40%
+May study spell holy hand to 70%
+May study spell remove poison to 55%
+May study spell remove scar to 40%
+May study spell shelter to 40%
+May study spell shield of protection to 100%
+May study spell word of recall to 65%
+May train skill shield fighting to 55%
+May train skill prayer to 85%
+May train skill parry to 70%
+May train skill doublehit to 80%
+May train skill whirlwind attack to 40%
+May train skill stun to 100%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell cure blindness to 65%
+May study spell cure critical wounds to 65%
+May study spell cure disease to 60%
+May study spell dimension door to 65%
+May study spell holy glow to 10%
+May study spell lesser fire invulnerability to 50%
+May study spell lesser magical invulnerability to 50%
+May study spell remove poison to 60%
+May study spell white orb to 65%
+May study spell word of recall to 70%
+May train skill prayer to 90%
+May train skill doublehit to 85%
+May train skill essence eye to 50%
+May train skill critical to 40%
+May train skill riposte to 50%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell armour of god to 60%
+May study spell cure blindness to 70%
+May study spell cure critical wounds to 70%
+May study spell dimension door to 70%
+May study spell dispel evil to 50%
+May study spell enlightenment to 45%
+May study spell holy hand to 75%
+May study spell remove scar to 45%
+May study spell shelter to 45%
+May study spell white orb to 70%
+May study spell word of recall to 75%
+May train skill shield fighting to 60%
+May train skill prayer to 95%
+May train skill doublehit to 90%
+May train skill parry to 75%
+May train skill inner strength to 35%
+May train skill whirlwind attack to 45%
+May train skill quick chant to 35%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell cure blindness to 75%
+May study spell cure critical wounds to 75%
+May study spell cure disease to 65%
+May study spell dimension door to 75%
+May study spell lesser fire invulnerability to 55%
+May study spell lesser magical invulnerability to 55%
+May study spell remove poison to 65%
+May study spell white orb to 75%
+May study spell word of recall to 80%
+May train skill prayer to 100%
+May train skill doublehit to 95%
+May train skill leadership to 60%
+May train skill essence eye to 55%
+May train skill critical to 45%
+May train skill riposte to 55%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell armour of god to 65%
+May study spell cure disease to 70%
+May study spell dispel evil to 60%
+May study spell enlightenment to 50%
+May study spell holy hand to 80%
+May study spell lesser fire invulnerability to 60%
+May study spell lesser magical invulnerability to 60%
+May study spell remove poison to 70%
+May study spell remove scar to 50%
+May study spell shelter to 50%
+May train skill shield fighting to 65%
+May train skill doublehit to 100%
+May train skill parry to 80%
+May train skill whirlwind attack to 50%
+May train skill essence eye to 60%
+May train skill riposte to 60%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell cure blindness to 80%
+May study spell cure critical wounds to 80%
+May study spell cure disease to 75%
+May study spell dimension door to 80%
+May study spell enlightenment to 55%
+May study spell holy glow to 15%
+May study spell remove poison to 75%
+May study spell remove scar to 55%
+May study spell shelter to 55%
+May study spell white orb to 80%
+May study spell word of recall to 85%
+May train skill whirlwind attack to 55%
+May train skill critical to 50%
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell armour of god to 70%
+May study spell cure blindness to 85%
+May study spell cure critical wounds to 85%
+May study spell dimension door to 85%
+May study spell dispel evil to 70%
+May study spell holy hand to 85%
+May study spell lesser fire invulnerability to 65%
+May study spell lesser magical invulnerability to 65%
+May study spell white orb to 85%
+May study spell word of recall to 90%
+May train skill shield fighting to 70%
+May train skill parry to 85%
+May train skill inner strength to 40%
+May train skill essence eye to 65%
+May train skill quick chant to 40%
+May train skill riposte to 65%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell cure blindness to 90%
+May study spell cure critical wounds to 90%
+May study spell cure disease to 80%
+May study spell dimension door to 90%
+May study spell enlightenment to 60%
+May study spell lesser fire invulnerability to 70%
+May study spell lesser magical invulnerability to 70%
+May study spell remove poison to 80%
+May study spell remove scar to 60%
+May study spell shelter to 60%
+May study spell white orb to 90%
+May study spell word of recall to 95%
+May train skill essence eye to 70%
+May train skill whirlwind attack to 60%
+May train skill critical to 55%
+May train skill riposte to 70%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell armour of god to 75%
+May study spell cure disease to 85%
+May study spell dispel evil to 75%
+May study spell feather weight to 15%
+May study spell holy glow to 20%
+May study spell holy hand to 90%
+May study spell remove poison to 85%
+May study spell word of recall to 100%
+May train skill shield fighting to 75%
+May train skill leadership to 75%
+May train skill critical to 60%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell cure blindness to 95%
+May study spell cure critical wounds to 95%
+May study spell dimension door to 95%
+May study spell enlightenment to 65%
+May study spell feather weight to 30%
+May study spell lesser fire invulnerability to 75%
+May study spell lesser magical invulnerability to 75%
+May study spell remove scar to 65%
+May study spell shelter to 65%
+May study spell white orb to 95%
+May train skill parry to 95%
+May train skill inner strength to 45%
+May train skill bless to 5%
+May train skill whirlwind attack to 65%
+May train skill essence eye to 75%
+May train skill quick chant to 45%
+May train skill riposte to 75%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell armour of god to 80%
+May study spell cure blindness to 100%
+May study spell cure critical wounds to 100%
+May study spell cure disease to 90%
+May study spell dimension door to 100%
+May study spell dispel evil to 80%
+May study spell feather weight to 35%
+May study spell holy hand to 95%
+May study spell remove poison to 90%
+May study spell white orb to 100%
+May train skill shield fighting to 80%
+May train skill critical to 65%
+May train skill bless to 10%
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell cure disease to 95%
+May study spell enlightenment to 70%
+May study spell feather weight to 40%
+May study spell holy glow to 25%
+May study spell lesser fire invulnerability to 80%
+May study spell lesser magical invulnerability to 80%
+May study spell remove poison to 95%
+May study spell remove scar to 70%
+May study spell shelter to 70%
+May train skill parry to 100%
+May train skill bless to 15%
+May train skill whirlwind attack to 70%
+May train skill essence eye to 80%
+May train skill leadership to 85%
+May train skill riposte to 80%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell armour of god to 85%
+May study spell cure disease to 100%
+May study spell dispel evil to 85%
+May study spell enlightenment to 75%
+May study spell feather weight to 45%
+May study spell holy hand to 100%
+May study spell lesser fire invulnerability to 85%
+May study spell lesser magical invulnerability to 85%
+May study spell remove poison to 100%
+May study spell remove scar to 75%
+May study spell shelter to 75%
+May train skill shield fighting to 85%
+May train skill bless to 20%
+May train skill whirlwind attack to 75%
+May train skill essence eye to 85%
+May train skill riposte to 85%
+May train skill critical to 70%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell feather weight to 50%
+May train skill inner strength to 50%
+May train skill leadership to 100%
+May train skill bless to 25%
+May train skill quick chant to 50%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell armour of god to 90%
+May study spell dispel evil to 90%
+May study spell enlightenment to 80%
+May study spell feather weight to 55%
+May study spell holy glow to 30%
+May study spell lesser fire invulnerability to 90%
+May study spell lesser magical invulnerability to 90%
+May study spell remove scar to 80%
+May study spell shelter to 80%
+May train skill shield fighting to 90%
+May train skill bless to 30%
+May train skill whirlwind attack to 80%
+May train skill essence eye to 90%
+May train skill riposte to 90%
+May train skill critical to 75%
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell feather weight to 60%
+May study spell lesser fire invulnerability to 95%
+May study spell lesser magical invulnerability to 95%
+May train skill essence eye to 95%
+May train skill bless to 35%
+May train skill riposte to 95%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell armour of god to 95%
+May study spell dispel evil to 95%
+May study spell enlightenment to 85%
+May study spell feather weight to 65%
+May study spell holy glow to 35%
+May study spell remove scar to 85%
+May study spell shelter to 85%
+May train skill shield fighting to 95%
+May train skill inner strength to 55%
+May train skill bless to 40%
+May train skill whirlwind attack to 85%
+May train skill critical to 80%
+May train skill quick chant to 55%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell enlightenment to 90%
+May study spell feather weight to 70%
+May study spell lesser fire invulnerability to 100%
+May study spell lesser magical invulnerability to 100%
+May study spell remove scar to 90%
+May study spell shelter to 90%
+May train skill essence eye to 100%
+May train skill bless to 45%
+May train skill whirlwind attack to 90%
+May train skill riposte to 100%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell armour of god to 100%
+May study spell dispel evil to 100%
+May study spell feather weight to 75%
+May train skill shield fighting to 100%
+May train skill critical to 85%
+May train skill bless to 50%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell enlightenment to 95%
+May study spell feather weight to 80%
+May study spell holy glow to 40%
+May study spell remove scar to 95%
+May study spell shelter to 95%
+May train skill bless to 55%
+May train skill whirlwind attack to 95%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell feather weight to 85%
+May train skill inner strength to 60%
+May train skill bless to 60%
+May train skill quick chant to 60%
+May train skill critical to 90%
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell enlightenment to 100%
+May study spell feather weight to 90%
+May study spell holy glow to 45%
+May study spell remove scar to 100%
+May study spell shelter to 100%
+May train skill bless to 65%
+May train skill critical to 95%
+May train skill whirlwind attack to 100%
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell feather weight to 95%
+May train skill bless to 70%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell feather weight to 100%
+May study spell holy glow to 50%
+May train skill inner strength to 65%
+May train skill bless to 75%
+May train skill quick chant to 65%
+May train skill critical to 100%
+------------------------------------------------------.
+
+Subguilds:
+Knights_hospitalar 15
+Knights_inquisitor 15
+Knights_templar 15

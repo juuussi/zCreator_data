@@ -1,0 +1,541 @@
+Updated 2011.04.18
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hp(11), Sp(2), Str(3), Dex(3), Con(2), Hp_regen(3),             |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|   2 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Wis(1), Hp_regen(2),     |
+|     | Sp_regen(1)                                                     |
+|   3 | Hp(11), Sp(3), Str(2), Dex(2), Con(2), Hp_regen(2),             |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|   4 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Hp_regen(2)              |
+|   5 | Hp(11), Sp(2), Str(2), Dex(2), Con(1), Wis(1), Hp_regen(3),     |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|   6 | Hp(10), Sp(2), Str(2), Dex(2), Con(2), Hp_regen(2),             |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|   7 | Hp(11), Sp(2), Str(2), Dex(2), Con(1), Wis(1), Hp_regen(2)      |
+|   8 | Hp(10), Sp(2), Str(3), Dex(3), Con(2), Hp_regen(2),             |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|   9 | Hp(11), Sp(2), Str(2), Dex(2), Con(1), Hp_regen(3),             |
+|     | Sp_regen(1)                                                     |
+|  10 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Wis(1), Hp_regen(2),     |
+|     | Physical resistance(1)                                          |
+|  11 | Hp(10), Sp(2), Str(2), Dex(2), Con(2), Hp_regen(2),             |
+|     | Sp_regen(1)                                                     |
+|  12 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Hp_regen(2),             |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  13 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Wis(1), Hp_regen(2)      |
+|  14 | Hp(9), Sp(2), Str(2), Dex(2), Con(2), Hp_regen(2), Sp_regen(1), |
+|     | Physical resistance(1)                                          |
+|  15 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Hp_regen(2),             |
+|     | Sp_regen(1)                                                     |
+|  16 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Wis(1), Hp_regen(2),     |
+|     | Physical resistance(1)                                          |
+|  17 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Hp_regen(2),             |
+|     | Sp_regen(1)                                                     |
+|  18 | Hp(9), Sp(2), Str(2), Dex(2), Con(2), Int(1), Hp_regen(3),      |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  19 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Wis(1), Hp_regen(2),     |
+|     | Physical resistance(1)                                          |
+|  20 | Hp(10), Sp(2), Str(2), Dex(2), Con(1), Hp_regen(2),             |
+|     | Sp_regen(1)                                                     |
+|  21 | Hp(8), Sp(1), Str(2), Dex(2), Con(1), Hp_regen(1)               |
+|  22 | Hp(8), Sp(2), Str(1), Dex(1), Con(2), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  23 | Hp(9), Sp(2), Str(2), Dex(2), Con(1), Hp_regen(2), Sp_regen(1)  |
+|  24 | Hp(8), Sp(1), Str(2), Dex(2), Con(1), Hp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  25 | Hp(6), Sp(2), Str(1), Dex(1), Con(1), Hp_regen(1), Sp_regen(1)  |
+|  26 | Hp(7), Sp(1), Str(1), Dex(1), Wis(1), Hp_regen(1)               |
+|  27 | Hp(6), Sp(1), Str(2), Dex(2), Con(1), Hp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  28 | Hp(6), Sp(1), Str(1), Dex(1), Con(1), Hp_regen(1), Sp_regen(1)  |
+|  29 | Hp(7), Sp(2), Str(1), Dex(1), Con(1), Hp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  30 | Hp(6), Sp(1), Str(2), Dex(2), Con(1), Hp_regen(1), Sp_regen(1)  |
+|  31 | Hp(7), Sp(1), Str(1), Dex(1), Con(1), Wis(1), Hp_regen(1)       |
+|  32 | Hp(6), Sp(2), Str(1), Dex(1), Con(1), Hp_regen(2), Sp_regen(1), |
+|     | Physical resistance(1)                                          |
+|  33 | Hp(6), Sp(1), Str(1), Dex(1), Hp_regen(1)                       |
+|  34 | Hp(7), Sp(1), Str(2), Dex(2), Con(1), Hp_regen(1)               |
+|  35 | Hp(5), Sp(1), Str(1), Dex(1), Con(1), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  36 | Hp(6), Sp(1), Str(1), Dex(1), Con(1), Hp_regen(1)               |
+|  37 | Hp(6), Sp(2), Str(1), Dex(1), Con(1), Hp_regen(1), Sp_regen(1)  |
+|  38 | Hp(5), Sp(1), Str(1), Dex(1), Hp_regen(1)                       |
+|  39 | Hp(6), Sp(1), Str(2), Dex(2), Con(1), Hp_regen(1),              |
+|     | Physical resistance(1)                                          |
+|  40 | Hp(5), Sp(1), Str(1), Dex(1), Con(1), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1)                                                     |
+|  41 | Hp(6), Sp(1), Str(1), Dex(1), Con(1), Hp_regen(1)               |
+|  42 | Hp(6), Sp(1), Str(1), Dex(1), Hp_regen(1),                      |
+|     | Physical resistance(1)                                          |
+|  43 | Hp(5), Sp(1), Str(1), Dex(1), Con(1), Hp_regen(1), Sp_regen(1)  |
+|  44 | Hp(6), Sp(1), Str(1), Dex(1), Con(1), Hp_regen(1)               |
+|  45 | Hp(6), Sp(2), Str(2), Dex(2), Con(1), Wis(1), Int(1),           |
+|     | Hp_regen(2), Sp_regen(1), Physical resistance(1)                |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May train skill fast blow to 10%
+May train skill conjure light to 5%
+May train skill power kick to 10%
+May train skill tumble to 5%
+May train skill consider to 20%
+May train skill doublehit to 5%
+May train skill attack to 10%
+May train skill kungfu to 5%
+May train skill appraise to 5%
+May train skill dodge to 5%
+May train skill zapping to 5%
+May train skill tinning to 20%
+May train skill martial arts to 5%
+May train skill critical to 5%
+------------------------------------------------------.
+
+Level 2 abilities:
+May train skill ambidextrous attack to 5%
+May train skill fast blow to 15%
+May train skill hear noises to 10%
+May train skill stun to 5%
+May train skill torch creation to 10%
+May train skill ki to 5%
+------------------------------------------------------.
+
+Level 3 abilities:
+May train skill fast blow to 20%
+May train skill appraise to 10%
+May train skill conjure light to 10%
+May train skill ambidextrous attack to 10%
+May train skill doublehit to 10%
+May train skill zapping to 10%
+May train skill critical to 10%
+------------------------------------------------------.
+
+Level 4 abilities:
+May train skill fast blow to 25%
+May train skill stun to 10%
+May train skill power kick to 15%
+May train skill hear noises to 15%
+May train skill attack to 20%
+May train skill kungfu to 10%
+May train skill torch creation to 15%
+May train skill ki to 10%
+May train skill martial arts to 10%
+------------------------------------------------------.
+
+Level 5 abilities:
+May train skill fast blow to 30%
+May train skill remove elements to 5%
+May train skill tumble to 10%
+May train skill consider to 40%
+May train skill doublehit to 15%
+May train skill dodge to 10%
+May train skill critical to 15%
+May train skill whirlwind attack to 5%
+May train skill tinning to 40%
+------------------------------------------------------.
+
+Level 6 abilities:
+May train skill fast blow to 40%
+May train skill conjure light to 15%
+May train skill appraise to 15%
+May train skill power kick to 20%
+May train skill zapping to 15%
+May train skill martial arts to 15%
+May train skill kungfu to 15%
+------------------------------------------------------.
+
+Level 7 abilities:
+May train skill fast blow to 45%
+May train skill ambidextrous attack to 20%
+May train skill dodge to 15%
+May train skill stun to 15%
+May train skill tumble to 15%
+May train skill ki to 15%
+May train skill attack to 30%
+------------------------------------------------------.
+
+Level 8 abilities:
+May train skill appraise to 20%
+May train skill conjure light to 20%
+May train skill hear noises to 25%
+May train skill torch creation to 25%
+May train skill zapping to 20%
+May train skill martial arts to 20%
+May train skill kungfu to 20%
+------------------------------------------------------.
+
+Level 9 abilities:
+May train skill fast blow to 55%
+May train skill remove elements to 15%
+May train skill power kick to 30%
+May train skill tumble to 20%
+May train skill advanced martial arts to 5%
+May train skill whirlwind attack to 15%
+------------------------------------------------------.
+
+Level 10 abilities:
+May train skill call for fire to 10%
+May train skill call for ice to 5%
+May train skill stun to 25%
+May train skill consider to 70%
+May train skill doublehit to 25%
+May train skill attack to 40%
+May train skill focus ki to 5%
+May train skill leadership to 10%
+May train skill dodge to 20%
+May train skill inner strength to 5%
+May train skill ambidextrous attack to 30%
+May train skill mastery of kungfu to 5%
+May train skill ki to 25%
+May train skill tinning to 70%
+May train skill critical to 25%
+------------------------------------------------------.
+
+Level 11 abilities:
+May train skill fast blow to 70%
+May train skill appraise to 30%
+May train skill zapping to 30%
+May train skill conjure light to 30%
+------------------------------------------------------.
+
+Level 12 abilities:
+May train skill hear noises to 30%
+May train skill power kick to 45%
+May train skill tumble to 30%
+May train skill torch creation to 30%
+May train skill kungfu to 30%
+May train skill martial arts to 30%
+------------------------------------------------------.
+
+Level 13 abilities:
+May train skill fast blow to 85%
+May train skill attack to 50%
+May train skill ambidextrous attack to 45%
+------------------------------------------------------.
+
+Level 14 abilities:
+May train skill appraise to 40%
+May train skill conjure light to 40%
+May train skill dodge to 30%
+May train skill remove elements to 30%
+May train skill zapping to 40%
+May train skill advanced martial arts to 10%
+May train skill whirlwind attack to 30%
+------------------------------------------------------.
+
+Level 15 abilities:
+May train skill power kick to 55%
+May train skill doublehit to 35%
+May train skill healing trance to 10%
+May train skill focus ki to 10%
+May train skill mastery of kungfu to 10%
+May train skill ki to 35%
+May train skill call for fire to 20%
+May train skill consider to 85%
+May train skill call for ice to 10%
+May train skill hear noises to 40%
+May train skill kungfu to 40%
+May train skill leadership to 20%
+May train skill call for thunder to 5%
+May train skill clot wounds to 10%
+May train skill torch creation to 40%
+May train skill tinning to 85%
+May train skill critical to 35%
+------------------------------------------------------.
+
+Level 16 abilities:
+May train skill fast blow to 100%
+May train skill inner strength to 15%
+May train skill stun to 35%
+May train skill attack to 60%
+May train skill focus ki to 15%
+May train skill martial arts to 40%
+------------------------------------------------------.
+
+Level 17 abilities:
+May train skill ambidextrous attack to 50%
+May train skill dodge to 40%
+May train skill tumble to 40%
+------------------------------------------------------.
+
+Level 18 abilities:
+May train skill power kick to 65%
+May train skill call for ice to 15%
+May train skill critical to 55%
+May train skill leadership to 30%
+------------------------------------------------------.
+
+Level 19 abilities:
+May train skill attack to 70%
+May train skill doublehit to 55%
+May train skill martial arts to 60%
+------------------------------------------------------.
+
+Level 20 abilities:
+May train skill tumble to 60%
+May train skill healing trance to 20%
+May train skill ambidextrous attack to 60%
+May train skill appraise to 60%
+May train skill zapping to 60%
+May train skill ki to 55%
+May train skill conjure light to 60%
+May train skill call for fire to 30%
+May train skill master tumbler to 5%
+May train skill consider to 100%
+May train skill stun to 55%
+May train skill hear noises to 50%
+May train skill leadership to 40%
+May train skill dodge to 60%
+May train skill clot wounds to 20%
+May train skill torch creation to 50%
+May train skill adrenaline rush to 5%
+May train skill tinning to 100%
+------------------------------------------------------.
+
+Level 21 abilities:
+May train skill remove elements to 40%
+May train skill power kick to 80%
+May train skill whirlwind attack to 40%
+May train skill kungfu to 60%
+------------------------------------------------------.
+
+Level 22 abilities:
+May train skill mastery of kungfu to 15%
+May train skill advanced martial arts to 15%
+May train skill attack to 80%
+May train skill inner strength to 20%
+------------------------------------------------------.
+
+Level 23 abilities:
+May train skill appraise to 70%
+May train skill conjure light to 70%
+May train skill ambidextrous attack to 70%
+May train skill call for ice to 20%
+May train skill zapping to 70%
+May train skill critical to 75%
+May train skill leadership to 50%
+------------------------------------------------------.
+
+Level 24 abilities:
+May train skill clot wounds to 25%
+May train skill dodge to 70%
+May train skill tumble to 65%
+May train skill power kick to 90%
+May train skill martial arts to 70%
+------------------------------------------------------.
+
+Level 25 abilities:
+May train skill call for fire to 40%
+May train skill stun to 75%
+May train skill master tumbler to 10%
+May train skill doublehit to 75%
+May train skill attack to 90%
+May train skill healing trance to 25%
+May train skill call for thunder to 10%
+May train skill adrenaline rush to 10%
+May train skill ki to 75%
+------------------------------------------------------.
+
+Level 26 abilities:
+May train skill ambidextrous attack to 80%
+May train skill remove elements to 50%
+May train skill hear noises to 60%
+May train skill power kick to 100%
+May train skill torch creation to 60%
+May train skill whirlwind attack to 50%
+May train skill kungfu to 70%
+------------------------------------------------------.
+
+Level 27 abilities:
+May train skill inner strength to 25%
+May train skill mastery of kungfu to 20%
+May train skill attack to 100%
+May train skill advanced martial arts to 20%
+May train skill focus ki to 20%
+------------------------------------------------------.
+
+Level 28 abilities:
+May train skill appraise to 80%
+May train skill conjure light to 80%
+May train skill parry to 5%
+May train skill call for ice to 25%
+May train skill ki to 85%
+May train skill zapping to 80%
+May train skill critical to 85%
+May train skill leadership to 60%
+------------------------------------------------------.
+
+Level 29 abilities:
+May train skill focus kungfu attacks to 5%
+May train skill ambidextrous attack to 90%
+May train skill martial arts to 80%
+May train skill tumble to 70%
+------------------------------------------------------.
+
+Level 30 abilities:
+May train skill call for fire to 50%
+May train skill master tumbler to 15%
+May train skill stun to 85%
+May train skill hear noises to 70%
+May train skill healing trance to 35%
+May train skill doublehit to 85%
+May train skill call for thunder to 15%
+May train skill leadership to 70%
+May train skill kungfu to 80%
+May train skill dodge to 80%
+May train skill torch creation to 70%
+May train skill adrenaline rush to 15%
+------------------------------------------------------.
+
+Level 31 abilities:
+May train skill ambidextrous attack to 95%
+May train skill clot wounds to 35%
+May train skill remove elements to 60%
+May train skill mastery of kungfu to 25%
+May train skill whirlwind attack to 60%
+May train skill focus ki to 25%
+------------------------------------------------------.
+
+Level 32 abilities:
+May train skill appraise to 85%
+May train skill inner strength to 30%
+May train skill conjure light to 85%
+May train skill zapping to 85%
+May train skill advanced martial arts to 25%
+------------------------------------------------------.
+
+Level 33 abilities:
+May train skill dodge to 85%
+May train skill tumble to 75%
+May train skill martial arts to 85%
+May train skill critical to 95%
+May train skill kungfu to 85%
+------------------------------------------------------.
+
+Level 34 abilities:
+May train skill clot wounds to 45%
+May train skill doublehit to 95%
+May train skill ambidextrous attack to 100%
+------------------------------------------------------.
+
+Level 35 abilities:
+May train skill master tumbler to 25%
+May train skill tumble to 80%
+May train skill stun to 95%
+May train skill call for ice to 30%
+May train skill healing trance to 45%
+May train skill call for thunder to 20%
+May train skill focus ki to 30%
+May train skill leadership to 100%
+May train skill parry to 10%
+May train skill torch creation to 80%
+May train skill mastery of healing trance to 5%
+May train skill adrenaline rush to 20%
+May train skill mastery of kungfu to 30%
+May train skill ki to 95%
+May train skill focus kungfu attacks to 10%
+------------------------------------------------------.
+
+Level 36 abilities:
+May train skill conjure light to 90%
+May train skill appraise to 90%
+May train skill remove elements to 70%
+May train skill zapping to 90%
+May train skill whirlwind attack to 70%
+------------------------------------------------------.
+
+Level 37 abilities:
+May train skill advanced martial arts to 30%
+May train skill dodge to 90%
+May train skill inner strength to 35%
+May train skill hear noises to 85%
+------------------------------------------------------.
+
+Level 38 abilities:
+May train skill parry to 15%
+May train skill martial arts to 90%
+May train skill kungfu to 90%
+------------------------------------------------------.
+
+Level 39 abilities:
+May train skill mastery of kungfu to 35%
+May train skill critical to 100%
+May train skill focus ki to 35%
+------------------------------------------------------.
+
+Level 40 abilities:
+May train skill call for fire to 60%
+May train skill call for ice to 35%
+May train skill master tumbler to 30%
+May train skill doublehit to 100%
+May train skill healing trance to 55%
+May train skill call for thunder to 25%
+May train skill torch creation to 90%
+May train skill mastery of healing trance to 10%
+May train skill adrenaline rush to 25%
+May train skill focus kungfu attacks to 15%
+------------------------------------------------------.
+
+Level 41 abilities:
+May train skill clot wounds to 55%
+May train skill appraise to 95%
+May train skill conjure light to 95%
+May train skill remove elements to 80%
+May train skill zapping to 95%
+May train skill advanced martial arts to 35%
+May train skill whirlwind attack to 80%
+------------------------------------------------------.
+
+Level 42 abilities:
+May train skill dodge to 95%
+May train skill stun to 100%
+May train skill tumble to 90%
+May train skill ki to 100%
+May train skill kungfu to 95%
+------------------------------------------------------.
+
+Level 43 abilities:
+May train skill martial arts to 95%
+May train skill inner strength to 40%
+------------------------------------------------------.
+
+Level 44 abilities:
+May train skill parry to 20%
+May train skill conjure light to 100%
+May train skill appraise to 100%
+May train skill hear noises to 100%
+May train skill zapping to 100%
+------------------------------------------------------.
+
+Level 45 abilities:
+May train skill remove elements to 100%
+May train skill tumble to 100%
+May train skill healing trance to 80%
+May train skill focus ki to 50%
+May train skill inner strength to 70%
+May train skill mastery of healing trance to 40%
+May train skill mastery of kungfu to 50%
+May train skill advanced martial arts to 50%
+May train skill martial arts to 100%
+May train skill call for fire to 70%
+May train skill call for ice to 50%
+May train skill master tumbler to 50%
+May train skill call for thunder to 40%
+May train skill kungfu to 100%
+May train skill dodge to 100%
+May train skill clot wounds to 80%
+May train skill torch creation to 100%
+May train skill adrenaline rush to 50%
+May train skill focus kungfu attacks to 40%
+May train skill whirlwind attack to 100%
+------------------------------------------------------.
+
+Subguilds:
+Master_of_martial_arts 10
+Masters_of_the_mind 5
+Masters_of_the_body 5

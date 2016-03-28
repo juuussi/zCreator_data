@@ -1,0 +1,1004 @@
+Updated 2011.04.13
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(7), Hp(6), Wis(4), Int(1), Sp_regen(3)                       |
+|   2 | Sp(7), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(2)               |
+|   3 | Sp(7), Hp(6), Wis(5), Int(1), Con(1), Sp_regen(3), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|   4 | Sp(7), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(3)               |
+|   5 | Sp(7), Hp(6), Wis(4), Int(2), Con(1), Sp_regen(2)               |
+|   6 | Sp(7), Hp(6), Wis(4), Int(1), Con(1), Sp_regen(3), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|   7 | Sp(7), Hp(5), Wis(4), Int(1), Sp_regen(3)                       |
+|   8 | Sp(7), Hp(6), Wis(5), Int(1), Con(1), Sp_regen(2)               |
+|   9 | Sp(7), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(3)               |
+|  10 | Sp(7), Hp(6), Wis(4), Int(1), Con(1), Sp_regen(3), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|  11 | Sp(6), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(2)               |
+|  12 | Sp(7), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(3)               |
+|  13 | Sp(6), Hp(6), Wis(4), Int(1), Sp_regen(2)                       |
+|  14 | Sp(7), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|  15 | Sp(6), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(3)               |
+|  16 | Sp(7), Hp(5), Wis(3), Int(1), Con(1), Sp_regen(2)               |
+|  17 | Sp(6), Hp(5), Wis(4), Int(1), Sp_regen(3)                       |
+|  18 | Sp(7), Hp(6), Wis(4), Int(2), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|  19 | Sp(6), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(3)               |
+|  20 | Sp(7), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(2)               |
+|  21 | Sp(5), Hp(4), Wis(3), Sp_regen(2)                               |
+|  22 | Sp(6), Hp(5), Wis(4), Int(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|  23 | Sp(5), Hp(4), Wis(3), Int(1), Con(1), Sp_regen(3)               |
+|  24 | Sp(6), Hp(5), Wis(3), Int(1), Sp_regen(2)                       |
+|  25 | Sp(4), Hp(3), Wis(3), Int(1), Con(1), Sp_regen(1)               |
+|  26 | Sp(4), Hp(3), Wis(2), Sp_regen(2)                               |
+|  27 | Sp(5), Hp(4), Wis(3), Int(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|  28 | Sp(4), Hp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  29 | Sp(4), Hp(4), Wis(3), Int(1), Con(1), Sp_regen(2)               |
+|  30 | Sp(4), Hp(3), Wis(3), Con(1), Sp_regen(1)                       |
+|  31 | Sp(5), Hp(3), Wis(2), Int(1), Sp_regen(2)                       |
+|  32 | Sp(4), Hp(4), Wis(3), Int(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|  33 | Sp(4), Hp(3), Wis(2), Sp_regen(1)                               |
+|  34 | Sp(4), Hp(4), Wis(3), Int(1), Con(1), Sp_regen(2)               |
+|  35 | Sp(4), Hp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  36 | Sp(4), Hp(3), Wis(2), Sp_regen(2)                               |
+|  37 | Sp(4), Hp(3), Wis(3), Int(1), Con(1), Sp_regen(1)               |
+|  38 | Sp(3), Hp(3), Wis(2), Sp_regen(2)                               |
+|  39 | Sp(4), Hp(3), Wis(2), Int(1), Con(1), Sp_regen(1), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|  40 | Sp(4), Hp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  41 | Sp(4), Hp(3), Wis(3), Con(1), Sp_regen(2)                       |
+|  42 | Sp(3), Hp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  43 | Sp(4), Hp(3), Wis(2), Con(1), Sp_regen(2)                       |
+|  44 | Sp(4), Hp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  45 | Sp(4), Hp(3), Wis(3), Int(1), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Poison resistance(1), Physical resistance(1)                    |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell cause light wounds to 20%
+May study spell cure critical wounds to 5%
+May study spell cure light wounds to 20%
+May study spell cure serious wounds to 10%
+May study spell darkness to 10%
+May study spell light to 10%
+May study spell regeneration to 10%
+May train skill first aid to 10%
+May train skill consider to 10%
+May train skill skill that saves sp to 5%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell cause light wounds to 40%
+May study spell cure critical wounds to 10%
+May study spell cure light wounds to 40%
+May study spell cure serious wounds to 20%
+May study spell darkness to 20%
+May study spell light to 20%
+May study spell regeneration to 20%
+May train skill tinning to 10%
+May train skill skill that saves sp to 10%
+May train skill essence eye to 5%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell cause light wounds to 60%
+May study spell cure critical wounds to 15%
+May study spell cure light wounds to 60%
+May study spell cure serious wounds to 30%
+May study spell darkness to 40%
+May study spell healing smoke to 5%
+May study spell light to 40%
+May study spell regeneration to 30%
+May train skill first aid to 25%
+May train skill healing resonance to 5%
+May train skill consider to 35%
+May train skill skill that saves sp to 15%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell cause light wounds to 80%
+May study spell cure critical wounds to 20%
+May study spell cure light wounds to 80%
+May study spell cure serious wounds to 40%
+May study spell darkness to 60%
+May study spell healing smoke to 10%
+May study spell light to 60%
+May study spell regeneration to 40%
+May train skill flow of life to 5%
+May train skill skill that saves sp to 20%
+May train skill tinning to 35%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell blurred image to 5%
+May study spell cause light wounds to 100%
+May study spell cure critical wounds to 25%
+May study spell cure light wounds to 100%
+May study spell cure serious wounds to 50%
+May study spell darkness to 80%
+May study spell healing smoke to 15%
+May study spell light to 80%
+May study spell minor transfer to 10%
+May study spell mirror image to 5%
+May study spell regeneration to 50%
+May study spell remove poison to 5%
+May study spell remove scar to 5%
+May study spell shelter to 5%
+May study spell shield of protection to 10%
+May train skill dodge to 5%
+May train skill healing resonance to 10%
+May train skill consider to 45%
+May train skill skill that saves sp to 25%
+May train skill essence eye to 10%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell cure critical wounds to 30%
+May study spell cure serious wounds to 60%
+May study spell healing smoke to 20%
+May study spell minor distant heal to 5%
+May study spell minor transfer to 20%
+May study spell regeneration to 60%
+May study spell shield of protection to 15%
+May study spell teleport with error to 5%
+May train skill quick chant to 5%
+May train skill first aid to 35%
+May train skill skill that saves sp to 30%
+May train skill essence eye to 15%
+May train skill tinning to 45%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell create healing potion to 5%
+May study spell cure critical wounds to 35%
+May study spell cure disease to 5%
+May study spell cure serious wounds to 70%
+May study spell healing smoke to 25%
+May study spell lesser party heal to 10%
+May study spell minor distant transfer to 10%
+May study spell minor transfer to 30%
+May study spell poison fend to 5%
+May study spell regeneration to 70%
+May study spell relocate to 5%
+May study spell sex change to 5%
+May study spell shield of protection to 20%
+May study spell transfer damage to 10%
+May train skill prepare potion to 5%
+May train skill healing resonance to 15%
+May train skill consider to 65%
+May train skill flow of life to 10%
+May train skill first aid to 45%
+May train skill mastery of medicine to 5%
+May train skill skill that saves sp to 35%
+May train skill essence eye to 20%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell cure critical wounds to 40%
+May study spell cure serious wounds to 80%
+May study spell dispel curse to 10%
+May study spell healing smoke to 30%
+May study spell minor distant heal to 10%
+May study spell minor transfer to 50%
+May study spell minor unpain to 5%
+May study spell regeneration to 80%
+May study spell remove scar to 10%
+May study spell shield of protection to 25%
+May study spell teleport without error to 10%
+May study spell transfer damage to 15%
+May train skill tinning to 65%
+May train skill essence eye to 25%
+May train skill quick chant to 10%
+May train skill skill that saves sp to 40%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell cure critical wounds to 45%
+May study spell cure serious wounds to 90%
+May study spell dispel curse to 20%
+May study spell healing smoke to 35%
+May study spell lesser party heal to 20%
+May study spell minor distant transfer to 15%
+May study spell minor transfer to 70%
+May study spell minor unpain to 15%
+May study spell regeneration to 85%
+May study spell remove scar to 20%
+May study spell shield of protection to 30%
+May study spell transfer damage to 20%
+May train skill prepare potion to 10%
+May train skill enhance features to 10%
+May train skill consider to 75%
+May train skill first aid to 55%
+May train skill skill that saves sp to 45%
+May train skill essence eye to 35%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell blurred image to 10%
+May study spell cure critical wounds to 50%
+May study spell cure disease to 10%
+May study spell cure serious wounds to 100%
+May study spell darkness to 100%
+May study spell dispel curse to 30%
+May study spell half heal to 5%
+May study spell heal to 5%
+May study spell healing smoke to 40%
+May study spell light to 100%
+May study spell major transfer to 10%
+May study spell minor distant heal to 20%
+May study spell minor distant transfer to 20%
+May study spell minor transfer to 80%
+May study spell minor unpain to 25%
+May study spell mirror image to 10%
+May study spell regeneration to 90%
+May study spell remove poison to 15%
+May study spell remove scar to 30%
+May study spell shelter to 10%
+May study spell shield of protection to 40%
+May study spell transfer damage to 25%
+May train skill optimize transfer to 5%
+May train skill dodge to 10%
+May train skill healing resonance to 30%
+May train skill flow of life to 15%
+May train skill skill that saves sp to 50%
+May train skill leadership to 10%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell create healing potion to 10%
+May study spell cure critical wounds to 55%
+May study spell dispel curse to 40%
+May study spell half heal to 10%
+May study spell healing ceremony to 5%
+May study spell major transfer to 15%
+May study spell minor distant heal to 25%
+May study spell minor distant transfer to 25%
+May study spell minor transfer to 90%
+May study spell minor unpain to 35%
+May study spell regeneration to 95%
+May study spell remove scar to 40%
+May study spell sex change to 10%
+May study spell shield of protection to 50%
+May study spell transfer damage to 30%
+May train skill first aid to 65%
+May train skill quick chant to 15%
+May train skill essence eye to 45%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell create healing potion to 15%
+May study spell cure critical wounds to 60%
+May study spell heal to 10%
+May study spell healing ceremony to 15%
+May study spell healing smoke to 45%
+May study spell lesser party heal to 30%
+May study spell major transfer to 20%
+May study spell minor distant heal to 35%
+May study spell minor distant transfer to 30%
+May study spell minor transfer to 100%
+May study spell minor unpain to 45%
+May study spell regeneration to 100%
+May study spell relocate to 10%
+May study spell shield of protection to 60%
+May study spell teleport with error to 10%
+May study spell teleport without error to 15%
+May study spell transfer damage to 40%
+May study spell true transfer to 5%
+May train skill prepare potion to 15%
+May train skill quick chant to 20%
+May train skill flow of life to 30%
+May train skill first aid to 80%
+May train skill skill that saves sp to 60%
+May train skill essence eye to 65%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell cure blindness to 5%
+May study spell cure critical wounds to 65%
+May study spell half heal to 15%
+May study spell healing ceremony to 25%
+May study spell major distant heal to 5%
+May study spell major distant transfer to 5%
+May study spell major transfer to 25%
+May study spell minor distant heal to 40%
+May study spell minor distant transfer to 40%
+May study spell minor unpain to 55%
+May study spell poison fend to 10%
+May study spell sex change to 15%
+May study spell shield of protection to 70%
+May train skill prepare potion to 20%
+May train skill enhance features to 25%
+May train skill first aid to 100%
+May train skill essence eye to 75%
+May train skill skill that saves sp to 70%
+May train skill leadership to 25%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell cure critical wounds to 70%
+May study spell dispel curse to 50%
+May study spell half heal to 20%
+May study spell heal to 15%
+May study spell healing ceremony to 35%
+May study spell healing smoke to 50%
+May study spell major transfer to 30%
+May study spell minor distant heal to 45%
+May study spell minor distant transfer to 50%
+May study spell minor unpain to 65%
+May study spell relocate to 15%
+May study spell remove scar to 50%
+May study spell shelter to 15%
+May study spell shield of protection to 80%
+May study spell transfer damage to 50%
+May study spell true transfer to 10%
+May train skill prepare potion to 25%
+May train skill mastery of medicine to 10%
+May train skill healing resonance to 35%
+May train skill essence eye to 85%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell create healing potion to 20%
+May study spell cure critical wounds to 75%
+May study spell dimension door to 10%
+May study spell half heal to 25%
+May study spell harmony armour to 10%
+May study spell heal to 30%
+May study spell healing ceremony to 45%
+May study spell lesser party heal to 40%
+May study spell major distant heal to 10%
+May study spell major distant transfer to 15%
+May study spell major transfer to 40%
+May study spell minor distant heal to 50%
+May study spell minor distant transfer to 60%
+May study spell minor unpain to 75%
+May study spell mirror image to 15%
+May study spell remove poison to 25%
+May study spell sex change to 20%
+May study spell teleport with error to 15%
+May study spell transfer damage to 60%
+May train skill prepare potion to 30%
+May train skill healing efficiency to 5%
+May train skill dodge to 15%
+May train skill quick chant to 25%
+May train skill flow of life to 35%
+May train skill zapping to 5%
+May train skill skill that saves sp to 80%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell cure critical wounds to 80%
+May study spell dispel curse to 60%
+May study spell half heal to 30%
+May study spell harmony armour to 20%
+May study spell heal to 35%
+May study spell healing smoke to 55%
+May study spell major heal to 5%
+May study spell major transfer to 50%
+May study spell minor distant heal to 55%
+May study spell minor distant transfer to 70%
+May study spell minor unpain to 80%
+May study spell poison fend to 15%
+May study spell relocate to 25%
+May study spell remove scar to 60%
+May study spell shield of protection to 90%
+May study spell teleport without error to 20%
+May study spell transfer damage to 70%
+May study spell true transfer to 15%
+May train skill optimize transfer to 10%
+May train skill zapping to 10%
+May train skill healing resonance to 40%
+May train skill essence eye to 100%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell cure blindness to 10%
+May study spell cure critical wounds to 85%
+May study spell cure disease to 15%
+May study spell dimension door to 15%
+May study spell half heal to 35%
+May study spell harmony armour to 30%
+May study spell heal to 40%
+May study spell healing ceremony to 55%
+May study spell major distant heal to 20%
+May study spell major heal to 10%
+May study spell major transfer to 60%
+May study spell minor distant transfer to 80%
+May study spell minor unpain to 85%
+May study spell relocate to 30%
+May study spell sex change to 25%
+May study spell teleport with error to 20%
+May study spell true distant transfer to 5%
+May train skill prepare potion to 35%
+May train skill quick chant to 30%
+May train skill zapping to 15%
+May train skill flow of life to 40%
+May train skill skill that saves sp to 90%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell blurred image to 25%
+May study spell cure critical wounds to 90%
+May study spell dispel curse to 70%
+May study spell half heal to 40%
+May study spell harmony armour to 35%
+May study spell heal to 45%
+May study spell healing smoke to 60%
+May study spell lesser party heal to 50%
+May study spell major distant transfer to 25%
+May study spell major heal to 15%
+May study spell major transfer to 70%
+May study spell minor distant heal to 60%
+May study spell minor distant transfer to 90%
+May study spell minor unpain to 90%
+May study spell poison fend to 20%
+May study spell remove scar to 70%
+May study spell shelter to 20%
+May study spell shield of protection to 95%
+May study spell teleport without error to 25%
+May study spell true transfer to 20%
+May train skill contemplate harmony to 5%
+May train skill healing resonance to 45%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell cure blindness to 25%
+May study spell cure critical wounds to 95%
+May study spell cure disease to 25%
+May study spell half heal to 45%
+May study spell harmony armour to 40%
+May study spell heal to 50%
+May study spell healing ceremony to 65%
+May study spell major distant heal to 25%
+May study spell major transfer to 80%
+May study spell minor distant heal to 65%
+May study spell minor distant transfer to 95%
+May study spell minor unpain to 95%
+May study spell relocate to 35%
+May study spell sex change to 30%
+May study spell transfer damage to 80%
+May study spell true distant transfer to 10%
+May train skill flow of life to 45%
+May train skill enhance features to 45%
+May train skill leadership to 45%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell create healing potion to 25%
+May study spell cure critical wounds to 100%
+May study spell cure disease to 30%
+May study spell dimension door to 20%
+May study spell dispel curse to 80%
+May study spell greater party heal to 5%
+May study spell half heal to 50%
+May study spell harmony armour to 45%
+May study spell heal to 70%
+May study spell healing smoke to 65%
+May study spell major distant transfer to 30%
+May study spell major heal to 20%
+May study spell major transfer to 90%
+May study spell minor distant heal to 70%
+May study spell minor distant transfer to 100%
+May study spell minor unpain to 100%
+May study spell mirror image to 20%
+May study spell remove poison to 30%
+May study spell remove scar to 80%
+May study spell shield of protection to 100%
+May study spell stun resistance to 10%
+May study spell true distant heal to 5%
+May study spell true distant transfer to 20%
+May study spell true transfer to 25%
+May train skill prepare potion to 40%
+May train skill healing efficiency to 10%
+May train skill dodge to 20%
+May train skill healing resonance to 50%
+May train skill quick chant to 35%
+May train skill zapping to 20%
+May train skill contemplate harmony to 10%
+May train skill skill that saves sp to 100%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell create healing potion to 35%
+May study spell half heal to 55%
+May study spell harmony armour to 50%
+May study spell heal to 80%
+May study spell heal body to 5%
+May study spell healing ceremony to 75%
+May study spell lesser party heal to 60%
+May study spell major distant heal to 35%
+May study spell major transfer to 95%
+May study spell minor distant heal to 75%
+May study spell relocate to 40%
+May study spell remove scar to 90%
+May study spell sex change to 40%
+May study spell stun resistance to 20%
+May study spell teleport with error to 25%
+May study spell transfer damage to 90%
+May train skill flow of life to 50%
+May train skill mastery of medicine to 15%
+May train skill contemplate harmony to 15%
+May train skill healing resonance to 55%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell cure disease to 40%
+May study spell dispel curse to 90%
+May study spell half heal to 60%
+May study spell harmony armour to 55%
+May study spell heal to 85%
+May study spell healing smoke to 70%
+May study spell major distant heal to 40%
+May study spell major heal to 30%
+May study spell major transfer to 100%
+May study spell poison fend to 25%
+May study spell remove scar to 100%
+May study spell sex change to 50%
+May study spell shelter to 25%
+May study spell stun resistance to 30%
+May study spell teleport without error to 30%
+May study spell transfer damage to 95%
+May study spell true distant heal to 10%
+May study spell true distant transfer to 40%
+May study spell true transfer to 30%
+May train skill healing resonance to 60%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell half heal to 65%
+May study spell harmony armour to 60%
+May study spell heal to 90%
+May study spell heal body to 10%
+May study spell healing ceremony to 85%
+May study spell lesser party heal to 70%
+May study spell major distant heal to 45%
+May study spell major distant transfer to 40%
+May study spell minor distant heal to 80%
+May study spell relocate to 45%
+May study spell sex change to 60%
+May study spell stun resistance to 40%
+May study spell true distant transfer to 45%
+May train skill prepare potion to 45%
+May train skill enhance features to 55%
+May train skill quick chant to 40%
+May train skill healing resonance to 65%
+May train skill flow of life to 55%
+May train skill leadership to 55%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell blurred image to 45%
+May study spell cure blindness to 35%
+May study spell cure disease to 45%
+May study spell dispel curse to 100%
+May study spell half heal to 70%
+May study spell harmony armour to 65%
+May study spell heal to 95%
+May study spell healing smoke to 75%
+May study spell major distant heal to 50%
+May study spell major heal to 35%
+May study spell minor distant heal to 85%
+May study spell remove poison to 40%
+May study spell sex change to 70%
+May study spell stun resistance to 45%
+May study spell teleport without error to 35%
+May study spell transfer damage to 100%
+May study spell true transfer to 35%
+May train skill optimize transfer to 15%
+May train skill healing resonance to 70%
+May train skill contemplate harmony to 20%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell create healing potion to 45%
+May study spell dimension door to 25%
+May study spell greater party heal to 10%
+May study spell half heal to 75%
+May study spell harmony armour to 70%
+May study spell heal to 100%
+May study spell heal body to 15%
+May study spell healing ceremony to 90%
+May study spell lesser party heal to 80%
+May study spell major distant heal to 55%
+May study spell major distant transfer to 45%
+May study spell minor distant heal to 90%
+May study spell mirror image to 25%
+May study spell relocate to 50%
+May study spell sex change to 80%
+May study spell stun resistance to 50%
+May study spell teleport with error to 30%
+May study spell true distant heal to 20%
+May study spell true unpain to 5%
+May train skill prepare potion to 50%
+May train skill healing efficiency to 15%
+May train skill dodge to 25%
+May train skill healing resonance to 75%
+May train skill quick chant to 45%
+May train skill zapping to 25%
+May train skill attend wounds to 10%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell cure blindness to 45%
+May study spell half heal to 80%
+May study spell harmony armour to 75%
+May study spell major distant transfer to 50%
+May study spell major heal to 45%
+May study spell minor distant heal to 95%
+May study spell poison fend to 30%
+May study spell sex change to 90%
+May study spell shelter to 30%
+May study spell stun resistance to 55%
+May study spell summon to 5%
+May study spell teleport without error to 40%
+May study spell true distant transfer to 50%
+May study spell true transfer to 40%
+May study spell true unpain to 10%
+May train skill flow of life to 60%
+May train skill enhance features to 65%
+May train skill leadership to 65%
+May train skill healing resonance to 80%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell create healing potion to 50%
+May study spell cure disease to 50%
+May study spell half heal to 85%
+May study spell harmony armour to 80%
+May study spell heal body to 20%
+May study spell healing ceremony to 95%
+May study spell lesser party heal to 85%
+May study spell major distant heal to 60%
+May study spell major distant transfer to 75%
+May study spell major heal to 50%
+May study spell minor distant heal to 100%
+May study spell relocate to 55%
+May study spell remove poison to 45%
+May study spell sex change to 95%
+May study spell stun resistance to 60%
+May study spell true distant heal to 25%
+May study spell true unpain to 15%
+May train skill prepare potion to 55%
+May train skill contemplate harmony to 25%
+May train skill quick chant to 50%
+May train skill healing resonance to 85%
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell half heal to 90%
+May study spell major distant transfer to 85%
+May study spell sex change to 100%
+May study spell stun resistance to 65%
+May study spell teleport without error to 50%
+May study spell true transfer to 45%
+May study spell true unpain to 20%
+May train skill attend wounds to 25%
+May train skill mastery of medicine to 20%
+May train skill zapping to 30%
+May train skill healing resonance to 90%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell create healing potion to 55%
+May study spell cure blindness to 55%
+May study spell half heal to 95%
+May study spell harmony armour to 85%
+May study spell lesser party heal to 90%
+May study spell major distant heal to 65%
+May study spell major heal to 55%
+May study spell relocate to 55%
+May study spell stun resistance to 70%
+May study spell true distant heal to 35%
+May study spell true transfer to 50%
+May study spell true unpain to 25%
+May train skill contemplate harmony to 30%
+May train skill healing resonance to 95%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell cure disease to 75%
+May study spell dimension door to 30%
+May study spell half heal to 100%
+May study spell heal body to 30%
+May study spell healing ceremony to 100%
+May study spell major distant transfer to 90%
+May study spell major heal to 60%
+May study spell mirror image to 30%
+May study spell remove poison to 50%
+May study spell resist heal to 5%
+May study spell stun resistance to 75%
+May study spell teleport without error to 60%
+May study spell true distant heal to 40%
+May study spell true distant transfer to 55%
+May study spell true transfer to 55%
+May study spell true unpain to 30%
+May train skill prepare potion to 60%
+May train skill healing efficiency to 20%
+May train skill enhance features to 75%
+May train skill attend wounds to 35%
+May train skill leadership to 75%
+May train skill dodge to 30%
+May train skill quick chant to 55%
+May train skill healing resonance to 100%
+May train skill zapping to 35%
+May train skill flow of life to 65%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell create healing potion to 60%
+May study spell greater party heal to 15%
+May study spell harmony armour to 90%
+May study spell lesser party heal to 95%
+May study spell major distant heal to 70%
+May study spell major distant transfer to 100%
+May study spell relocate to 60%
+May study spell shelter to 35%
+May study spell stun resistance to 80%
+May study spell summon to 10%
+May study spell true transfer to 60%
+May study spell true unpain to 35%
+May train skill contemplate harmony to 35%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell blurred image to 65%
+May study spell heal body to 35%
+May study spell major heal to 65%
+May study spell resist heal to 10%
+May study spell stun resistance to 85%
+May study spell teleport with error to 40%
+May study spell teleport without error to 65%
+May study spell true distant heal to 45%
+May study spell true transfer to 70%
+May study spell true unpain to 40%
+May train skill optimize transfer to 20%
+May train skill mastery of medicine to 25%
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell create healing potion to 65%
+May study spell lesser party heal to 100%
+May study spell major distant heal to 75%
+May study spell major heal to 70%
+May study spell poison fend to 40%
+May study spell stun resistance to 90%
+May study spell true transfer to 75%
+May study spell true unpain to 45%
+May train skill prepare potion to 65%
+May train skill quick chant to 60%
+May train skill zapping to 40%
+May train skill flow of life to 70%
+May train skill contemplate harmony to 40%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell cure blindness to 65%
+May study spell cure disease to 85%
+May study spell heal body to 45%
+May study spell major distant heal to 80%
+May study spell remove poison to 75%
+May study spell stun resistance to 95%
+May study spell true distant heal to 50%
+May study spell true distant transfer to 60%
+May study spell true transfer to 80%
+May study spell true unpain to 50%
+May train skill enhance features to 85%
+May train skill leadership to 85%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell create healing potion to 70%
+May study spell dimension door to 35%
+May study spell harmony hand to 5%
+May study spell major distant heal to 85%
+May study spell major heal to 75%
+May study spell mirror image to 35%
+May study spell remove poison to 85%
+May study spell resist heal to 15%
+May study spell shelter to 40%
+May study spell stun resistance to 100%
+May study spell true transfer to 85%
+May study spell true unpain to 55%
+May study spell venom fend to 10%
+May train skill prepare potion to 70%
+May train skill healing efficiency to 25%
+May train skill dodge to 35%
+May train skill quick chant to 65%
+May train skill zapping to 45%
+May train skill attend wounds to 45%
+May train skill contemplate harmony to 45%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell cure blindness to 75%
+May study spell cure disease to 90%
+May study spell greater party heal to 20%
+May study spell heal body to 50%
+May study spell major distant heal to 90%
+May study spell remove poison to 95%
+May study spell shelter to 45%
+May study spell summon to 15%
+May study spell teleport with error to 50%
+May study spell true distant transfer to 65%
+May study spell true transfer to 90%
+May study spell true unpain to 60%
+May study spell venom fend to 15%
+May train skill flow of life to 75%
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell cure blindness to 85%
+May study spell major distant heal to 95%
+May study spell major heal to 80%
+May study spell poison fend to 50%
+May study spell remove poison to 100%
+May study spell teleport with error to 55%
+May study spell true distant heal to 55%
+May study spell true transfer to 95%
+May study spell true unpain to 65%
+May train skill prepare potion to 75%
+May train skill optimize transfer to 25%
+May train skill contemplate harmony to 50%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell blurred image to 85%
+May study spell create healing potion to 75%
+May study spell cure blindness to 90%
+May study spell cure disease to 95%
+May study spell greater party heal to 40%
+May study spell heal body to 55%
+May study spell major distant heal to 100%
+May study spell poison fend to 55%
+May study spell resist heal to 25%
+May study spell shelter to 50%
+May study spell teleport with error to 60%
+May study spell true distant heal to 60%
+May study spell true distant transfer to 70%
+May study spell true transfer to 100%
+May study spell true unpain to 70%
+May train skill enhance features to 95%
+May train skill quick chant to 70%
+May train skill attend wounds to 55%
+May train skill leadership to 95%
+May train skill contemplate harmony to 55%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell cure blindness to 95%
+May study spell harmony hand to 10%
+May study spell major heal to 85%
+May study spell mirror image to 40%
+May study spell poison fend to 60%
+May study spell true unpain to 75%
+May study spell venom fend to 25%
+May train skill prepare potion to 80%
+May train skill dodge to 40%
+May train skill mastery of medicine to 30%
+May train skill flow of life to 80%
+May train skill contemplate harmony to 60%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell cure blindness to 100%
+May study spell cure disease to 100%
+May study spell dimension door to 40%
+May study spell greater party heal to 60%
+May study spell harmony hand to 15%
+May study spell heal all to 5%
+May study spell heal body to 60%
+May study spell resist heal to 30%
+May study spell shelter to 55%
+May study spell teleport with error to 65%
+May study spell true distant heal to 65%
+May study spell true distant transfer to 75%
+May study spell true unpain to 80%
+May study spell venom fend to 35%
+May train skill prepare potion to 85%
+May train skill healing efficiency to 35%
+May train skill enhance features to 100%
+May train skill quick chant to 75%
+May train skill zapping to 60%
+May train skill leadership to 100%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell create healing potion to 80%
+May study spell harmony hand to 20%
+May study spell heal all to 15%
+May study spell heal body to 65%
+May study spell poison fend to 65%
+May study spell summon to 20%
+May study spell true distant transfer to 80%
+May study spell true unpain to 85%
+May study spell venom fend to 45%
+May train skill optimize transfer to 30%
+May train skill quick chant to 80%
+May train skill attend wounds to 65%
+May train skill flow of life to 85%
+May train skill contemplate harmony to 65%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell create healing potion to 85%
+May study spell harmony hand to 25%
+May study spell heal all to 20%
+May study spell heal body to 70%
+May study spell poison fend to 75%
+May study spell teleport with error to 75%
+May study spell true distant heal to 70%
+May study spell true distant transfer to 85%
+May study spell true unpain to 90%
+May study spell venom fend to 55%
+May train skill flow of life to 90%
+May train skill quick chant to 85%
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell create healing potion to 90%
+May study spell greater party heal to 75%
+May study spell harmony hand to 30%
+May study spell heal all to 30%
+May study spell heal body to 75%
+May study spell poison fend to 85%
+May study spell shelter to 60%
+May study spell true distant heal to 75%
+May study spell true distant transfer to 90%
+May study spell true unpain to 95%
+May study spell venom fend to 65%
+May train skill prepare potion to 90%
+May train skill quick chant to 90%
+May train skill flow of life to 95%
+May train skill mastery of medicine to 35%
+May train skill attend wounds to 75%
+May train skill contemplate harmony to 70%
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell create healing potion to 95%
+May study spell greater party heal to 85%
+May study spell harmony hand to 35%
+May study spell heal all to 40%
+May study spell teleport with error to 85%
+May study spell true distant heal to 80%
+May study spell true distant transfer to 95%
+May study spell true unpain to 100%
+May study spell venom fend to 75%
+May train skill prepare potion to 95%
+May train skill optimize transfer to 35%
+May train skill flow of life to 100%
+May train skill quick chant to 95%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell create healing potion to 100%
+May study spell dimension door to 45%
+May study spell greater party heal to 95%
+May study spell harmony hand to 40%
+May study spell heal all to 50%
+May study spell heal body to 80%
+May study spell resist heal to 35%
+May study spell shelter to 75%
+May study spell true distant heal to 90%
+May study spell true distant transfer to 100%
+May study spell venom fend to 100%
+May train skill prepare potion to 100%
+May train skill healing efficiency to 50%
+May train skill dodge to 50%
+May train skill quick chant to 100%
+May train skill zapping to 75%
+May train skill attend wounds to 85%
+May train skill contemplate harmony to 75%
+------------------------------------------------------.
+
+Subguilds:
+Harmonizers 9
+Grand_medics 9

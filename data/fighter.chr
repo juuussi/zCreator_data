@@ -1,0 +1,694 @@
+Updated 2011.04.14
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hp(13), Con(3), Str(3), Dex(1), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|   2 | Hp(12), Con(3), Str(2), Dex(1), Hp_regen(3)                     |
+|   3 | Hp(13), Con(3), Str(2), Dex(1), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|   4 | Hp(13), Con(2), Str(2), Dex(1), Hp_regen(3)                     |
+|   5 | Hp(12), Con(3), Str(3), Dex(2), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|   6 | Hp(13), Con(3), Str(2), Dex(1), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|   7 | Hp(12), Con(3), Str(2), Dex(1), Hp_regen(3)                     |
+|   8 | Hp(13), Con(3), Str(2), Dex(1), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|   9 | Hp(13), Con(2), Str(3), Dex(1), Hp_regen(3)                     |
+|  10 | Hp(12), Con(3), Str(2), Dex(1), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|  11 | Hp(12), Con(3), Str(2), Dex(1), Hp_regen(3)                     |
+|  12 | Hp(12), Con(2), Str(2), Dex(1), Hp_regen(2),                    |
+|     | Physical resistance(1)                                          |
+|  13 | Hp(11), Con(3), Str(2), Dex(1), Hp_regen(3)                     |
+|  14 | Hp(12), Con(3), Str(2), Dex(1), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|  15 | Hp(12), Con(2), Str(2), Dex(1), Hp_regen(2)                     |
+|  16 | Hp(11), Con(3), Str(2), Dex(1), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|  17 | Hp(12), Con(2), Str(2), Dex(1), Hp_regen(3)                     |
+|  18 | Hp(12), Con(3), Str(3), Dex(2), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|  19 | Hp(11), Con(3), Str(2), Dex(1), Hp_regen(2),                    |
+|     | Physical resistance(1)                                          |
+|  20 | Hp(12), Con(2), Str(2), Dex(1), Hp_regen(3)                     |
+|  21 | Hp(10), Con(2), Str(1), Hp_regen(2)                             |
+|  22 | Hp(10), Con(3), Str(2), Dex(1), Hp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|  23 | Hp(10), Con(2), Str(2), Dex(1), Hp_regen(2)                     |
+|  24 | Hp(10), Con(2), Str(2), Dex(1), Hp_regen(2),                    |
+|     | Physical resistance(1)                                          |
+|  25 | Hp(7), Con(2), Str(1), Dex(1), Hp_regen(2)                      |
+|  26 | Hp(8), Con(1), Str(1), Hp_regen(2)                              |
+|  27 | Hp(8), Con(2), Str(2), Dex(1), Hp_regen(2),                     |
+|     | Physical resistance(1)                                          |
+|  28 | Hp(7), Con(2), Str(1), Dex(1), Hp_regen(1)                      |
+|  29 | Hp(8), Con(2), Str(2), Dex(1), Hp_regen(2),                     |
+|     | Physical resistance(1)                                          |
+|  30 | Hp(8), Con(1), Str(1), Hp_regen(2)                              |
+|  31 | Hp(7), Con(2), Str(1), Dex(1), Hp_regen(2)                      |
+|  32 | Hp(8), Con(2), Str(2), Dex(1), Hp_regen(2),                     |
+|     | Physical resistance(1)                                          |
+|  33 | Hp(8), Con(1), Str(1), Hp_regen(1)                              |
+|  34 | Hp(7), Con(2), Str(1), Dex(1), Hp_regen(2)                      |
+|  35 | Hp(7), Con(2), Str(2), Dex(1), Hp_regen(2),                     |
+|     | Physical resistance(1)                                          |
+|  36 | Hp(7), Con(1), Str(1), Hp_regen(1)                              |
+|  37 | Hp(7), Con(2), Str(1), Dex(1), Hp_regen(2)                      |
+|  38 | Hp(6), Con(1), Str(1), Hp_regen(1)                              |
+|  39 | Hp(7), Con(2), Str(1), Dex(1), Hp_regen(2),                     |
+|     | Physical resistance(1)                                          |
+|  40 | Hp(7), Con(1), Str(2), Dex(1), Hp_regen(2)                      |
+|  41 | Hp(7), Con(2), Str(1), Hp_regen(1)                              |
+|  42 | Hp(6), Con(1), Str(1), Dex(1), Hp_regen(2),                     |
+|     | Physical resistance(1)                                          |
+|  43 | Hp(7), Con(2), Str(1), Hp_regen(1)                              |
+|  44 | Hp(7), Con(1), Str(1), Dex(1), Hp_regen(2)                      |
+|  45 | Hp(7), Con(2), Str(2), Dex(1), Hp_regen(2),                     |
+|     | Physical resistance(1)                                          |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May train skill weapon skill 2h bludgeon to 5%
+May train skill weapon skill 1h dagger to 5%
+May train skill consider to 5%
+May train skill weapon skill 1h staff to 5%
+May train skill weapon skill 2h staff to 5%
+May train skill weapon skill 2h ancient to 5%
+May train skill attack to 10%
+May train skill weapon skill 1h axe to 5%
+May train skill weapon skill 2h polearm to 5%
+May train skill weapon skill 1h bludgeon to 5%
+May train skill appraise to 5%
+May train skill weapon skill 2h sword to 5%
+May train skill weapon skill 1h sword to 5%
+May train skill weapon skill 2h axe to 5%
+May train skill weapon skill 1h ancient to 5%
+May train skill weapon skill 1h polearm to 5%
+May train skill bash to 5%
+------------------------------------------------------.
+
+Level 2 abilities:
+May train skill weapon skill 2h polearm to 10%
+May train skill weapon skill 1h bludgeon to 10%
+May train skill weapon skill 2h bludgeon to 10%
+May train skill strike to 5%
+May train skill weapon skill 2h axe to 10%
+May train skill weapon skill 1h sword to 10%
+May train skill weapon skill 2h sword to 10%
+May train skill weapon skill 1h dagger to 10%
+May train skill hear noises to 5%
+May train skill consider to 20%
+May train skill weapon skill 1h staff to 15%
+May train skill weapon skill 2h ancient to 10%
+May train skill bash to 10%
+May train skill attack to 25%
+May train skill weapon skill 1h polearm to 10%
+------------------------------------------------------.
+
+Level 3 abilities:
+May train skill dodge to 5%
+May train skill parry to 5%
+May train skill weapon skill 2h bludgeon to 15%
+May train skill weapon skill 1h dagger to 15%
+May train skill berserk to 5%
+May train skill consider to 35%
+May train skill weapon skill 1h staff to 25%
+May train skill weapon skill 2h staff to 15%
+May train skill weapon skill 2h ancient to 15%
+May train skill weapon skill 1h axe to 15%
+May train skill attack to 45%
+May train skill weapon skill 2h polearm to 15%
+May train skill tinning to 10%
+May train skill kick to 10%
+May train skill weapon skill 1h bludgeon to 15%
+May train skill strike to 10%
+May train skill appraise to 15%
+May train skill weapon skill 1h ancient to 15%
+May train skill weapon skill 1h sword to 15%
+May train skill weapon skill 1h polearm to 15%
+May train skill bash to 25%
+------------------------------------------------------.
+
+Level 4 abilities:
+May train skill weapon skill 2h polearm to 25%
+May train skill weapon skill 1h bludgeon to 25%
+May train skill weapon skill 2h bludgeon to 20%
+May train skill appraise to 25%
+May train skill weapon skill 1h ancient to 25%
+May train skill weapon skill 2h axe to 15%
+May train skill weapon skill 1h sword to 25%
+May train skill weapon skill 2h sword to 20%
+May train skill weapon skill 1h dagger to 25%
+May train skill consider to 45%
+May train skill weapon skill 2h staff to 25%
+May train skill weapon skill 1h axe to 25%
+May train skill bash to 45%
+------------------------------------------------------.
+
+Level 5 abilities:
+May train skill riposte to 5%
+May train skill dodge to 10%
+May train skill hear noises to 10%
+May train skill stun to 5%
+May train skill consider to 65%
+May train skill weapon skill 1h staff to 35%
+May train skill weapon skill 2h ancient to 25%
+May train skill attack to 55%
+May train skill weapon skill 2h polearm to 35%
+May train skill tinning to 25%
+May train skill kick to 15%
+May train skill weapon skill 1h bludgeon to 40%
+May train skill strike to 15%
+May train skill appraise to 35%
+May train skill weapon skill 1h sword to 35%
+May train skill weapon skill 2h sword to 35%
+May train skill weapon skill 1h polearm to 25%
+May train skill bash to 55%
+------------------------------------------------------.
+
+Level 6 abilities:
+May train skill weapon skill 2h polearm to 45%
+May train skill weapon skill 1h bludgeon to 55%
+May train skill weapon skill 2h bludgeon to 35%
+May train skill strike to 20%
+May train skill weapon skill 1h ancient to 45%
+May train skill weapon skill 2h axe to 35%
+May train skill weapon skill 1h dagger to 35%
+May train skill berserk to 10%
+May train skill leftwield to 5%
+May train skill weapon skill 2h staff to 35%
+May train skill zapping to 10%
+May train skill weapon skill 1h axe to 45%
+May train skill bash to 65%
+------------------------------------------------------.
+
+Level 7 abilities:
+May train skill parry to 10%
+May train skill dodge to 15%
+May train skill hear noises to 25%
+May train skill weapon skill 1h dagger to 45%
+May train skill consider to 85%
+May train skill weapon skill 1h staff to 45%
+May train skill weapon skill 2h staff to 45%
+May train skill weapon skill 2h ancient to 45%
+May train skill weapon skill 1h axe to 55%
+May train skill attack to 75%
+May train skill tinning to 35%
+May train skill kick to 25%
+May train skill weapon skill 1h bludgeon to 65%
+May train skill appraise to 45%
+May train skill weapon skill 1h sword to 45%
+May train skill doublehit to 5%
+May train skill weapon skill 1h polearm to 35%
+May train skill bash to 85%
+------------------------------------------------------.
+
+Level 8 abilities:
+May train skill tinning to 45%
+May train skill kick to 45%
+May train skill weapon skill 2h bludgeon to 45%
+May train skill strike to 25%
+May train skill weapon skill 1h ancient to 55%
+May train skill weapon skill 2h axe to 45%
+May train skill weapon skill 1h sword to 55%
+May train skill weapon skill 2h sword to 45%
+May train skill stun to 10%
+May train skill consider to 100%
+May train skill zapping to 25%
+May train skill weapon skill 2h ancient to 55%
+May train skill bash to 100%
+May train skill attack to 85%
+May train skill weapon skill 1h polearm to 45%
+------------------------------------------------------.
+
+Level 9 abilities:
+May train skill parry to 15%
+May train skill weapon skill 2h bludgeon to 55%
+May train skill hear noises to 35%
+May train skill weapon skill 1h dagger to 55%
+May train skill berserk to 15%
+May train skill weapon skill 1h staff to 55%
+May train skill weapon skill 2h staff to 55%
+May train skill attack to 95%
+May train skill weapon skill 1h axe to 65%
+May train skill weapon skill 2h polearm to 55%
+May train skill tinning to 65%
+May train skill weapon skill 1h bludgeon to 75%
+May train skill strike to 30%
+May train skill appraise to 55%
+May train skill weapon skill 1h ancient to 65%
+May train skill weapon skill 2h axe to 55%
+May train skill weapon skill 1h sword to 65%
+May train skill leftwield to 15%
+------------------------------------------------------.
+
+Level 10 abilities:
+May train skill riposte to 10%
+May train skill dodge to 20%
+May train skill critical to 5%
+May train skill weapon skill 2h bludgeon to 65%
+May train skill leadership to 20%
+May train skill weapon skill 1h dagger to 65%
+May train skill hear noises to 45%
+May train skill weapon skill 2h staff to 65%
+May train skill weapon skill 2h ancient to 65%
+May train skill weapon skill 1h axe to 75%
+May train skill attack to 100%
+May train skill weapon skill 2h polearm to 65%
+May train skill kick to 55%
+May train skill weapon skill 1h ancient to 75%
+May train skill weapon skill 2h axe to 65%
+May train skill weapon skill 2h sword to 55%
+May train skill leftwield to 25%
+May train skill doublehit to 15%
+May train skill weapon skill 1h polearm to 65%
+May train skill whirlwind attack to 10%
+------------------------------------------------------.
+
+Level 11 abilities:
+May train skill weapon skill 1h dagger to 75%
+May train skill calm down to 5%
+May train skill parry to 20%
+May train skill weapon skill 1h staff to 75%
+May train skill weapon skill 2h polearm to 75%
+May train skill weapon skill 1h axe to 85%
+May train skill strike to 35%
+May train skill kick to 65%
+------------------------------------------------------.
+
+Level 12 abilities:
+May train skill parry to 25%
+May train skill weapon skill 2h bludgeon to 75%
+May train skill weapon skill 1h dagger to 85%
+May train skill stun to 20%
+May train skill hear noises to 55%
+May train skill berserk to 20%
+May train skill weapon skill 1h staff to 85%
+May train skill weapon skill 2h staff to 75%
+May train skill weapon skill 2h ancient to 75%
+May train skill weapon skill 2h polearm to 85%
+May train skill tinning to 75%
+May train skill kick to 85%
+May train skill weapon skill 1h bludgeon to 85%
+May train skill strike to 40%
+May train skill appraise to 65%
+May train skill weapon skill 1h ancient to 85%
+May train skill weapon skill 2h axe to 85%
+May train skill weapon skill 1h sword to 75%
+May train skill weapon skill 2h sword to 65%
+May train skill battlecry to 5%
+May train skill leftwield to 35%
+May train skill weapon skill 1h polearm to 85%
+May train skill whirlwind attack to 15%
+------------------------------------------------------.
+
+Level 13 abilities:
+May train skill dodge to 25%
+May train skill parry to 35%
+May train skill weapon skill 2h polearm to 95%
+May train skill critical to 10%
+May train skill kick to 100%
+May train skill weapon skill 2h bludgeon to 85%
+May train skill weapon skill 1h sword to 85%
+May train skill weapon skill 2h sword to 75%
+May train skill stun to 35%
+May train skill calm down to 10%
+May train skill zapping to 35%
+May train skill leftwield to 55%
+May train skill weapon skill 2h ancient to 85%
+May train skill weapon skill 1h axe to 100%
+May train skill doublehit to 25%
+------------------------------------------------------.
+
+Level 14 abilities:
+May train skill dodge to 35%
+May train skill parry to 45%
+May train skill weapon skill 2h bludgeon to 100%
+May train skill weapon skill 1h dagger to 100%
+May train skill weapon skill 1h staff to 100%
+May train skill weapon skill 2h staff to 100%
+May train skill weapon skill 2h ancient to 100%
+May train skill weapon skill 2h polearm to 100%
+May train skill strike to 45%
+May train skill weapon skill 1h bludgeon to 100%
+May train skill appraise to 75%
+May train skill weapon skill 1h ancient to 100%
+May train skill weapon skill 2h sword to 100%
+May train skill weapon skill 1h sword to 100%
+May train skill weapon skill 2h axe to 100%
+May train skill battlecry to 10%
+May train skill weapon skill 1h polearm to 100%
+May train skill whirlwind attack to 25%
+------------------------------------------------------.
+
+Level 15 abilities:
+May train skill dodge to 45%
+May train skill riposte to 15%
+May train skill defend to 5%
+May train skill tinning to 100%
+May train skill appraise to 100%
+May train skill strike to 50%
+May train skill leadership to 35%
+May train skill stun to 45%
+May train skill hear noises to 75%
+May train skill calm down to 15%
+May train skill berserk to 25%
+May train skill leftwield to 65%
+May train skill doublehit to 45%
+------------------------------------------------------.
+
+Level 16 abilities:
+May train skill hear noises to 100%
+May train skill rage to 5%
+May train skill battlecry to 25%
+May train skill critical to 20%
+May train skill zapping to 45%
+May train skill bravery to 5%
+------------------------------------------------------.
+
+Level 17 abilities:
+May train skill parry to 50%
+May train skill critical to 35%
+May train skill strike to 55%
+May train skill stun to 55%
+May train skill calm down to 20%
+May train skill leftwield to 75%
+May train skill zapping to 65%
+May train skill doublehit to 55%
+May train skill whirlwind attack to 45%
+------------------------------------------------------.
+
+Level 18 abilities:
+May train skill rage to 10%
+May train skill battlecry to 45%
+May train skill berserk to 30%
+May train skill dodge to 55%
+May train skill defend to 10%
+May train skill zapping to 75%
+May train skill bravery to 10%
+May train skill strike to 60%
+------------------------------------------------------.
+
+Level 19 abilities:
+May train skill attend wounds to 5%
+May train skill parry to 55%
+May train skill critical to 45%
+May train skill rescue to 5%
+May train skill stun to 65%
+May train skill calm down to 25%
+May train skill leftwield to 100%
+May train skill doublehit to 75%
+May train skill whirlwind attack to 55%
+------------------------------------------------------.
+
+Level 20 abilities:
+May train skill rage to 15%
+May train skill riposte to 20%
+May train skill dodge to 60%
+May train skill bravery to 15%
+May train skill throw sand to 5%
+May train skill strike to 65%
+May train skill leadership to 50%
+May train skill stun to 75%
+May train skill zapping to 85%
+May train skill doublehit to 85%
+------------------------------------------------------.
+
+Level 21 abilities:
+May train skill attend wounds to 15%
+May train skill critical to 55%
+May train skill defend to 15%
+May train skill strike to 70%
+May train skill battlecry to 55%
+May train skill berserk to 35%
+May train skill calm down to 30%
+May train skill system shock to 5%
+May train skill whirlwind attack to 65%
+May train skill doublehit to 100%
+------------------------------------------------------.
+
+Level 22 abilities:
+May train skill rage to 20%
+May train skill dodge to 70%
+May train skill parry to 60%
+May train skill inner strength to 5%
+May train skill bravery to 20%
+May train skill rescue to 10%
+------------------------------------------------------.
+
+Level 23 abilities:
+May train skill attend wounds to 25%
+May train skill ignore pain to 5%
+May train skill parry to 65%
+May train skill inner strength to 10%
+May train skill defend to 20%
+May train skill critical to 65%
+May train skill strike to 75%
+------------------------------------------------------.
+
+Level 24 abilities:
+May train skill rage to 25%
+May train skill parry to 70%
+May train skill defend to 25%
+May train skill bravery to 25%
+May train skill strike to 80%
+May train skill throw sand to 10%
+May train skill rescue to 15%
+May train skill stun to 85%
+May train skill battlecry to 75%
+May train skill calm down to 35%
+May train skill berserk to 40%
+May train skill system shock to 10%
+May train skill zapping to 100%
+May train skill whirlwind attack to 75%
+------------------------------------------------------.
+
+Level 25 abilities:
+May train skill battlecry to 100%
+May train skill ignore pain to 10%
+May train skill dodge to 75%
+May train skill riposte to 25%
+May train skill critical to 75%
+May train skill brawl to 5%
+May train skill mutilation to 5%
+May train skill leadership to 60%
+------------------------------------------------------.
+
+Level 26 abilities:
+May train skill rage to 30%
+May train skill attend wounds to 35%
+May train skill hammer to 5%
+May train skill parry to 75%
+May train skill inner strength to 15%
+May train skill defend to 35%
+May train skill strike to 85%
+May train skill throw sand to 15%
+May train skill bravery to 30%
+May train skill slash to 5%
+------------------------------------------------------.
+
+Level 27 abilities:
+May train skill ignore pain to 15%
+May train skill berserk to 45%
+May train skill calm down to 40%
+May train skill system shock to 15%
+May train skill defend to 45%
+May train skill critical to 85%
+May train skill strike to 90%
+------------------------------------------------------.
+
+Level 28 abilities:
+May train skill stun to 100%
+May train skill whirlwind slash to 5%
+May train skill dirty blow to 5%
+May train skill hammer to 10%
+May train skill dodge to 80%
+May train skill defend to 50%
+May train skill mutilation to 10%
+May train skill rescue to 20%
+------------------------------------------------------.
+
+Level 29 abilities:
+May train skill rage to 35%
+May train skill attend wounds to 45%
+May train skill ignore pain to 20%
+May train skill defend to 55%
+May train skill strike to 95%
+May train skill throw sand to 20%
+May train skill bravery to 35%
+May train skill brawl to 10%
+May train skill slash to 10%
+May train skill whirlwind attack to 85%
+------------------------------------------------------.
+
+Level 30 abilities:
+May train skill spot weakness to 5%
+May train skill whirlwind slash to 10%
+May train skill riposte to 30%
+May train skill parry to 80%
+May train skill dodge to 85%
+May train skill critical to 90%
+May train skill rescue to 25%
+May train skill strike to 100%
+May train skill leadership to 75%
+May train skill calm down to 45%
+May train skill berserk to 50%
+May train skill system shock to 20%
+------------------------------------------------------.
+
+Level 31 abilities:
+May train skill defend to 65%
+May train skill brawl to 20%
+May train skill ignore pain to 25%
+------------------------------------------------------.
+
+Level 32 abilities:
+May train skill rage to 40%
+May train skill whirlwind slash to 15%
+May train skill attend wounds to 55%
+May train skill hammer to 15%
+May train skill parry to 85%
+May train skill inner strength to 20%
+May train skill mutilation to 15%
+May train skill bravery to 40%
+May train skill whirlwind attack to 90%
+May train skill slash to 15%
+------------------------------------------------------.
+
+Level 33 abilities:
+May train skill ignore pain to 30%
+May train skill berserk to 55%
+May train skill system shock to 25%
+May train skill defend to 75%
+May train skill throw sand to 25%
+May train skill leadership to 85%
+------------------------------------------------------.
+
+Level 34 abilities:
+May train skill spot weakness to 10%
+May train skill dirty blow to 10%
+May train skill hammer to 20%
+May train skill dodge to 90%
+May train skill parry to 90%
+May train skill mutilation to 20%
+May train skill rescue to 30%
+------------------------------------------------------.
+
+Level 35 abilities:
+May train skill rage to 45%
+May train skill whirlwind slash to 20%
+May train skill attend wounds to 65%
+May train skill dirty blow to 15%
+May train skill ignore pain to 35%
+May train skill inner strength to 25%
+May train skill dodge to 95%
+May train skill riposte to 35%
+May train skill bravery to 45%
+May train skill leadership to 100%
+May train skill brawl to 25%
+May train skill whirlwind attack to 100%
+------------------------------------------------------.
+
+Level 36 abilities:
+May train skill berserk to 60%
+May train skill system shock to 30%
+May train skill rescue to 40%
+May train skill slash to 20%
+May train skill mutilation to 25%
+------------------------------------------------------.
+
+Level 37 abilities:
+May train skill whirlwind slash to 25%
+May train skill dirty blow to 20%
+May train skill inner strength to 30%
+May train skill parry to 100%
+May train skill ignore pain to 40%
+------------------------------------------------------.
+
+Level 38 abilities:
+May train skill attend wounds to 75%
+May train skill spot weakness to 15%
+May train skill dirty blow to 25%
+May train skill hammer to 25%
+May train skill inner strength to 35%
+May train skill dodge to 100%
+May train skill defend to 80%
+May train skill rescue to 45%
+------------------------------------------------------.
+
+Level 39 abilities:
+May train skill ignore pain to 45%
+May train skill hammer to 30%
+May train skill berserk to 65%
+May train skill system shock to 35%
+May train skill critical to 100%
+May train skill mutilation to 30%
+May train skill slash to 25%
+May train skill throw sand to 30%
+------------------------------------------------------.
+
+Level 40 abilities:
+May train skill spot weakness to 25%
+May train skill dirty blow to 30%
+May train skill inner strength to 45%
+May train skill riposte to 40%
+May train skill defend to 85%
+May train skill brawl to 30%
+------------------------------------------------------.
+
+Level 41 abilities:
+May train skill ignore pain to 50%
+May train skill hammer to 40%
+May train skill defend to 90%
+May train skill mutilation to 40%
+May train skill throw sand to 40%
+May train skill slash to 30%
+------------------------------------------------------.
+
+Level 42 abilities:
+May train skill whirlwind slash to 35%
+May train skill spot weakness to 35%
+May train skill attend wounds to 85%
+May train skill dirty blow to 35%
+May train skill berserk to 70%
+May train skill system shock to 40%
+May train skill brawl to 40%
+May train skill throw sand to 45%
+------------------------------------------------------.
+
+Level 43 abilities:
+May train skill defend to 95%
+May train skill ignore pain to 55%
+May train skill slash to 40%
+------------------------------------------------------.
+
+Level 44 abilities:
+May train skill mutilation to 45%
+May train skill dirty blow to 40%
+------------------------------------------------------.
+
+Level 45 abilities:
+May train skill whirlwind slash to 45%
+May train skill spot weakness to 45%
+May train skill attend wounds to 100%
+May train skill dirty blow to 45%
+May train skill riposte to 45%
+May train skill hammer to 45%
+May train skill ignore pain to 60%
+May train skill defend to 100%
+May train skill system shock to 45%
+May train skill brawl to 45%
+May train skill slash to 45%
+------------------------------------------------------.
+
+Subguilds:
+Masters_of_Defence 10
+Brawlers 5
+Warder 6
+Blademasters 5
+Myrmidons 5

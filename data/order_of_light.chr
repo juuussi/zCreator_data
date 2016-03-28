@@ -1,0 +1,129 @@
+Updated 2011.04.13
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(10), Wis(3), Con(1), Sp_regen(2)                             |
+|   2 | Sp(10), Wis(4), Con(1), Sp_regen(3), Magical resistance(1)      |
+|   3 | Sp(10), Wis(3), Con(1), Sp_regen(3)                             |
+|   4 | Sp(10), Wis(4), Con(1), Sp_regen(2), Hp_regen(1),               |
+|     | Magical resistance(1)                                           |
+|   5 | Sp(10), Wis(3), Con(1), Sp_regen(3), Physical resistance(1)     |
+|   6 | Sp(10), Wis(4), Con(1), Sp_regen(3), Magical resistance(1)      |
+|   7 | Sp(10), Wis(3), Con(1), Sp_regen(2), Hp_regen(1)                |
+|   8 | Sp(10), Wis(4), Con(1), Sp_regen(3), Magical resistance(1)      |
+|   9 | Sp(10), Wis(3), Con(1), Sp_regen(3)                             |
+|  10 | Sp(10), Wis(4), Con(1), Sp_regen(3), Hp_regen(1),               |
+|     | Magical resistance(1), Physical resistance(1)                   |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell half heal to 10%
+May study spell holy presence to 55%
+May study spell identify to 10%
+May study spell major distant heal to 5%
+May study spell summon ghost to 70%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell half heal to 20%
+May study spell holy presence to 60%
+May study spell holy wisdom to 55%
+May study spell identify to 20%
+May study spell major distant heal to 10%
+May train skill arcane lore to 85%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell dispel greater curse to 20%
+May study spell half heal to 30%
+May study spell healing wind to 55%
+May study spell holy presence to 65%
+May study spell holy wisdom to 60%
+May study spell identify to 35%
+May study spell major distant heal to 15%
+May study spell summon ghost to 75%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell dispel greater curse to 30%
+May study spell half heal to 40%
+May study spell healing wind to 60%
+May study spell holy presence to 70%
+May study spell holy wisdom to 65%
+May study spell identify to 50%
+May study spell major distant heal to 25%
+May study spell sacred ritual to 55%
+May train skill arcane lore to 90%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell dispel greater curse to 40%
+May study spell half heal to 50%
+May study spell healing wind to 70%
+May study spell holy presence to 75%
+May study spell holy wisdom to 70%
+May study spell identify to 70%
+May study spell major distant heal to 40%
+May study spell remove werecurse to 20%
+May study spell sacred ritual to 65%
+May study spell summon ghost to 80%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell dispel greater curse to 50%
+May study spell half heal to 60%
+May study spell healing wind to 80%
+May study spell holy presence to 80%
+May study spell holy wisdom to 80%
+May study spell major distant heal to 55%
+May study spell remove werecurse to 30%
+May study spell sacred ritual to 75%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell dispel greater curse to 75%
+May study spell half heal to 70%
+May study spell healing wind to 90%
+May study spell holy presence to 85%
+May study spell holy wisdom to 90%
+May study spell identify to 80%
+May study spell major distant heal to 70%
+May study spell remove werecurse to 40%
+May study spell summon ghost to 85%
+May train skill arcane lore to 95%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell dispel greater curse to 100%
+May study spell dispel mist to 30%
+May study spell half heal to 80%
+May study spell holy presence to 90%
+May study spell holy wisdom to 100%
+May study spell major distant heal to 85%
+May study spell remove werecurse to 60%
+May study spell sacred ritual to 85%
+May study spell summon ghost to 90%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell dispel mist to 60%
+May study spell half heal to 90%
+May study spell healing wind to 100%
+May study spell holy presence to 95%
+May study spell remove werecurse to 80%
+May study spell summon ghost to 95%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell dispel mist to 100%
+May study spell half heal to 100%
+May study spell holy presence to 100%
+May study spell major distant heal to 100%
+May study spell remove werecurse to 100%
+May study spell sacred ritual to 100%
+May study spell summon ghost to 100%
+May train skill arcane lore to 100%
+------------------------------------------------------.

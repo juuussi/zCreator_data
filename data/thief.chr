@@ -1,0 +1,858 @@
+Updated 2011.03.28
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hp(10), Sp(4), Dex(3), Con(1), Hp_regen(2), Sp_regen(1)         |
+|   2 | Hp(9), Sp(3), Dex(4), Con(2), Str(1), Hp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|   3 | Hp(10), Sp(3), Dex(4), Con(1), Str(1), Hp_regen(3),             |
+|     | Sp_regen(1)                                                     |
+|   4 | Hp(9), Sp(3), Dex(4), Con(1), Str(1), Wis(1), Hp_regen(2)       |
+|   5 | Hp(10), Sp(3), Dex(4), Con(1), Str(1), Hp_regen(3),             |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|   6 | Hp(10), Sp(3), Dex(3), Con(2), Str(1), Hp_regen(2),             |
+|     | Poison resistance(1)                                            |
+|   7 | Hp(9), Sp(3), Dex(4), Con(1), Hp_regen(2), Sp_regen(1),         |
+|     | Physical resistance(1)                                          |
+|   8 | Hp(10), Sp(3), Dex(4), Con(1), Str(1), Wis(1), Hp_regen(3)      |
+|   9 | Hp(9), Sp(3), Dex(4), Con(1), Str(1), Hp_regen(2), Sp_regen(1)  |
+|  10 | Hp(10), Sp(3), Dex(4), Con(1), Str(1), Hp_regen(2),             |
+|     | Sp_regen(1), Physical resistance(1)                             |
+|  11 | Hp(9), Sp(3), Dex(3), Con(2), Str(1), Hp_regen(3)               |
+|  12 | Hp(9), Sp(2), Dex(4), Con(1), Str(1), Hp_regen(2), Sp_regen(1)  |
+|  13 | Hp(9), Sp(3), Dex(3), Con(1), Wis(1), Hp_regen(2),              |
+|     | Physical resistance(1)                                          |
+|  14 | Hp(8), Sp(3), Dex(4), Con(1), Str(1), Hp_regen(2),              |
+|     | Poison resistance(1)                                            |
+|  15 | Hp(9), Sp(3), Dex(3), Con(1), Str(1), Hp_regen(2), Sp_regen(1)  |
+|  16 | Hp(9), Sp(3), Dex(4), Con(1), Str(1), Hp_regen(3),              |
+|     | Physical resistance(1)                                          |
+|  17 | Hp(9), Sp(2), Dex(3), Con(1), Hp_regen(2), Sp_regen(1)          |
+|  18 | Hp(9), Sp(3), Dex(4), Con(2), Str(1), Wis(1), Hp_regen(2),      |
+|     | Asphyxiation resistance(1)                                      |
+|  19 | Hp(9), Sp(3), Dex(3), Con(1), Str(1), Hp_regen(2), Sp_regen(1), |
+|     | Physical resistance(1)                                          |
+|  20 | Hp(9), Sp(3), Dex(4), Con(1), Str(1), Hp_regen(3)               |
+|  21 | Hp(7), Sp(2), Dex(3), Con(1), Hp_regen(1), Sp_regen(1)          |
+|  22 | Hp(8), Sp(3), Dex(3), Con(1), Str(1), Hp_regen(2),              |
+|     | Poison resistance(1), Physical resistance(1)                    |
+|  23 | Hp(7), Sp(2), Dex(3), Con(1), Str(1), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1)                                                     |
+|  24 | Hp(8), Sp(2), Dex(3), Con(1), Hp_regen(2)                       |
+|  25 | Hp(6), Sp(2), Dex(2), Con(1), Str(1), Hp_regen(1)               |
+|  26 | Hp(6), Sp(2), Dex(3), Hp_regen(2), Sp_regen(1),                 |
+|     | Physical resistance(1)                                          |
+|  27 | Hp(5), Sp(2), Dex(2), Con(1), Str(1), Hp_regen(1)               |
+|  28 | Hp(6), Sp(2), Dex(2), Con(1), Hp_regen(2)                       |
+|  29 | Hp(6), Sp(2), Dex(3), Con(1), Str(1), Wis(1), Hp_regen(1),      |
+|     | Sp_regen(1)                                                     |
+|  30 | Hp(6), Sp(1), Dex(2), Str(1), Hp_regen(2)                       |
+|  31 | Hp(6), Sp(2), Dex(2), Con(1), Hp_regen(1),                      |
+|     | Physical resistance(1)                                          |
+|  32 | Hp(5), Sp(2), Dex(2), Con(1), Str(1), Hp_regen(2), Sp_regen(1), |
+|     | Poison resistance(1)                                            |
+|  33 | Hp(6), Sp(2), Dex(3), Hp_regen(1)                               |
+|  34 | Hp(6), Sp(2), Dex(2), Con(1), Str(1), Hp_regen(1)               |
+|  35 | Hp(5), Sp(1), Dex(2), Con(1), Hp_regen(2), Sp_regen(1),         |
+|     | Physical resistance(1)                                          |
+|  36 | Hp(5), Sp(2), Dex(2), Con(1), Hp_regen(1)                       |
+|  37 | Hp(5), Sp(2), Dex(2), Str(1), Wis(1), Hp_regen(1)               |
+|  38 | Hp(6), Sp(1), Dex(2), Con(1), Hp_regen(2), Sp_regen(1)          |
+|  39 | Hp(5), Sp(2), Dex(2), Con(1), Str(1), Hp_regen(1)               |
+|  40 | Hp(5), Sp(1), Dex(2), Hp_regen(1), Physical resistance(1)       |
+|  41 | Hp(5), Sp(2), Dex(2), Con(1), Str(1), Hp_regen(1)               |
+|  42 | Hp(5), Sp(2), Dex(2), Con(1), Hp_regen(2), Sp_regen(1)          |
+|  43 | Hp(5), Sp(1), Dex(2), Str(1), Hp_regen(1)                       |
+|  44 | Hp(5), Sp(2), Dex(2), Con(1), Hp_regen(1)                       |
+|  45 | Hp(6), Sp(2), Dex(3), Con(1), Str(1), Wis(1), Hp_regen(2),      |
+|     | Sp_regen(1), Poison resistance(1), Physical resistance(1),      |
+|     | Asphyxiation resistance(1)                                      |
+`-----------------------------------------------------------------------'
+
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell floating letters to 20%
+May train skill pick pockets to 5%
+May train skill sleight to 5%
+May train skill backstab to 5%
+May train skill herb mixing to 5%
+May train skill sneak to 5%
+May train skill thrust to 5%
+May train skill consider to 10%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell floating letters to 40%
+May train skill pick pockets to 10%
+May train skill glance to 5%
+May train skill steal to 5%
+May train skill backstab to 10%
+May train skill purse evaluation to 10%
+May train skill thrust to 10%
+May train skill consider to 20%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell darkness to 10%
+May study spell floating letters to 60%
+May train skill attack to 15%
+May train skill sleight to 10%
+May train skill pick pockets to 15%
+May train skill consider to 35%
+May train skill thrust to 15%
+May train skill backstab to 15%
+May train skill herb mixing to 10%
+May train skill sneak to 10%
+May train skill tinning to 10%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell floating letters to 80%
+May train skill steal to 10%
+May train skill backstab to 20%
+May train skill pick pockets to 20%
+May train skill tinning to 25%
+May train skill purse evaluation to 35%
+May train skill thrust to 20%
+May train skill consider to 45%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell darkness to 40%
+May study spell floating letters to 100%
+May train skill sleight to 15%
+May train skill attack to 25%
+May train skill pick pockets to 25%
+May train skill thrust to 25%
+May train skill consider to 60%
+May train skill backstab to 25%
+May train skill tinning to 45%
+May train skill weapon skill 2h dagger to 10%
+May train skill sneak to 15%
+May train skill weapon skill 1h dagger to 10%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 6 abilities:
+May train skill steal to 15%
+May train skill pick pockets to 30%
+May train skill consider to 65%
+May train skill thrust to 30%
+May train skill double thrust to 5%
+May train skill glance to 10%
+May train skill backstab to 30%
+May train skill herb mixing to 15%
+May train skill hiding to 5%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell invisibility to 5%
+May train skill attack to 35%
+May train skill backstab to 35%
+May train skill pick pockets to 35%
+May train skill tinning to 65%
+May train skill appraise to 5%
+May train skill sneak to 20%
+May train skill purse evaluation to 60%
+May train skill thrust to 35%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell black orb to 5%
+May train skill pick pockets to 40%
+May train skill backstab to 40%
+May train skill steal to 20%
+May train skill attack to 50%
+May train skill weapon skill 2h ancient to 10%
+May train skill thrust to 40%
+May train skill weapon skill 1h ancient to 10%
+May train skill consider to 75%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell darkness to 60%
+May train skill sleight to 20%
+May train skill pick pockets to 45%
+May train skill thrust to 45%
+May train skill double thrust to 10%
+May train skill glance to 20%
+May train skill backstab to 45%
+May train skill herb mixing to 20%
+May train skill tinning to 75%
+May train skill sneak to 25%
+May train skill appraise to 10%
+May train skill purse evaluation to 80%
+May train skill hiding to 10%
+------------------------------------------------------.
+
+
+
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell heavy weight to 5%
+May train skill attack to 60%
+May train skill steal to 25%
+May train skill pick pockets to 50%
+May train skill thrust to 50%
+May train skill consider to 80%
+May train skill thieves kiss poison to 5%
+May train skill double backstab to 5%
+May train skill backstab to 50%
+May train skill possessions to 5%
+May train skill purse evaluation to 100%
+May train skill dodge to 10%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell black orb to 30%
+May study spell water walking to 15%
+May train skill pick pockets to 55%
+May train skill backstab to 55%
+May train skill double thrust to 15%
+May train skill weapon skill 2h ancient to 15%
+May train skill sneak to 30%
+May train skill hiding to 15%
+May train skill thrust to 55%
+May train skill weapon skill 1h ancient to 15%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 12 abilities:
+May train skill pick pockets to 60%
+May train skill steal to 30%
+May train skill attack to 65%
+May train skill sleight to 25%
+May train skill thrust to 60%
+May train skill stun to 5%
+May train skill consider to 90%
+May train skill backstab to 60%
+May train skill double backstab to 10%
+May train skill glance to 25%
+May train skill thieves kiss poison to 10%
+May train skill herb mixing to 25%
+May train skill appraise to 20%
+May train skill weapon skill 2h dagger to 20%
+May train skill weapon skill 1h dagger to 20%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell infravision to 20%
+May train skill pick pockets to 65%
+May train skill thrust to 65%
+May train skill backstab to 65%
+May train skill double thrust to 20%
+May train skill sneak to 35%
+May train skill appraise to 30%
+May train skill tinning to 85%
+May train skill possessions to 10%
+May train skill hiding to 20%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell clairvoyance to 10%
+May train skill sleight to 30%
+May train skill steal to 35%
+May train skill pick pockets to 70%
+May train skill thrust to 70%
+May train skill consider to 95%
+May train skill double backstab to 15%
+May train skill thieves kiss poison to 15%
+May train skill backstab to 70%
+May train skill appraise to 40%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell darkness to 95%
+May study spell heavy weight to 15%
+May study spell invisibility to 20%
+May study spell poison to 5%
+May train skill pick pockets to 75%
+May train skill thrust to 75%
+May train skill weapon skill 1h ancient to 20%
+May train skill double thrust to 25%
+May train skill backstab to 75%
+May train skill herb mixing to 30%
+May train skill possessions to 20%
+May train skill appraise to 50%
+May train skill weapon skill 2h ancient to 20%
+May train skill weapon skill 2h dagger to 30%
+May train skill sneak to 40%
+May train skill dodge to 30%
+May train skill hiding to 25%
+May train skill weapon skill 1h dagger to 30%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell black orb to 50%
+May study spell infravision to 50%
+May train skill steal to 40%
+May train skill pick pockets to 80%
+May train skill peer to 5%
+May train skill pick locks to 10%
+May train skill thrust to 80%
+May train skill double backstab to 20%
+May train skill thieves kiss poison to 20%
+May train skill backstab to 80%
+May train skill tinning to 90%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell water walking to 30%
+May train skill pick pockets to 85%
+May train skill attack to 70%
+May train skill sleight to 35%
+May train skill thrust to 85%
+May train skill consider to 100%
+May train skill backstab to 85%
+May train skill glance to 40%
+May train skill thieves kiss poison to 30%
+May train skill double thrust to 30%
+May train skill appraise to 60%
+May train skill sneak to 45%
+May train skill hiding to 30%
+May train skill zapping to 5%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell clairvoyance to 30%
+May study spell poison to 15%
+May study spell teleport with error to 5%
+May train skill steal to 45%
+May train skill pick pockets to 90%
+May train skill thrust to 90%
+May train skill weapon skill 1h ancient to 30%
+May train skill thieves kiss poison to 40%
+May train skill double backstab to 25%
+May train skill backstab to 90%
+May train skill herb mixing to 35%
+May train skill weapon skill 2h ancient to 30%
+May train skill find traps to 5%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell heavy weight to 30%
+May train skill sleight to 40%
+May train skill pick pockets to 95%
+May train skill pick locks to 15%
+May train skill thrust to 95%
+May train skill thieves kiss poison to 50%
+May train skill double thrust to 35%
+May train skill backstab to 95%
+May train skill sneak to 50%
+May train skill dodge to 50%
+May train skill hiding to 35%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell identify to 5%
+May study spell infravision to 70%
+May study spell invisibility to 40%
+May study spell teleport with error to 10%
+May train skill pick pockets to 100%
+May train skill steal to 50%
+May train skill doublehit to 10%
+May train skill disarm traps to 10%
+May train skill thrust to 100%
+May train skill stun to 10%
+May train skill backstab to 100%
+May train skill glance to 60%
+May train skill thieves kiss poison to 60%
+May train skill double backstab to 30%
+May train skill appraise to 70%
+May train skill weapon skill 2h dagger to 45%
+May train skill find herbs to 5%
+May train skill weapon skill 1h dagger to 45%
+May train skill zapping to 15%
+------------------------------------------------------.
+
+
+
+------------------------------------------------------.
+
+Level 21 abilities:
+May train skill sleight to 45%
+May train skill peer to 30%
+May train skill thieves kiss poison to 70%
+May train skill double thrust to 40%
+May train skill herb mixing to 40%
+May train skill tinning to 95%
+May train skill weapon skill 2h dagger to 55%
+May train skill sneak to 55%
+May train skill appraise to 90%
+May train skill hiding to 40%
+May train skill weapon skill 1h dagger to 55%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell black orb to 60%
+May study spell cause disease to 10%
+May study spell clairvoyance to 50%
+May study spell poison to 40%
+May study spell teleport with error to 20%
+May train skill doublehit to 20%
+May train skill weapon skill 1h ancient to 40%
+May train skill thieves kiss poison to 80%
+May train skill double backstab to 35%
+May train skill appraise to 100%
+May train skill weapon skill 2h ancient to 40%
+May train skill weapon skill 2h dagger to 65%
+May train skill find traps to 10%
+May train skill weapon skill 1h dagger to 65%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell heavy weight to 50%
+May study spell water walking to 50%
+May train skill sleight to 50%
+May train skill disarm traps to 15%
+May train skill double thrust to 45%
+May train skill glance to 70%
+May train skill thieves kiss poison to 100%
+May train skill grapple to 5%
+May train skill sneak to 60%
+May train skill weapon skill 2h dagger to 75%
+May train skill hand of evil poison to 10%
+May train skill hiding to 45%
+May train skill weapon skill 1h dagger to 75%
+May train skill zapping to 20%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell clairvoyance to 60%
+May study spell identify to 15%
+May study spell poison to 65%
+May train skill double backstab to 40%
+May train skill doublehit to 30%
+May train skill herb mixing to 45%
+May train skill pick locks to 25%
+May train skill weapon skill 2h dagger to 80%
+May train skill hand of evil poison to 20%
+May train skill stun to 15%
+May train skill weapon skill 1h dagger to 80%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell infravision to 90%
+May study spell teleport with error to 30%
+May train skill slip to 5%
+May train skill steal to 55%
+May train skill grapple to 15%
+May train skill double thrust to 50%
+May train skill tinning to 100%
+May train skill weapon skill 2h dagger to 85%
+May train skill sneak to 65%
+May train skill hand of evil poison to 30%
+May train skill find traps to 30%
+May train skill hiding to 50%
+May train skill weapon skill 1h dagger to 85%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell invisibility to 60%
+May study spell relocate to 10%
+May train skill double backstab to 45%
+May train skill peer to 45%
+May train skill dodge to 70%
+May train skill hand of evil poison to 40%
+May train skill zapping to 30%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell cause disease to 30%
+May study spell clairvoyance to 70%
+May study spell water walking to 60%
+May train skill grapple to 25%
+May train skill double thrust to 55%
+May train skill disarm traps to 20%
+May train skill herb mixing to 50%
+May train skill possessions to 25%
+May train skill sneak to 70%
+May train skill hand of evil poison to 50%
+May train skill hiding to 55%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell heavy weight to 65%
+May study spell identify to 20%
+May study spell poison to 80%
+May train skill attack to 80%
+May train skill doublehit to 35%
+May train skill sleight to 55%
+May train skill disarm traps to 25%
+May train skill weapon skill 1h ancient to 50%
+May train skill double backstab to 50%
+May train skill weapon skill 2h ancient to 50%
+May train skill hand of evil poison to 60%
+May train skill find herbs to 10%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell relocate to 15%
+May study spell teleport with error to 35%
+May train skill double thrust to 60%
+May train skill glance to 75%
+May train skill grapple to 35%
+May train skill sneak to 75%
+May train skill hand of evil poison to 70%
+May train skill hiding to 60%
+May train skill zapping to 40%
+------------------------------------------------------.
+
+
+
+------------------------------------------------------.
+
+Level 30 abilities:
+May train skill slip to 10%
+May train skill steal to 60%
+May train skill sleight to 70%
+May train skill attack to 85%
+May train skill disarm traps to 30%
+May train skill pick locks to 30%
+May train skill leadership to 10%
+May train skill peer to 60%
+May train skill double backstab to 55%
+May train skill herb mixing to 55%
+May train skill possessions to 30%
+May train skill weapon skill 2h dagger to 90%
+May train skill hand of evil poison to 80%
+May train skill weapon skill 1h dagger to 90%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell clairvoyance to 85%
+May study spell invisibility to 70%
+May study spell shield of protection to 5%
+May train skill disarm traps to 35%
+May train skill stun to 20%
+May train skill glance to 80%
+May train skill grapple to 45%
+May train skill double thrust to 65%
+May train skill sneak to 80%
+May train skill find traps to 40%
+May train skill dodge to 80%
+May train skill hand of evil poison to 85%
+May train skill hiding to 65%
+May train skill find herbs to 15%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell cause disease to 50%
+May study spell identify to 25%
+May train skill tracking to 10%
+May train skill doublehit to 50%
+May train skill disarm traps to 40%
+May train skill pick locks to 35%
+May train skill peer to 85%
+May train skill tumbling to 5%
+May train skill grapple to 55%
+May train skill double backstab to 60%
+May train skill possessions to 35%
+May train skill hand of evil poison to 90%
+May train skill find herbs to 20%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell heavy weight to 80%
+May study spell relocate to 25%
+May study spell water walking to 80%
+May train skill tracking to 20%
+May train skill leadership to 20%
+May train skill disarm traps to 45%
+May train skill double thrust to 70%
+May train skill sneak to 85%
+May train skill herb mixing to 60%
+May train skill hand of evil poison to 100%
+May train skill hiding to 70%
+May train skill zapping to 50%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell poison to 95%
+May study spell shield of protection to 15%
+May study spell teleport with error to 40%
+May train skill grapple to 65%
+May train skill double backstab to 65%
+May train skill possessions to 40%
+May train skill peer to 100%
+May train skill find herbs to 25%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 35 abilities:
+May train skill slip to 15%
+May train skill steal to 65%
+May train skill attack to 90%
+May train skill leadership to 30%
+May train skill tumbling to 15%
+May train skill suicide to 5%
+May train skill weapon skill 1h ancient to 60%
+May train skill double thrust to 75%
+May train skill weapon skill 2h ancient to 60%
+May train skill weapon skill 2h dagger to 95%
+May train skill sneak to 90%
+May train skill find traps to 60%
+May train skill hiding to 75%
+May train skill weapon skill 1h dagger to 95%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell cause disease to 70%
+May study spell heavy weight to 90%
+May study spell identify to 35%
+May train skill glance to 90%
+May train skill double backstab to 70%
+May train skill disarm traps to 50%
+May train skill herb mixing to 65%
+May train skill possessions to 45%
+May train skill pick locks to 40%
+May train skill zapping to 60%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell water walking to 95%
+May train skill double thrust to 80%
+May train skill triple backstab to 5%
+May train skill doublehit to 70%
+May train skill grapple to 70%
+May train skill sneak to 95%
+May train skill dodge to 85%
+May train skill hiding to 80%
+May train skill stun to 25%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell hole to 10%
+May study spell infravision to 95%
+May study spell invisibility to 75%
+May study spell relocate to 30%
+May study spell shield of protection to 30%
+May train skill triple thrust to 5%
+May train skill triple backstab to 10%
+May train skill leadership to 35%
+May train skill tumbling to 20%
+May train skill find traps to 70%
+May train skill suicide to 15%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell identify to 50%
+May study spell teleport with error to 45%
+May train skill double thrust to 85%
+May train skill triple thrust to 10%
+May train skill triple backstab to 15%
+May train skill herb mixing to 70%
+May train skill sneak to 100%
+May train skill pick locks to 45%
+May train skill hiding to 85%
+May train skill find herbs to 30%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell black orb to 65%
+May study spell hole to 25%
+May train skill slip to 20%
+May train skill tracking to 30%
+May train skill triple thrust to 15%
+May train skill triple backstab to 20%
+May train skill steal to 70%
+May train skill leadership to 40%
+May train skill suicide to 20%
+May train skill find traps to 75%
+May train skill zapping to 65%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell shield of protection to 60%
+May train skill double thrust to 90%
+May train skill triple backstab to 25%
+May train skill doublehit to 80%
+May train skill triple thrust to 20%
+May train skill pick locks to 50%
+May train skill leadership to 45%
+May train skill hiding to 90%
+May train skill find herbs to 35%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell cause disease to 90%
+May study spell clairvoyance to 90%
+May study spell identify to 60%
+May train skill slip to 25%
+May train skill tracking to 40%
+May train skill triple thrust to 25%
+May train skill triple backstab to 30%
+May train skill leadership to 50%
+May train skill tumbling to 25%
+May train skill herb mixing to 75%
+May train skill find traps to 80%
+May train skill zapping to 70%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell hole to 40%
+May study spell relocate to 35%
+May train skill slip to 30%
+May train skill triple thrust to 30%
+May train skill triple backstab to 35%
+May train skill double thrust to 95%
+May train skill leadership to 55%
+May train skill hiding to 95%
+May train skill suicide to 25%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell shield of protection to 80%
+May study spell teleport with error to 50%
+May train skill slip to 35%
+May train skill triple thrust to 35%
+May train skill triple backstab to 40%
+May train skill leadership to 60%
+May train skill stun to 30%
+------------------------------------------------------.
+
+
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell identify to 70%
+May study spell invisibility to 80%
+May train skill triple thrust to 40%
+May train skill steal to 75%
+May train skill leadership to 65%
+May train skill tumbling to 35%
+May train skill weapon skill 1h ancient to 75%
+May train skill double thrust to 100%
+May train skill weapon skill 2h ancient to 75%
+May train skill hiding to 100%
+May train skill find herbs to 40%
+------------------------------------------------------.
+
+
+
+Subguilds:
+Assassins 8
+Herbalists 5
+Master_thieves 7
+Muggers 7

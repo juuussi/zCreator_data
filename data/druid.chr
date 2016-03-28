@@ -1,0 +1,1649 @@
+Updated 2011.04.14
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hp(8), Sp(5), Wis(4), Int(3), Sp_regen(3), Cold resistance(1)   |
+|   2 | Hp(8), Sp(5), Wis(4), Int(2), Sp_regen(3)                       |
+|   3 | Hp(7), Sp(5), Wis(3), Int(2), Sp_regen(3), Cold resistance(1)   |
+|   4 | Hp(8), Sp(5), Wis(4), Int(2), Sp_regen(3)                       |
+|   5 | Hp(7), Sp(5), Wis(4), Int(3), Sp_regen(3), Cold resistance(1)   |
+|   6 | Hp(8), Sp(5), Wis(4), Int(2), Sp_regen(3), Cold resistance(1)   |
+|   7 | Hp(7), Sp(5), Wis(4), Int(2), Sp_regen(3)                       |
+|   8 | Hp(8), Sp(5), Wis(4), Int(2), Sp_regen(3), Cold resistance(1)   |
+|   9 | Hp(8), Sp(6), Wis(4), Int(3), Sp_regen(3)                       |
+|  10 | Hp(7), Sp(5), Wis(4), Int(2), Sp_regen(3), Cold resistance(1)   |
+|  11 | Hp(7), Sp(4), Wis(4), Int(2), Sp_regen(3)                       |
+|  12 | Hp(7), Sp(5), Wis(3), Int(2), Sp_regen(2), Cold resistance(1)   |
+|  13 | Hp(7), Sp(5), Wis(4), Int(2), Sp_regen(3)                       |
+|  14 | Hp(7), Sp(4), Wis(3), Int(2), Sp_regen(3), Cold resistance(1)   |
+|  15 | Hp(7), Sp(5), Wis(4), Int(2), Sp_regen(2)                       |
+|  16 | Hp(7), Sp(5), Wis(4), Int(2), Sp_regen(3), Cold resistance(1)   |
+|  17 | Hp(7), Sp(4), Wis(3), Int(2), Sp_regen(3)                       |
+|  18 | Hp(7), Sp(5), Wis(4), Int(3), Sp_regen(3), Cold resistance(1)   |
+|  19 | Hp(7), Sp(5), Wis(4), Int(2), Sp_regen(2), Cold resistance(1)   |
+|  20 | Hp(7), Sp(4), Wis(3), Int(2), Sp_regen(3)                       |
+|  21 | Hp(6), Sp(4), Wis(3), Int(1), Sp_regen(2)                       |
+|  22 | Hp(6), Sp(4), Wis(3), Int(2), Sp_regen(3), Cold resistance(1)   |
+|  23 | Hp(6), Sp(4), Wis(4), Int(2), Sp_regen(2)                       |
+|  24 | Hp(6), Sp(4), Wis(3), Int(2), Sp_regen(2), Cold resistance(1)   |
+|  25 | Hp(5), Sp(3), Wis(2), Int(1), Sp_regen(2)                       |
+|  26 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(2)                       |
+|  27 | Hp(5), Sp(3), Wis(3), Int(2), Sp_regen(2), Cold resistance(1)   |
+|  28 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  29 | Hp(5), Sp(4), Wis(3), Int(2), Sp_regen(2), Cold resistance(1)   |
+|  30 | Hp(5), Sp(3), Wis(2), Int(1), Sp_regen(2)                       |
+|  31 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(2)                       |
+|  32 | Hp(5), Sp(3), Wis(3), Int(2), Sp_regen(2), Cold resistance(1)   |
+|  33 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  34 | Hp(5), Sp(3), Wis(2), Int(1), Sp_regen(2)                       |
+|  35 | Hp(4), Sp(3), Wis(3), Int(2), Sp_regen(2), Cold resistance(1)   |
+|  36 | Hp(4), Sp(2), Wis(2), Int(1), Sp_regen(1)                       |
+|  37 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(2)                       |
+|  38 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  39 | Hp(4), Sp(2), Wis(2), Int(1), Sp_regen(2), Cold resistance(1)   |
+|  40 | Hp(4), Sp(3), Wis(2), Int(2), Sp_regen(2)                       |
+|  41 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  42 | Hp(4), Sp(2), Wis(2), Int(1), Sp_regen(2), Cold resistance(1)   |
+|  43 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(1)                       |
+|  44 | Hp(4), Sp(3), Wis(2), Int(1), Sp_regen(2)                       |
+|  45 | Hp(5), Sp(3), Wis(3), Int(2), Sp_regen(2), Cold resistance(1)   |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell bright light to 20%
+May study spell darkness to 20%
+May study spell detect alignment to 20%
+May study spell dispel curse to 20%
+May study spell light to 20%
+May study spell wisdom of ptah to 20%
+May train skill stellar shadows to 20%
+May train skill weapon skill 2h dagger to 15%
+May train skill weapon skill 2h bludgeon to 15%
+May train skill weapon skill 1h bludgeon to 15%
+May train skill skill that saves sp to 20%
+May train skill weapon skill 1h ancient to 15%
+May train skill weapon skill 1h dagger to 15%
+May train skill astronomy to 20%
+May train skill natural order to 20%
+May train skill weapon skill 1h staff to 15%
+May train skill weapon skill 2h staff to 15%
+May train skill weapon skill 2h ancient to 15%
+May train skill attack to 15%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell bright light to 40%
+May study spell darkness to 40%
+May study spell detect alignment to 35%
+May study spell dispel curse to 35%
+May study spell light to 40%
+May study spell locate animals to 10%
+May study spell provision to 15%
+May study spell pyrotechnics to 15%
+May study spell summon mule to 10%
+May study spell wisdom of ptah to 40%
+May train skill stellar shadows to 40%
+May train skill sun lore to 5%
+May train skill composting to 15%
+May train skill bloodletting to 5%
+May train skill tinning to 15%
+May train skill skill that saves sp to 40%
+May train skill taxidermy to 15%
+May train skill astronomy to 40%
+May train skill fire lore to 5%
+May train skill natural order to 40%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell bright light to 60%
+May study spell create money to 10%
+May study spell darkness to 60%
+May study spell degrade venom to 10%
+May study spell detect alignment to 50%
+May study spell dispel curse to 50%
+May study spell light to 60%
+May study spell locate animals to 25%
+May study spell neptune's blessing to 10%
+May study spell produce fire to 10%
+May study spell provision to 30%
+May study spell pyrotechnics to 30%
+May study spell summon mule to 25%
+May study spell wisdom of ptah to 60%
+May train skill stellar shadows to 60%
+May train skill weapon skill 2h dagger to 30%
+May train skill sun lore to 10%
+May train skill composting to 30%
+May train skill weapon skill 2h bludgeon to 30%
+May train skill weapon skill 1h dagger to 30%
+May train skill astronomy to 60%
+May train skill consider to 10%
+May train skill weapon skill 1h staff to 30%
+May train skill weapon skill 2h staff to 30%
+May train skill weapon skill 2h ancient to 30%
+May train skill attack to 30%
+May train skill bloodletting to 10%
+May train skill water lore to 5%
+May train skill tinning to 30%
+May train skill weapon skill 1h bludgeon to 30%
+May train skill skill that saves sp to 60%
+May train skill essence eye to 10%
+May train skill taxidermy to 30%
+May train skill weapon skill 1h ancient to 30%
+May train skill quick chant to 5%
+May train skill natural order to 60%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell bright light to 80%
+May study spell create money to 20%
+May study spell darkness to 80%
+May study spell degrade venom to 20%
+May study spell detect alignment to 70%
+May study spell dispel curse to 70%
+May study spell displacement to 10%
+May study spell eyes of the tiger to 10%
+May study spell flame blade to 10%
+May study spell healing draught to 5%
+May study spell kiss of helios to 10%
+May study spell light to 80%
+May study spell locate animals to 35%
+May study spell neptune's blessing to 20%
+May study spell obscurement to 10%
+May study spell produce fire to 20%
+May study spell provision to 45%
+May study spell pyrotechnics to 45%
+May study spell soothing heat to 5%
+May study spell summon mule to 35%
+May study spell wisdom of ptah to 80%
+May train skill stellar shadows to 80%
+May train skill sun lore to 15%
+May train skill bloodletting to 15%
+May train skill composting to 45%
+May train skill earth lore to 5%
+May train skill tinning to 45%
+May train skill essence eye to 20%
+May train skill skill that saves sp to 80%
+May train skill taxidermy to 45%
+May train skill astronomy to 80%
+May train skill consider to 20%
+May train skill natural order to 80%
+------------------------------------------------------.
+Level 5 abilities:
+May study spell bright light to 100%
+May study spell chill weapon to 5%
+May study spell commune with nature to 10%
+May study spell conjure cauldron to 5%
+May study spell create money to 30%
+May study spell darkness to 100%
+May study spell degrade venom to 25%
+May study spell detect alignment to 85%
+May study spell dispel curse to 85%
+May study spell displacement to 15%
+May study spell eyes of the tiger to 15%
+May study spell flame blade to 15%
+May study spell hallucinatory forest to 10%
+May study spell healing draught to 10%
+May study spell heat weapon to 5%
+May study spell holy ground to 5%
+May study spell kiss of helios to 15%
+May study spell light to 100%
+May study spell locate animals to 50%
+May study spell neptune's blessing to 25%
+May study spell obscurement to 15%
+May study spell pass plant to 10%
+May study spell produce fire to 30%
+May study spell provision to 60%
+May study spell pyrotechnics to 60%
+May study spell soothing heat to 10%
+May study spell summon mule to 50%
+May study spell wisdom of ptah to 100%
+May train skill stellar shadows to 100%
+May train skill weapon skill 2h dagger to 45%
+May train skill sun lore to 20%
+May train skill composting to 60%
+May train skill weapon skill 2h bludgeon to 45%
+May train skill weapon skill 1h dagger to 45%
+May train skill air lore to 5%
+May train skill mercury lore to 5%
+May train skill astronomy to 100%
+May train skill consider to 30%
+May train skill weapon skill 2h staff to 45%
+May train skill weapon skill 1h staff to 45%
+May train skill zapping to 5%
+May train skill weapon skill 2h ancient to 45%
+May train skill attack to 45%
+May train skill bloodletting to 20%
+May train skill tinning to 60%
+May train skill weapon skill 1h bludgeon to 45%
+May train skill skill that saves sp to 100%
+May train skill essence eye to 25%
+May train skill taxidermy to 60%
+May train skill weapon skill 1h ancient to 45%
+May train skill natural order to 100%
+May train skill fire lore to 10%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell chill weapon to 10%
+May study spell cloudburst to 5%
+May study spell commune with nature to 15%
+May study spell conjure cauldron to 10%
+May study spell conjure lesser elemental to 5%
+May study spell create money to 40%
+May study spell degrade venom to 35%
+May study spell detect alignment to 100%
+May study spell dispel curse to 100%
+May study spell displacement to 25%
+May study spell entangle to 5%
+May study spell eyes of the tiger to 25%
+May study spell flame blade to 25%
+May study spell hallucinatory forest to 15%
+May study spell healing draught to 15%
+May study spell heat weapon to 10%
+May study spell holy ground to 10%
+May study spell kiss of helios to 25%
+May study spell lesser electric invulnerability to 5%
+May study spell locate animals to 60%
+May study spell moonbeam to 5%
+May study spell neptune's blessing to 35%
+May study spell obscurement to 25%
+May study spell pass plant to 15%
+May study spell produce fire to 40%
+May study spell provision to 75%
+May study spell pyrotechnics to 75%
+May study spell sirocco to 5%
+May study spell soothing heat to 25%
+May study spell sticks to snakes to 5%
+May study spell stoneskin to 5%
+May study spell summon mule to 60%
+May train skill taxidermy to 75%
+May train skill sun lore to 25%
+May train skill mercury lore to 10%
+May train skill composting to 75%
+May train skill consider to 40%
+May train skill tinning to 75%
+May train skill essence eye to 35%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell antivenin to 5%
+May study spell chill weapon to 15%
+May study spell cloudburst to 10%
+May study spell commune with nature to 20%
+May study spell conjure cauldron to 15%
+May study spell conjure lesser elemental to 10%
+May study spell create money to 50%
+May study spell degrade venom to 40%
+May study spell displacement to 30%
+May study spell entangle to 10%
+May study spell eyes of the tiger to 30%
+May study spell flame blade to 30%
+May study spell gaia's vengeance to 5%
+May study spell hallucinatory forest to 20%
+May study spell healing draught to 20%
+May study spell heat weapon to 15%
+May study spell holy ground to 15%
+May study spell kiss of helios to 30%
+May study spell lesser electric invulnerability to 10%
+May study spell locate animals to 75%
+May study spell moonbeam to 10%
+May study spell nature's portal to 5%
+May study spell neptune's blessing to 40%
+May study spell northwind to 5%
+May study spell obscurement to 30%
+May study spell pass plant to 20%
+May study spell produce fire to 50%
+May study spell provision to 85%
+May study spell pyrotechnics to 85%
+May study spell sirocco to 10%
+May study spell skyfire to 5%
+May study spell soothing heat to 40%
+May study spell sticks to snakes to 10%
+May study spell stoneskin to 10%
+May study spell summon mule to 75%
+May study spell summon swarm to 5%
+May study spell time's arrow to 5%
+May train skill weapon skill 2h dagger to 60%
+May train skill sun lore to 30%
+May train skill composting to 85%
+May train skill weapon skill 2h bludgeon to 60%
+May train skill weapon skill 1h dagger to 60%
+May train skill mercury lore to 15%
+May train skill consider to 50%
+May train skill weapon skill 2h staff to 60%
+May train skill weapon skill 1h staff to 60%
+May train skill attack to 60%
+May train skill weapon skill 2h ancient to 60%
+May train skill water lore to 10%
+May train skill tinning to 85%
+May train skill weapon skill 1h bludgeon to 60%
+May train skill essence eye to 40%
+May train skill taxidermy to 85%
+May train skill weapon skill 1h ancient to 60%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell antivenin to 10%
+May study spell blurred image to 5%
+May study spell chill weapon to 20%
+May study spell cloudburst to 15%
+May study spell commune with nature to 30%
+May study spell conjure cauldron to 20%
+May study spell conjure lesser elemental to 15%
+May study spell control temperature to 5%
+May study spell create money to 60%
+May study spell cure disease to 5%
+May study spell degrade venom to 50%
+May study spell displacement to 40%
+May study spell dragon sight to 5%
+May study spell entangle to 15%
+May study spell eyes of the tiger to 40%
+May study spell fist of ra to 5%
+May study spell flame blade to 40%
+May study spell gaia's vengeance to 10%
+May study spell greater electric invulnerability to 5%
+May study spell hallucinatory forest to 30%
+May study spell healing draught to 25%
+May study spell heat weapon to 20%
+May study spell holy ground to 20%
+May study spell kiss of helios to 40%
+May study spell lesser electric invulnerability to 15%
+May study spell locate animals to 90%
+May study spell moonbeam to 15%
+May study spell nature's portal to 10%
+May study spell neptune's blessing to 50%
+May study spell northwind to 10%
+May study spell obscurement to 40%
+May study spell pass plant to 30%
+May study spell produce fire to 60%
+May study spell provision to 100%
+May study spell pyrotechnics to 100%
+May study spell sirocco to 15%
+May study spell soothing heat to 50%
+May study spell sticks to snakes to 15%
+May study spell stoneskin to 15%
+May study spell summon mule to 90%
+May study spell summon swarm to 10%
+May study spell time's arrow to 10%
+May study spell wall of fire to 5%
+May study spell wrath of tefnut to 5%
+May train skill sun lore to 35%
+May train skill composting to 100%
+May train skill earth lore to 10%
+May train skill tinning to 100%
+May train skill essence eye to 50%
+May train skill taxidermy to 100%
+May train skill mercury lore to 20%
+May train skill consider to 60%
+May train skill venus lore to 5%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell blurred image to 10%
+May study spell chill weapon to 25%
+May study spell cloudburst to 20%
+May study spell commune with nature to 35%
+May study spell conjure cauldron to 25%
+May study spell conjure lesser elemental to 20%
+May study spell control temperature to 10%
+May study spell create money to 70%
+May study spell cure disease to 10%
+May study spell degrade venom to 60%
+May study spell displacement to 45%
+May study spell dragon sight to 10%
+May study spell electrical field to 5%
+May study spell entangle to 20%
+May study spell eyes of the tiger to 45%
+May study spell fire seeds to 5%
+May study spell fist of ra to 10%
+May study spell flame blade to 45%
+May study spell gaia's vengeance to 15%
+May study spell greater electric invulnerability to 10%
+May study spell hallucinatory forest to 35%
+May study spell healing draught to 30%
+May study spell heat weapon to 25%
+May study spell holy ground to 25%
+May study spell kiss of helios to 45%
+May study spell lesser electric invulnerability to 20%
+May study spell lion's heart to 5%
+May study spell locate animals to 100%
+May study spell moonbeam to 20%
+May study spell nature's portal to 15%
+May study spell neptune's blessing to 60%
+May study spell obscurement to 45%
+May study spell pass plant to 35%
+May study spell plant door to 5%
+May study spell produce fire to 70%
+May study spell sirocco to 20%
+May study spell skyfire to 10%
+May study spell soothing heat to 60%
+May study spell sticks to snakes to 20%
+May study spell stoneskin to 20%
+May study spell summon mule to 100%
+May study spell summon swarm to 15%
+May study spell thunderclap to 5%
+May study spell wall of fire to 10%
+May study spell wrath of tefnut to 10%
+May train skill weapon skill 2h dagger to 70%
+May train skill sun lore to 40%
+May train skill weapon skill 2h bludgeon to 70%
+May train skill weapon skill 1h dagger to 70%
+May train skill air lore to 10%
+May train skill mercury lore to 25%
+May train skill consider to 70%
+May train skill weapon skill 1h staff to 70%
+May train skill weapon skill 2h staff to 70%
+May train skill weapon skill 2h ancient to 70%
+May train skill attack to 70%
+May train skill weapon skill 1h bludgeon to 70%
+May train skill essence eye to 60%
+May train skill weapon skill 1h ancient to 70%
+May train skill quick chant to 10%
+May train skill fire lore to 15%
+May train skill venus lore to 10%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell antivenin to 15%
+May study spell breath of life to 5%
+May study spell chill weapon to 30%
+May study spell cloudburst to 25%
+May study spell commune with nature to 40%
+May study spell conjure lesser elemental to 25%
+May study spell create money to 80%
+May study spell creeping doom to 5%
+May study spell degrade venom to 65%
+May study spell displacement to 50%
+May study spell entangle to 25%
+May study spell eyes of the tiger to 50%
+May study spell finger of death to 5%
+May study spell flame blade to 50%
+May study spell hallucinatory forest to 40%
+May study spell healing draught to 35%
+May study spell heat weapon to 30%
+May study spell holy ground to 30%
+May study spell kiss of helios to 50%
+May study spell lesser electric invulnerability to 25%
+May study spell life beyond death to 5%
+May study spell moonbeam to 25%
+May study spell neptune's blessing to 65%
+May study spell northwind to 15%
+May study spell obscurement to 50%
+May study spell pass plant to 40%
+May study spell produce fire to 80%
+May study spell sirocco to 25%
+May study spell skyfire to 15%
+May study spell soothing heat to 70%
+May study spell sticks to snakes to 25%
+May study spell stoneskin to 25%
+May study spell summon storm to 5%
+May study spell sunray to 5%
+May study spell time's arrow to 15%
+May study spell wall of thorns to 5%
+May train skill mercury lore to 30%
+May train skill sun lore to 45%
+May train skill bloodletting to 25%
+May train skill consider to 80%
+May train skill zapping to 15%
+May train skill venus lore to 15%
+May train skill essence eye to 65%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell antivenin to 20%
+May study spell blurred image to 15%
+May study spell chill weapon to 40%
+May study spell commune with nature to 45%
+May study spell control temperature to 15%
+May study spell create money to 90%
+May study spell cure disease to 15%
+May study spell degrade venom to 75%
+May study spell displacement to 60%
+May study spell dragon sight to 15%
+May study spell electrical field to 10%
+May study spell enchant arrow to 5%
+May study spell entangle to 30%
+May study spell eyes of the tiger to 60%
+May study spell fire seeds to 10%
+May study spell fist of ra to 15%
+May study spell flame blade to 60%
+May study spell gaia's vengeance to 20%
+May study spell greater electric invulnerability to 15%
+May study spell hallucinatory forest to 45%
+May study spell healing draught to 40%
+May study spell heat weapon to 40%
+May study spell holy ground to 35%
+May study spell kiss of helios to 60%
+May study spell lesser electric invulnerability to 30%
+May study spell lion's heart to 10%
+May study spell nature's portal to 20%
+May study spell neptune's blessing to 75%
+May study spell northwind to 20%
+May study spell obscurement to 60%
+May study spell pass plant to 45%
+May study spell plant door to 10%
+May study spell produce fire to 90%
+May study spell soothing heat to 80%
+May study spell sticks to snakes to 30%
+May study spell summon swarm to 20%
+May study spell thunderclap to 10%
+May study spell time's arrow to 20%
+May study spell wall of fire to 15%
+May study spell wrath of tefnut to 15%
+May train skill weapon skill 2h dagger to 80%
+May train skill sun lore to 50%
+May train skill weapon skill 2h bludgeon to 80%
+May train skill weapon skill 1h dagger to 80%
+May train skill mercury lore to 35%
+May train skill consider to 90%
+May train skill weapon skill 2h staff to 80%
+May train skill weapon skill 1h staff to 80%
+May train skill weapon skill 2h ancient to 80%
+May train skill attack to 80%
+May train skill mars lore to 5%
+May train skill bloodletting to 30%
+May train skill water lore to 15%
+May train skill weapon skill 1h bludgeon to 80%
+May train skill essence eye to 75%
+May train skill poison enchanting to 5%
+May train skill weapon skill 1h ancient to 80%
+May train skill electric enchanting to 5%
+May train skill venus lore to 20%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell antivenin to 25%
+May study spell blurred image to 20%
+May study spell breath of life to 10%
+May study spell chill weapon to 45%
+May study spell cloudburst to 30%
+May study spell commune with nature to 50%
+May study spell control temperature to 20%
+May study spell create money to 100%
+May study spell creeping doom to 10%
+May study spell cure disease to 20%
+May study spell degrade venom to 80%
+May study spell displacement to 65%
+May study spell dragon sight to 20%
+May study spell electrical field to 15%
+May study spell entangle to 35%
+May study spell eyes of the tiger to 65%
+May study spell finger of death to 10%
+May study spell fire seeds to 15%
+May study spell fist of ra to 20%
+May study spell flame blade to 65%
+May study spell gaia's vengeance to 25%
+May study spell greater electric invulnerability to 20%
+May study spell hallucinatory forest to 50%
+May study spell healing draught to 45%
+May study spell heat weapon to 45%
+May study spell holy ground to 40%
+May study spell kiss of helios to 65%
+May study spell lesser electric invulnerability to 35%
+May study spell life beyond death to 10%
+May study spell lion's heart to 15%
+May study spell moonbeam to 30%
+May study spell nature's portal to 25%
+May study spell neptune's blessing to 80%
+May study spell northwind to 25%
+May study spell obscurement to 65%
+May study spell pass plant to 50%
+May study spell plant door to 15%
+May study spell produce fire to 100%
+May study spell sirocco to 30%
+May study spell skyfire to 20%
+May study spell soothing heat to 90%
+May study spell sticks to snakes to 35%
+May study spell stoneskin to 30%
+May study spell summon storm to 10%
+May study spell summon swarm to 25%
+May study spell sunray to 10%
+May study spell thunderclap to 15%
+May study spell time's arrow to 25%
+May study spell wall of fire to 20%
+May study spell wall of thorns to 10%
+May study spell wrath of tefnut to 20%
+May train skill sun lore to 55%
+May train skill bloodletting to 35%
+May train skill earth lore to 15%
+May train skill essence eye to 80%
+May train skill mercury lore to 40%
+May train skill consider to 100%
+May train skill quick chant to 20%
+May train skill venus lore to 25%
+May train skill mars lore to 10%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell brew paste of elemental preservation to 5%
+May study spell chill weapon to 50%
+May study spell cloudburst to 35%
+May study spell commune with nature to 60%
+May study spell degrade venom to 90%
+May study spell displacement to 70%
+May study spell entangle to 40%
+May study spell eyes of the tiger to 70%
+May study spell flame blade to 70%
+May study spell gaia's vengeance to 30%
+May study spell hallucinatory forest to 60%
+May study spell healing draught to 50%
+May study spell heat weapon to 50%
+May study spell holy ground to 45%
+May study spell kiss of helios to 75%
+May study spell lesser electric invulnerability to 40%
+May study spell moonbeam to 35%
+May study spell nature's portal to 30%
+May study spell neptune's blessing to 90%
+May study spell obscurement to 75%
+May study spell pass plant to 60%
+May study spell sirocco to 35%
+May study spell soothing heat to 100%
+May study spell sticks to snakes to 40%
+May study spell stoneskin to 35%
+May study spell summon swarm to 30%
+May train skill sun lore to 60%
+May train skill bloodletting to 40%
+May train skill essence eye to 90%
+May train skill weapon skill 1h ancient to 90%
+May train skill air lore to 15%
+May train skill mercury lore to 45%
+May train skill fire lore to 20%
+May train skill weapon skill 2h ancient to 90%
+May train skill venus lore to 30%
+May train skill mars lore to 15%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell antivenin to 30%
+May study spell blurred image to 25%
+May study spell breath of life to 25%
+May study spell brew paste of elemental preservation to 10%
+May study spell chill weapon to 55%
+May study spell cloudburst to 40%
+May study spell commune with nature to 65%
+May study spell conjure cauldron to 30%
+May study spell control temperature to 25%
+May study spell creeping doom to 15%
+May study spell cure disease to 25%
+May study spell degrade venom to 100%
+May study spell displacement to 75%
+May study spell dragon sight to 25%
+May study spell electrical field to 20%
+May study spell enchant arrow to 15%
+May study spell entangle to 45%
+May study spell eyes of the tiger to 75%
+May study spell finger of death to 15%
+May study spell fire seeds to 20%
+May study spell fist of ra to 25%
+May study spell flame blade to 75%
+May study spell greater electric invulnerability to 25%
+May study spell hallucinatory forest to 65%
+May study spell healing draught to 55%
+May study spell heat weapon to 55%
+May study spell holy ground to 50%
+May study spell kiss of helios to 80%
+May study spell lesser electric invulnerability to 45%
+May study spell life beyond death to 15%
+May study spell lion's heart to 20%
+May study spell moonbeam to 40%
+May study spell neptune's blessing to 100%
+May study spell northwind to 30%
+May study spell obscurement to 80%
+May study spell pass plant to 65%
+May study spell plant door to 20%
+May study spell sirocco to 40%
+May study spell skyfire to 25%
+May study spell sticks to snakes to 45%
+May study spell stoneskin to 40%
+May study spell summon storm to 15%
+May study spell sunray to 15%
+May study spell thunderclap to 20%
+May study spell time's arrow to 30%
+May study spell wall of fire to 25%
+May study spell wall of thorns to 15%
+May study spell wrath of tefnut to 25%
+May train skill sun lore to 65%
+May train skill bloodletting to 45%
+May train skill essence eye to 100%
+May train skill jupiter lore to 5%
+May train skill poison enchanting to 15%
+May train skill mercury lore to 50%
+May train skill electric enchanting to 15%
+May train skill venus lore to 35%
+May train skill mars lore to 20%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell antivenin to 35%
+May study spell blurred image to 30%
+May study spell brew paste of elemental preservation to 15%
+May study spell brew smelling salt to 5%
+May study spell chill weapon to 60%
+May study spell cloudburst to 45%
+May study spell commune with nature to 70%
+May study spell conjure cauldron to 35%
+May study spell conjure lesser elemental to 30%
+May study spell control temperature to 30%
+May study spell cure disease to 30%
+May study spell displacement to 80%
+May study spell dragon sight to 30%
+May study spell electrical field to 25%
+May study spell entangle to 50%
+May study spell eyes of the tiger to 80%
+May study spell fire seeds to 25%
+May study spell fist of ra to 30%
+May study spell flame blade to 80%
+May study spell gaia's vengeance to 35%
+May study spell greater electric invulnerability to 30%
+May study spell hallucinatory forest to 70%
+May study spell healing draught to 60%
+May study spell heat weapon to 60%
+May study spell holy ground to 55%
+May study spell kiss of helios to 90%
+May study spell lesser electric invulnerability to 50%
+May study spell lion's heart to 25%
+May study spell moonbeam to 45%
+May study spell nature's portal to 35%
+May study spell northwind to 35%
+May study spell obscurement to 90%
+May study spell pass plant to 70%
+May study spell sirocco to 45%
+May study spell skyfire to 30%
+May study spell sticks to snakes to 50%
+May study spell stoneskin to 45%
+May study spell summon storm to 20%
+May study spell summon swarm to 35%
+May study spell sunray to 20%
+May study spell time's arrow to 35%
+May study spell wall of fire to 30%
+May study spell wall of thorns to 20%
+May study spell wrath of tefnut to 30%
+May train skill sun lore to 70%
+May train skill bloodletting to 50%
+May train skill water lore to 20%
+May train skill jupiter lore to 10%
+May train skill weapon skill 1h ancient to 100%
+May train skill mercury lore to 55%
+May train skill quick chant to 25%
+May train skill zapping to 25%
+May train skill venus lore to 40%
+May train skill mars lore to 25%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell antivenin to 40%
+May study spell blurred image to 35%
+May study spell breath of life to 30%
+May study spell brew paste of elemental preservation to 20%
+May study spell brew smelling salt to 10%
+May study spell chill weapon to 65%
+May study spell cloudburst to 50%
+May study spell commune with nature to 75%
+May study spell conjure cauldron to 40%
+May study spell conjure lesser elemental to 35%
+May study spell control temperature to 35%
+May study spell creeping doom to 20%
+May study spell cure disease to 35%
+May study spell displacement to 85%
+May study spell dragon sight to 35%
+May study spell entangle to 55%
+May study spell eyes of the tiger to 85%
+May study spell finger of death to 20%
+May study spell fist of ra to 35%
+May study spell flame blade to 85%
+May study spell gaia's vengeance to 40%
+May study spell greater electric invulnerability to 35%
+May study spell hallucinatory forest to 75%
+May study spell healing draught to 65%
+May study spell heat weapon to 65%
+May study spell holy ground to 60%
+May study spell kiss of helios to 95%
+May study spell lesser electric invulnerability to 55%
+May study spell life beyond death to 20%
+May study spell moonbeam to 50%
+May study spell nature's portal to 40%
+May study spell northwind to 40%
+May study spell obscurement to 95%
+May study spell pass plant to 75%
+May study spell plant door to 25%
+May study spell sirocco to 50%
+May study spell sticks to snakes to 55%
+May study spell stoneskin to 50%
+May study spell summon swarm to 40%
+May study spell thunderclap to 25%
+May study spell time's arrow to 40%
+May study spell wall of fire to 35%
+May study spell wrath of tefnut to 35%
+May train skill sun lore to 75%
+May train skill mercury lore to 60%
+May train skill earth lore to 20%
+May train skill jupiter lore to 15%
+May train skill mars lore to 30%
+May train skill venus lore to 45%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell antivenin to 45%
+May study spell breath of life to 35%
+May study spell brew smelling salt to 15%
+May study spell chill weapon to 70%
+May study spell cloudburst to 55%
+May study spell commune with nature to 80%
+May study spell displacement to 95%
+May study spell electrical field to 30%
+May study spell entangle to 60%
+May study spell eyes of the tiger to 95%
+May study spell faerie fire to 5%
+May study spell fire seeds to 30%
+May study spell flame blade to 95%
+May study spell gaia's vengeance to 45%
+May study spell hallucinatory forest to 80%
+May study spell healing draught to 70%
+May study spell heat weapon to 70%
+May study spell holy ground to 65%
+May study spell kiss of helios to 100%
+May study spell lesser electric invulnerability to 60%
+May study spell lion's heart to 30%
+May study spell moonbeam to 55%
+May study spell nature's portal to 45%
+May study spell northwind to 45%
+May study spell obscurement to 100%
+May study spell pass plant to 80%
+May study spell plant door to 30%
+May study spell sirocco to 55%
+May study spell skyfire to 35%
+May study spell sticks to snakes to 60%
+May study spell stoneskin to 55%
+May study spell summon storm to 25%
+May study spell summon swarm to 45%
+May study spell sunray to 25%
+May study spell thunderclap to 30%
+May study spell time's arrow to 45%
+May study spell wall of thorns to 25%
+May train skill air lore to 20%
+May train skill sun lore to 80%
+May train skill mercury lore to 65%
+May train skill quick chant to 30%
+May train skill saturn lore to 5%
+May train skill jupiter lore to 20%
+May train skill mars lore to 35%
+May train skill venus lore to 50%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell blurred image to 40%
+May study spell brew smelling salt to 20%
+May study spell chill weapon to 75%
+May study spell cloudburst to 60%
+May study spell commune with nature to 90%
+May study spell conjure lesser elemental to 40%
+May study spell control temperature to 40%
+May study spell creeping doom to 25%
+May study spell cure disease to 40%
+May study spell displacement to 100%
+May study spell dragon sight to 40%
+May study spell electrical field to 35%
+May study spell enchant arrow to 25%
+May study spell entangle to 65%
+May study spell eyes of the tiger to 100%
+May study spell faerie fire to 10%
+May study spell finger of death to 25%
+May study spell fire seeds to 35%
+May study spell fist of ra to 40%
+May study spell flame blade to 100%
+May study spell gaia's vengeance to 50%
+May study spell greater electric invulnerability to 40%
+May study spell hallucinatory forest to 90%
+May study spell healing draught to 75%
+May study spell heat weapon to 75%
+May study spell holy ground to 70%
+May study spell lesser electric invulnerability to 65%
+May study spell life beyond death to 25%
+May study spell lion's heart to 35%
+May study spell moonbeam to 60%
+May study spell nature's portal to 50%
+May study spell pass plant to 90%
+May study spell sirocco to 60%
+May study spell skyfire to 40%
+May study spell sticks to snakes to 65%
+May study spell stoneskin to 60%
+May study spell summon swarm to 50%
+May study spell wall of fire to 40%
+May study spell wrath of tefnut to 40%
+May train skill sun lore to 85%
+May train skill jupiter lore to 25%
+May train skill saturn lore to 10%
+May train skill poison enchanting to 25%
+May train skill mercury lore to 70%
+May train skill electric enchanting to 25%
+May train skill fire lore to 25%
+May train skill venus lore to 55%
+May train skill mars lore to 40%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell antivenin to 50%
+May study spell blurred image to 45%
+May study spell breath of life to 40%
+May study spell chill weapon to 80%
+May study spell cloudburst to 65%
+May study spell commune with nature to 95%
+May study spell conjure cauldron to 45%
+May study spell conjure lesser elemental to 45%
+May study spell control temperature to 45%
+May study spell creeping doom to 30%
+May study spell cure disease to 45%
+May study spell dragon sight to 45%
+May study spell entangle to 70%
+May study spell faerie fire to 15%
+May study spell finger of death to 30%
+May study spell fist of ra to 45%
+May study spell gaia's vengeance to 55%
+May study spell greater electric invulnerability to 45%
+May study spell hallucinatory forest to 95%
+May study spell healing draught to 80%
+May study spell heat weapon to 80%
+May study spell holy ground to 75%
+May study spell lesser electric invulnerability to 70%
+May study spell life beyond death to 30%
+May study spell moonbeam to 65%
+May study spell nature's portal to 55%
+May study spell northwind to 50%
+May study spell pass plant to 95%
+May study spell plant door to 35%
+May study spell sirocco to 65%
+May study spell sticks to snakes to 70%
+May study spell stoneskin to 65%
+May study spell summon storm to 30%
+May study spell summon swarm to 55%
+May study spell sunray to 30%
+May study spell thunderclap to 35%
+May study spell time's arrow to 50%
+May study spell wall of fire to 45%
+May study spell wall of thorns to 30%
+May study spell wrath of tefnut to 45%
+May train skill sun lore to 90%
+May train skill mercury lore to 75%
+May train skill water lore to 25%
+May train skill saturn lore to 15%
+May train skill jupiter lore to 30%
+May train skill mars lore to 45%
+May train skill venus lore to 60%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell antivenin to 55%
+May study spell breath of life to 45%
+May study spell chill weapon to 85%
+May study spell commune with nature to 100%
+May study spell conjure cauldron to 50%
+May study spell electrical field to 40%
+May study spell entangle to 75%
+May study spell fire seeds to 40%
+May study spell gaia's vengeance to 60%
+May study spell hallucinatory forest to 100%
+May study spell healing draught to 85%
+May study spell heat weapon to 85%
+May study spell holy ground to 80%
+May study spell lesser electric invulnerability to 75%
+May study spell lion's heart to 40%
+May study spell nature's portal to 60%
+May study spell northwind to 55%
+May study spell pass plant to 100%
+May study spell plant door to 40%
+May study spell skyfire to 45%
+May study spell sticks to snakes to 75%
+May study spell summon storm to 35%
+May study spell summon swarm to 60%
+May study spell sunray to 35%
+May study spell thunderclap to 40%
+May study spell wall of thorns to 35%
+May train skill sun lore to 95%
+May train skill earth lore to 25%
+May train skill saturn lore to 20%
+May train skill uranus lore to 5%
+May train skill jupiter lore to 35%
+May train skill mercury lore to 80%
+May train skill quick chant to 35%
+May train skill zapping to 35%
+May train skill venus lore to 65%
+May train skill mars lore to 50%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell antivenin to 60%
+May study spell blurred image to 50%
+May study spell breath of life to 50%
+May study spell brew paste of elemental preservation to 25%
+May study spell chill weapon to 95%
+May study spell cloudburst to 70%
+May study spell conjure lesser elemental to 50%
+May study spell control temperature to 50%
+May study spell creeping doom to 35%
+May study spell cure disease to 50%
+May study spell dragon sight to 50%
+May study spell electrical field to 45%
+May study spell entangle to 80%
+May study spell faerie fire to 20%
+May study spell finger of death to 35%
+May study spell fire seeds to 45%
+May study spell fist of ra to 50%
+May study spell greater electric invulnerability to 50%
+May study spell healing draught to 90%
+May study spell heat weapon to 95%
+May study spell holy ground to 85%
+May study spell lesser electric invulnerability to 80%
+May study spell life beyond death to 35%
+May study spell lion's heart to 45%
+May study spell moonbeam to 70%
+May study spell northwind to 60%
+May study spell sirocco to 70%
+May study spell sticks to snakes to 80%
+May study spell stoneskin to 70%
+May study spell time's arrow to 55%
+May study spell wall of fire to 50%
+May study spell wrath of tefnut to 50%
+May train skill sun lore to 100%
+May train skill air lore to 25%
+May train skill mercury lore to 85%
+May train skill saturn lore to 25%
+May train skill uranus lore to 10%
+May train skill jupiter lore to 40%
+May train skill mars lore to 55%
+May train skill venus lore to 70%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell blurred image to 55%
+May study spell brew paste of elemental preservation to 30%
+May study spell chill weapon to 100%
+May study spell cloudburst to 75%
+May study spell conjure lesser elemental to 55%
+May study spell control temperature to 55%
+May study spell cure disease to 55%
+May study spell dragon sight to 55%
+May study spell enchant arrow to 35%
+May study spell entangle to 85%
+May study spell faerie fire to 25%
+May study spell fist of ra to 55%
+May study spell gaia's vengeance to 65%
+May study spell greater electric invulnerability to 55%
+May study spell healing draught to 95%
+May study spell heat weapon to 100%
+May study spell holy ground to 90%
+May study spell lesser electric invulnerability to 85%
+May study spell moonbeam to 75%
+May study spell nature's portal to 65%
+May study spell plant door to 45%
+May study spell sirocco to 75%
+May study spell skyfire to 50%
+May study spell sticks to snakes to 85%
+May study spell stoneskin to 75%
+May study spell summon storm to 40%
+May study spell summon swarm to 65%
+May study spell sunray to 40%
+May study spell thunderclap to 45%
+May study spell time's arrow to 60%
+May study spell wall of fire to 55%
+May study spell wall of thorns to 40%
+May study spell wrath of tefnut to 55%
+May train skill jupiter lore to 45%
+May train skill uranus lore to 15%
+May train skill saturn lore to 30%
+May train skill poison enchanting to 35%
+May train skill mercury lore to 90%
+May train skill electric enchanting to 35%
+May train skill quick chant to 40%
+May train skill mars lore to 60%
+May train skill venus lore to 75%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell antivenin to 65%
+May study spell blurred image to 60%
+May study spell brew paste of elemental preservation to 35%
+May study spell brew smelling salt to 25%
+May study spell cloudburst to 80%
+May study spell conjure lesser elemental to 60%
+May study spell control temperature to 60%
+May study spell creeping doom to 40%
+May study spell cure disease to 60%
+May study spell dragon sight to 60%
+May study spell electrical field to 50%
+May study spell entangle to 90%
+May study spell faerie fire to 30%
+May study spell finger of death to 40%
+May study spell fire seeds to 50%
+May study spell fist of ra to 60%
+May study spell gaia's vengeance to 70%
+May study spell greater electric invulnerability to 60%
+May study spell healing draught to 100%
+May study spell holy ground to 95%
+May study spell lesser electric invulnerability to 90%
+May study spell life beyond death to 40%
+May study spell lion's heart to 50%
+May study spell moonbeam to 80%
+May study spell nature's portal to 70%
+May study spell northwind to 65%
+May study spell sirocco to 80%
+May study spell skyfire to 55%
+May study spell sticks to snakes to 90%
+May study spell stoneskin to 80%
+May study spell summon swarm to 70%
+May study spell time's arrow to 65%
+May study spell wall of fire to 60%
+May study spell wrath of tefnut to 60%
+May train skill mercury lore to 95%
+May train skill saturn lore to 35%
+May train skill neptune lore to 5%
+May train skill uranus lore to 20%
+May train skill venus lore to 80%
+May train skill mars lore to 65%
+May train skill jupiter lore to 50%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell antivenin to 70%
+May study spell brew paste of elemental preservation to 40%
+May study spell brew smelling salt to 30%
+May study spell cloudburst to 85%
+May study spell enchant arrow to 45%
+May study spell entangle to 95%
+May study spell gaia's vengeance to 75%
+May study spell holy ground to 100%
+May study spell lesser electric invulnerability to 95%
+May study spell moonbeam to 85%
+May study spell nature's portal to 75%
+May study spell northwind to 70%
+May study spell plant door to 50%
+May study spell sirocco to 85%
+May study spell sticks to snakes to 95%
+May study spell stoneskin to 85%
+May study spell summon storm to 45%
+May study spell summon swarm to 75%
+May study spell sunray to 45%
+May study spell thunderclap to 50%
+May study spell time's arrow to 70%
+May study spell wall of thorns to 45%
+May train skill jupiter lore to 55%
+May train skill uranus lore to 25%
+May train skill neptune lore to 10%
+May train skill saturn lore to 40%
+May train skill poison enchanting to 45%
+May train skill mercury lore to 100%
+May train skill electric enchanting to 45%
+May train skill mars lore to 70%
+May train skill venus lore to 85%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell antivenin to 75%
+May study spell blurred image to 65%
+May study spell breath of life to 60%
+May study spell brew smelling salt to 35%
+May study spell cloudburst to 90%
+May study spell conjure lesser elemental to 65%
+May study spell control temperature to 65%
+May study spell creeping doom to 45%
+May study spell cure disease to 65%
+May study spell dragon sight to 65%
+May study spell electrical field to 55%
+May study spell entangle to 100%
+May study spell faerie fire to 35%
+May study spell finger of death to 45%
+May study spell fire seeds to 55%
+May study spell fist of ra to 65%
+May study spell gaia's vengeance to 80%
+May study spell greater electric invulnerability to 65%
+May study spell lesser electric invulnerability to 100%
+May study spell life beyond death to 45%
+May study spell lion's heart to 55%
+May study spell moonbeam to 90%
+May study spell nature's portal to 80%
+May study spell northwind to 75%
+May study spell plant door to 55%
+May study spell sirocco to 90%
+May study spell skyfire to 60%
+May study spell sticks to snakes to 100%
+May study spell stoneskin to 90%
+May study spell summon swarm to 80%
+May study spell thunderclap to 55%
+May study spell time's arrow to 75%
+May study spell wall of fire to 65%
+May study spell wrath of tefnut to 65%
+May train skill zapping to 45%
+May train skill quick chant to 45%
+May train skill saturn lore to 45%
+May train skill neptune lore to 15%
+May train skill uranus lore to 30%
+May train skill jupiter lore to 60%
+May train skill venus lore to 90%
+May train skill mars lore to 75%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell blurred image to 70%
+May study spell brew smelling salt to 40%
+May study spell cloudburst to 95%
+May study spell conjure lesser elemental to 70%
+May study spell control temperature to 70%
+May study spell cure disease to 70%
+May study spell dragon sight to 70%
+May study spell electrical field to 60%
+May study spell faerie fire to 40%
+May study spell fire seeds to 60%
+May study spell fist of ra to 70%
+May study spell greater electric invulnerability to 70%
+May study spell lion's heart to 60%
+May study spell moonbeam to 95%
+May study spell sirocco to 95%
+May study spell skyfire to 65%
+May study spell stoneskin to 95%
+May study spell summon storm to 50%
+May study spell sunray to 50%
+May study spell time's arrow to 80%
+May study spell wall of fire to 70%
+May study spell wall of thorns to 50%
+May study spell wrath of tefnut to 70%
+May train skill pluto lore to 5%
+May train skill saturn lore to 50%
+May train skill neptune lore to 20%
+May train skill mars lore to 80%
+May train skill venus lore to 95%
+May train skill jupiter lore to 65%
+May train skill uranus lore to 35%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell antivenin to 80%
+May study spell blurred image to 75%
+May study spell breath of life to 65%
+May study spell brew paste of elemental preservation to 45%
+May study spell cloudburst to 100%
+May study spell conjure lesser elemental to 75%
+May study spell control temperature to 75%
+May study spell creeping doom to 50%
+May study spell cure disease to 75%
+May study spell dragon sight to 75%
+May study spell faerie fire to 45%
+May study spell finger of death to 50%
+May study spell fist of ra to 75%
+May study spell gaia's vengeance to 85%
+May study spell greater electric invulnerability to 75%
+May study spell life beyond death to 50%
+May study spell moonbeam to 100%
+May study spell nature's portal to 85%
+May study spell northwind to 80%
+May study spell plant door to 60%
+May study spell sirocco to 100%
+May study spell stoneskin to 100%
+May study spell summon storm to 55%
+May study spell summon swarm to 85%
+May study spell sunray to 55%
+May study spell thunderclap to 60%
+May study spell time's arrow to 85%
+May study spell wall of fire to 75%
+May study spell wall of thorns to 55%
+May study spell wrath of tefnut to 75%
+May train skill quick chant to 50%
+May train skill pluto lore to 10%
+May train skill saturn lore to 55%
+May train skill neptune lore to 25%
+May train skill uranus lore to 40%
+May train skill venus lore to 100%
+May train skill mars lore to 85%
+May train skill jupiter lore to 70%
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell antivenin to 85%
+May study spell brew paste of elemental preservation to 50%
+May study spell electrical field to 65%
+May study spell faerie fire to 50%
+May study spell fire seeds to 65%
+May study spell gaia's vengeance to 90%
+May study spell lion's heart to 65%
+May study spell nature's portal to 90%
+May study spell northwind to 85%
+May study spell plant door to 65%
+May study spell skyfire to 70%
+May study spell summon swarm to 90%
+May study spell thunderclap to 65%
+May study spell time's arrow to 90%
+May train skill pluto lore to 15%
+May train skill saturn lore to 60%
+May train skill jupiter lore to 75%
+May train skill mars lore to 90%
+May train skill uranus lore to 45%
+May train skill neptune lore to 30%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell antivenin to 90%
+May study spell blurred image to 80%
+May study spell breath of life to 70%
+May study spell brew smelling salt to 45%
+May study spell conjure lesser elemental to 80%
+May study spell control temperature to 80%
+May study spell creeping doom to 55%
+May study spell cure disease to 80%
+May study spell dragon sight to 80%
+May study spell electrical field to 70%
+May study spell enchant arrow to 55%
+May study spell faerie fire to 55%
+May study spell finger of death to 55%
+May study spell fire seeds to 70%
+May study spell fist of ra to 80%
+May study spell gaia's vengeance to 95%
+May study spell greater electric invulnerability to 80%
+May study spell life beyond death to 55%
+May study spell lion's heart to 70%
+May study spell nature's portal to 95%
+May study spell northwind to 90%
+May study spell summon storm to 60%
+May study spell summon swarm to 95%
+May study spell sunray to 60%
+May study spell time's arrow to 95%
+May study spell wall of fire to 80%
+May study spell wall of thorns to 60%
+May study spell wrath of tefnut to 80%
+May train skill poison enchanting to 55%
+May train skill electric enchanting to 55%
+May train skill pluto lore to 20%
+May train skill saturn lore to 65%
+May train skill jupiter lore to 80%
+May train skill mars lore to 95%
+May train skill uranus lore to 50%
+May train skill neptune lore to 35%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell blurred image to 85%
+May study spell brew smelling salt to 50%
+May study spell conjure lesser elemental to 85%
+May study spell control temperature to 85%
+May study spell creeping doom to 60%
+May study spell cure disease to 85%
+May study spell dragon sight to 85%
+May study spell faerie fire to 60%
+May study spell finger of death to 60%
+May study spell fist of ra to 85%
+May study spell gaia's vengeance to 100%
+May study spell greater electric invulnerability to 85%
+May study spell life beyond death to 60%
+May study spell nature's portal to 100%
+May study spell plant door to 70%
+May study spell skyfire to 75%
+May study spell summon swarm to 100%
+May study spell thunderclap to 70%
+May study spell time's arrow to 100%
+May study spell wall of fire to 85%
+May study spell wrath of tefnut to 85%
+May train skill pluto lore to 25%
+May train skill leadership to 20%
+May train skill jupiter lore to 85%
+May train skill uranus lore to 55%
+May train skill neptune lore to 40%
+May train skill saturn lore to 70%
+May train skill quick chant to 55%
+May train skill zapping to 55%
+May train skill mars lore to 100%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell antivenin to 95%
+May study spell breath of life to 75%
+May study spell electrical field to 75%
+May study spell fire seeds to 75%
+May study spell lion's heart to 75%
+May study spell northwind to 95%
+May study spell skyfire to 80%
+May study spell summon storm to 65%
+May study spell sunray to 65%
+May study spell wall of thorns to 65%
+May train skill pluto lore to 30%
+May train skill saturn lore to 75%
+May train skill jupiter lore to 90%
+May train skill leadership to 40%
+May train skill uranus lore to 60%
+May train skill neptune lore to 45%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell antivenin to 100%
+May study spell blurred image to 90%
+May study spell conjure lesser elemental to 90%
+May study spell control temperature to 90%
+May study spell creeping doom to 65%
+May study spell cure disease to 90%
+May study spell dragon sight to 90%
+May study spell enchant arrow to 65%
+May study spell faerie fire to 65%
+May study spell finger of death to 65%
+May study spell fist of ra to 90%
+May study spell greater electric invulnerability to 90%
+May study spell life beyond death to 65%
+May study spell northwind to 100%
+May study spell plant door to 75%
+May study spell thunderclap to 75%
+May study spell wall of fire to 90%
+May study spell wrath of tefnut to 90%
+May train skill uranus lore to 65%
+May train skill jupiter lore to 95%
+May train skill leadership to 55%
+May train skill neptune lore to 50%
+May train skill saturn lore to 80%
+May train skill pluto lore to 35%
+May train skill poison enchanting to 65%
+May train skill electric enchanting to 65%
+May train skill quick chant to 60%
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell blurred image to 95%
+May study spell breath of life to 80%
+May study spell conjure lesser elemental to 95%
+May study spell control temperature to 95%
+May study spell cure disease to 95%
+May study spell dragon sight to 95%
+May study spell electrical field to 80%
+May study spell faerie fire to 70%
+May study spell fire seeds to 80%
+May study spell fist of ra to 95%
+May study spell greater electric invulnerability to 95%
+May study spell lion's heart to 80%
+May study spell plant door to 80%
+May study spell skyfire to 85%
+May study spell summon storm to 70%
+May study spell sunray to 70%
+May study spell thunderclap to 80%
+May study spell wall of fire to 95%
+May study spell wall of thorns to 70%
+May study spell wrath of tefnut to 95%
+May train skill pluto lore to 40%
+May train skill saturn lore to 85%
+May train skill jupiter lore to 100%
+May train skill leadership to 70%
+May train skill uranus lore to 70%
+May train skill neptune lore to 55%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell blurred image to 100%
+May study spell conjure lesser elemental to 100%
+May study spell control temperature to 100%
+May study spell creeping doom to 70%
+May study spell cure disease to 100%
+May study spell dragon sight to 100%
+May study spell electrical field to 85%
+May study spell faerie fire to 75%
+May study spell finger of death to 70%
+May study spell fire seeds to 85%
+May study spell fist of ra to 100%
+May study spell greater electric invulnerability to 100%
+May study spell life beyond death to 70%
+May study spell lion's heart to 85%
+May study spell skyfire to 90%
+May study spell summon storm to 75%
+May study spell sunray to 75%
+May study spell wall of fire to 100%
+May study spell wall of thorns to 75%
+May study spell wrath of tefnut to 100%
+May train skill pluto lore to 45%
+May train skill uranus lore to 75%
+May train skill leadership to 85%
+May train skill neptune lore to 60%
+May train skill saturn lore to 90%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell breath of life to 85%
+May study spell enchant arrow to 75%
+May study spell faerie fire to 80%
+May study spell plant door to 85%
+May study spell skyfire to 100%
+May study spell thunderclap to 85%
+May train skill uranus lore to 80%
+May train skill leadership to 95%
+May train skill neptune lore to 65%
+May train skill saturn lore to 95%
+May train skill pluto lore to 50%
+May train skill poison enchanting to 75%
+May train skill electric enchanting to 75%
+May train skill quick chant to 65%
+May train skill zapping to 65%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell creeping doom to 75%
+May study spell electrical field to 90%
+May study spell finger of death to 75%
+May study spell fire seeds to 90%
+May study spell life beyond death to 75%
+May study spell lion's heart to 90%
+May study spell summon storm to 80%
+May study spell sunray to 80%
+May study spell wall of thorns to 80%
+May train skill pluto lore to 55%
+May train skill saturn lore to 100%
+May train skill uranus lore to 85%
+May train skill neptune lore to 70%
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell breath of life to 100%
+May study spell electrical field to 95%
+May study spell faerie fire to 85%
+May study spell fire seeds to 95%
+May study spell lion's heart to 95%
+May study spell plant door to 90%
+May study spell thunderclap to 90%
+May train skill quick chant to 70%
+May train skill pluto lore to 60%
+May train skill neptune lore to 75%
+May train skill uranus lore to 90%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell creeping doom to 80%
+May study spell faerie fire to 90%
+May study spell finger of death to 80%
+May study spell life beyond death to 80%
+May study spell plant door to 95%
+May study spell summon storm to 85%
+May study spell sunray to 85%
+May study spell thunderclap to 95%
+May study spell wall of thorns to 85%
+May train skill pluto lore to 65%
+May train skill uranus lore to 95%
+May train skill neptune lore to 80%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell electrical field to 100%
+May study spell faerie fire to 95%
+May study spell fire seeds to 100%
+May study spell lion's heart to 100%
+May study spell summon storm to 90%
+May study spell sunray to 90%
+May study spell wall of thorns to 90%
+May train skill pluto lore to 70%
+May train skill uranus lore to 100%
+May train skill neptune lore to 85%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell creeping doom to 85%
+May study spell enchant arrow to 85%
+May study spell faerie fire to 100%
+May study spell finger of death to 85%
+May study spell life beyond death to 85%
+May study spell plant door to 100%
+May study spell rock to mud to 20%
+May study spell thunderclap to 100%
+May train skill poison enchanting to 85%
+May train skill electric enchanting to 85%
+May train skill zapping to 75%
+May train skill neptune lore to 90%
+May train skill pluto lore to 75%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell rock to mud to 30%
+May study spell summon storm to 95%
+May study spell sunray to 95%
+May study spell wall of thorns to 95%
+May train skill quick chant to 75%
+May train skill pluto lore to 80%
+May train skill neptune lore to 95%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell creeping doom to 90%
+May study spell enchant arrow to 90%
+May study spell finger of death to 90%
+May study spell life beyond death to 90%
+May study spell rock to mud to 40%
+May train skill poison enchanting to 90%
+May train skill electric enchanting to 90%
+May train skill neptune lore to 100%
+May train skill pluto lore to 85%
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell creeping doom to 95%
+May study spell finger of death to 95%
+May study spell life beyond death to 95%
+May study spell rock to mud to 50%
+May study spell summon storm to 100%
+May study spell sunray to 100%
+May study spell wall of thorns to 100%
+May train skill pluto lore to 90%
+May train skill quick chant to 90%
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell rock to mud to 60%
+May train skill pluto lore to 95%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell creeping doom to 100%
+May study spell enchant arrow to 100%
+May study spell finger of death to 100%
+May study spell life beyond death to 100%
+May study spell rock to mud to 100%
+May train skill poison enchanting to 100%
+May train skill quick chant to 100%
+May train skill electric enchanting to 100%
+May train skill pluto lore to 100%
+------------------------------------------------------.
+
+Subguilds:
+Dryad 6
+Filidh 6
+Scathach 6
+Elementalists 6

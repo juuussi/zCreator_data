@@ -1,0 +1,138 @@
+Updated 2011.04.13
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(10), Wis(3), Con(1), Sp_regen(2)                             |
+|   2 | Sp(10), Wis(3), Con(1), Str(1), Sp_regen(3), Hp_regen(1)        |
+|   3 | Sp(10), Wis(3), Con(1), Sp_regen(2)                             |
+|   4 | Sp(10), Wis(3), Con(1), Str(1), Sp_regen(3), Hp_regen(1),       |
+|     | Acid resistance(1), Physical resistance(1)                      |
+|   5 | Sp(10), Wis(3), Con(1), Sp_regen(2)                             |
+|   6 | Sp(10), Wis(3), Con(1), Str(1), Sp_regen(3), Hp_regen(1)        |
+|   7 | Sp(10), Wis(3), Con(1), Sp_regen(2), Acid resistance(1),        |
+|     | Physical resistance(1)                                          |
+|   8 | Sp(10), Wis(3), Con(1), Str(1), Sp_regen(3), Hp_regen(1)        |
+|   9 | Sp(10), Wis(3), Con(1), Sp_regen(2)                             |
+|  10 | Sp(10), Wis(3), Con(1), Str(1), Sp_regen(3), Hp_regen(1),       |
+|     | Acid resistance(1), Magical resistance(1),                      |
+|     | Physical resistance(1)                                          |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell alarm to 20%
+May study spell harm body to 80%
+May study spell immolate to 5%
+May study spell unholy presence to 55%
+May study spell wyvern watch to 5%
+May train skill arcane focus to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell alarm to 40%
+May study spell immolate to 10%
+May study spell unholy presence to 60%
+May study spell wyvern watch to 10%
+May train skill arcane focus to 20%
+May train skill arcane lore to 85%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell alarm to 60%
+May study spell harm body to 85%
+May study spell immolate to 15%
+May study spell summon ghost to 70%
+May study spell unholy presence to 65%
+May study spell wyvern watch to 15%
+May train skill arcane focus to 30%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell alarm to 80%
+May study spell clinging darkness to 10%
+May study spell immolate to 25%
+May study spell unholy presence to 70%
+May study spell wyvern watch to 20%
+May train skill arcane focus to 40%
+May train skill arcane lore to 90%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell alarm to 100%
+May study spell clinging darkness to 25%
+May study spell harm body to 90%
+May study spell immolate to 40%
+May study spell mark of zomm to 20%
+May study spell summon ghost to 75%
+May study spell unholy presence to 75%
+May study spell wyvern watch to 30%
+May train skill arcane focus to 50%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell cause disease to 10%
+May study spell clinging darkness to 40%
+May study spell immolate to 50%
+May study spell mark of zomm to 35%
+May study spell unholy presence to 80%
+May study spell were curse to 10%
+May study spell wyvern watch to 40%
+May train skill arcane focus to 60%
+May train skill stunning blow to 5%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell cause disease to 20%
+May study spell clinging darkness to 55%
+May study spell harm body to 95%
+May study spell immolate to 60%
+May study spell mark of zomm to 50%
+May study spell summon ghost to 80%
+May study spell unholy presence to 85%
+May study spell were curse to 25%
+May study spell wyvern watch to 55%
+May train skill stunning blow to 10%
+May train skill arcane lore to 95%
+May train skill arcane focus to 70%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell cause disease to 30%
+May study spell clinging darkness to 70%
+May study spell immolate to 70%
+May study spell mark of zomm to 65%
+May study spell unholy presence to 90%
+May study spell were curse to 40%
+May study spell wyvern watch to 70%
+May train skill arcane focus to 80%
+May train skill stunning blow to 15%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell cause disease to 40%
+May study spell clinging darkness to 85%
+May study spell harm body to 100%
+May study spell immolate to 85%
+May study spell mark of zomm to 80%
+May study spell unholy presence to 95%
+May study spell were curse to 60%
+May study spell wyvern watch to 85%
+May train skill arcane focus to 90%
+May train skill stunning blow to 20%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell cause disease to 50%
+May study spell clinging darkness to 100%
+May study spell immolate to 100%
+May study spell mark of zomm to 100%
+May study spell summon ghost to 85%
+May study spell unholy presence to 100%
+May study spell were curse to 80%
+May study spell wyvern watch to 100%
+May train skill stunning blow to 25%
+May train skill arcane lore to 100%
+May train skill arcane focus to 100%
+------------------------------------------------------.

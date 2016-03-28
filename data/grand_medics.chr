@@ -1,0 +1,105 @@
+Updated 2011.04.13
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(5), Hp(3), Wis(3), Con(1), Sp_regen(1)                       |
+|   2 | Sp(6), Hp(4), Wis(3), Con(2), Sp_regen(2),                      |
+|     | Poison resistance(1)                                            |
+|   3 | Sp(6), Hp(4), Wis(4), Con(1), Sp_regen(2)                       |
+|   4 | Sp(6), Hp(4), Wis(3), Con(2), Sp_regen(2), Hp_regen(1),         |
+|     | Poison resistance(1)                                            |
+|   5 | Sp(6), Hp(4), Wis(4), Con(1), Sp_regen(2)                       |
+|   6 | Sp(6), Hp(4), Wis(3), Con(2), Sp_regen(2),                      |
+|     | Poison resistance(1)                                            |
+|   7 | Sp(6), Hp(4), Wis(4), Con(1), Sp_regen(2), Hp_regen(1)          |
+|   8 | Sp(6), Hp(4), Wis(3), Con(2), Sp_regen(2),                      |
+|     | Poison resistance(1)                                            |
+|   9 | Sp(7), Hp(5), Wis(4), Con(2), Sp_regen(3), Hp_regen(1),         |
+|     | Poison resistance(1)                                            |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell brain unpain to 40%
+May study spell greater party heal to 100%
+May study spell harmony hand to 40%
+May study spell heal all to 75%
+May study spell heal body to 95%
+May study spell major heal to 100%
+May study spell transfer mana to 10%
+May study spell true distant heal to 95%
+May train skill optimize transfer to 40%
+May train skill mastery of medicine to 40%
+May train skill healing efficiency to 60%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell brain unpain to 50%
+May study spell harmony hand to 50%
+May study spell heal all to 80%
+May study spell transfer mana to 20%
+May train skill optimize transfer to 50%
+May train skill mastery of medicine to 50%
+May train skill healing efficiency to 75%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell brain unpain to 60%
+May study spell harmony hand to 60%
+May study spell heal all to 90%
+May study spell heal body to 100%
+May study spell transfer mana to 40%
+May study spell true distant heal to 100%
+May train skill optimize transfer to 60%
+May train skill mastery of medicine to 60%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell brain unpain to 75%
+May study spell harmony hand to 80%
+May study spell heal all to 100%
+May study spell transfer mana to 60%
+May train skill optimize transfer to 75%
+May train skill mastery of medicine to 75%
+May train skill healing efficiency to 80%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell brain unpain to 80%
+May study spell harmony hand to 100%
+May study spell transfer mana to 80%
+May train skill optimize transfer to 80%
+May train skill mastery of medicine to 80%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell brain unpain to 85%
+May study spell transfer mana to 90%
+May train skill optimize transfer to 85%
+May train skill mastery of medicine to 85%
+May train skill healing efficiency to 85%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell brain unpain to 90%
+May study spell transfer mana to 100%
+May train skill optimize transfer to 90%
+May train skill mastery of medicine to 90%
+May train skill healing efficiency to 90%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell brain unpain to 95%
+May train skill optimize transfer to 95%
+May train skill mastery of medicine to 95%
+May train skill healing efficiency to 95%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell brain unpain to 100%
+May train skill optimize transfer to 100%
+May train skill mastery of medicine to 100%
+May train skill healing efficiency to 100%
+------------------------------------------------------.

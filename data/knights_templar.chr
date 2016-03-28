@@ -1,0 +1,283 @@
+Updated 2011.04.14
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hp(9), Str(1), Con(1), Dex(1), Sp_regen(2)                      |
+|   2 | Hp(10), Str(2), Con(2), Dex(1), Sp_regen(2),                    |
+|     | Physical resistance(1)                                          |
+|   3 | Hp(11), Str(3), Con(2), Dex(2), Sp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|   4 | Hp(9), Str(1), Con(1), Dex(1), Sp_regen(2)                      |
+|   5 | Hp(10), Str(2), Con(2), Dex(1), Sp_regen(2),                    |
+|     | Physical resistance(1)                                          |
+|   6 | Hp(11), Str(3), Con(2), Dex(2), Sp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|   7 | Hp(9), Str(1), Con(1), Dex(1), Sp_regen(2)                      |
+|   8 | Hp(10), Str(2), Con(2), Dex(1), Sp_regen(2),                    |
+|     | Physical resistance(1)                                          |
+|   9 | Hp(11), Str(3), Con(2), Dex(2), Sp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|  10 | Hp(9), Str(1), Con(1), Dex(1), Sp_regen(2)                      |
+|  11 | Hp(10), Str(2), Con(2), Dex(1), Sp_regen(2),                    |
+|     | Physical resistance(1)                                          |
+|  12 | Hp(11), Str(3), Con(2), Dex(2), Sp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+|  13 | Hp(9), Str(1), Con(1), Dex(1), Sp_regen(2)                      |
+|  14 | Hp(10), Str(2), Con(2), Dex(1), Sp_regen(2),                    |
+|     | Physical resistance(1)                                          |
+|  15 | Hp(11), Str(3), Con(2), Dex(2), Sp_regen(3),                    |
+|     | Physical resistance(1)                                          |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell blade blessing to 10%
+May study spell inner power to 70%
+May train skill mounted combat to 10%
+May train skill mounted parry to 10%
+May train skill inner strength to 70%
+May train skill aegis to 10%
+May train skill purity of spirit to 5%
+May train skill charge to 10%
+May train skill piety to 5%
+May train skill mounted riposte to 10%
+May train skill mounted attack to 10%
+May train skill hew to 10%
+May train skill battle tactics to 20%
+May train skill horsemanship to 10%
+May train skill hand of god to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell blade blessing to 15%
+May study spell holy glow to 55%
+May train skill mounted combat to 15%
+May train skill mounted parry to 15%
+May train skill aegis to 15%
+May train skill purity of spirit to 10%
+May train skill charge to 15%
+May train skill piety to 10%
+May train skill mounted riposte to 15%
+May train skill mounted attack to 15%
+May train skill battle tactics to 35%
+May train skill horsemanship to 15%
+May train skill hew to 15%
+May train skill hand of god to 15%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell blade blessing to 20%
+May train skill mounted combat to 20%
+May train skill mounted parry to 20%
+May train skill inner strength to 75%
+May train skill aegis to 20%
+May train skill purity of spirit to 15%
+May train skill charge to 20%
+May train skill mounted riposte to 20%
+May train skill mounted attack to 20%
+May train skill battle tactics to 40%
+May train skill horsemanship to 20%
+May train skill hew to 20%
+May train skill hand of god to 20%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell blade blessing to 30%
+May study spell inner power to 75%
+May train skill mounted combat to 30%
+May train skill mounted parry to 30%
+May train skill aegis to 30%
+May train skill purity of spirit to 20%
+May train skill charge to 30%
+May train skill piety to 15%
+May train skill mounted riposte to 30%
+May train skill mounted attack to 30%
+May train skill battle tactics to 55%
+May train skill horsemanship to 30%
+May train skill hew to 30%
+May train skill hand of god to 30%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell blade blessing to 35%
+May study spell holy glow to 60%
+May train skill mounted combat to 35%
+May train skill mounted parry to 35%
+May train skill inner strength to 80%
+May train skill aegis to 35%
+May train skill purity of spirit to 25%
+May train skill charge to 35%
+May train skill piety to 20%
+May train skill mounted riposte to 35%
+May train skill mounted attack to 35%
+May train skill hew to 35%
+May train skill battle tactics to 60%
+May train skill horsemanship to 35%
+May train skill hand of god to 35%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell blade blessing to 40%
+May train skill mounted combat to 40%
+May train skill mounted parry to 40%
+May train skill aegis to 40%
+May train skill charge to 40%
+May train skill purity of spirit to 30%
+May train skill mounted riposte to 40%
+May train skill mounted attack to 40%
+May train skill battle tactics to 75%
+May train skill horsemanship to 40%
+May train skill hew to 40%
+May train skill hand of god to 40%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell blade blessing to 50%
+May study spell holy glow to 65%
+May study spell inner power to 80%
+May train skill mounted combat to 50%
+May train skill mounted parry to 50%
+May train skill inner strength to 85%
+May train skill aegis to 50%
+May train skill purity of spirit to 35%
+May train skill charge to 50%
+May train skill piety to 25%
+May train skill mounted riposte to 50%
+May train skill mounted attack to 50%
+May train skill hew to 50%
+May train skill battle tactics to 80%
+May train skill horsemanship to 50%
+May train skill hand of god to 50%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell blade blessing to 55%
+May train skill mounted combat to 55%
+May train skill mounted parry to 55%
+May train skill aegis to 55%
+May train skill purity of spirit to 40%
+May train skill charge to 55%
+May train skill piety to 30%
+May train skill mounted riposte to 55%
+May train skill mounted attack to 55%
+May train skill battle tactics to 85%
+May train skill horsemanship to 55%
+May train skill hew to 55%
+May train skill hand of god to 55%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell blade blessing to 60%
+May study spell inner power to 85%
+May train skill mounted combat to 60%
+May train skill mounted parry to 60%
+May train skill inner strength to 90%
+May train skill aegis to 60%
+May train skill purity of spirit to 45%
+May train skill charge to 60%
+May train skill mounted riposte to 60%
+May train skill mounted attack to 60%
+May train skill battle tactics to 90%
+May train skill horsemanship to 60%
+May train skill hew to 60%
+May train skill hand of god to 60%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell blade blessing to 70%
+May study spell holy glow to 70%
+May train skill mounted combat to 70%
+May train skill mounted parry to 70%
+May train skill aegis to 70%
+May train skill purity of spirit to 50%
+May train skill charge to 70%
+May train skill piety to 35%
+May train skill mounted riposte to 70%
+May train skill mounted attack to 70%
+May train skill battle tactics to 100%
+May train skill horsemanship to 70%
+May train skill hew to 70%
+May train skill hand of god to 70%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell blade blessing to 75%
+May study spell inner power to 90%
+May train skill mounted combat to 75%
+May train skill mounted parry to 75%
+May train skill inner strength to 95%
+May train skill aegis to 75%
+May train skill purity of spirit to 55%
+May train skill charge to 75%
+May train skill piety to 40%
+May train skill mounted riposte to 75%
+May train skill mounted attack to 75%
+May train skill horsemanship to 75%
+May train skill hew to 75%
+May train skill hand of god to 75%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell blade blessing to 80%
+May study spell holy glow to 75%
+May train skill mounted combat to 80%
+May train skill mounted parry to 80%
+May train skill aegis to 80%
+May train skill charge to 80%
+May train skill purity of spirit to 60%
+May train skill mounted riposte to 80%
+May train skill mounted attack to 80%
+May train skill horsemanship to 80%
+May train skill hew to 80%
+May train skill hand of god to 80%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell blade blessing to 90%
+May study spell inner power to 95%
+May train skill mounted combat to 90%
+May train skill mounted parry to 90%
+May train skill inner strength to 100%
+May train skill aegis to 90%
+May train skill purity of spirit to 65%
+May train skill charge to 90%
+May train skill piety to 45%
+May train skill mounted riposte to 90%
+May train skill mounted attack to 90%
+May train skill horsemanship to 90%
+May train skill hew to 90%
+May train skill hand of god to 90%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell blade blessing to 95%
+May train skill mounted combat to 95%
+May train skill mounted parry to 95%
+May train skill aegis to 95%
+May train skill charge to 95%
+May train skill purity of spirit to 70%
+May train skill mounted riposte to 95%
+May train skill mounted attack to 95%
+May train skill horsemanship to 95%
+May train skill hew to 95%
+May train skill hand of god to 95%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell blade blessing to 100%
+May study spell holy glow to 80%
+May study spell inner power to 100%
+May train skill mounted combat to 100%
+May train skill mounted parry to 100%
+May train skill aegis to 100%
+May train skill charge to 100%
+May train skill purity of spirit to 80%
+May train skill piety to 50%
+May train skill mounted riposte to 100%
+May train skill mounted attack to 100%
+May train skill horsemanship to 100%
+May train skill hew to 100%
+May train skill hand of god to 100%
+------------------------------------------------------.

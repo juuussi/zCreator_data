@@ -1,0 +1,705 @@
+Updated 2011.03.25
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(8), Hp(5), Int(5), Con(2), Sp_regen(3)                       |
+|   2 | Sp(8), Hp(5), Int(4), Con(1), Sp_regen(3)                       |
+|   3 | Sp(7), Hp(5), Int(5), Con(2), Sp_regen(3),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|   4 | Sp(8), Hp(5), Int(5), Con(1), Sp_regen(3)                       |
+|   5 | Sp(7), Hp(5), Int(5), Con(1), Sp_regen(3)                       |
+|   6 | Sp(8), Hp(5), Int(4), Con(2), Sp_regen(3),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|   7 | Sp(7), Hp(5), Int(5), Con(1), Sp_regen(3)                       |
+|   8 | Sp(8), Hp(5), Int(5), Con(2), Sp_regen(3)                       |
+|   9 | Sp(8), Hp(6), Int(5), Con(1), Sp_regen(3)                       |
+|  10 | Sp(7), Hp(5), Int(4), Con(1), Sp_regen(3),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|  11 | Sp(7), Hp(4), Int(5), Con(2), Sp_regen(3)                       |
+|  12 | Sp(7), Hp(5), Int(4), Con(1), Sp_regen(2)                       |
+|  13 | Sp(7), Hp(5), Int(5), Con(1), Sp_regen(3)                       |
+|  14 | Sp(7), Hp(4), Int(4), Con(2), Sp_regen(3),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|  15 | Sp(7), Hp(5), Int(4), Con(1), Sp_regen(2)                       |
+|  16 | Sp(7), Hp(5), Int(5), Con(1), Sp_regen(3)                       |
+|  17 | Sp(7), Hp(4), Int(4), Con(1), Sp_regen(3)                       |
+|  18 | Sp(7), Hp(5), Int(5), Con(2), Sp_regen(3),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|  19 | Sp(7), Hp(5), Int(4), Con(1), Sp_regen(2)                       |
+|  20 | Sp(7), Hp(4), Int(5), Con(1), Sp_regen(3)                       |
+|  21 | Sp(6), Hp(4), Int(3), Con(1), Sp_regen(2)                       |
+|  22 | Sp(6), Hp(4), Int(4), Con(2), Sp_regen(3),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|  23 | Sp(6), Hp(4), Int(4), Con(1), Sp_regen(2)                       |
+|  24 | Sp(6), Hp(4), Int(4), Con(1), Sp_regen(2)                       |
+|  25 | Sp(5), Hp(3), Int(2), Con(1), Sp_regen(2)                       |
+|  26 | Sp(4), Hp(3), Int(3), Sp_regen(2)                               |
+|  27 | Sp(5), Hp(3), Int(3), Con(1), Sp_regen(2),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|  28 | Sp(4), Hp(3), Int(3), Con(1), Sp_regen(1)                       |
+|  29 | Sp(5), Hp(4), Int(3), Con(1), Sp_regen(2)                       |
+|  30 | Sp(5), Hp(3), Int(3), Con(1), Sp_regen(2)                       |
+|  31 | Sp(4), Hp(3), Int(3), Con(1), Sp_regen(2)                       |
+|  32 | Sp(5), Hp(3), Int(3), Con(1), Sp_regen(2),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|  33 | Sp(4), Hp(3), Int(3), Sp_regen(1)                               |
+|  34 | Sp(5), Hp(3), Int(2), Con(1), Sp_regen(2)                       |
+|  35 | Sp(4), Hp(3), Int(3), Con(1), Sp_regen(2)                       |
+|  36 | Sp(4), Hp(2), Int(3), Con(1), Sp_regen(1)                       |
+|  37 | Sp(4), Hp(3), Int(2), Con(1), Sp_regen(2)                       |
+|  38 | Sp(4), Hp(3), Int(3), Sp_regen(1)                               |
+|  39 | Sp(4), Hp(2), Int(2), Con(1), Sp_regen(2),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+|  40 | Sp(4), Hp(3), Int(3), Con(1), Sp_regen(2)                       |
+|  41 | Sp(4), Hp(3), Int(2), Con(1), Sp_regen(1)                       |
+|  42 | Sp(4), Hp(2), Int(3), Sp_regen(2)                               |
+|  43 | Sp(4), Hp(3), Int(2), Con(1), Sp_regen(1)                       |
+|  44 | Sp(4), Hp(3), Int(3), Con(1), Sp_regen(2)                       |
+|  45 | Sp(5), Hp(3), Int(3), Con(1), Sp_regen(2),                      |
+|     | Psionic resistance(1), Physical resistance(1)                   |
+`-----------------------------------------------------------------------'
+
+
+info full
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell darkness to 10%
+May study spell detect alignment to 10%
+May study spell headache to 20%
+May study spell light to 10%
+May study spell mind melt to 10%
+May study spell water walking to 20%
+May train skill consider to 10%
+May train skill tinning to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell clairvoyance to 5%
+May study spell darkness to 20%
+May study spell detect alignment to 20%
+May study spell floating disc to 10%
+May study spell headache to 40%
+May study spell light to 20%
+May study spell mind melt to 20%
+May study spell psychic crush to 5%
+May train skill consider to 25%
+May train skill appraise to 5%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell darkness to 40%
+May study spell detect alignment to 40%
+May study spell headache to 60%
+May study spell light to 40%
+May study spell mind melt to 25%
+May study spell water walking to 35%
+May train skill consider to 35%
+May train skill tinning to 25%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell aura sense to 20%
+May study spell clairvoyance to 15%
+May study spell headache to 80%
+May study spell infravision to 15%
+May study spell mind melt to 35%
+May study spell psychic crush to 10%
+May study spell see invisible to 10%
+May train skill consider to 45%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell clairvoyance to 20%
+May study spell darkness to 60%
+May study spell detect alignment to 60%
+May study spell floating disc to 25%
+May study spell headache to 100%
+May study spell light to 60%
+May study spell mind melt to 45%
+May study spell water walking to 45%
+May train skill consider to 55%
+May train skill appraise to 20%
+May train skill essence eye to 10%
+May train skill skill that saves sp to 15%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell darkness to 90%
+May study spell infravision to 25%
+May study spell light to 90%
+May study spell mind melt to 50%
+May study spell psychic crush to 15%
+May train skill consider to 65%
+May train skill tinning to 35%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell aura sense to 35%
+May study spell darkness to 100%
+May study spell detect alignment to 80%
+May study spell floating disc to 45%
+May study spell infravision to 35%
+May study spell iron will to 5%
+May study spell light to 100%
+May study spell mind melt to 60%
+May study spell psionic blast to 10%
+May study spell see invisible to 25%
+May study spell terror to 10%
+May study spell water walking to 55%
+May train skill attack to 10%
+May train skill conceal spellcasting to 5%
+May train skill tinning to 45%
+May train skill consider to 75%
+May train skill appraise to 35%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell clairvoyance to 35%
+May study spell floating disc to 50%
+May study spell migraine to 10%
+May study spell mind melt to 70%
+May study spell psionic blast to 20%
+May study spell psychic crush to 20%
+May study spell see magic to 10%
+May train skill consider to 85%
+May train skill essence eye to 25%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell aura sense to 40%
+May study spell detect alignment to 95%
+May study spell infravision to 55%
+May study spell iron will to 10%
+May study spell mind melt to 75%
+May study spell psionic blast to 30%
+May study spell water walking to 75%
+May train skill conceal spellcasting to 10%
+May train skill tinning to 55%
+May train skill consider to 100%
+May train skill essence eye to 35%
+May train skill appraise to 45%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell clairvoyance to 45%
+May study spell detect alignment to 100%
+May study spell force shield to 10%
+May study spell lesser psionic invulnerability to 15%
+May study spell mental glance to 5%
+May study spell migraine to 25%
+May study spell mind barrier to 10%
+May study spell mind development to 10%
+May study spell mind melt to 85%
+May study spell phaze shift to 5%
+May study spell psionic blast to 40%
+May study spell psychic crush to 25%
+May study spell see invisible to 45%
+May study spell see magic to 15%
+May study spell summon psisword to 10%
+May study spell terror to 15%
+May train skill appraise to 65%
+May train skill skill that saves sp to 25%
+May train skill quick chant to 10%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell clairvoyance to 50%
+May study spell infravision to 75%
+May study spell iron will to 15%
+May study spell mind melt to 95%
+May study spell psionic blast to 50%
+May study spell regeneration to 5%
+May study spell water walking to 85%
+May train skill conceal spellcasting to 15%
+May train skill tinning to 65%
+May train skill essence eye to 45%
+May train skill appraise to 75%
+May train skill weapon skill 2h ancient to 10%
+May train skill weapon skill 1h ancient to 10%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell amnesia to 10%
+May study spell aura sense to 55%
+May study spell floating disc to 65%
+May study spell force shield to 20%
+May study spell lesser psionic invulnerability to 25%
+May study spell mental glance to 10%
+May study spell mental storm to 5%
+May study spell mind barrier to 25%
+May study spell mind development to 25%
+May study spell mind melt to 100%
+May study spell mindfist to 10%
+May study spell phaze shift to 10%
+May study spell psionic blast to 60%
+May study spell psychic crush to 30%
+May study spell see invisible to 55%
+May study spell summon psisword to 25%
+May study spell terror to 25%
+May study spell water walking to 100%
+May train skill doublehit to 10%
+May train skill attack to 25%
+May train skill tinning to 80%
+May train skill appraise to 85%
+May train skill essence eye to 65%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell infravision to 85%
+May study spell iron will to 20%
+May study spell mental storm to 10%
+May study spell migraine to 40%
+May study spell psionic blast to 70%
+May study spell see magic to 30%
+May train skill conceal spellcasting to 20%
+May train skill tinning to 100%
+May train skill essence eye to 75%
+May train skill appraise to 100%
+May train skill weapon skill 2h ancient to 25%
+May train skill weapon skill 1h ancient to 25%
+May train skill skill that saves sp to 45%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell amnesia to 25%
+May study spell clairvoyance to 65%
+May study spell feeblemind to 10%
+May study spell floating disc to 75%
+May study spell lesser psionic invulnerability to 35%
+May study spell mental storm to 15%
+May study spell psionic blast to 80%
+May study spell psychic crush to 35%
+May study spell regeneration to 15%
+May study spell terror to 35%
+May train skill essence eye to 85%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell aura sense to 65%
+May study spell floating disc to 85%
+May study spell force shield to 30%
+May study spell infravision to 100%
+May study spell iron will to 25%
+May study spell mental glance to 15%
+May study spell mental storm to 20%
+May study spell migraine to 55%
+May study spell mind barrier to 35%
+May study spell mind development to 35%
+May study spell phaze shift to 25%
+May study spell psionic blast to 90%
+May study spell see invisible to 75%
+May study spell see magic to 40%
+May study spell summon psisword to 35%
+May train skill attack to 35%
+May train skill skill that saves sp to 55%
+May train skill conceal spellcasting to 25%
+May train skill quick chant to 25%
+------------------------------------------------------.
+
+Level 16 abilities:
+May study spell amnesia to 35%
+May study spell clairvoyance to 75%
+May study spell feeblemind to 25%
+May study spell force shield to 35%
+May study spell mental storm to 25%
+May study spell mindfist to 25%
+May study spell psionic blast to 100%
+May study spell psychic crush to 40%
+May study spell see magic to 45%
+May study spell terror to 50%
+May train skill essence eye to 100%
+------------------------------------------------------.
+
+Level 17 abilities:
+May study spell aura sense to 75%
+May study spell floating disc to 90%
+May study spell iron will to 30%
+May study spell lesser psionic invulnerability to 55%
+May study spell mental storm to 40%
+May study spell mind barrier to 40%
+May study spell mind development to 45%
+May study spell phaze shift to 35%
+May study spell see magic to 50%
+May study spell summon psisword to 45%
+May train skill doublehit to 25%
+May train skill conceal spellcasting to 30%
+May train skill weapon skill 2h ancient to 35%
+May train skill skill that saves sp to 65%
+May train skill weapon skill 1h ancient to 35%
+------------------------------------------------------.
+
+Level 18 abilities:
+May study spell amnesia to 45%
+May study spell clairvoyance to 85%
+May study spell feeblemind to 35%
+May study spell floating disc to 95%
+May study spell force shield to 50%
+May study spell mental storm to 45%
+May study spell migraine to 75%
+May study spell mindfist to 35%
+May study spell psychic crush to 45%
+May study spell regeneration to 25%
+May study spell summon psisword to 55%
+May study spell terror to 65%
+May train skill attack to 45%
+------------------------------------------------------.
+
+Level 19 abilities:
+May study spell aura sense to 85%
+May study spell clairvoyance to 95%
+May study spell iron will to 35%
+May study spell lesser psionic invulnerability to 65%
+May study spell mental storm to 50%
+May study spell see invisible to 90%
+May study spell summon psisword to 65%
+May study spell terror to 75%
+May train skill weapon skill 2h ancient to 45%
+May train skill weapon skill 1h ancient to 45%
+May train skill conceal spellcasting to 35%
+May train skill skill that saves sp to 75%
+------------------------------------------------------.
+
+Level 20 abilities:
+May study spell clairvoyance to 100%
+May study spell feeblemind to 45%
+May study spell floating disc to 100%
+May study spell force shield to 65%
+May study spell forget to 10%
+May study spell mental glance to 25%
+May study spell mental storm to 55%
+May study spell migraine to 85%
+May study spell mind barrier to 55%
+May study spell mind development to 55%
+May study spell mindfist to 45%
+May study spell phaze shift to 45%
+May study spell psychic crush to 50%
+May study spell see magic to 70%
+May study spell summon psisword to 75%
+May study spell terror to 85%
+May train skill doublehit to 35%
+May train skill attack to 65%
+May train skill leadership to 10%
+May train skill skill that saves sp to 90%
+May train skill quick chant to 35%
+------------------------------------------------------.
+
+Level 21 abilities:
+May study spell amnesia to 65%
+May study spell aura sense to 90%
+May study spell iron will to 40%
+May study spell lesser psionic invulnerability to 75%
+May study spell mental storm to 60%
+May study spell summon psisword to 100%
+May study spell terror to 100%
+May train skill weapon skill 2h ancient to 60%
+May train skill weapon skill 1h ancient to 60%
+May train skill conceal spellcasting to 40%
+May train skill skill that saves sp to 100%
+------------------------------------------------------.
+
+Level 22 abilities:
+May study spell force shield to 75%
+May study spell lesser psionic invulnerability to 85%
+May study spell mental storm to 65%
+May study spell mind barrier to 75%
+May study spell mindfist to 55%
+May study spell phaze shift to 55%
+May study spell psychic crush to 55%
+May study spell regeneration to 35%
+May study spell see invisible to 100%
+May study spell see magic to 85%
+May train skill attack to 75%
+May train skill nerve mastery to 5%
+May train skill weapon skill 2h ancient to 75%
+May train skill weapon skill 1h ancient to 75%
+------------------------------------------------------.
+
+Level 23 abilities:
+May study spell amnesia to 70%
+May study spell feeblemind to 65%
+May study spell force shield to 80%
+May study spell iron will to 45%
+May study spell mental glance to 35%
+May study spell mental storm to 70%
+May study spell migraine to 95%
+May study spell paralyze to 10%
+May train skill doublehit to 45%
+May train skill leadership to 25%
+May train skill conceal spellcasting to 45%
+------------------------------------------------------.
+
+Level 24 abilities:
+May study spell aura sense to 100%
+May study spell force shield to 90%
+May study spell forget to 25%
+May study spell lesser psionic invulnerability to 95%
+May study spell mental storm to 75%
+May study spell migraine to 100%
+May study spell phaze shift to 65%
+May study spell psychic crush to 60%
+May study spell regeneration to 45%
+------------------------------------------------------.
+
+Level 25 abilities:
+May study spell fear to 10%
+May study spell feeblemind to 70%
+May study spell iron will to 50%
+May study spell lesser psionic invulnerability to 100%
+May study spell mental storm to 80%
+May study spell mind barrier to 85%
+May study spell mind development to 65%
+May study spell see magic to 100%
+May train skill doublehit to 65%
+May train skill attack to 90%
+May train skill conceal spellcasting to 50%
+May train skill weapon skill 2h ancient to 90%
+May train skill weapon skill 1h ancient to 90%
+May train skill quick chant to 45%
+------------------------------------------------------.
+
+Level 26 abilities:
+May study spell force shield to 100%
+May study spell forget to 35%
+May study spell heavy weight to 10%
+May study spell mental storm to 85%
+May study spell mindfist to 65%
+May study spell psychic crush to 65%
+------------------------------------------------------.
+
+Level 27 abilities:
+May study spell amnesia to 75%
+May study spell fear to 15%
+May study spell iron will to 55%
+May study spell levitation to 5%
+May study spell mental glance to 45%
+May study spell mental storm to 90%
+May study spell mind barrier to 100%
+May study spell mind development to 75%
+May study spell mind store to 10%
+May study spell paralyze to 20%
+May train skill doublehit to 75%
+May train skill attack to 100%
+May train skill nerve mastery to 10%
+May train skill conceal spellcasting to 55%
+May train skill weapon skill 2h ancient to 100%
+May train skill weapon skill 1h ancient to 100%
+------------------------------------------------------.
+
+Level 28 abilities:
+May study spell amnesia to 85%
+May study spell mental storm to 95%
+May study spell project force to 5%
+May study spell psychic crush to 70%
+May train skill cannibalize to 10%
+May train skill leadership to 35%
+------------------------------------------------------.
+
+Level 29 abilities:
+May study spell fear to 25%
+May study spell feeblemind to 75%
+May study spell heavy weight to 15%
+May study spell iron will to 60%
+May study spell levitation to 10%
+May study spell mental storm to 100%
+May study spell mindfist to 75%
+May study spell regeneration to 55%
+May train skill conceal spellcasting to 60%
+------------------------------------------------------.
+
+Level 30 abilities:
+May study spell amnesia to 100%
+May study spell brainstorm to 15%
+May study spell feeblemind to 85%
+May study spell mental glance to 60%
+May study spell mind development to 85%
+May study spell mind store to 15%
+May study spell psychic crush to 75%
+May train skill cannibalize to 15%
+May train skill doublehit to 90%
+May train skill quick chant to 55%
+------------------------------------------------------.
+
+Level 31 abilities:
+May study spell forget to 45%
+May study spell heavy weight to 25%
+May study spell iron will to 65%
+May study spell mindfist to 85%
+May study spell paralyze to 35%
+May study spell phaze shift to 75%
+May train skill nerve mastery to 15%
+May train skill conceal spellcasting to 65%
+------------------------------------------------------.
+
+Level 32 abilities:
+May study spell brainstorm to 20%
+May study spell fear to 30%
+May study spell feeblemind to 100%
+May study spell levitation to 15%
+May study spell mental glance to 70%
+May study spell mind store to 25%
+May study spell mindfist to 90%
+May study spell psychic crush to 80%
+May study spell regeneration to 65%
+May train skill doublehit to 100%
+------------------------------------------------------.
+
+Level 33 abilities:
+May study spell iron will to 70%
+May study spell mindfist to 95%
+May study spell paralyze to 40%
+May study spell project force to 10%
+May train skill cannibalize to 20%
+May train skill conceal spellcasting to 70%
+------------------------------------------------------.
+
+Level 34 abilities:
+May study spell fear to 45%
+May study spell forget to 65%
+May study spell heavy weight to 35%
+May study spell psychic crush to 85%
+------------------------------------------------------.
+
+Level 35 abilities:
+May study spell brainstorm to 35%
+May study spell greater psionic invulnerability to 10%
+May study spell iron will to 75%
+May study spell mind development to 100%
+May study spell mindfist to 100%
+May study spell regeneration to 75%
+May train skill nerve mastery to 20%
+May train skill zapping to 10%
+May train skill conceal spellcasting to 75%
+May train skill meditate to 5%
+May train skill leadership to 45%
+May train skill quick chant to 70%
+------------------------------------------------------.
+
+Level 36 abilities:
+May study spell fear to 55%
+May study spell forget to 75%
+May study spell greater psionic invulnerability to 15%
+May study spell heavy weight to 45%
+May study spell invisibility to 10%
+May study spell project force to 15%
+May study spell psychic crush to 90%
+------------------------------------------------------.
+
+Level 37 abilities:
+May study spell forget to 85%
+May study spell heavy weight to 50%
+May study spell invisibility to 25%
+May study spell iron will to 80%
+May study spell paralyze to 55%
+May train skill zapping to 25%
+May train skill conceal spellcasting to 80%
+------------------------------------------------------.
+
+Level 38 abilities:
+May study spell brainstorm to 45%
+May study spell fear to 65%
+May study spell forget to 95%
+May study spell heavy weight to 55%
+May study spell invisibility to 35%
+May study spell levitation to 20%
+May study spell paralyze to 60%
+May study spell psychic crush to 95%
+May train skill leadership to 60%
+------------------------------------------------------.
+
+Level 39 abilities:
+May study spell greater psionic invulnerability to 25%
+May study spell heavy weight to 60%
+May study spell invisibility to 45%
+May study spell iron will to 85%
+May study spell mind store to 30%
+May study spell paralyze to 65%
+May train skill nerve mastery to 25%
+May train skill zapping to 45%
+May train skill conceal spellcasting to 85%
+May train skill meditate to 10%
+------------------------------------------------------.
+
+Level 40 abilities:
+May study spell brainstorm to 55%
+May study spell fear to 75%
+May study spell forget to 100%
+May study spell greater psionic invulnerability to 35%
+May study spell invisibility to 55%
+May study spell levitation to 25%
+May study spell mental glance to 80%
+May study spell project force to 20%
+May study spell psychic crush to 100%
+May study spell regeneration to 85%
+May train skill cannibalize to 25%
+May train skill meditate to 15%
+May train skill zapping to 55%
+------------------------------------------------------.
+
+Level 41 abilities:
+May study spell brainstorm to 65%
+May study spell greater psionic invulnerability to 45%
+May study spell invisibility to 65%
+May study spell iron will to 90%
+May study spell paralyze to 75%
+May train skill leadership to 70%
+May train skill conceal spellcasting to 90%
+May train skill quick chant to 85%
+------------------------------------------------------.
+
+Level 42 abilities:
+May study spell brainstorm to 75%
+May study spell fear to 85%
+May study spell greater psionic invulnerability to 55%
+May study spell invisibility to 75%
+May study spell mind store to 35%
+May study spell regeneration to 90%
+May train skill zapping to 65%
+------------------------------------------------------.
+
+Level 43 abilities:
+May study spell brainstorm to 85%
+May study spell greater psionic invulnerability to 65%
+May study spell invisibility to 85%
+May study spell iron will to 95%
+May study spell paralyze to 85%
+May study spell project force to 25%
+May train skill nerve mastery to 30%
+May train skill zapping to 75%
+May train skill conceal spellcasting to 95%
+May train skill meditate to 20%
+May train skill leadership to 80%
+May train skill quick chant to 100%
+------------------------------------------------------.
+
+Level 44 abilities:
+May study spell brainstorm to 90%
+May study spell fear to 100%
+May study spell greater psionic invulnerability to 75%
+May study spell invisibility to 90%
+May study spell levitation to 30%
+May study spell paralyze to 90%
+May train skill zapping to 85%
+------------------------------------------------------.
+
+Level 45 abilities:
+May study spell brainstorm to 100%
+May study spell greater psionic invulnerability to 100%
+May study spell invisibility to 100%
+May study spell iron will to 100%
+May study spell mind store to 40%
+May study spell paralyze to 100%
+May study spell project force to 30%
+May study spell regeneration to 100%
+May train skill conceal spellcasting to 100%
+May train skill meditate to 30%
+May train skill zapping to 100%
+May train skill cannibalize to 30%
+May train skill leadership to 90%
+------------------------------------------------------.
+
+Subguilds:
+Psychometabolics 10
+Psychokinetics 10
+Telepathics 10

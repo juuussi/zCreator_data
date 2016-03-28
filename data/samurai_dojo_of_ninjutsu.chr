@@ -1,0 +1,65 @@
+Updated May 23 2012 by Vladd
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Sp(3), Hp(1), Dex(3), Str(2), Sp_regen(2)                       |
+|   2 | Sp(3), Hp(1), Dex(3), Str(2), Sp_regen(2)                       |
+|   3 | Sp(4), Hp(2), Dex(3), Str(2), Sp_regen(2),                      |
+|     | Physical resistance(1)                                          |
+|   4 | Sp(3), Hp(1), Dex(3), Str(2), Sp_regen(2)                       |
+|   5 | Sp(4), Hp(2), Dex(3), Str(2), Sp_regen(2), Hp_regen(1),         |
+|     | Cold resistance(1), Acid resistance(1), Fire resistance(1),     |
+|     | Poison resistance(1), Magical resistance(1),                    |
+|     | Psionic resistance(1), Physical resistance(1),                  |
+|     | Electric resistance(1), Asphyxiation resistance(1)              |
+`-----------------------------------------------------------------------'
+
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell poison to 30%
+May study spell relocate to 10%
+May study spell word of recall to 15%
+May train skill silent movement to 20%
+May train skill hiding to 5%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell poison to 60%
+May study spell relocate to 20%
+May study spell word of recall to 30%
+May train skill pick locks to 10%
+May train skill silent movement to 40%
+May train skill hiding to 10%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell poison to 90%
+May study spell relocate to 30%
+May study spell word of recall to 50%
+May train skill pick locks to 20%
+May train skill silent movement to 60%
+May train skill zhinakoku to 85%
+May train skill hiding to 15%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell poison to 100%
+May study spell relocate to 40%
+May study spell word of recall to 60%
+May train skill pick locks to 30%
+May train skill silent movement to 80%
+May train skill hiding to 20%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell relocate to 50%
+May study spell word of recall to 75%
+May train skill silent movement to 100%
+May train skill headcut to 90%
+May train skill zhinakoku to 90%
+May train skill pick locks to 40%
+May train skill hiding to 25%
+May train skill mastery of coating to 60%
+------------------------------------------------------.
