@@ -1,0 +1,246 @@
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hit points(3), Intelligence(3), Constitution(1),                |
+|     | Spell point regeneration(2)                                     |
+|   2 | Hit points(3), Spell points(1), Intelligence(3),                |
+|     | Constitution(2), Spell point regeneration(2)                    |
+|   3 | Hit points(4), Spell points(1), Intelligence(4),                |
+|     | Constitution(2), Spell point regeneration(3),                   |
+|     | Cold resistance(1), Magical resistance(1)                       |
+|   4 | Hit points(3), Intelligence(3), Constitution(1),                |
+|     | Spell point regeneration(2)                                     |
+|   5 | Hit points(3), Spell points(1), Intelligence(3),                |
+|     | Constitution(2), Spell point regeneration(2)                    |
+|   6 | Hit points(4), Spell points(1), Intelligence(4),                |
+|     | Constitution(2), Spell point regeneration(3),                   |
+|     | Cold resistance(1), Magical resistance(1)                       |
+|   7 | Hit points(3), Intelligence(3), Constitution(1),                |
+|     | Spell point regeneration(2)                                     |
+|   8 | Hit points(3), Spell points(1), Intelligence(3),                |
+|     | Constitution(2), Spell point regeneration(2)                    |
+|   9 | Hit points(4), Spell points(1), Intelligence(4),                |
+|     | Constitution(2), Spell point regeneration(3),                   |
+|     | Cold resistance(1), Magical resistance(1)                       |
+|  10 | Hit points(3), Intelligence(3), Constitution(1),                |
+|     | Spell point regeneration(2)                                     |
+|  11 | Hit points(3), Spell points(1), Intelligence(3),                |
+|     | Constitution(2), Spell point regeneration(2)                    |
+|  12 | Hit points(4), Spell points(1), Intelligence(4),                |
+|     | Constitution(2), Spell point regeneration(3),                   |
+|     | Cold resistance(1), Magical resistance(1)                       |
+|  13 | Hit points(3), Intelligence(3), Constitution(1),                |
+|     | Spell point regeneration(2)                                     |
+|  14 | Hit points(3), Spell points(1), Intelligence(3),                |
+|     | Constitution(2), Spell point regeneration(2)                    |
+|  15 | Hit points(4), Spell points(1), Intelligence(4),                |
+|     | Constitution(2), Spell point regeneration(3),                   |
+|     | Cold resistance(1), Magical resistance(1)                       |
+`-----------------------------------------------------------------------'
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell malefic brand to 10%
+May study spell relocate to 10%
+May study spell shadowmantle to 90%
+May study spell soulflay to 10%
+May study spell stygian fire to 80%
+May train skill fell insights to 50%
+May train skill quick chant to 70%
+May train skill profanities to 35%
+May train skill eldritch weave to 70%
+May train skill unhallowed magic to 65%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell malefic brand to 20%
+May study spell profane sanctuary to 10%
+May study spell relocate to 20%
+May study spell soulflay to 20%
+May study spell stygian fire to 85%
+May train skill ruinous utterance to 5%
+May train skill quick chant to 75%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell bolster unlife to 85%
+May study spell command undead to 45%
+May study spell eldritch ward to 80%
+May study spell malefic brand to 30%
+May study spell profane sanctuary to 20%
+May study spell quench life to 10%
+May study spell relocate to 30%
+May study spell shadowmantle to 95%
+May study spell soulflay to 40%
+May study spell stygian fire to 90%
+May train skill rites of the grave to 45%
+May train skill fell insights to 55%
+May train skill fell warding to 30%
+May train skill quick chant to 80%
+May train skill profanities to 40%
+May train skill unhallowed magic to 70%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell eldritch burn to 20%
+May study spell gravegate to 5%
+May study spell malefic brand to 40%
+May study spell profane sanctuary to 40%
+May study spell quench life to 30%
+May study spell relocate to 40%
+May study spell soulflay to 60%
+May study spell stygian fire to 100%
+May train skill ruinous utterance to 15%
+May train skill quick chant to 85%
+May train skill eldritch weave to 75%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell command undead to 50%
+May study spell eldritch burn to 30%
+May study spell gravegate to 10%
+May study spell malefic brand to 50%
+May study spell profane sanctuary to 50%
+May study spell quench life to 50%
+May study spell relocate to 50%
+May study spell shadowmantle to 100%
+May study spell soulflay to 80%
+May train skill fell insights to 60%
+May train skill unhallowed magic to 75%
+May train skill profanities to 45%
+May train skill quick chant to 90%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell bolster unlife to 90%
+May study spell eldritch burn to 40%
+May study spell gravegate to 15%
+May study spell malefic brand to 65%
+May study spell profane sanctuary to 75%
+May study spell quench life to 70%
+May study spell relocate to 70%
+May study spell soulflay to 100%
+May train skill rites of the grave to 50%
+May train skill fell insights to 65%
+May train skill quick chant to 95%
+May train skill unhallowed magic to 80%
+May train skill ruinous utterance to 30%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell command undead to 55%
+May study spell eldritch burn to 55%
+May study spell gravegate to 20%
+May study spell malefic brand to 80%
+May study spell profane sanctuary to 90%
+May study spell quench life to 80%
+May study spell relocate to 75%
+May train skill fell insights to 70%
+May train skill fell warding to 35%
+May train skill ruinous utterance to 40%
+May train skill quick chant to 100%
+May train skill profanities to 50%
+May train skill eldritch weave to 80%
+May train skill unhallowed magic to 85%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell bolster unlife to 95%
+May study spell eldritch burn to 75%
+May study spell eldritch ward to 85%
+May study spell gravegate to 25%
+May study spell malefic brand to 100%
+May study spell profane sanctuary to 100%
+May study spell quench life to 95%
+May study spell relocate to 100%
+May train skill fell insights to 75%
+May train skill ruinous utterance to 50%
+May train skill profanities to 55%
+May train skill unhallowed magic to 90%
+------------------------------------------------------.
+Level 9 abilities:
+May study spell command undead to 65%
+May study spell death nova to 10%
+May study spell eldritch burn to 85%
+May study spell fell tempest to 5%
+May study spell gravegate to 35%
+May study spell quench life to 100%
+May train skill rites of the grave to 55%
+May train skill fell insights to 80%
+May train skill ruinous utterance to 60%
+May train skill profanities to 60%
+May train skill eldritch weave to 85%
+May train skill unhallowed magic to 95%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell bolster unlife to 100%
+May study spell death nova to 20%
+May study spell eldritch burn to 95%
+May study spell eldritch ward to 90%
+May study spell fell tempest to 15%
+May study spell gravegate to 45%
+May train skill fell insights to 85%
+May train skill eldritch weave to 90%
+May train skill profanities to 65%
+May train skill unhallowed magic to 100%
+May train skill ruinous utterance to 70%
+------------------------------------------------------.
+
+Level 11 abilities:
+May study spell command undead to 70%
+May study spell death nova to 50%
+May study spell eldritch burn to 100%
+May study spell fell tempest to 30%
+May study spell gravegate to 55%
+May train skill rites of the grave to 60%
+May train skill fell insights to 90%
+May train skill fell warding to 40%
+May train skill profanities to 70%
+May train skill eldritch weave to 95%
+May train skill ruinous utterance to 80%
+------------------------------------------------------.
+
+Level 12 abilities:
+May study spell command undead to 75%
+May study spell death nova to 65%
+May study spell fell tempest to 50%
+May study spell gravegate to 65%
+May train skill fell insights to 95%
+May train skill ruinous utterance to 85%
+May train skill profanities to 75%
+May train skill eldritch weave to 100%
+------------------------------------------------------.
+
+Level 13 abilities:
+May study spell command undead to 80%
+May study spell death nova to 80%
+May study spell eldritch ward to 95%
+May study spell fell tempest to 70%
+May study spell gravegate to 75%
+May train skill rites of the grave to 65%
+May train skill fell insights to 100%
+May train skill ruinous utterance to 90%
+May train skill profanities to 80%
+------------------------------------------------------.
+
+Level 14 abilities:
+May study spell command undead to 90%
+May study spell death nova to 90%
+May study spell fell tempest to 85%
+May study spell gravegate to 85%
+May train skill ruinous utterance to 95%
+May train skill profanities to 85%
+------------------------------------------------------.
+
+Level 15 abilities:
+May study spell command undead to 100%
+May study spell death nova to 100%
+May study spell eldritch ward to 100%
+May study spell fell tempest to 100%
+May study spell gravegate to 100%
+May train skill fell warding to 45%
+May train skill rites of the grave to 70%
+May train skill ruinous utterance to 100%
+May train skill profanities to 90%
+------------------------------------------------------.
