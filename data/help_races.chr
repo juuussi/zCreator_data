@@ -380,6 +380,61 @@ They regenerate faster in water.
 They have a slight resistance against poison.
 They are noticeably susceptible to fire.
 ------------------------------------------------------------------------------
+help race -fell wight
+
+  __      _ _            _       _     _   
+ / _| ___| | | __      _(_) __ _| |__ | |_ 
+| |_ / _ \ | | \ \ /\ / / |/ _` | '_ \| __|
+|  _|  __/ | |  \ V  V /| | (_| | | | | |_ 
+|_|  \___|_|_|   \_/\_/ |_|\__, |_| |_|\__|
+                           |___/           
+
+The fell wight is an undead horror of immense power brought to being by the dark
+touch of Mordiggian himself. They are said to herald the coming of everlasting
+winter, a time of ice and decay. The fell wight is a cousin of a wight - if such
+a term can be said to apply in the relations of the undead - in that their
+respective origins are ultimately the same. But what sets them apart is their
+power, as whereas a common wight may possess great skill with weapons, the fell
+wight is not only a martial adept but also highly capable wielder of the arcane.
+
+The visage of a fell wight is a terrifying one: white skin, scarred and rigid,
+stretched tight around its gaunt frame, and eyes that blaze with malevolent blue
+fire. And always a thin shroud of frost around the creature - a blizzard waiting
+to happen.
+
+There have been vague stories of these creatures being encountered upon the
+glacier of Despair, but whether these stories are true and whether their alleged
+presence relates to nothing but the proximity of the Castle Greenlight is
+anyone's guess. Regardless, there have been some stirrings among the ranks of
+paladins who seem to be treat their surfacing as an evidence of something
+sinister.
+
+
+Strength:     good                Dexterity:    average             
+Intelligence: good                Wisdom:       low                 
+Constitution: above average       Charisma:     repulsive           
+Size:         medium              
+
+They are superior to humans, and therefore earn less experience.
+They regenerate mana slowly.
+Their wounds heal slowly.
+They possess superior health.
+They possess great stamina.
+They may master even the most difficult of arcane powers.
+They are somewhat slow in mastering arcane powers.
+They may master the most complicated of skills.
+They are somewhat slow learners of skills.
+They can see in the dark.
+They are naturally ambidextrous.
+They have a considerable resistance against cold.
+They are very susceptible to magical.
+They have a considerable resistance against poison.
+They are very susceptible to fire.
+They have a noticeable resistance against psionic.
+They are the dead who walk.
+They can sometimes escape death.
+They have no need to eat.
+------------------------------------------------------------------------------
 Help race Ghast
        _               _   
   __ _| |__   __ _ ___| |_ 
@@ -473,7 +528,7 @@ They are noticeably susceptible to magical.
 They have a slight resistance against fire.
 They are the dead who walk.
 ------------------------------------------------------------------------------
-Help race Gnome
+Help race -Gnome
   __ _ _ __   ___  _ __ ___   ___
  / _` | '_ \ / _ \| '_ ` _ \ / _ \
 | (_| | | | | (_) | | | | | |  __/
@@ -530,7 +585,7 @@ They can see in the dark.
 Due to their devotion, they elevate quicker within their chosen faith.
 They are weaker if their alignment contradicts their faith.
 ------------------------------------------------------------------------------
-Help race High Elf
+Help race -High Elf
  _     _       _            _  __ 
 | |   (_)     | |          | |/ _|
 | |__  _  __ _| |__     ___| | |_ 
@@ -951,7 +1006,7 @@ They are slightly susceptible to fire.
 They are slightly susceptible to cold.
 They are excellent swimmers.
 ------------------------------------------------------------------------------
-Help race Melarni
+Help race -Melarni
                 _                  _
  _ __ ___   ___| | __ _ _ __ _ __ (_)
 | '_ ` _ \ / _ \ |/ _` | '__| '_ \| |
@@ -1135,7 +1190,7 @@ They despise casting.
 They do not like to hide behind a shield.
 They are mercenaries for hire.
 ------------------------------------------------------------------------------
-Help race Mountain Dwarf
+Help race -Mountain Dwarf
                              _        _             _                     __
  _ __ ___   ___  _   _ _ __ | |_ __ _(_)_ __     __| |_      ____ _ _ __ / _|
 | '_ ` _ \ / _ \| | | | '_ \| __/ _` | | '_ \   / _` \ \ /\ / / _` | '__| |_ 
@@ -1316,7 +1371,7 @@ They may master the use of most skills.
 They can see magical auras.
 They are above average users of staves.
 ------------------------------------------------------------------------------
-Help race Sea elf
+Help race -Sea elf
                        _  __ 
                       | |/ _|
  ___  ___  __ _    ___| | |_ 
@@ -1841,7 +1896,7 @@ They become weaker when female or neuter.
 They only eat hunted game.
 Their wolfpacks are known throughout the realm.
 ------------------------------------------------------------------------------
-Help race Wood Elf
+Help race -Wood Elf
                          _        _  __   
                         | |      | |/ _|
 __      _____   ___   __| |   ___| | |_ 
