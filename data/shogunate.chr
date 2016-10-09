@@ -1,23 +1,21 @@
-Updated 5.27.12 by Vladd
-
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
-|   1 | Hit points(3), Spell points(1), Constitution(2), Strength(1),   |
+|   1 | Hit points(7), Spell points(3), Constitution(2), Strength(1),   |
 |     | Dexterity(1), Spell point regeneration(1),                      |
 |     | Psionic resistance(1)                                           |
-|   2 | Hit points(3), Spell points(1), Constitution(2), Strength(1),   |
+|   2 | Hit points(7), Spell points(3), Constitution(2), Strength(1),   |
 |     | Dexterity(1), Spell point regeneration(2),                      |
 |     | Hit point regeneration(1), Psionic resistance(1),               |
 |     | Physical resistance(1)                                          |
-|   3 | Hit points(4), Spell points(2), Constitution(2), Strength(2),   |
+|   3 | Hit points(7), Spell points(3), Constitution(2), Strength(2),   |
 |     | Dexterity(2), Spell point regeneration(1),                      |
 |     | Psionic resistance(1)                                           |
-|   4 | Hit points(3), Spell points(1), Constitution(2), Strength(1),   |
+|   4 | Hit points(7), Spell points(3), Constitution(2), Strength(1),   |
 |     | Dexterity(1), Spell point regeneration(2),                      |
 |     | Hit point regeneration(1), Psionic resistance(1),               |
 |     | Physical resistance(1)                                          |
-|   5 | Hit points(4), Spell points(2), Constitution(2), Strength(2),   |
+|   5 | Hit points(7), Spell points(3), Constitution(2), Strength(2),   |
 |     | Dexterity(2), Spell point regeneration(2),                      |
 |     | Hit point regeneration(1), Cold resistance(1),                  |
 |     | Fire resistance(1), Psionic resistance(1),                      |
@@ -37,9 +35,9 @@ May train skill battle tactics to 40%
 ------------------------------------------------------.
 
 Level 3 abilities:
-May train skill battle tactics to 60%
-May train skill art of bushido to 50%
 May train skill zhinakoku to 85%
+May train skill art of bushido to 50%
+May train skill battle tactics to 60%
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -49,8 +47,8 @@ May train skill battle tactics to 80%
 
 Level 5 abilities:
 May train skill battle tactics to 100%
-May train skill mastery of coating to 60%
 May train skill headcut to 90%
 May train skill zhinakoku to 90%
+May train skill mastery of coating to 60%
 May train skill art of bushido to 100%
 ------------------------------------------------------.
