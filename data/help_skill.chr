@@ -1,3 +1,25 @@
+Help on skill:     Cavalier's charge
+Usage duration:    random
+Fatigue:           low
+Skill type:        attack
+Affecting stat(s): strength, dexterity, cavalier's charge, charge, mounted attack
+                   and horsemanship
+
+For a foot soldier nothing is as terrifying as a mounted knight approaching at
+a full gallop, especially if the said knight is brandishing a polearm. While
+such a charge is not the quickest of attacks, it is certainly devastating.
+Knowledge of horsemanship is paramount for this type of an attack, for not
+everyone can command their steed onto a headlong charge amidst awaiting enemies
+and their weapons.
+While this type of an attack relies mostly on brute force, some agility is still
+necessary for the handling of the steed and the long weapon at full gallop.
+This maneuver can be performed with any polearm, but it is the most effective
+with those of the thrusting type. Heavier weapons are also more effective than
+their lighter counterparts, due to the momentum provided by their greater weight.
+
+---------------------------------------------------
+
+
 Help on skill:     Eviscerate
 Usage duration:    random
 Fatigue:           very low
