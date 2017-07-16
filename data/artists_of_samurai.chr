@@ -1,24 +1,23 @@
-
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
-|   1 | Hit points(5), Spell points(5), Dexterity(2), Strength(1),      |
-|     | Constitution(1), Spell point regeneration(1),                   |
-|     | Hit point regeneration(1)                                       |
-|   2 | Hit points(5), Spell points(5), Dexterity(2), Strength(1),      |
-|     | Constitution(1), Spell point regeneration(1),                   |
-|     | Hit point regeneration(1)                                       |
-|   3 | Hit points(5), Spell points(5), Dexterity(3), Strength(2),      |
-|     | Constitution(1), Spell point regeneration(1),                   |
-|     | Hit point regeneration(1), Physical resistance(1)               |
-|   4 | Hit points(5), Spell points(5), Dexterity(2), Strength(1),      |
-|     | Constitution(1), Spell point regeneration(1),                   |
-|     | Hit point regeneration(1)                                       |
-|   5 | Hit points(5), Spell points(5), Dexterity(3), Strength(2),      |
-|     | Constitution(1), Spell point regeneration(1),                   |
-|     | Hit point regeneration(1), Acid resistance(1),                  |
-|     | Cold resistance(1), Fire resistance(1), Poison resistance(1),   |
-|     | Magical resistance(1), Psionic resistance(1),                   |
+|   1 | Spell points(5), Hit points(5), Dexterity(2), Strength(1),      |
+|     | Constitution(1), Hit point regeneration(1),                     |
+|     | Spell point regeneration(1)                                     |
+|   2 | Spell points(5), Hit points(5), Dexterity(2), Strength(1),      |
+|     | Constitution(1), Hit point regeneration(2),                     |
+|     | Spell point regeneration(1)                                     |
+|   3 | Spell points(5), Hit points(5), Dexterity(3), Strength(2),      |
+|     | Constitution(1), Hit point regeneration(2),                     |
+|     | Spell point regeneration(1), Physical resistance(1)             |
+|   4 | Spell points(5), Hit points(5), Dexterity(2), Strength(1),      |
+|     | Constitution(1), Hit point regeneration(2),                     |
+|     | Spell point regeneration(1)                                     |
+|   5 | Spell points(5), Hit points(5), Dexterity(3), Strength(2),      |
+|     | Constitution(1), Hit point regeneration(2),                     |
+|     | Spell point regeneration(1), Fire resistance(1),                |
+|     | Cold resistance(1), Acid resistance(1), Poison resistance(1),   |
+|     | Psionic resistance(1), Magical resistance(1),                   |
 |     | Physical resistance(1), Electric resistance(1),                 |
 |     | Asphyxiation resistance(1)                                      |
 `-----------------------------------------------------------------------'
@@ -26,33 +25,37 @@
 ------------------------------------------------------.
 
 Level 1 abilities:
-May train skill mastery of coating to 60%
+May train skill blade mastery to 95%
 May train skill zhinakoku to 85%
 May train skill headcut to 90%
-May train skill blade mastery to 95%
+May train skill mastery of coating to 60%
 ------------------------------------------------------.
 
 Level 2 abilities:
-May train skill mastery of coating to 70%
+May train skill steady metabolism to 5%
 May train skill tameshivar to 90%
 May train skill zhinakoku to 90%
+May train skill mastery of coating to 70%
 ------------------------------------------------------.
 
 Level 3 abilities:
-May train skill mastery of coating to 80%
 May train skill zhinakoku to 95%
-May train skill headcut to 95%
+May train skill mastery of coating to 80%
 May train skill blade mastery to 100%
+May train skill headcut to 95%
+May train skill steady metabolism to 10%
 ------------------------------------------------------.
 
 Level 4 abilities:
-May train skill mastery of coating to 90%
+May train skill steady metabolism to 15%
 May train skill tameshivar to 95%
 May train skill zhinakoku to 100%
+May train skill mastery of coating to 90%
 ------------------------------------------------------.
 
 Level 5 abilities:
-May train skill mastery of coating to 100%
+May train skill steady metabolism to 25%
 May train skill tameshivar to 100%
 May train skill headcut to 100%
+May train skill mastery of coating to 100%
 ------------------------------------------------------.

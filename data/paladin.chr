@@ -131,6 +131,7 @@
 |     | Hit point regeneration(1), Magical resistance(1),               |
 |     | Physical resistance(1)                                          |
 `-----------------------------------------------------------------------'
+
 ------------------------------------------------------.
 
 Level 1 abilities:
@@ -139,15 +140,15 @@ May study spell cure serious wounds to 5%
 May study spell dispel undead to 5%
 May study spell flamestrike to 20%
 May study spell light to 10%
+May train skill bash to 10%
+May train skill weapon skill 1h sword to 5%
+May train skill weapon skill 1h polearm to 5%
 May train skill consider to 5%
+May train skill first aid to 10%
+May train skill weapon skill 2h polearm to 5%
 May train skill attack to 10%
 May train skill parry to 5%
-May train skill bash to 10%
 May train skill weapon skill 2h sword to 5%
-May train skill weapon skill 2h polearm to 5%
-May train skill weapon skill 1h sword to 5%
-May train skill first aid to 10%
-May train skill weapon skill 1h polearm to 5%
 ------------------------------------------------------.
 
 Level 2 abilities:
@@ -157,11 +158,11 @@ May study spell cure serious wounds to 10%
 May study spell detect alignment to 10%
 May study spell dispel undead to 15%
 May study spell flamestrike to 30%
-May train skill hear noises to 5%
 May train skill appraise to 5%
-May train skill attack to 25%
 May train skill consider to 20%
 May train skill bash to 20%
+May train skill hear noises to 5%
+May train skill attack to 25%
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -169,17 +170,17 @@ May study spell cure light wounds to 30%
 May study spell cure serious wounds to 15%
 May study spell dispel undead to 25%
 May study spell flamestrike to 40%
+May train skill bash to 30%
+May train skill weapon skill 1h sword to 15%
+May train skill weapon skill 1h polearm to 15%
 May train skill consider to 35%
+May train skill first aid to 25%
+May train skill weapon skill 2h polearm to 15%
+May train skill inner strength to 5%
+May train skill tinning to 10%
 May train skill attack to 45%
 May train skill quick chant to 5%
-May train skill tinning to 10%
-May train skill weapon skill 2h polearm to 15%
-May train skill bash to 30%
 May train skill weapon skill 2h sword to 15%
-May train skill weapon skill 1h sword to 15%
-May train skill first aid to 25%
-May train skill inner strength to 5%
-May train skill weapon skill 1h polearm to 15%
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -190,13 +191,13 @@ May study spell cure serious wounds to 20%
 May study spell detect alignment to 15%
 May study spell dispel undead to 35%
 May study spell flamestrike to 50%
-May train skill consider to 45%
 May train skill weapon skill 1h sword to 25%
-May train skill tinning to 20%
+May train skill consider to 45%
+May train skill bash to 40%
 May train skill weapon skill 2h polearm to 25%
 May train skill weapon skill 1h polearm to 25%
+May train skill tinning to 20%
 May train skill weapon skill 2h sword to 25%
-May train skill bash to 40%
 ------------------------------------------------------.
 
 Level 5 abilities:
@@ -207,14 +208,14 @@ May study spell dispel curse to 10%
 May study spell dispel undead to 45%
 May study spell flamestrike to 60%
 May study spell shield of protection to 5%
-May train skill hear noises to 10%
+May train skill bash to 50%
 May train skill consider to 65%
 May train skill appraise to 15%
+May train skill hear noises to 10%
+May train skill tinning to 25%
 May train skill attack to 55%
 May train skill parry to 10%
 May train skill stun to 5%
-May train skill tinning to 25%
-May train skill bash to 50%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -227,12 +228,12 @@ May study spell dispel curse to 15%
 May study spell dispel undead to 55%
 May study spell light to 20%
 May study spell shield of protection to 10%
+May train skill bash to 60%
 May train skill weapon skill 1h sword to 45%
 May train skill first aid to 35%
-May train skill tinning to 35%
 May train skill weapon skill 2h polearm to 45%
 May train skill weapon skill 1h polearm to 45%
-May train skill bash to 60%
+May train skill tinning to 35%
 May train skill weapon skill 2h sword to 45%
 ------------------------------------------------------.
 
@@ -249,16 +250,16 @@ May study spell flamestrike to 70%
 May study spell shield of protection to 15%
 May study spell white orb to 5%
 May study spell word of recall to 5%
-May train skill doublehit to 5%
-May train skill attack to 75%
-May train skill consider to 85%
-May train skill quick chant to 10%
-May train skill parry to 15%
-May train skill tinning to 40%
 May train skill bash to 70%
-May train skill hear noises to 25%
+May train skill consider to 85%
 May train skill first aid to 45%
+May train skill hear noises to 25%
 May train skill inner strength to 10%
+May train skill attack to 75%
+May train skill tinning to 40%
+May train skill quick chant to 10%
+May train skill doublehit to 5%
+May train skill parry to 15%
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -277,17 +278,17 @@ May study spell remove poison to 5%
 May study spell shield of protection to 20%
 May study spell white orb to 10%
 May study spell word of recall to 10%
-May train skill attack to 85%
-May train skill doublehit to 10%
+May train skill weapon skill 1h sword to 55%
+May train skill bash to 80%
+May train skill weapon skill 1h polearm to 55%
 May train skill appraise to 25%
 May train skill consider to 100%
+May train skill weapon skill 2h polearm to 55%
+May train skill attack to 85%
 May train skill tinning to 50%
 May train skill stun to 10%
-May train skill weapon skill 2h polearm to 55%
+May train skill doublehit to 10%
 May train skill weapon skill 2h sword to 55%
-May train skill bash to 80%
-May train skill weapon skill 1h sword to 55%
-May train skill weapon skill 1h polearm to 55%
 ------------------------------------------------------.
 
 Level 9 abilities:
@@ -302,18 +303,18 @@ May study spell lesser magical invulnerability to 5%
 May study spell remove poison to 10%
 May study spell shield of protection to 25%
 May study spell word of recall to 15%
-May train skill attack to 95%
-May train skill doublehit to 15%
-May train skill tinning to 60%
-May train skill weapon skill 2h polearm to 65%
 May train skill riposte to 5%
 May train skill bash to 90%
-May train skill weapon skill 2h sword to 65%
-May train skill hear noises to 35%
 May train skill weapon skill 1h sword to 65%
-May train skill first aid to 55%
 May train skill weapon skill 1h polearm to 65%
+May train skill first aid to 55%
+May train skill weapon skill 2h polearm to 65%
+May train skill hear noises to 35%
 May train skill essence eye to 5%
+May train skill tinning to 60%
+May train skill attack to 95%
+May train skill doublehit to 15%
+May train skill weapon skill 2h sword to 65%
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -335,19 +336,19 @@ May study spell remove scar to 5%
 May study spell shelter to 5%
 May study spell shield of protection to 30%
 May study spell white orb to 15%
+May train skill bash to 100%
+May train skill shield fighting to 10%
+May train skill whirlwind attack to 5%
+May train skill critical to 5%
+May train skill appraise to 35%
+May train skill hear noises to 45%
+May train skill skill that saves sp to 15%
+May train skill inner strength to 15%
 May train skill quick chant to 15%
 May train skill attack to 100%
-May train skill doublehit to 20%
-May train skill appraise to 35%
-May train skill tinning to 65%
-May train skill shield fighting to 10%
-May train skill bash to 100%
-May train skill hear noises to 45%
-May train skill whirlwind attack to 5%
 May train skill leadership to 20%
-May train skill inner strength to 15%
-May train skill critical to 5%
-May train skill skill that saves sp to 15%
+May train skill tinning to 65%
+May train skill doublehit to 20%
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -366,16 +367,16 @@ May study spell remove poison to 15%
 May study spell shield of protection to 40%
 May study spell white orb to 20%
 May study spell word of recall to 20%
-May train skill doublehit to 25%
+May train skill riposte to 10%
+May train skill weapon skill 1h sword to 75%
+May train skill weapon skill 1h polearm to 75%
+May train skill first aid to 65%
+May train skill weapon skill 2h polearm to 75%
+May train skill essence eye to 10%
 May train skill tinning to 75%
 May train skill parry to 35%
-May train skill weapon skill 2h polearm to 75%
-May train skill riposte to 10%
+May train skill doublehit to 25%
 May train skill weapon skill 2h sword to 75%
-May train skill weapon skill 1h sword to 75%
-May train skill first aid to 65%
-May train skill essence eye to 10%
-May train skill weapon skill 1h polearm to 75%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -399,18 +400,18 @@ May study spell shelter to 10%
 May study spell shield of protection to 45%
 May study spell white orb to 25%
 May study spell word of recall to 25%
-May train skill doublehit to 30%
+May train skill riposte to 15%
+May train skill shield fighting to 20%
+May train skill whirlwind attack to 10%
+May train skill critical to 10%
 May train skill appraise to 45%
+May train skill first aid to 80%
+May train skill hear noises to 55%
+May train skill essence eye to 15%
+May train skill tinning to 80%
 May train skill stun to 20%
 May train skill parry to 45%
-May train skill tinning to 80%
-May train skill shield fighting to 20%
-May train skill riposte to 15%
-May train skill hear noises to 55%
-May train skill whirlwind attack to 10%
-May train skill first aid to 80%
-May train skill critical to 10%
-May train skill essence eye to 15%
+May train skill doublehit to 30%
 ------------------------------------------------------.
 
 Level 13 abilities:
@@ -422,13 +423,13 @@ May study spell flamestrike to 85%
 May study spell light to 60%
 May study spell shield of protection to 50%
 May study spell word of recall to 30%
-May train skill doublehit to 35%
 May train skill weapon skill 1h sword to 85%
-May train skill stun to 35%
-May train skill tinning to 90%
-May train skill skill that saves sp to 25%
 May train skill weapon skill 2h polearm to 85%
 May train skill weapon skill 1h polearm to 85%
+May train skill skill that saves sp to 25%
+May train skill tinning to 90%
+May train skill stun to 35%
+May train skill doublehit to 35%
 May train skill weapon skill 2h sword to 85%
 ------------------------------------------------------.
 
@@ -452,16 +453,16 @@ May study spell remove scar to 15%
 May study spell shelter to 15%
 May study spell shield of protection to 55%
 May study spell white orb to 30%
-May train skill quick chant to 20%
-May train skill doublehit to 40%
-May train skill appraise to 55%
-May train skill tinning to 100%
-May train skill shield fighting to 30%
 May train skill riposte to 20%
+May train skill shield fighting to 30%
 May train skill whirlwind attack to 15%
-May train skill inner strength to 20%
 May train skill critical to 15%
+May train skill appraise to 55%
+May train skill inner strength to 20%
 May train skill essence eye to 20%
+May train skill quick chant to 20%
+May train skill tinning to 100%
+May train skill doublehit to 40%
 ------------------------------------------------------.
 
 Level 15 abilities:
@@ -484,19 +485,19 @@ May study spell shelter to 20%
 May study spell shield of protection to 60%
 May study spell white orb to 35%
 May study spell word of recall to 35%
-May train skill doublehit to 45%
+May train skill weapon skill 1h sword to 100%
+May train skill riposte to 25%
+May train skill weapon skill 1h polearm to 100%
+May train skill whirlwind attack to 20%
+May train skill first aid to 100%
+May train skill weapon skill 2h polearm to 100%
+May train skill hear noises to 75%
+May train skill essence eye to 25%
+May train skill leadership to 35%
 May train skill stun to 45%
 May train skill parry to 50%
-May train skill weapon skill 2h polearm to 100%
+May train skill doublehit to 45%
 May train skill weapon skill 2h sword to 100%
-May train skill riposte to 25%
-May train skill hear noises to 75%
-May train skill leadership to 35%
-May train skill whirlwind attack to 20%
-May train skill weapon skill 1h sword to 100%
-May train skill first aid to 100%
-May train skill weapon skill 1h polearm to 100%
-May train skill essence eye to 25%
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -516,12 +517,12 @@ May study spell remove poison to 35%
 May study spell shield of protection to 65%
 May study spell white orb to 40%
 May study spell word of recall to 40%
-May train skill hear noises to 100%
-May train skill doublehit to 50%
-May train skill appraise to 65%
 May train skill critical to 20%
+May train skill appraise to 65%
 May train skill shield fighting to 40%
+May train skill hear noises to 100%
 May train skill skill that saves sp to 45%
+May train skill doublehit to 50%
 ------------------------------------------------------.
 
 Level 17 abilities:
@@ -541,14 +542,14 @@ May study spell shelter to 25%
 May study spell shield of protection to 70%
 May study spell white orb to 45%
 May study spell word of recall to 45%
+May train skill riposte to 30%
 May train skill whirlwind attack to 25%
+May train skill essence eye to 30%
+May train skill inner strength to 25%
 May train skill quick chant to 25%
 May train skill doublehit to 55%
-May train skill inner strength to 25%
 May train skill parry to 55%
 May train skill stun to 55%
-May train skill essence eye to 30%
-May train skill riposte to 30%
 ------------------------------------------------------.
 
 Level 18 abilities:
@@ -565,12 +566,12 @@ May study spell lesser magical invulnerability to 35%
 May study spell remove poison to 40%
 May study spell shield of protection to 75%
 May study spell word of recall to 50%
-May train skill doublehit to 60%
-May train skill appraise to 75%
 May train skill critical to 25%
+May train skill riposte to 35%
+May train skill appraise to 75%
 May train skill shield fighting to 45%
 May train skill essence eye to 35%
-May train skill riposte to 35%
+May train skill doublehit to 60%
 ------------------------------------------------------.
 
 Level 19 abilities:
@@ -587,11 +588,11 @@ May study spell shelter to 30%
 May study spell shield of protection to 80%
 May study spell white orb to 50%
 May study spell word of recall to 55%
-May train skill whirlwind attack to 30%
-May train skill doublehit to 65%
-May train skill stun to 65%
 May train skill critical to 30%
 May train skill skill that saves sp to 55%
+May train skill whirlwind attack to 30%
+May train skill stun to 65%
+May train skill doublehit to 65%
 ------------------------------------------------------.
 
 Level 20 abilities:
@@ -612,15 +613,15 @@ May study spell shelter to 35%
 May study spell shield of protection to 85%
 May study spell white orb to 55%
 May study spell word of recall to 60%
-May train skill doublehit to 70%
+May train skill riposte to 40%
+May train skill shield fighting to 50%
+May train skill whirlwind attack to 35%
 May train skill appraise to 100%
+May train skill essence eye to 40%
+May train skill leadership to 50%
 May train skill stun to 75%
 May train skill parry to 60%
-May train skill shield fighting to 50%
-May train skill riposte to 40%
-May train skill leadership to 50%
-May train skill whirlwind attack to 35%
-May train skill essence eye to 40%
+May train skill doublehit to 70%
 ------------------------------------------------------.
 
 Level 21 abilities:
@@ -633,13 +634,13 @@ May study spell lesser magical invulnerability to 45%
 May study spell remove poison to 50%
 May study spell shield of protection to 95%
 May study spell white orb to 60%
+May train skill critical to 35%
+May train skill riposte to 45%
+May train skill essence eye to 45%
+May train skill inner strength to 30%
 May train skill quick chant to 30%
 May train skill doublehit to 75%
-May train skill inner strength to 30%
 May train skill parry to 65%
-May train skill critical to 35%
-May train skill essence eye to 45%
-May train skill riposte to 45%
 ------------------------------------------------------.
 
 Level 22 abilities:
@@ -653,11 +654,11 @@ May study spell remove scar to 40%
 May study spell shelter to 40%
 May study spell shield of protection to 100%
 May study spell word of recall to 65%
+May train skill shield fighting to 55%
 May train skill whirlwind attack to 40%
+May train skill skill that saves sp to 65%
 May train skill doublehit to 80%
 May train skill parry to 70%
-May train skill shield fighting to 55%
-May train skill skill that saves sp to 65%
 ------------------------------------------------------.
 
 Level 23 abilities:
@@ -671,9 +672,9 @@ May study spell lesser magical invulnerability to 50%
 May study spell remove poison to 60%
 May study spell white orb to 65%
 May study spell word of recall to 70%
+May train skill riposte to 50%
 May train skill critical to 40%
 May train skill essence eye to 50%
-May train skill riposte to 50%
 May train skill doublehit to 85%
 ------------------------------------------------------.
 
@@ -689,13 +690,13 @@ May study spell remove scar to 45%
 May study spell shelter to 45%
 May study spell white orb to 70%
 May study spell word of recall to 75%
+May train skill shield fighting to 60%
+May train skill skill that saves sp to 75%
+May train skill inner strength to 35%
 May train skill whirlwind attack to 45%
 May train skill quick chant to 35%
 May train skill doublehit to 90%
 May train skill parry to 75%
-May train skill inner strength to 35%
-May train skill shield fighting to 60%
-May train skill skill that saves sp to 75%
 ------------------------------------------------------.
 
 Level 25 abilities:
@@ -708,11 +709,11 @@ May study spell lesser magical invulnerability to 55%
 May study spell remove poison to 65%
 May study spell white orb to 75%
 May study spell word of recall to 80%
+May train skill critical to 45%
+May train skill riposte to 55%
+May train skill essence eye to 55%
 May train skill leadership to 60%
 May train skill doublehit to 95%
-May train skill critical to 45%
-May train skill essence eye to 55%
-May train skill riposte to 55%
 ------------------------------------------------------.
 
 Level 26 abilities:
@@ -727,14 +728,14 @@ May study spell lesser magical invulnerability to 60%
 May study spell remove poison to 70%
 May study spell remove scar to 50%
 May study spell shelter to 50%
+May train skill riposte to 60%
+May train skill shield fighting to 65%
+May train skill skill that saves sp to 90%
 May train skill whirlwind attack to 50%
+May train skill essence eye to 60%
 May train skill doublehit to 100%
 May train skill parry to 80%
 May train skill stun to 85%
-May train skill shield fighting to 65%
-May train skill skill that saves sp to 90%
-May train skill essence eye to 60%
-May train skill riposte to 60%
 ------------------------------------------------------.
 
 Level 27 abilities:
@@ -764,12 +765,12 @@ May study spell lesser fire invulnerability to 65%
 May study spell lesser magical invulnerability to 65%
 May study spell white orb to 85%
 May study spell word of recall to 90%
+May train skill riposte to 65%
+May train skill shield fighting to 70%
+May train skill inner strength to 40%
+May train skill essence eye to 65%
 May train skill quick chant to 40%
 May train skill parry to 85%
-May train skill inner strength to 40%
-May train skill shield fighting to 70%
-May train skill riposte to 65%
-May train skill essence eye to 65%
 ------------------------------------------------------.
 
 Level 29 abilities:
@@ -785,11 +786,11 @@ May study spell remove scar to 60%
 May study spell shelter to 60%
 May study spell white orb to 90%
 May study spell word of recall to 95%
-May train skill whirlwind attack to 60%
 May train skill critical to 55%
-May train skill parry to 90%
 May train skill riposte to 70%
+May train skill whirlwind attack to 60%
 May train skill essence eye to 70%
+May train skill parry to 90%
 ------------------------------------------------------.
 
 Level 30 abilities:
@@ -802,11 +803,11 @@ May study spell holy glow to 20%
 May study spell holy hand to 90%
 May study spell remove poison to 85%
 May study spell word of recall to 100%
-May train skill leadership to 75%
 May train skill critical to 60%
-May train skill stun to 100%
 May train skill shield fighting to 75%
 May train skill skill that saves sp to 100%
+May train skill leadership to 75%
+May train skill stun to 100%
 ------------------------------------------------------.
 
 Level 31 abilities:
@@ -820,13 +821,13 @@ May study spell lesser magical invulnerability to 75%
 May study spell remove scar to 65%
 May study spell shelter to 65%
 May study spell white orb to 95%
+May train skill riposte to 75%
 May train skill whirlwind attack to 65%
-May train skill bless to 5%
+May train skill essence eye to 75%
+May train skill inner strength to 45%
 May train skill quick chant to 45%
 May train skill parry to 95%
-May train skill inner strength to 45%
-May train skill essence eye to 75%
-May train skill riposte to 75%
+May train skill bless to 5%
 ------------------------------------------------------.
 
 Level 32 abilities:
@@ -841,8 +842,8 @@ May study spell holy hand to 95%
 May study spell remove poison to 90%
 May study spell white orb to 100%
 May train skill critical to 65%
-May train skill bless to 10%
 May train skill shield fighting to 80%
+May train skill bless to 10%
 ------------------------------------------------------.
 
 Level 33 abilities:
@@ -855,12 +856,12 @@ May study spell lesser magical invulnerability to 80%
 May study spell remove poison to 95%
 May study spell remove scar to 70%
 May study spell shelter to 70%
-May train skill whirlwind attack to 70%
-May train skill leadership to 85%
-May train skill bless to 15%
-May train skill parry to 100%
-May train skill essence eye to 80%
 May train skill riposte to 80%
+May train skill whirlwind attack to 70%
+May train skill essence eye to 80%
+May train skill leadership to 85%
+May train skill parry to 100%
+May train skill bless to 15%
 ------------------------------------------------------.
 
 Level 34 abilities:
@@ -875,22 +876,22 @@ May study spell lesser magical invulnerability to 85%
 May study spell remove poison to 100%
 May study spell remove scar to 75%
 May study spell shelter to 75%
-May train skill whirlwind attack to 75%
-May train skill bless to 20%
+May train skill riposte to 85%
 May train skill critical to 70%
 May train skill shield fighting to 85%
-May train skill riposte to 85%
+May train skill whirlwind attack to 75%
 May train skill essence eye to 85%
+May train skill bless to 20%
 ------------------------------------------------------.
 
 Level 35 abilities:
 May study spell darkness to 100%
 May study spell feather weight to 50%
+May train skill zapping to 10%
+May train skill inner strength to 50%
+May train skill quick chant to 50%
 May train skill leadership to 100%
 May train skill bless to 25%
-May train skill quick chant to 50%
-May train skill inner strength to 50%
-May train skill zapping to 10%
 ------------------------------------------------------.
 
 Level 36 abilities:
@@ -903,22 +904,22 @@ May study spell lesser fire invulnerability to 90%
 May study spell lesser magical invulnerability to 90%
 May study spell remove scar to 80%
 May study spell shelter to 80%
-May train skill whirlwind attack to 80%
-May train skill bless to 30%
+May train skill riposte to 90%
 May train skill critical to 75%
 May train skill shield fighting to 90%
-May train skill riposte to 90%
+May train skill whirlwind attack to 80%
 May train skill essence eye to 90%
+May train skill bless to 30%
 ------------------------------------------------------.
 
 Level 37 abilities:
 May study spell feather weight to 60%
 May study spell lesser fire invulnerability to 95%
 May study spell lesser magical invulnerability to 95%
-May train skill bless to 35%
+May train skill riposte to 95%
 May train skill zapping to 25%
 May train skill essence eye to 95%
-May train skill riposte to 95%
+May train skill bless to 35%
 ------------------------------------------------------.
 
 Level 38 abilities:
@@ -929,12 +930,12 @@ May study spell feather weight to 65%
 May study spell holy glow to 35%
 May study spell remove scar to 85%
 May study spell shelter to 85%
-May train skill bless to 40%
-May train skill whirlwind attack to 85%
-May train skill quick chant to 55%
-May train skill inner strength to 55%
 May train skill critical to 80%
 May train skill shield fighting to 95%
+May train skill inner strength to 55%
+May train skill whirlwind attack to 85%
+May train skill quick chant to 55%
+May train skill bless to 40%
 ------------------------------------------------------.
 
 Level 39 abilities:
@@ -944,21 +945,21 @@ May study spell lesser fire invulnerability to 100%
 May study spell lesser magical invulnerability to 100%
 May study spell remove scar to 90%
 May study spell shelter to 90%
-May train skill whirlwind attack to 90%
-May train skill bless to 45%
 May train skill zapping to 45%
 May train skill riposte to 100%
+May train skill whirlwind attack to 90%
 May train skill essence eye to 100%
+May train skill bless to 45%
 ------------------------------------------------------.
 
 Level 40 abilities:
 May study spell armour of god to 100%
 May study spell dispel evil to 100%
 May study spell feather weight to 75%
-May train skill bless to 50%
 May train skill critical to 85%
 May train skill zapping to 55%
 May train skill shield fighting to 100%
+May train skill bless to 50%
 ------------------------------------------------------.
 
 Level 41 abilities:
@@ -973,11 +974,11 @@ May train skill bless to 55%
 
 Level 42 abilities:
 May study spell feather weight to 85%
-May train skill bless to 60%
-May train skill quick chant to 60%
-May train skill inner strength to 60%
 May train skill critical to 90%
 May train skill zapping to 65%
+May train skill inner strength to 60%
+May train skill quick chant to 60%
+May train skill bless to 60%
 ------------------------------------------------------.
 
 Level 43 abilities:
@@ -986,10 +987,10 @@ May study spell feather weight to 90%
 May study spell holy glow to 45%
 May study spell remove scar to 100%
 May study spell shelter to 100%
-May train skill whirlwind attack to 100%
-May train skill bless to 65%
 May train skill critical to 95%
 May train skill zapping to 75%
+May train skill whirlwind attack to 100%
+May train skill bless to 65%
 ------------------------------------------------------.
 
 Level 44 abilities:
@@ -1001,12 +1002,13 @@ May train skill zapping to 85%
 Level 45 abilities:
 May study spell feather weight to 100%
 May study spell holy glow to 50%
-May train skill bless to 75%
-May train skill quick chant to 65%
-May train skill inner strength to 65%
 May train skill critical to 100%
 May train skill zapping to 100%
+May train skill inner strength to 65%
+May train skill quick chant to 65%
+May train skill bless to 75%
 ------------------------------------------------------.
+
 
 Subguilds:
 Knights_hospitalar 15

@@ -1,3 +1,21 @@
+Help on skill:     Steady metabolism
+Usage duration:    automatic
+Skill type:        special
+Affecting stat(s): skill percent
+
+While the magic users of the realm can avoid the throes of close combat,
+or deflect and repair any damage sustained, melee fighters do not enjoy
+these luxuries. Those on the front lines of combat must prepare to take
+their lumps, and learn to survive even while sustaining massive damage.
+Experienced close-range combatants fare better at this, and can train
+their bodies to self-heal during combat. The rate of recovery is seldom
+comparable to regeneration in a resting state, but it reduces the need
+for downtime in between fights.
+
+Because they metabolize in other ways, this skill has no effect on members
+on the death knight legion.
+---------------------------------------------------
+
 Help on skill:     Cavalier's charge
 Usage duration:    random
 Fatigue:           low
