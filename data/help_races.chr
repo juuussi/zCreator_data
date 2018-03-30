@@ -17,51 +17,78 @@ Constitution: low                 Charisma:     average
 Size:         medium              
 
 They are somewhat superior to humans, and therefore earn a bit less experience.
-They have above average stamina.
 They regenerate stamina somewhat quickly.
 They may master all but the most difficult of arcane powers.
 They may master all but the most complicated of skills.
 They can see in the dark.
 They rely more on agility than brute strength in combat.
 ------------------------------------------------------------------------------
-Help race Cherub
-      _                     _
-  ___| |__   ___ _ __ _   _| |__
- / __| '_ \ / _ \ '__| | | | '_ \
-| (__| | | |  __/ |  | |_| | |_) |
- \___|_| |_|\___|_|   \__,_|_.__/
+Help race Cinedi
+      _                _ _
+  ___(_)_ __   ___  __| (_)
+ / __| | '_ \ / _ \/ _` | |
+| (__| | | | |  __/ (_| | |
+ \___|_|_| |_|\___|\__,_|_|
 
-     These little beings which follow their divine Goddess'
-whims, namely Venus and/or Aphrodite, and model themselves after
-her messenger, Cupid. Residing on the Heavenly planes, this little
-angels tend to attempt to protect the good and the righteous when
-visiting the mortal realms. Commonly associated with Love and
-Caring, these being tend to be protective and angellic in their
-outlooks.
-Looking like little human infants, with dove-like wings, golden
-hair, and crystal blue eyes, these beings bask in the heavenly
-light, while shying away from the infernal darkness. Although
-renoun for their protectiveness rather than their combat skills,
-these angels have an abundance of magic at their fingertips..
+Cinedi (pl. Cined)
 
-Strength:     low                 Dexterity:    average             
-Intelligence: very good           Wisdom:       very good           
-Constitution: low                 Charisma:     impressive          
-Size:         somewhat small      
+"The Travelers"
+
+  An ancient race that disappeared from the realm aeons ago, fading first into
+legends until not even the elves remembered the name. Their contribution,
+however, lived on: the Navigators and their great obelisks.
+
+  The Cined are tall humanoids, typically with a platinum-coloured skin with
+random patches of black and purple all over the body, especially around the
+shoulders and the back. They are of lean build, their arms and legs long and
+thin, as are their seven fingers. The head atop the thin neck is pronouncedly
+egg-shaped, and almost comically high. From the top of the head descends a
+sharp ridge of bone between the three pairs of eyes, and down to the tip of
+the wide, flat nose. The ears are small and slightly pointed.
+
+  They possess a natural curiosity that pushes them to seek new experiences,
+new locations and peoples. This proclivity ultimately lead to the founding
+of the guild of Navigators, as they found the constant traveling from place
+to place to be exceedingly cumbersome. In this era, the pursuits of the Cined
+are not as such about find new places, but finding new ways of getting there.
+
+  The Cined have a tendency to mull over their actions, considering all the
+perceivable outcomes and the different points of view. Due to this they may,
+sometimes, appear slow and even dim-witted. While it is true that they are
+not in general the brighest minds of the realm, the ponderous approach has
+gifted them with great wisdom.
+
+  Along with the aptitude of dimensional manipulation, the Cined have a natural
+affinity to magic. Not magic as spells, but Magic as a primeval force of the
+universe. The Cined are able to possess great amounts of magical energy, far
+more than most other magic users of the realm. This proverbial horn of plenty
+has a drawback, though, as their spells tend to expend slightly more energy.
+Some of them have also discovered ways of enhancing the destructive spells
+that utilize magic in its purest form, while some have developed natural
+resistance to the very same force.
+
+Strength:     low                 Dexterity:    above average       
+Intelligence: average             Wisdom:       excellent           
+Constitution: below average       Charisma:     impressive          
+Size:         medium              
 
 They are superior to humans, and therefore earn less experience.
-Their basic healing ability is poor.
+Their basic healing ability is good.
 Their untrained mana regeneration is quick.
-They have above average stamina.
+They possess superior mana reserves.
 They may master even the most difficult of arcane powers.
-They master arcane powers easily.
 They may master all but the most complicated of skills.
 They are somewhat slow learners of skills.
-They are sensitive to their surroundings.
-They are too small to use two-handed weapons.
-They are weaker in dark locations.
-They are weaker if they become evil.
-They can glide above water.
+They can see magical auras.
+They can see invisible things.
+They can see in the dark.
+They are forced to eat very often.
+They are slightly susceptible to cold.
+They are slightly susceptible to fire.
+They have a slight resistance against psionic.
+They make exceptional Navigators.
+They have an affinity for Order.
+Their strong minds offer some resistance to compulsion.
 ------------------------------------------------------------------------------
 Help race Cromagnon
   ___ _ __ ___  _ __ ___   __ _  __ _ _ __   ___  _ __
@@ -91,9 +118,9 @@ They may master the most complicated of skills.
 They are quick learners of skills.
 They are below average users of staves.
 They are below average users of polearms.
+They are very reluctant and inept users of ancients.
 They are unskilled in the use of bows.
 They are skilled in the use of bludgeons.
-They are very reluctant and inept users of ancients.
 They have a thick skin.
 ------------------------------------------------------------------------------
 Help race Cyclops
@@ -116,7 +143,6 @@ Size:         HUGE
 
 They are superior to humans, and therefore earn less experience.
 Their untrained mana regeneration is slow.
-They have above average stamina.
 They are unable to learn even the most basic of arcane powers.
 They are slow in mastering arcane powers.
 They may master all but the most complicated of skills.
@@ -196,7 +222,6 @@ Constitution: above average       Charisma:     average
 Size:         somewhat large      
 
 They are far superior to humans, and therefore earn much less experience.
-They have above average stamina.
 They may master even the most difficult of arcane powers.
 They are somewhat slow in mastering arcane powers.
 They may master the most complicated of skills.
@@ -204,13 +229,13 @@ They are somewhat slow learners of skills.
 They can see magical auras.
 They can see in the dark.
 They can use two-handed weapons in one hand.
+They are above average users of swords.
 They are below average users of bows.
 They are above average users of polearms.
-They are above average users of swords.
 They are able to fly.
-They are slightly susceptible to cold.
 They have a slight resistance against asphyxiation.
 They have a slight resistance against electric.
+They are slightly susceptible to cold.
 ------------------------------------------------------------------------------
 Help race Drow
      _
@@ -233,7 +258,7 @@ Constitution: below average       Charisma:     pleasant
 Size:         somewhat small      
 
 They are superior to humans, and therefore earn less experience.
-They possess considerable stamina.
+They have above average stamina.
 They may master even the most difficult of arcane powers.
 They master arcane powers easily.
 They may master the most complicated of skills.
@@ -337,7 +362,6 @@ Size:         medium
 
 They are superior to humans, and therefore earn less experience.
 Their untrained mana regeneration is quick.
-They have above average stamina.
 They may master even the most difficult of arcane powers.
 They master arcane powers easily.
 They may master all but the most complicated of skills.
@@ -377,8 +401,8 @@ They can see magical auras.
 They can see in the dark.
 They have a thick skin.
 They regenerate faster in water.
-They have a slight resistance against poison.
 They are noticeably susceptible to fire.
+They have a slight resistance against poison.
 ------------------------------------------------------------------------------
 help race -fell wight
 
@@ -477,10 +501,11 @@ They are above average users of swords.
 They are above average users of daggers.
 They can not eat normal food.
 They can eat corpses.
+They have a noticeable resistance against psionic.
 They have a superior resistance against poison.
 They are considerably susceptible to magical.
-They have a noticeable resistance against psionic.
 They are the dead who walk.
+They can sometimes escape death.
 ------------------------------------------------------------------------------
 Help race Ghoul
        _                 _ 
@@ -511,11 +536,12 @@ Intelligence: below average       Wisdom:       poor
 Constitution: above average       Charisma:     repulsive           
 Size:         medium              
 
+They are somewhat inferior to humans, and therefore earn a bit more experience.
 They regenerate mana very slowly.
 Their wounds heal slowly.
 They possess above average health.
 They have above average stamina.
-Their ability to learn complex arcane powers is limited.
+They may master most, but not all arcane powers.
 They are slow in mastering arcane powers.
 They may master all but the most complicated of skills.
 They are somewhat slow learners of skills.
@@ -527,6 +553,7 @@ They have a superior resistance against poison.
 They are noticeably susceptible to magical.
 They have a slight resistance against fire.
 They are the dead who walk.
+They can sometimes escape death.
 ------------------------------------------------------------------------------
 Help race -Gnome
   __ _ _ __   ___  _ __ ___   ___
@@ -576,7 +603,6 @@ Constitution: average             Charisma:     average
 Size:         somewhat small      
 
 They are somewhat inferior to humans, and therefore earn a bit more experience.
-They have above average stamina.
 They may master all but the most difficult of arcane powers.
 They master arcane powers easily.
 They may master all but the most complicated of skills.
@@ -623,20 +649,16 @@ Those who through introspection have found the key with which to unlock their
 own souls from the bonds of normal maximums and mortal limitations.
 
 
-Strength:     above average       Dexterity:    above average       
-Intelligence: above average       Wisdom:       incredible          
-Constitution: average             Charisma:     enchanting          
+Strength:     average             Dexterity:    average             
+Intelligence: above average       Wisdom:       excellent           
+Constitution: below average       Charisma:     impressive          
 Size:         medium              
 
 They are far superior to humans, and therefore earn much less experience.
-Their wounds heal very quickly.
-They have above average stamina.
 They may master all but the most difficult of arcane powers.
 They are somewhat slow in mastering arcane powers.
-They are better spell casters than mere training leads to expect.
 They may master all but the most complicated of skills.
 They are somewhat slow learners of skills.
-They are better skill users than mere training leads to expect.
 They can see magical auras.
 They fight with finesse, striking less often, yet scoring more criticals.
 They are above average users of staves.
@@ -660,16 +682,15 @@ Help race Halfling
  commonly freckled with brown hair and beige to brown skin.  Halflings are
  known for great arts of theft and hairy feet.
 
-Strength:     low                 Dexterity:    very good           
+Strength:     below average       Dexterity:    excellent           
 Intelligence: below average       Wisdom:       below average       
-Constitution: above average       Charisma:     average             
+Constitution: average             Charisma:     average             
 Size:         somewhat small      
 
 They are somewhat inferior to humans, and therefore earn a bit more experience.
-They have above average stamina.
 They may master most, but not all arcane powers.
 They are somewhat slow in mastering arcane powers.
-They may master all but the most complicated of skills.
+They may master the most complicated of skills.
 They can see in the dark.
 ------------------------------------------------------------------------------
 Help race -Highland Dwarf
@@ -728,31 +749,6 @@ They are partially immune towards the effects of magic.
 They are poor swimmers.
 They are taught to hate orcs and trolls from birth.
 ------------------------------------------------------------------------------
-Help race Hobbit
- _           _     _     _ _
-| |__   ___ | |__ | |__ (_) |_
-| '_ \ / _ \| '_ \| '_ \| | __|
-| | | | (_) | |_) | |_) | | |_
-|_| |_|\___/|_.__/|_.__/|_|\__|
-
- Hobbits are a small race of humanoids who resemble a stocky Human child in
- appearance.  Most Hobbits are honorable scholars, peasants and labourers;
- but because of their natural nimbleness, and the actions of a few, the whole
- race is considered by many to be a group of thieves.  Hobbits are known to
- enjoy the simple pleasures in life and find adventuring an unfavorable
- profession.  Although a few of them take it it upon themselves, by choice,
- regardless.
-
-Strength:     below average       Dexterity:    excellent           
-Intelligence: average             Wisdom:       average             
-Constitution: below average       Charisma:     average             
-Size:         somewhat small      
-
-They are somewhat inferior to humans, and therefore earn a bit more experience.
-They have above average stamina.
-They may master most, but not all arcane powers.
-They may master the most complicated of skills.
-------------------------------------------------------------------------------
 Help race Huecuva
  _                                      
 | |__  _   _  ___  ___ _   ___   ____ _ 
@@ -793,14 +789,15 @@ They can see magical auras.
 They can see invisible things.
 They can see in the dark.
 They are partially immune towards the effects of magic.
-They have a considerable resistance against psionic.
-They have a slight resistance against electric.
+They have a slight resistance against asphyxiation.
 They are slightly susceptible to physical.
 They are very susceptible to magical.
 They have a considerable resistance against poison.
+They have a considerable resistance against psionic.
 They are noticeably susceptible to fire.
-They have a slight resistance against asphyxiation.
+They have a slight resistance against electric.
 They are the dead who walk.
+They can sometimes escape death.
 They have no need to eat.
 ------------------------------------------------------------------------------
 Help race Human
@@ -842,7 +839,6 @@ Intelligence: average             Wisdom:       average
 Constitution: average             Charisma:     average             
 Size:         medium              
 
-They have above average stamina.
 They may master even the most difficult of arcane powers.
 They may master the most complicated of skills.
 They are the standard, against which all others are judged.
@@ -870,7 +866,6 @@ Constitution: poor                Charisma:     unpleasant
 Size:         somewhat small      
 
 They are far inferior to humans, and therefore earn much more experience.
-They have above average stamina.
 They may master most, but not all arcane powers.
 They are slow in mastering arcane powers.
 Their ability to master skills is limited.
@@ -992,7 +987,6 @@ Constitution: average             Charisma:     average
 Size:         medium              
 
 They are somewhat superior to humans, and therefore earn a bit less experience.
-They have above average stamina.
 They regenerate stamina quickly.
 They may master most, but not all arcane powers.
 They may master all but the most complicated of skills.
@@ -1001,8 +995,8 @@ They hit harder unarmed than their strength leads to expect.
 They are skilled in the use of polearms.
 They have a thick skin.
 They can eat corpses.
-They have a slight resistance against poison.
 They are slightly susceptible to fire.
+They have a slight resistance against poison.
 They are slightly susceptible to cold.
 They are excellent swimmers.
 ------------------------------------------------------------------------------
@@ -1041,7 +1035,6 @@ Constitution: average             Charisma:     average
 Size:         medium              
 
 They are somewhat superior to humans, and therefore earn a bit less experience.
-They have above average stamina.
 They may master even the most difficult of arcane powers.
 They may master the most complicated of skills.
 They rely more on agility than brute strength in combat.
@@ -1068,7 +1061,6 @@ Constitution: low                 Charisma:     average
 Size:         medium              
 
 They are inferior to humans, and therefore earn more experience.
-They have above average stamina.
 They may master all but the most difficult of arcane powers.
 They are somewhat slow in mastering arcane powers.
 They may master the most complicated of skills.
@@ -1131,12 +1123,11 @@ They are far superior to humans, and therefore earn much less experience.
 Their basic healing ability is poor.
 Their untrained mana regeneration is quick.
 They have weak stamina.
-They may master even the most difficult of arcane powers.
+They may master all but the most difficult of arcane powers.
 They are somewhat slow in mastering arcane powers.
-They may master the most complicated of skills.
+They may master all but the most complicated of skills.
 They are somewhat slow learners of skills.
 They can see magical auras.
-They can see invisible things.
 They can see in the dark.
 They can not eat normal food.
 They can manage with little food.
@@ -1242,9 +1233,9 @@ They can see in the dark.
 They can use two-handed weapons in one hand.
 They are naturally ambidextrous.
 They are very reluctant and inept users of daggers.
+They are above average users of ancients.
 They are above average users of bludgeons.
 They are very reluctant and inept users of swords.
-They are above average users of ancients.
 They are partially immune towards the effects of magic.
 They are poor swimmers.
 They are taught to hate orcs and trolls from birth.
@@ -1284,9 +1275,9 @@ They may master the most complicated of skills.
 They are somewhat slow learners of skills.
 They can see in the dark.
 They are naturally ambidextrous.
+They are above average users of ancients.
 They are skilled in the use of swords.
 They are skilled in the use of axes.
-They are above average users of ancients.
 They can eat corpses.
 They are weaker in the sunlight.
 They are taught to hate dwarves and elves from birth.
@@ -1324,7 +1315,7 @@ Size:         medium
 They are superior to humans, and therefore earn less experience.
 They regenerate mana very slowly.
 They possess superior health.
-They possess considerable stamina.
+They possess great stamina.
 Their ability to learn complex arcane powers is limited.
 They are slow in mastering arcane powers.
 They may master all but the most complicated of skills.
@@ -1332,18 +1323,19 @@ They are somewhat slow learners of skills.
 They can see invisible things.
 They can see in the dark.
 They can use two-handed weapons in one hand.
+They are above average users of polearms.
 They are above average users of axes.
 They are above average users of bludgeons.
 They are above average users of swords.
-They are above average users of polearms.
 They are allergic to sunlight.
-They have a noticeable resistance against psionic.
-They have a noticeable resistance against electric.
-They have a slight resistance against acid.
 They are very susceptible to magical.
 They have a considerable resistance against poison.
+They have a slight resistance against acid.
+They have a noticeable resistance against psionic.
+They have a noticeable resistance against electric.
 They are considerably susceptible to fire.
 They are the dead who walk.
+They can sometimes escape death.
 They have no need to eat.
 ------------------------------------------------------------------------------
 Help race Satyr
@@ -1365,7 +1357,6 @@ Constitution: average             Charisma:     pleasant
 Size:         somewhat small      
 
 They are far inferior to humans, and therefore earn much more experience.
-They have above average stamina.
 They may master even the most difficult of arcane powers.
 They may master the use of most skills.
 They can see magical auras.
@@ -1412,10 +1403,10 @@ They may master even the most difficult of arcane powers.
 They may master the most complicated of skills.
 They can see magical auras.
 They fight with finesse, striking less often, yet scoring more criticals.
-They are above average users of polearms.
 They are above average users of staves.
-They are noticeably susceptible to fire.
+They are above average users of polearms.
 They have a slight resistance against cold.
+They are noticeably susceptible to fire.
 They have a slight resistance against asphyxiation.
 They are excellent swimmers.
 They are keenly aware of their surroundings when in an open environment.
@@ -1459,12 +1450,11 @@ by dedicating his life to the servitude of goodness.
 
 Strength:     very good           Dexterity:    good                
 Intelligence: good                Wisdom:       very good           
-Constitution: good                Charisma:     enchanting          
+Constitution: good                Charisma:     impressive          
 Size:         medium              
 
 Their basic healing ability is good.
 Their untrained mana regeneration is quick.
-They have above average stamina.
 They may master even the most difficult of arcane powers.
 They are somewhat slow in mastering arcane powers.
 They may master the most complicated of skills.
@@ -1501,7 +1491,11 @@ skeletal frame is easy to damage, a skeleton is able to withstand a surprisingly
 great amount of punishment and remain ambulatory. They have also been observed
 to use the bones of the deceased to repair their own anatomy.
 
-Strength:     average             Dexterity:    above average       
+Some vague stories have been circulating among the populace, describing
+skeletal creatures of gigantic proportions, but these have been disclaimed
+by the clergy as being nothing but ravings of a madman.
+
+Strength:     average             Dexterity:    good                
 Intelligence: below average       Wisdom:       poor                
 Constitution: above average       Charisma:     repulsive           
 Size:         medium              
@@ -1520,13 +1514,14 @@ They are naturally ambidextrous.
 They are above average users of swords.
 They are above average users of polearms.
 They are skilled in the use of bows.
-They have a slight resistance against psionic.
 They are noticeably susceptible to physical.
 They are very susceptible to magical.
 They have a superior resistance against poison.
-They are slightly susceptible to acid.
 They have a superior resistance against asphyxiation.
+They are slightly susceptible to acid.
+They have a slight resistance against psionic.
 They are the dead who walk.
+They can sometimes escape death.
 They have no need to eat.
 ------------------------------------------------------------------------------
 Help race Sprite
@@ -1549,7 +1544,6 @@ Size:         tiny
 
 They are superior to humans, and therefore earn less experience.
 Their untrained mana regeneration is quick.
-They have above average stamina.
 They regenerate stamina very quickly.
 They may master even the most difficult of arcane powers.
 They master arcane powers easily.
@@ -1580,7 +1574,6 @@ Size:         medium
 
 They are far superior to humans, and therefore earn much less experience.
 Their untrained mana regeneration is quick.
-They have above average stamina.
 They may master even the most difficult of arcane powers.
 They master arcane powers easily.
 They may master all but the most complicated of skills.
@@ -1614,7 +1607,6 @@ Size:         large
 
 They are far superior to humans, and therefore earn much less experience.
 Their untrained mana regeneration is quick.
-They have above average stamina.
 They may master even the most difficult of arcane powers.
 They are somewhat slow in mastering arcane powers.
 They may master the most complicated of skills.
@@ -1644,7 +1636,6 @@ Size:         somewhat small
 
 They are somewhat inferior to humans, and therefore earn a bit more experience.
 Their basic healing ability is good.
-They have above average stamina.
 They may master all but the most difficult of arcane powers.
 They may master all but the most complicated of skills.
 They are naturally ambidextrous.
@@ -1675,7 +1666,6 @@ They are somewhat inferior to humans, and therefore earn a bit more experience.
 Their basic healing ability is good.
 Their untrained mana regeneration is slow.
 Their wounds heal very quickly.
-They have above average stamina.
 Their ability to learn complex arcane powers is limited.
 They are slow in mastering arcane powers.
 They may master the use of most skills.
@@ -1727,7 +1717,7 @@ They can see magical auras.
 They are sensitive to their surroundings.
 They can use two-handed weapons in one hand.
 They are naturally ambidextrous.
-They become weaker when male or neuter.
+They become weaker when male.
 They are able to fly.
 ------------------------------------------------------------------------------
 Help race Vampire
@@ -1764,7 +1754,7 @@ Size:         medium
 
 They are far superior to humans, and therefore earn much less experience.
 Their basic healing ability is good.
-They possess considerable stamina.
+They have above average stamina.
 They regenerate stamina somewhat quickly.
 They may master even the most difficult of arcane powers.
 They are somewhat slow in mastering arcane powers.
@@ -1817,22 +1807,23 @@ Intelligence: average             Wisdom:       poor
 Constitution: good                Charisma:     repulsive           
 Size:         medium              
 
-They are superior to humans, and therefore earn less experience.
+They are somewhat superior to humans, and therefore earn a bit less experience.
 They regenerate mana very slowly.
 Their wounds heal slowly.
 They possess superior health.
 They possess considerable stamina.
-Their ability to learn complex arcane powers is limited.
+They may master most, but not all arcane powers.
 They are slow in mastering arcane powers.
 They may master the most complicated of skills.
 They are somewhat slow learners of skills.
 They can see in the dark.
 They are naturally ambidextrous.
-They have a considerable resistance against cold.
 They are very susceptible to magical.
 They have a considerable resistance against poison.
+They have a considerable resistance against cold.
 They are noticeably susceptible to fire.
 They are the dead who walk.
+They can sometimes escape death.
 They have no need to eat.
 ------------------------------------------------------------------------------
 Help race Wolfman
@@ -1892,7 +1883,7 @@ They are somewhat slow learners of skills.
 They can see in the dark.
 They are sensitive to their surroundings.
 They are forced to eat often.
-They become weaker when female or neuter.
+They become weaker when female.
 They only eat hunted game.
 Their wolfpacks are known throughout the realm.
 ------------------------------------------------------------------------------
@@ -1938,8 +1929,8 @@ They may master most, but not all arcane powers.
 They may master all but the most complicated of skills.
 They can see magical auras.
 They fight with finesse, striking less often, yet scoring more criticals.
-They are above average users of bows.
 They are above average users of staves.
+They are above average users of bows.
 They are keenly aware of their surroundings when in an open environment.
 They can more proficiently focus their spellcraft upon resistant targets.
 They must strive to remain true to Eliendien, lest they fall from Elven Grace.
@@ -1991,13 +1982,14 @@ They can see in the dark.
 They can not eat normal food.
 They are forced to eat often.
 They can glide above water.
-They have a considerable resistance against psionic.
-They are noticeably susceptible to electric.
-They are noticeably susceptible to fire.
 They are very susceptible to magical.
 They have a superior resistance against poison.
 They have a noticeable resistance against cold.
+They are noticeably susceptible to fire.
+They have a considerable resistance against psionic.
+They are noticeably susceptible to electric.
 They are the dead who walk.
+They can sometimes escape death.
 They can eat souls.
 They are inept healers.
 They regenerate health and mana only in darkness, its depth governing the rate.
@@ -2033,7 +2025,6 @@ Constitution: good                Charisma:     unpleasant
 Size:         large               
 
 They are superior to humans, and therefore earn less experience.
-They have above average stamina.
 They may master most, but not all arcane powers.
 They are slow in mastering arcane powers.
 They may master all but the most complicated of skills.
@@ -2043,8 +2034,8 @@ They can use two-handed weapons in one hand.
 They are above average users of bludgeons.
 They are above average users of polearms.
 They have a thick skin.
-They are slightly susceptible to fire.
 They have a slight resistance against cold.
+They are slightly susceptible to fire.
 ------------------------------------------------------------------------------
 Help race Zombie
                     _     _
@@ -2074,16 +2065,21 @@ As an undead, a zombie has a variety of strengths and weaknesses common to all
 of the living dead. It possesses a natural resistance to the typical mortal
 ailments, such as poisons and diseases.
 
+There have been some rumours going around, claims of zombies of great intellect
+and magical talent, but most have dismissed these as wild fantasies of peasants
+and drunks who have no clue of what they speak of.
+
 Strength:     above average       Dexterity:    below average       
 Intelligence: low                 Wisdom:       poor                
 Constitution: good                Charisma:     repulsive           
 Size:         medium              
 
+They are somewhat inferior to humans, and therefore earn a bit more experience.
 They regenerate mana very slowly.
 Their wounds heal very slowly.
 They possess superior health.
 They possess considerable stamina.
-They are able to learn only the most basic of arcane powers.
+Their ability to learn complex arcane powers is limited.
 They are slow in mastering arcane powers.
 They may master all but the most complicated of skills.
 They are somewhat slow learners of skills.
@@ -2094,8 +2090,9 @@ They can eat corpses.
 They are forced to eat very often.
 They are very susceptible to magical.
 They have a considerable resistance against poison.
-They are noticeably susceptible to fire.
 They have a slight resistance against asphyxiation.
+They are noticeably susceptible to fire.
 They are the dead who walk.
+They can sometimes escape death.
 They must gorge on the flesh of the living to hold onto their rational mind.
 ------------------------------------------------------------------------------
