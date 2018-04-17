@@ -1,5 +1,3 @@
-Updated 2017.07.16
-
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
@@ -121,8 +119,8 @@ May study spell darkness to 10%
 May study spell light to 10%
 May train skill consider to 10%
 May train skill ceremony to 10%
-May train skill commune to 50%
 May train skill convert to 40%
+May train skill commune to 50%
 ------------------------------------------------------.
 
 Level 2 abilities:
@@ -134,8 +132,8 @@ May study spell darkness to 20%
 May study spell light to 20%
 May train skill consider to 25%
 May train skill ceremony to 25%
-May train skill commune to 65%
 May train skill convert to 50%
+May train skill commune to 65%
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -148,8 +146,8 @@ May study spell darkness to 30%
 May study spell light to 30%
 May train skill consider to 35%
 May train skill ceremony to 30%
-May train skill commune to 75%
 May train skill convert to 60%
+May train skill commune to 75%
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -161,8 +159,8 @@ May study spell darkness to 40%
 May study spell light to 40%
 May train skill consider to 45%
 May train skill ceremony to 40%
-May train skill commune to 100%
 May train skill convert to 70%
+May train skill commune to 100%
 ------------------------------------------------------.
 
 Level 5 abilities:
@@ -175,18 +173,18 @@ May study spell cure light wounds to 40%
 May study spell darkness to 50%
 May study spell dispel curse to 10%
 May study spell light to 50%
-May train skill weapon skill 2h bludgeon to 5%
-May train skill tinning to 10%
-May train skill essence eye to 10%
-May train skill convert to 100%
-May train skill attack to 15%
+May train skill smash to 10%
+May train skill skill that saves sp to 15%
 May train skill weapon skill 2h staff to 5%
 May train skill weapon skill 1h staff to 5%
-May train skill weapon skill 1h bludgeon to 5%
-May train skill skill that saves sp to 15%
-May train skill smash to 10%
-May train skill ceremony to 50%
+May train skill weapon skill 2h bludgeon to 5%
+May train skill tinning to 10%
 May train skill consider to 55%
+May train skill essence eye to 10%
+May train skill weapon skill 1h bludgeon to 5%
+May train skill convert to 100%
+May train skill attack to 15%
+May train skill ceremony to 50%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -197,12 +195,12 @@ May study spell cure light wounds to 50%
 May study spell darkness to 60%
 May study spell dispel curse to 20%
 May study spell light to 60%
+May train skill consider to 65%
 May train skill weapon skill 2h staff to 10%
 May train skill weapon skill 1h staff to 10%
+May train skill ceremony to 60%
 May train skill weapon skill 1h bludgeon to 10%
 May train skill weapon skill 2h bludgeon to 10%
-May train skill ceremony to 60%
-May train skill consider to 65%
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -215,14 +213,14 @@ May study spell darkness to 70%
 May study spell dispel curse to 30%
 May study spell infravision to 20%
 May study spell light to 70%
+May train skill tinning to 20%
+May train skill consider to 75%
+May train skill smash to 15%
 May train skill weapon skill 2h staff to 15%
 May train skill weapon skill 1h staff to 15%
 May train skill weapon skill 2h bludgeon to 15%
 May train skill weapon skill 1h bludgeon to 15%
-May train skill tinning to 20%
-May train skill smash to 15%
 May train skill ceremony to 70%
-May train skill consider to 75%
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -232,8 +230,8 @@ May study spell cure light wounds to 75%
 May study spell darkness to 80%
 May study spell detect alignment to 10%
 May study spell light to 80%
-May train skill essence eye to 25%
 May train skill consider to 85%
+May train skill essence eye to 25%
 May train skill ceremony to 80%
 ------------------------------------------------------.
 
@@ -248,16 +246,16 @@ May study spell detect alignment to 15%
 May study spell dispel curse to 40%
 May study spell infravision to 60%
 May study spell light to 90%
-May train skill tinning to 30%
-May train skill essence eye to 35%
-May train skill weapon skill 2h bludgeon to 20%
+May train skill weapon skill 1h ancient to 5%
 May train skill weapon skill 2h ancient to 5%
 May train skill weapon skill 2h staff to 20%
 May train skill weapon skill 1h staff to 20%
-May train skill weapon skill 1h bludgeon to 20%
-May train skill ceremony to 90%
+May train skill weapon skill 2h bludgeon to 20%
 May train skill consider to 100%
-May train skill weapon skill 1h ancient to 5%
+May train skill tinning to 30%
+May train skill essence eye to 35%
+May train skill ceremony to 90%
+May train skill weapon skill 1h bludgeon to 20%
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -278,13 +276,13 @@ May study spell resurrect to 5%
 May study spell shield of protection to 20%
 May study spell teleport with error to 20%
 May study spell water walking to 30%
+May train skill weapon skill 1h ancient to 10%
+May train skill smash to 20%
+May train skill weapon skill 2h ancient to 10%
 May train skill skill that saves sp to 25%
 May train skill quick chant to 10%
-May train skill smash to 20%
 May train skill attack to 25%
 May train skill ceremony to 100%
-May train skill weapon skill 2h ancient to 10%
-May train skill weapon skill 1h ancient to 10%
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -293,15 +291,15 @@ May study spell cause serious wounds to 90%
 May study spell cure serious wounds to 30%
 May study spell detect alignment to 25%
 May study spell slow poison to 20%
-May train skill essence eye to 45%
-May train skill tinning to 40%
-May train skill weapon skill 2h bludgeon to 25%
-May train skill weapon skill 2h ancient to 15%
-May train skill weapon skill 1h bludgeon to 25%
-May train skill weapon skill 1h staff to 25%
-May train skill weapon skill 2h staff to 25%
 May train skill weapon skill 1h ancient to 15%
+May train skill weapon skill 2h ancient to 15%
+May train skill weapon skill 2h staff to 25%
+May train skill weapon skill 2h bludgeon to 25%
+May train skill weapon skill 1h staff to 25%
+May train skill tinning to 40%
 May train skill benediction of embedding to 5%
+May train skill essence eye to 45%
+May train skill weapon skill 1h bludgeon to 25%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -329,14 +327,14 @@ May study spell resurrect to 10%
 May study spell shield of protection to 50%
 May study spell slow poison to 40%
 May study spell water walking to 40%
+May train skill tinning to 50%
+May train skill smash to 25%
+May train skill skill that saves sp to 45%
+May train skill essence eye to 75%
 May train skill weapon skill 2h staff to 30%
 May train skill weapon skill 1h staff to 30%
 May train skill weapon skill 2h bludgeon to 30%
 May train skill weapon skill 1h bludgeon to 30%
-May train skill tinning to 50%
-May train skill essence eye to 75%
-May train skill skill that saves sp to 45%
-May train skill smash to 25%
 ------------------------------------------------------.
 
 Level 14 abilities:
@@ -371,16 +369,16 @@ May study spell resurrect to 20%
 May study spell shield of protection to 70%
 May study spell slow poison to 75%
 May study spell water walking to 50%
-May train skill tinning to 60%
-May train skill weapon skill 2h bludgeon to 40%
+May train skill weapon skill 1h ancient to 20%
 May train skill weapon skill 2h ancient to 20%
-May train skill attack to 35%
+May train skill skill that saves sp to 55%
 May train skill weapon skill 2h staff to 40%
 May train skill weapon skill 1h staff to 40%
-May train skill skill that saves sp to 55%
-May train skill weapon skill 1h bludgeon to 40%
+May train skill weapon skill 2h bludgeon to 40%
+May train skill tinning to 60%
+May train skill attack to 35%
 May train skill quick chant to 25%
-May train skill weapon skill 1h ancient to 20%
+May train skill weapon skill 1h bludgeon to 40%
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -393,8 +391,8 @@ May study spell harm to 10%
 May study spell remove poison to 25%
 May study spell resurrect to 25%
 May study spell slow poison to 100%
-May train skill essence eye to 100%
 May train skill smash to 30%
+May train skill essence eye to 100%
 ------------------------------------------------------.
 
 Level 17 abilities:
@@ -410,8 +408,8 @@ May study spell resurrect to 30%
 May study spell shield of protection to 80%
 May study spell teleport with error to 50%
 May study spell water walking to 60%
-May train skill skill that saves sp to 65%
 May train skill tinning to 70%
+May train skill skill that saves sp to 65%
 ------------------------------------------------------.
 
 Level 18 abilities:
@@ -464,16 +462,16 @@ May study spell sex change to 60%
 May study spell shield of protection to 90%
 May study spell summon ghost to 5%
 May study spell water walking to 100%
-May train skill tinning to 100%
-May train skill weapon skill 2h bludgeon to 50%
+May train skill weapon skill 1h ancient to 25%
+May train skill skill that saves sp to 90%
 May train skill weapon skill 2h ancient to 25%
-May train skill attack to 65%
 May train skill weapon skill 2h staff to 50%
 May train skill weapon skill 1h staff to 50%
-May train skill skill that saves sp to 90%
+May train skill weapon skill 2h bludgeon to 50%
+May train skill tinning to 100%
 May train skill arcane lore to 15%
+May train skill attack to 65%
 May train skill weapon skill 1h bludgeon to 50%
-May train skill weapon skill 1h ancient to 25%
 ------------------------------------------------------.
 
 Level 21 abilities:
@@ -483,8 +481,8 @@ May study spell harm to 35%
 May study spell lesser poison invulnerability to 60%
 May study spell reincarnation to 20%
 May study spell teleport with error to 70%
-May train skill skill that saves sp to 100%
 May train skill smash to 50%
+May train skill skill that saves sp to 100%
 ------------------------------------------------------.
 
 Level 22 abilities:
@@ -552,16 +550,16 @@ May study spell remove poison to 45%
 May study spell remove scar to 80%
 May study spell resurrect to 45%
 May study spell teleport with error to 100%
-May train skill weapon skill 2h bludgeon to 65%
 May train skill purify soul to 10%
+May train skill weapon skill 1h ancient to 30%
+May train skill smash to 70%
 May train skill weapon skill 2h ancient to 30%
 May train skill weapon skill 2h staff to 65%
 May train skill weapon skill 1h staff to 65%
+May train skill weapon skill 2h bludgeon to 65%
 May train skill arcane lore to 25%
-May train skill weapon skill 1h bludgeon to 65%
 May train skill quick chant to 45%
-May train skill smash to 70%
-May train skill weapon skill 1h ancient to 30%
+May train skill weapon skill 1h bludgeon to 65%
 ------------------------------------------------------.
 
 Level 26 abilities:
@@ -635,17 +633,17 @@ May study spell remove poison to 100%
 May study spell remove scar to 100%
 May study spell resurrect to 100%
 May study spell shelter to 60%
-May train skill leadership to 20%
-May train skill weapon skill 2h bludgeon to 85%
+May train skill weapon skill 1h ancient to 40%
 May train skill purify soul to 35%
 May train skill weapon skill 2h ancient to 40%
-May train skill holy might to 5%
 May train skill weapon skill 2h staff to 85%
 May train skill weapon skill 1h staff to 85%
+May train skill weapon skill 2h bludgeon to 85%
+May train skill holy might to 5%
 May train skill arcane lore to 35%
-May train skill weapon skill 1h bludgeon to 85%
+May train skill leadership to 20%
 May train skill quick chant to 60%
-May train skill weapon skill 1h ancient to 40%
+May train skill weapon skill 1h bludgeon to 85%
 ------------------------------------------------------.
 
 Level 31 abilities:
@@ -668,9 +666,9 @@ May study spell healing wind to 25%
 May study spell shelter to 100%
 May study spell summon ghost to 40%
 May train skill purify soul to 45%
-May train skill leadership to 35%
 May train skill arcane lore to 40%
 May train skill benediction of embedding to 65%
+May train skill leadership to 35%
 ------------------------------------------------------.
 
 Level 33 abilities:
@@ -706,14 +704,14 @@ May study spell sacred ritual to 5%
 May study spell teleport without error to 30%
 May study spell unholy presence to 20%
 May study spell ward undead to 30%
+May train skill weapon skill 1h ancient to 50%
 May train skill purify soul to 60%
+May train skill zapping to 10%
+May train skill benediction of embedding to 75%
+May train skill holy might to 10%
 May train skill arcane lore to 50%
 May train skill weapon skill 2h ancient to 50%
 May train skill quick chant to 70%
-May train skill weapon skill 1h ancient to 50%
-May train skill holy might to 10%
-May train skill zapping to 10%
-May train skill benediction of embedding to 75%
 ------------------------------------------------------.
 
 Level 36 abilities:
@@ -779,15 +777,15 @@ May study spell summon ghost to 65%
 May study spell teleport without error to 50%
 May study spell unholy presence to 35%
 May study spell ward undead to 80%
-May train skill leadership to 85%
-May train skill purify soul to 100%
-May train skill weapon skill 2h ancient to 65%
-May train skill holy might to 20%
-May train skill bless to 50%
-May train skill quick chant to 75%
-May train skill zapping to 55%
 May train skill weapon skill 1h ancient to 65%
+May train skill purify soul to 100%
+May train skill bless to 50%
+May train skill weapon skill 2h ancient to 65%
+May train skill zapping to 55%
 May train skill benediction of embedding to 85%
+May train skill holy might to 20%
+May train skill leadership to 85%
+May train skill quick chant to 75%
 ------------------------------------------------------.
 
 Level 41 abilities:
@@ -807,11 +805,11 @@ May study spell holy wisdom to 40%
 May study spell sacred ritual to 30%
 May study spell teleport without error to 60%
 May study spell unholy presence to 40%
-May train skill arcane lore to 75%
-May train skill bless to 70%
-May train skill quick chant to 85%
 May train skill zapping to 65%
 May train skill benediction of embedding to 90%
+May train skill bless to 70%
+May train skill arcane lore to 75%
+May train skill quick chant to 85%
 ------------------------------------------------------.
 
 Level 43 abilities:
@@ -844,15 +842,15 @@ May study spell holy wisdom to 50%
 May study spell remove werecurse to 10%
 May study spell sacred ritual to 50%
 May study spell unholy presence to 50%
-May train skill leadership to 90%
+May train skill weapon skill 1h ancient to 85%
+May train skill bless to 100%
 May train skill weapon skill 2h ancient to 85%
+May train skill zapping to 100%
+May train skill benediction of embedding to 100%
 May train skill holy might to 35%
 May train skill arcane lore to 80%
-May train skill bless to 100%
+May train skill leadership to 90%
 May train skill quick chant to 100%
-May train skill zapping to 100%
-May train skill weapon skill 1h ancient to 85%
-May train skill benediction of embedding to 100%
 ------------------------------------------------------.
 
 Subguilds:
