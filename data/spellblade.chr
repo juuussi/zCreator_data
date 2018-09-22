@@ -1,4 +1,4 @@
-Updated 2016.03.29
+Updated 2018.09.22
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -53,40 +53,44 @@ Updated 2016.03.29
 Level 1 abilities:
 May study spell augmented strikes to 25%
 May study spell blink assault to 25%
+May train skill weapon skill 1h polearm to 65%
 May train skill weapon skill 1h ancient to 65%
-May train skill fleeting auguries to 10%
-May train skill weapon skill 2h ancient to 65%
+May train skill essence eye to 25%
+May train skill wild strike to 40%
 May train skill weapon skill 1h dagger to 65%
-May train skill keen strikes to 25%
 May train skill dodge to 10%
-May train skill weapon skill 1h sword to 65%
+May train skill keen strikes to 25%
+May train skill weapon skill 2h polearm to 65%
 May train skill weapon skill 2h sword to 65%
+May train skill weapon skill 1h sword to 65%
 May train skill critical to 15%
 May train skill weapon skill 2h dagger to 65%
-May train skill wild strike to 40%
-May train skill doublehit to 50%
 May train skill attack to 70%
-May train skill essence eye to 25%
+May train skill fleeting auguries to 10%
+May train skill weapon skill 2h ancient to 65%
+May train skill doublehit to 50%
 ------------------------------------------------------.
 
 Level 2 abilities:
 May study spell augmented strikes to 35%
 May study spell blink assault to 35%
 May study spell infallible vision to 20%
+May train skill weapon skill 1h polearm to 75%
 May train skill weapon skill 1h ancient to 75%
-May train skill fleeting auguries to 15%
-May train skill weapon skill 2h ancient to 75%
+May train skill essence eye to 50%
+May train skill wild strike to 60%
 May train skill weapon skill 1h dagger to 75%
-May train skill keen strikes to 40%
 May train skill dodge to 20%
-May train skill weapon skill 1h sword to 75%
+May train skill keen strikes to 40%
+May train skill weapon skill 2h polearm to 75%
 May train skill weapon skill 2h sword to 75%
+May train skill weapon skill 1h sword to 75%
 May train skill critical to 20%
 May train skill weapon skill 2h dagger to 75%
-May train skill wild strike to 60%
-May train skill doublehit to 60%
 May train skill attack to 80%
-May train skill essence eye to 50%
+May train skill fleeting auguries to 15%
+May train skill weapon skill 2h ancient to 75%
+May train skill doublehit to 60%
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -94,21 +98,23 @@ May study spell arcane infusion to 20%
 May study spell augmented strikes to 40%
 May study spell blink assault to 45%
 May study spell infallible vision to 40%
-May train skill weapon skill 1h ancient to 85%
-May train skill fleeting auguries to 20%
-May train skill weapon skill 2h ancient to 85%
-May train skill weapon skill 1h dagger to 85%
-May train skill keen strikes to 60%
+May train skill weapon skill 1h polearm to 85%
 May train skill dodge to 30%
+May train skill quick chant to 15%
+May train skill critical to 25%
 May train skill weapon skill 1h sword to 85%
 May train skill weapon skill 2h sword to 85%
-May train skill critical to 25%
-May train skill weapon skill 2h dagger to 85%
-May train skill wild strike to 70%
-May train skill quick chant to 15%
-May train skill doublehit to 70%
+May train skill weapon skill 2h polearm to 85%
 May train skill attack to 90%
+May train skill weapon skill 1h ancient to 85%
 May train skill essence eye to 75%
+May train skill keen strikes to 60%
+May train skill weapon skill 1h dagger to 85%
+May train skill wild strike to 70%
+May train skill weapon skill 2h dagger to 85%
+May train skill weapon skill 2h ancient to 85%
+May train skill fleeting auguries to 20%
+May train skill doublehit to 70%
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -120,23 +126,25 @@ May study spell hexer's gambit to 15%
 May study spell infallible vision to 60%
 May study spell radiant aegis to 15%
 May study spell relocate to 25%
-May train skill deadly torrent to 30%
+May train skill weapon skill 1h polearm to 90%
 May train skill dodge to 40%
-May train skill critical to 30%
-May train skill attack to 100%
 May train skill quick chant to 25%
-May train skill wild strike to 80%
-May train skill essence eye to 85%
-May train skill weapon skill 2h ancient to 90%
-May train skill fleeting auguries to 25%
+May train skill critical to 30%
+May train skill weapon skill 1h sword to 90%
+May train skill weapon skill 2h sword to 90%
+May train skill weapon skill 2h polearm to 90%
+May train skill deadly torrent to 30%
+May train skill attack to 100%
 May train skill weapon skill 1h ancient to 90%
+May train skill essence eye to 85%
 May train skill leadership to 5%
 May train skill keen strikes to 70%
 May train skill weapon skill 1h dagger to 90%
-May train skill weapon skill 2h sword to 90%
-May train skill weapon skill 1h sword to 90%
-May train skill doublehit to 80%
+May train skill wild strike to 80%
 May train skill weapon skill 2h dagger to 90%
+May train skill weapon skill 2h ancient to 90%
+May train skill fleeting auguries to 25%
+May train skill doublehit to 80%
 ------------------------------------------------------.
 
 Level 5 abilities:
@@ -149,22 +157,24 @@ May study spell hexer's gambit to 25%
 May study spell infallible vision to 70%
 May study spell radiant aegis to 20%
 May study spell relocate to 35%
-May train skill weapon skill 1h ancient to 100%
-May train skill fleeting auguries to 30%
-May train skill weapon skill 2h ancient to 100%
-May train skill weapon skill 1h dagger to 100%
-May train skill keen strikes to 80%
-May train skill leadership to 10%
-May train skill deadly torrent to 40%
+May train skill weapon skill 1h polearm to 100%
 May train skill dodge to 50%
+May train skill quick chant to 30%
+May train skill critical to 40%
 May train skill weapon skill 1h sword to 100%
 May train skill weapon skill 2h sword to 100%
-May train skill critical to 40%
-May train skill weapon skill 2h dagger to 100%
-May train skill wild strike to 90%
-May train skill quick chant to 30%
-May train skill doublehit to 85%
+May train skill weapon skill 2h polearm to 100%
+May train skill deadly torrent to 40%
+May train skill weapon skill 1h ancient to 100%
 May train skill essence eye to 100%
+May train skill leadership to 10%
+May train skill keen strikes to 80%
+May train skill weapon skill 1h dagger to 100%
+May train skill wild strike to 90%
+May train skill weapon skill 2h dagger to 100%
+May train skill weapon skill 2h ancient to 100%
+May train skill fleeting auguries to 30%
+May train skill doublehit to 85%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -179,15 +189,15 @@ May study spell radiant aegis to 25%
 May study spell relocate to 50%
 May study spell spellblade's ardor to 15%
 May study spell warping blade to 30%
-May train skill fleeting auguries to 35%
-May train skill keen strikes to 90%
 May train skill leadership to 20%
-May train skill deadly torrent to 50%
 May train skill dodge to 60%
-May train skill critical to 50%
-May train skill doublehit to 90%
-May train skill quick chant to 40%
+May train skill keen strikes to 90%
 May train skill wild strike to 100%
+May train skill critical to 50%
+May train skill quick chant to 40%
+May train skill deadly torrent to 50%
+May train skill fleeting auguries to 35%
+May train skill doublehit to 90%
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -203,13 +213,13 @@ May study spell radiant aegis to 30%
 May study spell relocate to 60%
 May study spell spellblade's ardor to 25%
 May study spell warping blade to 40%
-May train skill critical to 70%
-May train skill fleeting auguries to 40%
 May train skill quick chant to 50%
+May train skill critical to 70%
+May train skill deadly torrent to 60%
 May train skill leadership to 30%
+May train skill fleeting auguries to 40%
 May train skill keen strikes to 100%
 May train skill doublehit to 95%
-May train skill deadly torrent to 60%
 May train skill dodge to 70%
 ------------------------------------------------------.
 
@@ -224,12 +234,12 @@ May study spell infallible vision to 100%
 May study spell radiant aegis to 40%
 May study spell spellblade's ardor to 35%
 May study spell warping blade to 50%
-May train skill critical to 90%
-May train skill fleeting auguries to 45%
 May train skill quick chant to 60%
-May train skill leadership to 40%
-May train skill doublehit to 100%
+May train skill critical to 90%
 May train skill deadly torrent to 70%
+May train skill leadership to 40%
+May train skill fleeting auguries to 45%
+May train skill doublehit to 100%
 May train skill dodge to 80%
 ------------------------------------------------------.
 
@@ -245,10 +255,10 @@ May study spell relocate to 70%
 May study spell spellblade's ardor to 40%
 May study spell warping blade to 60%
 May train skill critical to 100%
-May train skill fleeting auguries to 50%
 May train skill quick chant to 70%
-May train skill leadership to 50%
 May train skill deadly torrent to 80%
+May train skill leadership to 50%
+May train skill fleeting auguries to 50%
 May train skill dodge to 90%
 ------------------------------------------------------.
 
@@ -262,10 +272,10 @@ May study spell hexer's gambit to 75%
 May study spell radiant aegis to 60%
 May study spell spellblade's ardor to 50%
 May study spell warping blade to 65%
-May train skill fleeting auguries to 55%
-May train skill leadership to 60%
 May train skill quick chant to 75%
 May train skill deadly torrent to 90%
+May train skill fleeting auguries to 55%
+May train skill leadership to 60%
 May train skill dodge to 100%
 ------------------------------------------------------.
 
