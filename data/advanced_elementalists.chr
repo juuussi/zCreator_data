@@ -3,12 +3,18 @@ Updated 2011.04.14
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
-|   1 | Sp(9), Hp(1), Int(3), Wis(1), Sp_regen(2), Fire resistance(1)   |
-|   2 | Sp(9), Hp(1), Int(3), Wis(2), Sp_regen(3), Fire resistance(1)   |
-|   3 | Sp(9), Hp(1), Int(4), Wis(1), Sp_regen(2), Fire resistance(1)   |
-|   4 | Sp(9), Hp(1), Int(3), Wis(2), Sp_regen(3), Fire resistance(1)   |
-|   5 | Sp(9), Hp(1), Int(4), Wis(2), Sp_regen(3), Fire resistance(1)   |
+|   1 | Spell points(9), Hit points(1), Intelligence(3), Wisdom(1),     |
+|     | Spell point regeneration(2)                                     |
+|   2 | Spell points(9), Hit points(1), Intelligence(3), Wisdom(2),     |
+|     | Spell point regeneration(3), Fire resistance(1)                 |
+|   3 | Spell points(9), Hit points(1), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(2), Fire resistance(1)                 |
+|   4 | Spell points(9), Hit points(1), Intelligence(3), Wisdom(2),     |
+|     | Spell point regeneration(3), Fire resistance(1)                 |
+|   5 | Spell points(9), Hit points(1), Intelligence(4), Wisdom(2),     |
+|     | Spell point regeneration(3), Fire resistance(1)                 |
 `-----------------------------------------------------------------------'
+
 
 ------------------------------------------------------.
 

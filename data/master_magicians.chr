@@ -1,189 +1,199 @@
-Updated 2011.04.14
-
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
-|   1 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(2)                       |
-|   2 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(2)                       |
-|   3 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(2)                       |
-|   4 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(2)                       |
-|   5 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(3)                       |
-|   6 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(2)                       |
-|   7 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(2)                       |
-|   8 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(2)                       |
-|   9 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(2)                       |
-|  10 | Sp(8), Hp(2), Int(4), Wis(1), Sp_regen(3)                       |
+|   1 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(2)                                     |
+|   2 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(3)                                     |
+|   3 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(2), Magical resistance(1)              |
+|   4 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(3), Fire resistance(1)                 |
+|   5 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(2), Magical resistance(1)              |
+|   6 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(3)                                     |
+|   7 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(2), Fire resistance(1)                 |
+|   8 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(3), Magical resistance(1)              |
+|   9 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(2)                                     |
+|  10 | Spell points(8), Hit points(2), Intelligence(4), Wisdom(1),     |
+|     | Spell point regeneration(3), Fire resistance(1),                |
+|     | Magical resistance(1)                                           |
 `-----------------------------------------------------------------------'
 
 
 ------------------------------------------------------.
 
 Level 1 abilities:
-May train skill breathless brilliance to 5%
-May train skill channel power to 50%
-May train skill interrupting force to 45%
-May train skill offensive efficiency to 55%
-May train skill synaptic currents to 5%
+May train skill life of the mind to 5%
+May train skill toxic disposition to 5%
 May train skill stunning blow to 50%
 May train skill damage analysis to 45%
-May train skill incendiary instincts to 5%
 May train skill caustic wit to 5%
-May train skill toxic disposition to 5%
 May train skill essence attunement to 5%
-May train skill life of the mind to 5%
+May train skill incendiary instincts to 5%
+May train skill synaptic currents to 5%
+May train skill interrupting force to 45%
+May train skill channel power to 50%
+May train skill breathless brilliance to 5%
 May train skill sang froid to 5%
+May train skill offensive efficiency to 55%n
 ------------------------------------------------------.
 
 Level 2 abilities:
-May train skill breathless brilliance to 10%
-May train skill interrupting force to 50%
-May train skill offensive efficiency to 60%
-May train skill microclasm to 10%
-May train skill synaptic currents to 10%
-May train skill damage analysis to 50%
-May train skill incendiary instincts to 10%
-May train skill caustic wit to 10%
-May train skill toxic disposition to 10%
-May train skill essence attunement to 10%
 May train skill life of the mind to 10%
+May train skill toxic disposition to 10%
+May train skill damage analysis to 50%
+May train skill microclasm to 10%
+May train skill essence attunement to 10%
+May train skill caustic wit to 10%
+May train skill incendiary instincts to 10%
+May train skill synaptic currents to 10%
+May train skill interrupting force to 50%
+May train skill breathless brilliance to 10%
 May train skill sang froid to 10%
+May train skill offensive efficiency to 60%
 ------------------------------------------------------.
 
 Level 3 abilities:
-May train skill breathless brilliance to 15%
-May train skill channel power to 60%
-May train skill interrupting force to 55%
-May train skill offensive efficiency to 65%
-May train skill synaptic currents to 15%
-May train skill incendiary instincts to 15%
+May train skill life of the mind to 15%
+May train skill toxic disposition to 15%
 May train skill stunning blow to 60%
 May train skill damage analysis to 55%
-May train skill intentionality to 5%
 May train skill caustic wit to 15%
-May train skill toxic disposition to 15%
 May train skill essence attunement to 15%
+May train skill intentionality to 5%
+May train skill incendiary instincts to 15%
+May train skill synaptic currents to 15%
 May train skill gestalt conjuration to 5%
-May train skill life of the mind to 15%
+May train skill interrupting force to 55%
+May train skill breathless brilliance to 15%
+May train skill channel power to 60%
 May train skill sang froid to 15%
+May train skill offensive efficiency to 65%
 ------------------------------------------------------.
 
 Level 4 abilities:
-May train skill breathless brilliance to 25%
-May train skill interrupting force to 60%
-May train skill offensive efficiency to 70%
-May train skill synaptic currents to 25%
-May train skill damage analysis to 60%
-May train skill incendiary instincts to 25%
-May train skill intentionality to 15%
-May train skill caustic wit to 25%
-May train skill toxic disposition to 25%
-May train skill gestalt conjuration to 15%
-May train skill essence attunement to 25%
 May train skill life of the mind to 25%
+May train skill toxic disposition to 25%
+May train skill damage analysis to 60%
+May train skill caustic wit to 25%
+May train skill essence attunement to 25%
+May train skill intentionality to 15%
+May train skill incendiary instincts to 25%
+May train skill synaptic currents to 25%
+May train skill interrupting force to 60%
+May train skill gestalt conjuration to 15%
+May train skill breathless brilliance to 25%
 May train skill sang froid to 25%
+May train skill offensive efficiency to 70%
 ------------------------------------------------------.
 
+
 Level 5 abilities:
-May train skill breathless brilliance to 35%
-May train skill interrupting force to 65%
-May train skill channel power to 75%
-May train skill offensive efficiency to 75%
-May train skill microclasm to 30%
-May train skill synaptic currents to 35%
-May train skill incendiary instincts to 35%
-May train skill stunning blow to 75%
-May train skill damage analysis to 65%
-May train skill intentionality to 25%
-May train skill caustic wit to 35%
-May train skill toxic disposition to 35%
-May train skill essence attunement to 35%
-May train skill gestalt conjuration to 25%
 May train skill life of the mind to 35%
+May train skill toxic disposition to 35%
+May train skill stunning blow to 75%
+May train skill microclasm to 30%
+May train skill damage analysis to 65%
+May train skill caustic wit to 35%
+May train skill essence attunement to 35%
+May train skill intentionality to 25%
+May train skill incendiary instincts to 35%
+May train skill synaptic currents to 35%
+May train skill gestalt conjuration to 25%
+May train skill interrupting force to 65%
+May train skill breathless brilliance to 35%
+May train skill channel power to 75%
 May train skill sang froid to 35%
+May train skill offensive efficiency to 75%
 ------------------------------------------------------.
 
 Level 6 abilities:
-May train skill breathless brilliance to 45%
-May train skill interrupting force to 70%
-May train skill offensive efficiency to 80%
-May train skill synaptic currents to 45%
-May train skill damage analysis to 75%
-May train skill incendiary instincts to 45%
-May train skill intentionality to 35%
-May train skill caustic wit to 45%
-May train skill toxic disposition to 45%
-May train skill gestalt conjuration to 35%
-May train skill essence attunement to 45%
 May train skill life of the mind to 45%
+May train skill toxic disposition to 45%
+May train skill damage analysis to 75%
+May train skill caustic wit to 45%
+May train skill essence attunement to 45%
+May train skill intentionality to 35%
+May train skill incendiary instincts to 45%
+May train skill synaptic currents to 45%
+May train skill interrupting force to 70%
+May train skill gestalt conjuration to 35%
+May train skill breathless brilliance to 45%
 May train skill sang froid to 45%
+May train skill offensive efficiency to 80%
 ------------------------------------------------------.
 
 Level 7 abilities:
-May train skill breathless brilliance to 55%
-May train skill interrupting force to 75%
-May train skill channel power to 85%
-May train skill offensive efficiency to 85%
-May train skill microclasm to 50%
-May train skill synaptic currents to 55%
-May train skill incendiary instincts to 55%
-May train skill stunning blow to 85%
-May train skill damage analysis to 100%
-May train skill intentionality to 50%
-May train skill caustic wit to 55%
-May train skill toxic disposition to 55%
-May train skill essence attunement to 55%
-May train skill gestalt conjuration to 50%
 May train skill life of the mind to 55%
+May train skill toxic disposition to 55%
+May train skill stunning blow to 85%
+May train skill microclasm to 50%
+May train skill damage analysis to 100%
+May train skill caustic wit to 55%
+May train skill essence attunement to 55%
+May train skill intentionality to 50%
+May train skill incendiary instincts to 55%
+May train skill synaptic currents to 55%
+May train skill gestalt conjuration to 50%
+May train skill interrupting force to 75%
+May train skill breathless brilliance to 55%
+May train skill channel power to 85%
 May train skill sang froid to 55%
+May train skill offensive efficiency to 85%
 ------------------------------------------------------.
 
 Level 8 abilities:
-May train skill breathless brilliance to 70%
-May train skill interrupting force to 85%
-May train skill offensive efficiency to 90%
-May train skill microclasm to 65%
-May train skill synaptic currents to 70%
-May train skill incendiary instincts to 70%
-May train skill intentionality to 65%
-May train skill caustic wit to 70%
-May train skill toxic disposition to 70%
-May train skill gestalt conjuration to 65%
-May train skill essence attunement to 70%
 May train skill life of the mind to 70%
+May train skill toxic disposition to 70%
+May train skill microclasm to 65%
+May train skill caustic wit to 70%
+May train skill essence attunement to 70%
+May train skill intentionality to 65%
+May train skill incendiary instincts to 70%
+May train skill synaptic currents to 70%
+May train skill interrupting force to 85%
+May train skill gestalt conjuration to 65%
+May train skill breathless brilliance to 70%
 May train skill sang froid to 70%
+May train skill offensive efficiency to 90%
 ------------------------------------------------------.
 
 Level 9 abilities:
+May train skill life of the mind to 85%
+May train skill toxic disposition to 85%
+May train skill microclasm to 80%
+May train skill caustic wit to 85%
+May train skill essence attunement to 85%
+May train skill intentionality to 80%
+May train skill incendiary instincts to 85%
+May train skill synaptic currents to 85%
+May train skill interrupting force to 90%
+May train skill gestalt conjuration to 80%
 May train skill breathless brilliance to 85%
 May train skill channel power to 90%
-May train skill interrupting force to 90%
-May train skill offensive efficiency to 95%
-May train skill microclasm to 80%
-May train skill synaptic currents to 85%
-May train skill incendiary instincts to 85%
-May train skill intentionality to 80%
-May train skill caustic wit to 85%
-May train skill toxic disposition to 85%
-May train skill essence attunement to 85%
-May train skill gestalt conjuration to 80%
-May train skill life of the mind to 85%
 May train skill sang froid to 85%
+May train skill offensive efficiency to 95%
 ------------------------------------------------------.
 
 Level 10 abilities:
-May train skill breathless brilliance to 100%
-May train skill interrupting force to 100%
-May train skill channel power to 100%
-May train skill offensive efficiency to 100%
-May train skill microclasm to 100%
-May train skill synaptic currents to 100%
-May train skill incendiary instincts to 100%
-May train skill stunning blow to 100%
-May train skill intentionality to 100%
-May train skill caustic wit to 100%
-May train skill toxic disposition to 100%
-May train skill essence attunement to 100%
-May train skill gestalt conjuration to 100%
 May train skill life of the mind to 100%
+May train skill toxic disposition to 100%
+May train skill stunning blow to 100%
+May train skill microclasm to 100%
+May train skill caustic wit to 100%
+May train skill essence attunement to 100%
+May train skill intentionality to 100%
+May train skill incendiary instincts to 100%
+May train skill synaptic currents to 100%
+May train skill gestalt conjuration to 100%
+May train skill interrupting force to 100%
+May train skill breathless brilliance to 100%
+May train skill channel power to 100%
 May train skill sang froid to 100%
+May train skill offensive efficiency to 100%
 ------------------------------------------------------.
