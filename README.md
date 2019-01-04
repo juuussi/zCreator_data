@@ -9,7 +9,7 @@ Obtain a copy of Nashira's zCreator and install it. A link to a download can be 
 
 To download all the data as a single archive, press the "Clone or download" button, and then select "Download ZIP". After download extract the data and replace your zCreator data/ folder with the one you downloaded.
 
-### For advanced users with Git knowledge
+## For advanced users with Git knowledge
 
 Clone the repository using a Git-client ("git clone"). Copy the zCreator.exe to the root path of the cloned project (the exe-file is ignored in .gitignore). Update your data by "git pull".
 
@@ -17,13 +17,29 @@ Clone the repository using a Git-client ("git clone"). Copy the zCreator.exe to 
 
 If you have updates, please fork the repository, make your changes, and send a pull request.
 
-### Updating race information
+## Updating race information
 
-Add the information on the races.chr. Note: You should be on level 30 to gain the actual stats that you should include in this file. You also should not have any glevels, or if you do, you need to remove stats/regen gained from glevels from your stats.
+### To give valid information on racial base stats updates you would need to do this cycle for 100% accuracy:
+1. Select a race
+2. Select required alignment and/or gender for the race, if any
+3. Select `fighter` as the guild
+4. Take mortal levels only up to `30`
+5. Take note of output from the `stats` command
+6. Go to the cleric guild and do: `list skills all`
+7. Look at max % on the `consider` skill, this is the racial skill max %
+8. Look at the exp cost for `weapon skill 1h bludgeon`, the racial skill cost is: (value * 100 / 300)
+9. `list spells all`
+10. The racial spell max % is the same as max % on `dispel curse` and the exp cost is again calculated according to `step 8` above.
+11. `Reinc out` and select the `same race` again
+12. Select `bard` as the guild.
+13. Take mortal levels only up to `30`
+14. Take note of output from the `stats` command
+15. Congratulations, the lowest values on each stat compared with output from `step 5` is the racial base stats
 
-### Updating guild/sub information
 
-Guild/subguild data files have the following format:
+## Updating guild/sub information
+
+### Guild/subguild data files have the following format:
 - Level information ("info")
 - Skill/spell information ("info full")
 - (Optional) Subguild information
