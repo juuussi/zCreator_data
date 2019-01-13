@@ -611,6 +611,58 @@ They can see in the dark.
 Due to their devotion, they elevate quicker within their chosen faith.
 They are weaker if their alignment contradicts their faith.
 ------------------------------------------------------------------------------
+Help race Goblin
+             _     _ _
+            | |   | (_)
+  __ _  ___ | |__ | |_ _ __
+ / _` |/ _ \| '_ \| | | '_ \
+| (_| | (_) | |_) | | | | | |
+ \__, |\___/|_.__/|_|_|_| |_|
+  __/ | 
+ |___/ 
+
+ Of all the races pejoratively termed 'greenskins' by overworlders,
+ the goblins best fit that description - most are easily distinguished
+ by the bright green pigment of their skin. The rare white or grey goblin
+ can still be identified by its slight frame and telltale goblin nose,
+ half as long as the face that supports it, always hooking downward
+ slightly, like the claw of a rat. Goblins are not much to look at, nor
+ are they particularly fierce. Yet for centuries they have survived, even
+ flourished, alongside some of the world's most warlike and barbaric races.
+ The keys to their survival are a shrewd resourcefulness, a facility for
+ adapting to all manner of situation and conversation, and an amoral
+ ambition that drives them to seek advantage at every turn, at any cost.
+
+ Goblins crave wealth and material gain, and have a wide repertoire of
+ skills at their disposal for that very purpose. In spite of their
+ repellent looks, they have an eccentric charm and a knack for ingratiating
+ themselves with beings from all walks of life, be they civilized lords
+ or loutish criminals. Goblins are frenetic creatures, quick of mind, tongue,
+ finger and foot. And while they make friends easily, they seldom keep
+ them for long. For they are unscrupulous and compulsive manipulators who
+ invariably betray all careless enough to yield their trust.
+
+Strength:     below average       Dexterity:    good
+Intelligence: above average       Wisdom:       low
+Constitution: average             Charisma:     charming
+Size:         small
+
+They are superior to humans, and therefore earn less experience.
+Their basic healing ability is good.
+They may master all but the most difficult of arcane powers.
+They are somewhat slow in mastering arcane powers.
+They may master all but the most complicated of skills.
+They are somewhat slow learners of skills.
+They can see magical auras.
+They can see in the dark.
+They rely more on agility than brute strength in combat.
+They are above average users of daggers.
+They are wily and persuasive negotiators.
+They are fond of gadgets and make adept users of tools.
+They can naturally camouflage with their surroundings.
+They have a knack for finances and often find work as merchants.
+They enjoy hatching elaborate schemes and tricks.
+------------------------------------------------------------------------------
 Help race -High Elf
  _     _       _            _  __ 
 | |   (_)     | |          | |/ _|
@@ -842,43 +894,6 @@ Size:         medium
 They may master even the most difficult of arcane powers.
 They may master the most complicated of skills.
 They are the standard, against which all others are judged.
-------------------------------------------------------------------------------
-Help race Imp
- _ 
-(_)_ __ ___  _ __ 
-| | '_ ` _ \| '_ \ 
-| | | | | | | |_) | 
-|_|_| |_| |_| .__/ 
-            |_| 
-
- These little mischievous beings with an animated passion for pranks,
- deal out their fun to all they come across. Sometimes being terrorial,
- they can be protective of that area, albeit for a short while. Known
- for the small size and mayhem, they tend to be used as lackeys or spies,
- if not saboteurs. The imps appear quite small, with leathery bat-like
- wings, a small dextrous tail, and small talons/claws. With these natural
- aspects, they unleash their humor on the intolerant masses for their
- amusement, and more!
-
-Strength:     low                 Dexterity:    low                 
-Intelligence: average             Wisdom:       below average       
-Constitution: poor                Charisma:     unpleasant          
-Size:         somewhat small      
-
-They are far inferior to humans, and therefore earn much more experience.
-They may master most, but not all arcane powers.
-They are slow in mastering arcane powers.
-Their ability to master skills is limited.
-They are slow learners of skills.
-They can see magical auras.
-They can see invisible things.
-They can see in the dark.
-They are sensitive to their surroundings.
-They are too small to use two-handed weapons.
-They hit harder unarmed than their strength leads to expect.
-They have a thick skin.
-They can eat corpses.
-They can glide above water.
 ------------------------------------------------------------------------------
 Help race Kobold
  _         _           _     _
@@ -1995,47 +2010,6 @@ They are inept healers.
 They regenerate health and mana only in darkness, its depth governing the rate.
 They will gradually break apart if they become good or are exposed to light.
 ------------------------------------------------------------------------------
-Help race Yeti
-            _   _
- _   _  ___| |_(_)
-| | | |/ _ \ __| |
-| |_| |  __/ |_| |
- \__, |\___|\__|_|
- |___/
-
- Sometimes confused with the abominable snowman, the Yeti is a distant cousin
- to the great carnivorous apes of warmer climates.  An adult Yeti stands 8
- feet tall and is covererd in long, white fur.  Their feet and hands are wide
- and flat, which helps to disperse their great weight (about 300 pounds) on
- treacherous snow fields.  They travel on all fours like the apes, but fight
- very comfortably standing erect.  Unlike most apes and gorillas, the Yeti
- does not have an opposable toe on its feet.  They wear no clothing or
- ornamentation.  The spoor, or smell, of a Yeti is very subtle in cold
- climates, but in confined or warm areas, they have a strong, musky odor.  The
- eyes of a Yeti are icy blue or almost colorless.  They have a transparent
- second eyelid, which allows the creature to see in blowing snow, and
- prevents its eyes from freezing in extreme temperatures.  Their claws and
- flesh are ivory white.  Unlike many arctic creatures, the Yeti does not have
- a thick layer of body fat to keep it warm.  Instead, it relies upon the
- special properties of its thick, warm fur.
-
-Strength:     very good           Dexterity:    average             
-Intelligence: below average       Wisdom:       low                 
-Constitution: good                Charisma:     unpleasant          
-Size:         large               
-
-They are superior to humans, and therefore earn less experience.
-They may master most, but not all arcane powers.
-They are slow in mastering arcane powers.
-They may master all but the most complicated of skills.
-They are somewhat slow learners of skills.
-They can see in the dark.
-They can use two-handed weapons in one hand.
-They are above average users of bludgeons.
-They are above average users of polearms.
-They have a thick skin.
-They have a slight resistance against cold.
-They are slightly susceptible to fire.
 ------------------------------------------------------------------------------
 Help race Zombie
                     _     _
