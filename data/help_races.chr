@@ -1256,46 +1256,117 @@ They are poor swimmers.
 They are taught to hate orcs and trolls from birth.
 Their disregard of injury can allow them to strike devastating blows.
 ------------------------------------------------------------------------------
+Help race Ogre
+   ___   __ _ _ __ ___
+  / _ \ / _` | '__/ _ \ 
+ | (_) | (_| | | |  __/
+  \___/ \__, |_|  \___|
+        |___/ 
+
+ Ogres are poorly understood -- and generally best avoided -- by other
+ sentient species. They are a barbaric brood with a penchant for
+ cruelty, preying on the weak for sport as much as survival. They
+ dwell in loosely organized might-makes-right societies, where the
+ strong compete for dominance while the rest are subjugated or exiled.
+ Ogres are taller than humans by heads and shoulders, but do not rival
+ the giantkin in terms of sheer height. In terms of body mass, however,
+ a full-grown ogre is a formidable sight, often up to several men wide.
+ Ogres have hulking physiques, with broad chests, wide skulls and densely
+ coiled muscles beneath flabby torsos and sagging paunches. Their wide
+ mouths are lined with sharp teeth; their faces covered in warts
+ and waxy scar tissue. Scars command respect among ogres, and
+ disfigurement through battle is thought to be a form of ancestral
+ blessing. Little is known about ogre reproduction. The bodies of ogres
+ captured or slain in battle lack reproductive anatomy. Gendered
+ ogres are rumored to exist, but are seldom if ever sighted in ogre
+ encampments and raiding parties. If such aberrations exist at all,
+ they are likely shunned from ogre society.
+
+Strength:     very good           Dexterity:    below average       
+Intelligence: poor                Wisdom:       poor                
+Constitution: above average       Charisma:     repulsive           
+Size:         large               
+
+They are far superior to humans, and therefore earn much less experience.
+Their basic healing ability is good.
+Their untrained mana regeneration is slow.
+They have above average stamina.
+They regenerate stamina somewhat quickly.
+They are able to learn only the most basic of arcane powers.
+They are slow in mastering arcane powers.
+They may master all but the most complicated of skills.
+They are somewhat slow learners of skills.
+They can see in the dark.
+They can use two-handed weapons in one hand.
+They lack finesse, scoring fewer criticals but deliver each blow with brutal force.
+They are naturally ambidextrous.
+They are below average users of polearms.
+They are below average users of ancients.
+They are unskilled in the use of daggers.
+They are below average users of axes.
+They are below average users of swords.
+They are skilled in the use of bludgeons.
+They have a thick skin.
+They become weaker when male.
+They become weaker when female.
+They are slightly susceptible to psionic.
+They are unrivaled users of mauls and bludgeons.
+They have no need to eat.
+------------------------------------------------------------------------------
 Help race Orc
   ___  _ __ ___
  / _ \| '__/ __|
 | (_) | | | (__
  \___/|_|  \___|
 
- Orcs are a species of aggressive mammalian carnivores that band together in
- tribes and survive by hunting and raiding.  They generally live underground,
- in very dark conditions.  Orcs believe that in order to survive they must
- expand their territory, and so they are constantly involved in war against
- many enemies.  Orcs vary widely in appearance, they frequently crossbreed
- with other species.  In general, they resemble primitive humans with
- grey-green skin covered with coarse hair.  Orcs have a slightly stooped
- posture, a low jutting forehead, and a snout instead of a nose, though
- comparisons between this facial feature and those of pigs are exaggerated
- and perhaps unfair.  Orcs have well-developed canine teeth for eating meat
- and short pointed ears that resemble those of a wolf.  Orcish snouts and
- ears have a slightly pink tinge.  Their eyes are human, with a reddish tint
- that sometimes makes them appear to glow red when they reflect dim light
- sources.
+ Overworld species use the pejorative 'greenskin' to refer to any number
+ of subterranean humanoids, but perhaps none of these is more closely
+ synonymous with that term than the orc. Orcs are to the underground
+ empires what humans are to the world above: a common denominator, a
+ a widespread and expansionist species found, in some capacity, in
+ almost every corner of the underworld. The history of the orcs is not
+ known, not even to orcs themselves, but it is rumored that they were a
+ byproduct of failed experiments by ancient wizards, possibly even
+ corrupted from purebred elves. Some speculate that these fallen origins
+ are the source of the orcs' reflexive hatred of elves and dwarves. Driven
+ underground for centuries, orcs have adapted to a subterranean life. They
+ see easily in the dark and recoil from the rays of the sun. They have a
+ symbiotic relationship with trolls but the two are not, contrary to popular
+ misconception, related by blood. Orcs acquire overworld goods through goblin
+ merchants, who often serve as liaisons between the kingdoms of men and
+ greenskins. Orcs have brokered a tenuous alliance with ogres, who mostly
+ dwell above ground and are frequently mistaken for orcs. While ogres kill
+ for sport and pleasure, bringing much disrepute to other greenskins, orcs
+ kill only for conquest and honor, and believe that the expansion of their
+ territory is elemental to their survival. Orcs are spontaneously birthed
+ from blood pits and, as such, vary widely in appearance. Broadly speaking,
+ they resemble muscular hominids, with mottled skin of green, grey or brown,
+ often covered in sparse, bristly hair. Orcs often have stooped posture and
+ snouts in place of noses. The trite overworld comparisons between orcs and
+ pigs are greatly exaggerated, however, and largely unfair.
 
-Strength:     above average       Dexterity:    average             
-Intelligence: low                 Wisdom:       low                 
-Constitution: average             Charisma:     unpleasant          
+Strength:     above average       Dexterity:    above average       
+Intelligence: poor                Wisdom:       poor                
+Constitution: average             Charisma:     repulsive           
 Size:         medium              
 
 They are somewhat inferior to humans, and therefore earn a bit more experience.
-They possess considerable stamina.
 Their ability to learn complex arcane powers is limited.
-They are slow in mastering arcane powers.
-They may master the most complicated of skills.
+They are somewhat slow in mastering arcane powers.
+They may master all but the most complicated of skills.
 They are somewhat slow learners of skills.
 They can see in the dark.
 They are naturally ambidextrous.
-They are above average users of ancients.
-They are skilled in the use of swords.
-They are skilled in the use of axes.
+They are above average users of swords.
+They are above average users of axes.
+They have a thick skin.
 They can eat corpses.
 They are weaker in the sunlight.
-They are taught to hate dwarves and elves from birth.
+They have a slight resistance against fire.
+They are slightly susceptible to psionic.
+They have an inborn hatred of dwarves and elves.
+Their bloodforged bodies automatically reconstitute upon death.
+They must harness their aggression to embrace their higher nature.
 ------------------------------------------------------------------------------
 Help race Revenant
                                       _   
@@ -1666,34 +1737,56 @@ Help race Troll
 | |_| | | (_) | | |
  \__|_|  \___/|_|_|
 
- Trolls are a race of fierce warriors who fight to the finish.  The word death
- isn't part of a Troll's vocabulary.  Although they are not very smart, They
- are gifted with the power of regeneration.  Many Trolls will regenerate damage
- taken during combat while still fighting.  Lost limbs can grow back in a
- matter of days and minor damage in a matter of minutes to hours.
+ Trolls are an ancient race of creatures born from the bowels of the earth.
+ Though lumped indiscriminately with orcs, goblins and other 'greenskin'
+ races, trolls are not closely related to any of these beings, and the
+ alliances they have forged are founded on convenience rather than kinship.
+ Trolls' skin actually comes in a variety of colors and is more notable
+ for its resilient, rubbery texture than for its random pigmentation.
+ Trolls are the dumbest of the greenskin races and are surprisingly average
+ of strength. But no living creature can withstand greater levels of pain
+ and misfortune than the legendary troll. So great is their tolerance for
+ pain that many even practice self-harm for ritual or thrill. Trolls' power
+ lies in their magical blood - a sacramental substance of unknown origin,
+ even to the trolls themselves. Trollblood lives and breathes with autonomous
+ undying life. If separated from a troll's body, it will try to subsist on
+ its own, usually preferring to find the quickest available route below
+ ground. Trolls believe that trollblood is the magical essence of the earth,
+ distilled from the hearts of the mountains themselves. Whatever its
+ provenance, trollblood rejects the bodies of other living creatures, and
+ is toxic to most races. It flourishes when consumed by trolls, and is the
+ key to their unparalleled regenerative abilities. Trolls can regrow lost
+ limbs in a matter of days or even hours, and a severed limb animated
+ by trollblood may even take on a life of its own. In combination these
+ unusual traits make trolls famously hard to kill.
 
-Strength:     good                Dexterity:    below average       
+Strength:     above average       Dexterity:    average             
 Intelligence: poor                Wisdom:       poor                
-Constitution: excellent           Charisma:     unpleasant          
+Constitution: excellent           Charisma:     repulsive           
 Size:         medium              
 
-They are somewhat inferior to humans, and therefore earn a bit more experience.
+They are superior to humans, and therefore earn less experience.
 Their basic healing ability is good.
 Their untrained mana regeneration is slow.
 Their wounds heal very quickly.
-Their ability to learn complex arcane powers is limited.
+They are able to learn only the most basic of arcane powers.
 They are slow in mastering arcane powers.
-They may master the use of most skills.
+They may master all but the most complicated of skills.
 They are somewhat slow learners of skills.
 They can see in the dark.
 They hit harder unarmed than their strength leads to expect.
-They are above average users of bludgeons.
 They have a thick skin.
 They can eat corpses.
-They are slightly susceptible to acid.
+They have a slight resistance against physical.
+They have a slight resistance against cold.
+They are noticeably susceptible to acid.
 They are noticeably susceptible to fire.
 They can sometimes escape death.
-They are taught to hate dwarves from birth.
+They can modify their bodies, grafting on new parts.
+They can adapt their bodies to parry blows more effectively.
+They can attain higher than normal elemental resistance.
+Their shorn flesh can reanimate itself.
+Scars make their skin even more resilient.
 ------------------------------------------------------------------------------
 Help race Valkyrie
             _ _               _ 
