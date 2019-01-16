@@ -230,6 +230,20 @@ preserve his own existence.
 The reaping can be begun passively, waiting for a target to present itself, or
 actively by challenging an opponent.
 ---------------------------------------------------
+Help on skill:     Ferment unlife
+Usage duration:    automatic
+Skill type:        special
+Affecting stat(s): skill percent
+
+The unliving essence that nourishes the armies of the undead ordinarily
+enters a state of sentient stasis when its existence is threatened. As
+a result, the undead do not naturally recover their unlife during the heat
+of combat. The more advanced ranks of death knights have overcome this
+limitation through memorization of necromantic mantras that cause the
+unlife within to agitate and self-replicate. Though these mantras have
+no effect when their unlife is regenerating normally, it enables
+them to recover a limited portion of their unlife while fighting.
+---------------------------------------------------
 Help on skill: Adrenaline rush.
 Usage duration: 2.
 Mental Cost: 150 SPs.

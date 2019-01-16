@@ -150,16 +150,16 @@
 
 Level 1 abilities:
 May study spell darkness to 15%
-May train skill weapon skill 1h sword to 5%
 May train skill attack to 10%
-May train skill weapon skill 2h ancient to 5%
-May train skill weapon skill 2h bludgeon to 5%
-May train skill weapon skill 1h bludgeon to 5%
 May train skill weapon skill 2h sword to 5%
-May train skill weapon skill 1h axe to 5%
+May train skill weapon skill 1h sword to 5%
+May train skill weapon skill 2h bludgeon to 5%
 May train skill weapon skill 2h polearm to 5%
+May train skill weapon skill 2h ancient to 5%
 May train skill weapon skill 1h polearm to 5%
 May train skill weapon skill 1h ancient to 5%
+May train skill weapon skill 1h axe to 5%
+May train skill weapon skill 1h bludgeon to 5%
 May train skill weapon skill 2h axe to 5%
 ------------------------------------------------------.
 
@@ -172,34 +172,34 @@ May train skill attack to 25%
 Level 3 abilities:
 May study spell darkness to 45%
 May study spell soul wrack to 15%
-May train skill weapon skill 2h ancient to 15%
 May train skill attack to 45%
-May train skill weapon skill 1h sword to 15%
-May train skill weapon skill 2h bludgeon to 15%
-May train skill weapon skill 1h bludgeon to 15%
-May train skill parry to 5%
-May train skill weapon skill 1h axe to 15%
 May train skill weapon skill 2h sword to 15%
+May train skill weapon skill 2h bludgeon to 15%
+May train skill weapon skill 1h sword to 15%
 May train skill weapon skill 2h polearm to 15%
-May train skill weapon skill 1h polearm to 15%
-May train skill weapon skill 1h ancient to 15%
 May train skill kick to 10%
 May train skill quick chant to 5%
+May train skill weapon skill 2h ancient to 15%
+May train skill weapon skill 1h polearm to 15%
+May train skill weapon skill 1h ancient to 15%
 May train skill weapon skill 2h axe to 15%
+May train skill weapon skill 1h bludgeon to 15%
+May train skill weapon skill 1h axe to 15%
+May train skill parry to 5%
 ------------------------------------------------------.
 
 Level 4 abilities:
 May study spell soul wrack to 20%
-May train skill weapon skill 1h sword to 25%
-May train skill weapon skill 2h ancient to 25%
-May train skill weapon skill 2h bludgeon to 25%
-May train skill weapon skill 1h bludgeon to 25%
 May train skill strike to 5%
 May train skill weapon skill 2h sword to 25%
-May train skill weapon skill 1h axe to 25%
+May train skill weapon skill 1h sword to 25%
+May train skill weapon skill 2h bludgeon to 25%
 May train skill weapon skill 2h polearm to 25%
+May train skill weapon skill 2h ancient to 25%
 May train skill weapon skill 1h polearm to 25%
 May train skill weapon skill 1h ancient to 25%
+May train skill weapon skill 1h axe to 25%
+May train skill weapon skill 1h bludgeon to 25%
 May train skill weapon skill 2h axe to 25%
 ------------------------------------------------------.
 
@@ -208,8 +208,8 @@ May study spell black orb to 5%
 May study spell darkness to 75%
 May study spell soul wrack to 25%
 May train skill kick to 15%
-May train skill strike to 10%
 May train skill attack to 55%
+May train skill strike to 10%
 May train skill dodge to 5%
 ------------------------------------------------------.
 
@@ -217,16 +217,16 @@ Level 6 abilities:
 May study spell black orb to 10%
 May study spell darkness to 90%
 May study spell soul wrack to 30%
-May train skill weapon skill 1h sword to 45%
-May train skill weapon skill 2h ancient to 45%
-May train skill weapon skill 2h bludgeon to 45%
-May train skill weapon skill 1h bludgeon to 45%
 May train skill strike to 15%
 May train skill weapon skill 2h sword to 45%
-May train skill weapon skill 1h axe to 45%
+May train skill weapon skill 1h sword to 45%
+May train skill weapon skill 2h bludgeon to 45%
 May train skill weapon skill 2h polearm to 45%
+May train skill weapon skill 2h ancient to 45%
 May train skill weapon skill 1h polearm to 45%
 May train skill weapon skill 1h ancient to 45%
+May train skill weapon skill 1h axe to 45%
+May train skill weapon skill 1h bludgeon to 45%
 May train skill weapon skill 2h axe to 45%
 ------------------------------------------------------.
 
@@ -236,48 +236,48 @@ May study spell darkness to 100%
 May study spell soul wrack to 35%
 May study spell terror to 10%
 May study spell theft of vitality to 10%
-May train skill attack to 75%
-May train skill doublehit to 5%
 May train skill kick to 25%
-May train skill sense living to 10%
+May train skill attack to 75%
 May train skill quick chant to 10%
+May train skill sense living to 10%
 May train skill parry to 10%
+May train skill doublehit to 5%
 ------------------------------------------------------.
 
 Level 8 abilities:
 May study spell black orb to 20%
 May study spell soul wrack to 40%
 May train skill attack to 85%
-May train skill weapon skill 2h ancient to 55%
-May train skill weapon skill 1h sword to 55%
-May train skill weapon skill 2h bludgeon to 55%
-May train skill weapon skill 1h bludgeon to 55%
 May train skill strike to 20%
-May train skill weapon skill 1h axe to 55%
 May train skill weapon skill 2h sword to 55%
+May train skill weapon skill 2h bludgeon to 55%
+May train skill weapon skill 1h sword to 55%
 May train skill weapon skill 2h polearm to 55%
+May train skill dodge to 10%
+May train skill kick to 45%
+May train skill weapon skill 2h ancient to 55%
 May train skill weapon skill 1h polearm to 55%
 May train skill weapon skill 1h ancient to 55%
-May train skill kick to 45%
-May train skill dodge to 10%
 May train skill weapon skill 2h axe to 55%
+May train skill weapon skill 1h bludgeon to 55%
+May train skill weapon skill 1h axe to 55%
 ------------------------------------------------------.
 
 Level 9 abilities:
 May study spell soul wrack to 45%
-May train skill weapon skill 2h ancient to 65%
 May train skill attack to 95%
-May train skill weapon skill 1h sword to 65%
-May train skill weapon skill 2h bludgeon to 65%
-May train skill weapon skill 1h bludgeon to 65%
 May train skill essence eye to 5%
-May train skill parry to 15%
 May train skill weapon skill 2h sword to 65%
-May train skill weapon skill 1h axe to 65%
+May train skill weapon skill 2h bludgeon to 65%
+May train skill weapon skill 1h sword to 65%
 May train skill weapon skill 2h polearm to 65%
+May train skill weapon skill 2h ancient to 65%
 May train skill weapon skill 1h polearm to 65%
 May train skill weapon skill 1h ancient to 65%
 May train skill weapon skill 2h axe to 65%
+May train skill weapon skill 1h axe to 65%
+May train skill weapon skill 1h bludgeon to 65%
+May train skill parry to 15%
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -285,37 +285,37 @@ May study spell black orb to 25%
 May study spell gravesight to 10%
 May study spell soul wrack to 50%
 May study spell terror to 15%
-May train skill leftwield to 5%
 May train skill attack to 100%
-May train skill doublehit to 15%
-May train skill leadership to 20%
-May train skill bash to 10%
 May train skill strike to 25%
-May train skill stun to 5%
+May train skill critical to 5%
 May train skill whirlwind attack to 5%
 May train skill kick to 55%
+May train skill bash to 10%
 May train skill quick chant to 15%
-May train skill critical to 5%
+May train skill leadership to 20%
+May train skill stun to 5%
+May train skill leftwield to 5%
+May train skill doublehit to 15%
 ------------------------------------------------------.
 
 Level 11 abilities:
 May study spell gravesight to 15%
 May study spell soul wrack to 55%
 May study spell theft of vitality to 20%
-May train skill weapon skill 2h ancient to 75%
-May train skill weapon skill 1h sword to 75%
-May train skill weapon skill 2h bludgeon to 75%
-May train skill weapon skill 1h bludgeon to 75%
 May train skill essence eye to 10%
-May train skill bash to 20%
-May train skill parry to 20%
-May train skill weapon skill 1h axe to 75%
 May train skill weapon skill 2h sword to 75%
+May train skill weapon skill 2h bludgeon to 75%
+May train skill weapon skill 1h sword to 75%
 May train skill weapon skill 2h polearm to 75%
+May train skill kick to 65%
+May train skill bash to 20%
+May train skill weapon skill 2h ancient to 75%
 May train skill weapon skill 1h polearm to 75%
 May train skill weapon skill 1h ancient to 75%
-May train skill kick to 65%
 May train skill weapon skill 2h axe to 75%
+May train skill weapon skill 1h bludgeon to 75%
+May train skill weapon skill 1h axe to 75%
+May train skill parry to 20%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -323,35 +323,35 @@ May study spell black orb to 30%
 May study spell gravesight to 20%
 May study spell soul wrack to 60%
 May study spell terror to 25%
-May train skill strike to 30%
-May train skill bash to 30%
 May train skill essence eye to 15%
+May train skill strike to 30%
 May train skill sense living to 15%
+May train skill dodge to 15%
 May train skill unhallowed magic to 5%
-May train skill stun to 10%
-May train skill parry to 25%
 May train skill kick to 85%
 May train skill whirlwind attack to 15%
-May train skill dodge to 15%
+May train skill bash to 30%
+May train skill stun to 10%
+May train skill parry to 25%
 ------------------------------------------------------.
 
 Level 13 abilities:
 May study spell gravesight to 25%
 May study spell soul wrack to 65%
-May train skill doublehit to 25%
-May train skill weapon skill 2h ancient to 85%
-May train skill weapon skill 1h sword to 85%
-May train skill weapon skill 2h bludgeon to 85%
-May train skill weapon skill 1h bludgeon to 85%
-May train skill bash to 40%
-May train skill parry to 35%
-May train skill weapon skill 1h axe to 85%
 May train skill weapon skill 2h sword to 85%
+May train skill weapon skill 2h bludgeon to 85%
+May train skill weapon skill 1h sword to 85%
 May train skill weapon skill 2h polearm to 85%
+May train skill kick to 100%
+May train skill bash to 40%
+May train skill weapon skill 2h ancient to 85%
 May train skill weapon skill 1h polearm to 85%
 May train skill weapon skill 1h ancient to 85%
-May train skill kick to 100%
 May train skill weapon skill 2h axe to 85%
+May train skill weapon skill 1h bludgeon to 85%
+May train skill weapon skill 1h axe to 85%
+May train skill parry to 35%
+May train skill doublehit to 25%
 ------------------------------------------------------.
 
 Level 14 abilities:
@@ -359,14 +359,14 @@ May study spell black orb to 35%
 May study spell gravesight to 30%
 May study spell soul wrack to 70%
 May study spell terror to 35%
-May train skill leftwield to 15%
 May train skill whirlwind attack to 15%
-May train skill essence eye to 20%
 May train skill bash to 50%
 May train skill strike to 35%
 May train skill quick chant to 20%
-May train skill parry to 45%
+May train skill essence eye to 20%
 May train skill stun to 20%
+May train skill leftwield to 15%
+May train skill parry to 45%
 ------------------------------------------------------.
 
 Level 15 abilities:
@@ -375,24 +375,24 @@ May study spell gravechill to 5%
 May study spell gravesight to 35%
 May study spell soul wrack to 75%
 May study spell theft of vitality to 40%
-May train skill weapon skill 2h ancient to 100%
-May train skill weapon skill 1h sword to 100%
-May train skill weapon skill 2h bludgeon to 100%
-May train skill stun to 35%
-May train skill weapon skill 2h sword to 100%
-May train skill weapon skill 1h polearm to 100%
-May train skill whirlwind attack to 25%
-May train skill dodge to 20%
-May train skill critical to 10%
-May train skill leadership to 30%
-May train skill weapon skill 1h bludgeon to 100%
 May train skill essence eye to 25%
-May train skill bash to 60%
-May train skill grim resolve to 5%
-May train skill weapon skill 1h axe to 100%
+May train skill weapon skill 2h sword to 100%
 May train skill weapon skill 2h polearm to 100%
-May train skill weapon skill 1h ancient to 100%
+May train skill grim resolve to 5%
+May train skill whirlwind attack to 25%
+May train skill weapon skill 1h polearm to 100%
+May train skill weapon skill 1h axe to 100%
+May train skill weapon skill 1h bludgeon to 100%
+May train skill weapon skill 1h sword to 100%
+May train skill critical to 10%
+May train skill weapon skill 2h bludgeon to 100%
+May train skill dodge to 20%
+May train skill leadership to 30%
+May train skill bash to 60%
+May train skill weapon skill 2h ancient to 100%
+May train skill stun to 35%
 May train skill weapon skill 2h axe to 100%
+May train skill weapon skill 1h ancient to 100%
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -400,27 +400,27 @@ May study spell black orb to 45%
 May study spell gravesight to 40%
 May study spell soul wrack to 80%
 May study spell terror to 50%
+May train skill sense living to 20%
 May train skill bash to 70%
 May train skill doublehit to 45%
 May train skill strike to 40%
-May train skill sense living to 20%
 ------------------------------------------------------.
 
 Level 17 abilities:
 May study spell black orb to 50%
 May study spell gravesight to 45%
 May study spell soul wrack to 85%
-May train skill leftwield to 25%
-May train skill bash to 80%
-May train skill essence eye to 30%
-May train skill unhallowed magic to 10%
-May train skill stun to 45%
-May train skill parry to 50%
 May train skill fell insights to 5%
+May train skill essence eye to 30%
+May train skill critical to 20%
+May train skill dodge to 25%
+May train skill unhallowed magic to 10%
 May train skill whirlwind attack to 30%
 May train skill quick chant to 25%
-May train skill dodge to 25%
-May train skill critical to 20%
+May train skill bash to 80%
+May train skill stun to 45%
+May train skill leftwield to 25%
+May train skill parry to 50%
 ------------------------------------------------------.
 
 Level 18 abilities:
@@ -429,10 +429,10 @@ May study spell gravesight to 50%
 May study spell malediction to 5%
 May study spell soul wrack to 90%
 May study spell terror to 65%
-May train skill essence eye to 35%
 May train skill bash to 90%
-May train skill doublehit to 55%
 May train skill strike to 45%
+May train skill doublehit to 55%
+May train skill essence eye to 35%
 ------------------------------------------------------.
 
 Level 19 abilities:
@@ -442,9 +442,9 @@ May study spell malediction to 10%
 May study spell soul wrack to 95%
 May study spell terror to 75%
 May study spell theft of vitality to 50%
-May train skill bash to 100%
-May train skill whirlwind attack to 45%
 May train skill eldritch weave to 5%
+May train skill whirlwind attack to 45%
+May train skill bash to 100%
 ------------------------------------------------------.
 
 Level 20 abilities:
@@ -454,16 +454,16 @@ May study spell haunt to 15%
 May study spell malediction to 20%
 May study spell soul wrack to 100%
 May study spell terror to 85%
-May train skill leftwield to 35%
-May train skill leadership to 40%
-May train skill essence eye to 40%
 May train skill strike to 50%
+May train skill essence eye to 40%
 May train skill sense living to 30%
-May train skill stun to 55%
-May train skill parry to 55%
-May train skill grim resolve to 15%
-May train skill dodge to 35%
 May train skill critical to 35%
+May train skill dodge to 35%
+May train skill grim resolve to 15%
+May train skill leadership to 40%
+May train skill stun to 55%
+May train skill leftwield to 35%
+May train skill parry to 55%
 ------------------------------------------------------.
 
 Level 21 abilities:
@@ -471,12 +471,12 @@ May study spell black orb to 70%
 May study spell shadowmantle to 10%
 May study spell terror to 100%
 May study spell ward living to 5%
-May train skill doublehit to 75%
 May train skill fell insights to 10%
-May train skill essence eye to 45%
-May train skill whirlwind attack to 55%
 May train skill unhallowed magic to 15%
+May train skill whirlwind attack to 55%
+May train skill essence eye to 45%
 May train skill quick chant to 30%
+May train skill doublehit to 75%
 ------------------------------------------------------.
 
 Level 22 abilities:
@@ -484,9 +484,9 @@ May study spell black orb to 75%
 May study spell gravesight to 60%
 May study spell malediction to 30%
 May train skill rites of the grave to 5%
-May train skill strike to 55%
-May train skill eviscerate to 10%
 May train skill critical to 45%
+May train skill eviscerate to 10%
+May train skill strike to 55%
 ------------------------------------------------------.
 
 Level 23 abilities:
@@ -494,10 +494,10 @@ May study spell black orb to 80%
 May study spell gravechill to 25%
 May study spell theft of vitality to 60%
 May study spell ward living to 10%
-May train skill essence eye to 50%
-May train skill doublehit to 85%
 May train skill eldritch weave to 10%
 May train skill stun to 65%
+May train skill essence eye to 50%
+May train skill doublehit to 85%
 ------------------------------------------------------.
 
 Level 24 abilities:
@@ -505,11 +505,11 @@ May study spell black orb to 85%
 May study spell gravesight to 65%
 May study spell haunt to 25%
 May study spell malediction to 40%
-May train skill strike to 60%
 May train skill whirlwind attack to 65%
+May train skill quick chant to 35%
+May train skill strike to 60%
 May train skill sense living to 40%
 May train skill parry to 60%
-May train skill quick chant to 35%
 ------------------------------------------------------.
 
 Level 25 abilities:
@@ -519,19 +519,19 @@ May study spell fear to 10%
 May study spell shadowmantle to 20%
 May study spell spectral touch to 10%
 May study spell ward living to 20%
+May train skill fell insights to 15%
 May train skill vile totem to 10%
-May train skill leftwield to 55%
-May train skill doublehit to 100%
-May train skill leadership to 50%
 May train skill essence eye to 55%
+May train skill critical to 55%
+May train skill dodge to 50%
+May train skill grim resolve to 25%
 May train skill unhallowed magic to 20%
 May train skill profanities to 5%
-May train skill parry to 65%
+May train skill leadership to 50%
 May train skill stun to 75%
-May train skill grim resolve to 25%
-May train skill fell insights to 15%
-May train skill dodge to 50%
-May train skill critical to 55%
+May train skill leftwield to 55%
+May train skill doublehit to 100%
+May train skill parry to 65%
 ------------------------------------------------------.
 
 Level 26 abilities:
@@ -543,9 +543,9 @@ May study spell malediction to 50%
 May study spell spectral armour to 10%
 May study spell spectral touch to 20%
 May train skill rites of the grave to 10%
-May train skill essence eye to 60%
-May train skill strike to 65%
 May train skill eviscerate to 20%
+May train skill strike to 65%
+May train skill essence eye to 60%
 ------------------------------------------------------.
 
 Level 27 abilities:
@@ -567,12 +567,12 @@ May study spell spectral armour to 20%
 May study spell spectral touch to 40%
 May study spell the vengeful dead to 5%
 May study spell undead servitor to 5%
-May train skill leftwield to 65%
 May train skill strike to 70%
 May train skill essence eye to 65%
-May train skill sense living to 50%
 May train skill quick chant to 40%
+May train skill sense living to 50%
 May train skill critical to 65%
+May train skill leftwield to 65%
 ------------------------------------------------------.
 
 Level 29 abilities:
@@ -584,12 +584,12 @@ May study spell haunt to 55%
 May study spell shadowmantle to 30%
 May study spell undead servitor to 10%
 May study spell ward living to 30%
-May train skill vile totem to 20%
 May train skill fell insights to 20%
-May train skill essence eye to 70%
-May train skill whirlwind attack to 75%
 May train skill profanities to 10%
+May train skill whirlwind attack to 75%
 May train skill unhallowed magic to 25%
+May train skill vile totem to 20%
+May train skill essence eye to 70%
 ------------------------------------------------------.
 
 Level 30 abilities:
@@ -600,17 +600,17 @@ May study spell spectral armour to 30%
 May study spell spectral touch to 50%
 May study spell theft of vitality to 100%
 May study spell undead servitor to 15%
-May train skill leadership to 60%
-May train skill fell warding to 5%
+May train skill eldritch weave to 20%
 May train skill strike to 75%
+May train skill critical to 75%
+May train skill fell warding to 5%
+May train skill dodge to 60%
+May train skill grim resolve to 35%
+May train skill rites of the grave to 15%
+May train skill eviscerate to 30%
+May train skill leadership to 60%
 May train skill stun to 85%
 May train skill parry to 75%
-May train skill eviscerate to 30%
-May train skill rites of the grave to 15%
-May train skill grim resolve to 35%
-May train skill eldritch weave to 20%
-May train skill critical to 75%
-May train skill dodge to 60%
 ------------------------------------------------------.
 
 Level 31 abilities:
@@ -621,9 +621,9 @@ May study spell necrotic blight to 25%
 May study spell the vengeful dead to 25%
 May study spell undead servitor to 20%
 May study spell ward living to 40%
+May train skill sense living to 60%
 May train skill strike to 80%
 May train skill essence eye to 75%
-May train skill sense living to 60%
 May train skill quick chant to 45%
 ------------------------------------------------------.
 
@@ -636,9 +636,9 @@ May study spell necrotic blight to 35%
 May study spell spectral armour to 40%
 May study spell spectral touch to 60%
 May study spell undead servitor to 25%
-May train skill strike to 85%
-May train skill whirlwind attack to 80%
 May train skill unhallowed magic to 30%
+May train skill whirlwind attack to 80%
+May train skill strike to 85%
 ------------------------------------------------------.
 
 Level 33 abilities:
@@ -650,15 +650,15 @@ May study spell shadowmantle to 40%
 May study spell stygian fire to 10%
 May study spell undead servitor to 30%
 May study spell ward living to 50%
-May train skill vile totem to 30%
-May train skill leftwield to 80%
-May train skill strike to 90%
-May train skill essence eye to 80%
-May train skill eviscerate to 40%
-May train skill profanities to 15%
-May train skill rites of the grave to 20%
-May train skill fell insights to 25%
 May train skill eldritch weave to 25%
+May train skill fell insights to 25%
+May train skill vile totem to 30%
+May train skill essence eye to 80%
+May train skill strike to 90%
+May train skill profanities to 15%
+May train skill eviscerate to 40%
+May train skill rites of the grave to 20%
+May train skill leftwield to 80%
 ------------------------------------------------------.
 
 Level 34 abilities:
@@ -671,11 +671,11 @@ May study spell necrotic blight to 45%
 May study spell spectral armour to 50%
 May study spell spectral touch to 70%
 May study spell the vengeful dead to 40%
-May train skill strike to 95%
 May train skill essence eye to 85%
-May train skill fell warding to 10%
+May train skill strike to 95%
 May train skill sense living to 70%
 May train skill critical to 85%
+May train skill fell warding to 10%
 ------------------------------------------------------.
 
 Level 35 abilities:
@@ -687,16 +687,16 @@ May study spell necrotic blight to 50%
 May study spell stygian fire to 20%
 May study spell undead servitor to 35%
 May study spell ward living to 60%
-May train skill leftwield to 100%
-May train skill leadership to 75%
 May train skill strike to 100%
-May train skill unhallowed magic to 35%
-May train skill stun to 100%
-May train skill parry to 80%
+May train skill dodge to 65%
 May train skill grim resolve to 45%
+May train skill unhallowed magic to 35%
 May train skill whirlwind attack to 90%
 May train skill quick chant to 50%
-May train skill dodge to 65%
+May train skill leadership to 75%
+May train skill stun to 100%
+May train skill leftwield to 100%
+May train skill parry to 80%
 ------------------------------------------------------.
 
 Level 36 abilities:
@@ -709,11 +709,11 @@ May study spell necrotic blight to 55%
 May study spell shadowmantle to 50%
 May study spell spectral armour to 75%
 May study spell spectral touch to 80%
-May train skill rites of the grave to 25%
 May train skill fell insights to 30%
-May train skill essence eye to 90%
 May train skill eviscerate to 55%
+May train skill rites of the grave to 25%
 May train skill eldritch weave to 30%
+May train skill essence eye to 90%
 ------------------------------------------------------.
 
 Level 37 abilities:
@@ -724,11 +724,11 @@ May study spell necrotic blight to 60%
 May study spell stygian fire to 40%
 May study spell undead servitor to 40%
 May study spell ward living to 70%
+May train skill profanities to 20%
 May train skill vile totem to 40%
 May train skill essence eye to 95%
-May train skill sense living to 80%
-May train skill profanities to 20%
 May train skill critical to 90%
+May train skill sense living to 80%
 ------------------------------------------------------.
 
 Level 38 abilities:
@@ -742,9 +742,9 @@ May study spell necrotic blight to 65%
 May study spell spectral armour to 85%
 May study spell spectral touch to 90%
 May study spell the vengeful dead to 50%
-May train skill fell warding to 15%
-May train skill whirlwind attack to 100%
 May train skill unhallowed magic to 40%
+May train skill whirlwind attack to 100%
+May train skill fell warding to 15%
 May train skill quick chant to 55%
 ------------------------------------------------------.
 
@@ -756,12 +756,12 @@ May study spell shadowmantle to 60%
 May study spell stygian fire to 50%
 May study spell undead servitor to 45%
 May study spell ward living to 80%
-May train skill rites of the grave to 30%
 May train skill fell insights to 35%
+May train skill eviscerate to 75%
+May train skill rites of the grave to 30%
+May train skill eldritch weave to 35%
 May train skill essence eye to 100%
 May train skill sense living to 90%
-May train skill eviscerate to 75%
-May train skill eldritch weave to 35%
 ------------------------------------------------------.
 
 Level 40 abilities:
@@ -774,11 +774,11 @@ May study spell necrotic blight to 75%
 May study spell spectral armour to 95%
 May study spell spectral touch to 100%
 May train skill vile totem to 50%
-May train skill grim resolve to 55%
 May train skill leadership to 85%
 May train skill zapping to 10%
 May train skill dodge to 70%
 May train skill parry to 85%
+May train skill grim resolve to 55%
 ------------------------------------------------------.
 
 Level 41 abilities:
@@ -804,14 +804,14 @@ May study spell shadowmantle to 70%
 May study spell spectral armour to 100%
 May study spell the vengeful dead to 60%
 May study spell ward living to 90%
-May train skill rites of the grave to 35%
 May train skill fell insights to 40%
-May train skill fell warding to 20%
 May train skill eldritch weave to 40%
-May train skill zapping to 30%
-May train skill critical to 100%
+May train skill rites of the grave to 35%
 May train skill eviscerate to 90%
 May train skill quick chant to 60%
+May train skill critical to 100%
+May train skill zapping to 30%
+May train skill fell warding to 20%
 ------------------------------------------------------.
 
 Level 43 abilities:
@@ -821,10 +821,10 @@ May study spell diminish decay to 85%
 May study spell necrotic blight to 90%
 May study spell stygian fire to 70%
 May study spell undead servitor to 55%
-May train skill vile totem to 60%
 May train skill unhallowed magic to 50%
-May train skill parry to 90%
 May train skill zapping to 40%
+May train skill vile totem to 60%
+May train skill parry to 90%
 ------------------------------------------------------.
 
 Level 44 abilities:
@@ -847,20 +847,20 @@ May study spell stygian fire to 75%
 May study spell the vengeful dead to 65%
 May study spell undead servitor to 60%
 May study spell ward living to 100%
-May train skill vile totem to 65%
-May train skill leadership to 100%
-May train skill fell warding to 25%
-May train skill unhallowed magic to 55%
-May train skill parry to 100%
-May train skill profanities to 30%
-May train skill zapping to 75%
-May train skill eviscerate to 100%
-May train skill rites of the grave to 40%
-May train skill grim resolve to 60%
 May train skill fell insights to 45%
 May train skill eldritch weave to 50%
+May train skill vile totem to 65%
+May train skill zapping to 75%
+May train skill fell warding to 25%
+May train skill grim resolve to 60%
 May train skill dodge to 75%
+May train skill unhallowed magic to 55%
+May train skill rites of the grave to 40%
+May train skill eviscerate to 100%
+May train skill profanities to 30%
 May train skill quick chant to 65%
+May train skill leadership to 100%
+May train skill parry to 100%
 ------------------------------------------------------.
 
 Subguilds:

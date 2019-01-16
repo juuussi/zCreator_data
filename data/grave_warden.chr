@@ -47,17 +47,18 @@
 |     | Hit point regeneration(1), Cold resistance(1),                  |
 |     | Physical resistance(1)                                          |
 `-----------------------------------------------------------------------'
+
 ------------------------------------------------------.
 
 Level 1 abilities:
 May study spell bolster unlife to 90%
 May study spell relocate to 5%
-May train skill fell warding to 30%
-May train skill deadslam to 50%
 May train skill unhallowed magic to 60%
 May train skill profanities to 35%
-May train skill quick chant to 70%
+May train skill deadslam to 50%
 May train skill eldritch weave to 55%
+May train skill quick chant to 70%
+May train skill fell warding to 30%
 ------------------------------------------------------.
 
 Level 2 abilities:
@@ -67,12 +68,12 @@ May study spell invigorate unlife to 10%
 May study spell relocate to 10%
 May study spell stygian fire to 80%
 May study spell undead servitor to 65%
-May train skill grim resolve to 65%
-May train skill rites of the grave to 25%
 May train skill fell insights to 50%
-May train skill fell warding to 35%
-May train skill deadslam to 55%
 May train skill profanities to 40%
+May train skill deadslam to 55%
+May train skill rites of the grave to 25%
+May train skill fell warding to 35%
+May train skill grim resolve to 65%
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -81,11 +82,11 @@ May study spell call of the grave to 20%
 May study spell gravegate to 5%
 May study spell invigorate unlife to 25%
 May study spell relocate to 15%
-May train skill fell warding to 40%
 May train skill deadslam to 60%
 May train skill profanities to 45%
 May train skill eldritch weave to 60%
 May train skill unhallowed magic to 65%
+May train skill fell warding to 40%
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -98,11 +99,11 @@ May study spell invigorate unlife to 40%
 May study spell relocate to 25%
 May study spell stygian fire to 85%
 May study spell undead servitor to 70%
-May train skill rites of the grave to 50%
-May train skill fell warding to 45%
-May train skill deadslam to 65%
 May train skill profanities to 50%
+May train skill deadslam to 65%
+May train skill rites of the grave to 50%
 May train skill quick chant to 75%
+May train skill fell warding to 45%
 ------------------------------------------------------.
 
 Level 5 abilities:
@@ -112,13 +113,14 @@ May study spell fell gravesite to 30%
 May study spell gravegate to 40%
 May study spell invigorate unlife to 50%
 May study spell relocate to 40%
-May train skill grim resolve to 70%
 May train skill fell insights to 55%
-May train skill fell warding to 50%
-May train skill deadslam to 70%
 May train skill unhallowed magic to 70%
-May train skill profanities to 55%
 May train skill eldritch weave to 65%
+May train skill profanities to 55%
+May train skill deadslam to 70%
+May train skill ferment unlife to 5%
+May train skill fell warding to 50%
+May train skill grim resolve to 70%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -133,10 +135,10 @@ May study spell power of the dead to 10%
 May study spell relocate to 55%
 May study spell stygian fire to 90%
 May study spell undead servitor to 75%
-May train skill fell warding to 55%
 May train skill rites of the grave to 55%
-May train skill deadslam to 75%
 May train skill profanities to 60%
+May train skill deadslam to 75%
+May train skill fell warding to 55%
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -148,12 +150,13 @@ May study spell gravegate to 60%
 May study spell invigorate unlife to 70%
 May study spell power of the dead to 30%
 May study spell relocate to 70%
-May train skill fell warding to 60%
-May train skill deadslam to 80%
 May train skill unhallowed magic to 75%
-May train skill profanities to 70%
-May train skill quick chant to 80%
 May train skill eldritch weave to 70%
+May train skill profanities to 70%
+May train skill deadslam to 80%
+May train skill ferment unlife to 10%
+May train skill quick chant to 80%
+May train skill fell warding to 60%
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -167,12 +170,12 @@ May study spell power of the dead to 50%
 May study spell relocate to 80%
 May study spell stygian fire to 95%
 May study spell undead servitor to 80%
-May train skill grim resolve to 75%
-May train skill rites of the grave to 60%
 May train skill fell insights to 60%
-May train skill fell warding to 65%
 May train skill profanities to 80%
+May train skill rites of the grave to 60%
 May train skill unhallowed magic to 80%
+May train skill fell warding to 65%
+May train skill grim resolve to 75%
 ------------------------------------------------------.
 
 Level 9 abilities:
@@ -181,16 +184,18 @@ May study spell fell gravesite to 75%
 May study spell gravegate to 80%
 May study spell gravemist to 10%
 May study spell invigorate unlife to 80%
+May study spell mark of doom to 10%
 May study spell power of the dead to 60%
 May study spell profane sacrament to 10%
 May study spell undead servitor to 85%
-May train skill rites of the grave to 70%
-May train skill fell warding to 70%
-May train skill deadslam to 85%
 May train skill unhallowed magic to 85%
 May train skill eldritch weave to 75%
+May train skill rites of the grave to 70%
 May train skill profanities to 85%
+May train skill deadslam to 85%
+May train skill ferment unlife to 15%
 May train skill quick chant to 85%
+May train skill fell warding to 70%
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -200,17 +205,18 @@ May study spell fell gravesite to 80%
 May study spell gravegate to 90%
 May study spell gravemist to 30%
 May study spell invigorate unlife to 85%
+May study spell mark of doom to 20%
 May study spell power of the dead to 65%
 May study spell profane sacrament to 20%
 May study spell relocate to 85%
 May study spell stygian fire to 100%
 May study spell undead servitor to 90%
-May train skill grim resolve to 80%
 May train skill fell insights to 65%
-May train skill fell warding to 75%
 May train skill profanities to 90%
 May train skill eldritch weave to 80%
 May train skill unhallowed magic to 90%
+May train skill fell warding to 75%
+May train skill grim resolve to 80%
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -220,16 +226,18 @@ May study spell fell gravesite to 85%
 May study spell gravegate to 100%
 May study spell gravemist to 50%
 May study spell invigorate unlife to 90%
+May study spell mark of doom to 30%
 May study spell power of the dead to 70%
 May study spell profane sacrament to 30%
 May study spell undead servitor to 95%
-May train skill rites of the grave to 80%
-May train skill fell warding to 80%
-May train skill deadslam to 90%
 May train skill unhallowed magic to 95%
 May train skill eldritch weave to 85%
+May train skill rites of the grave to 80%
 May train skill profanities to 95%
+May train skill deadslam to 90%
+May train skill ferment unlife to 25%
 May train skill quick chant to 90%
+May train skill fell warding to 80%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -238,16 +246,17 @@ May study spell command undead to 75%
 May study spell fell gravesite to 90%
 May study spell gravemist to 70%
 May study spell invigorate unlife to 95%
+May study spell mark of doom to 45%
 May study spell power of the dead to 75%
 May study spell profane sacrament to 50%
 May study spell relocate to 90%
 May study spell undead servitor to 100%
-May train skill grim resolve to 85%
 May train skill fell insights to 70%
-May train skill fell warding to 85%
 May train skill profanities to 100%
 May train skill eldritch weave to 90%
 May train skill unhallowed magic to 100%
+May train skill fell warding to 85%
+May train skill grim resolve to 85%
 ------------------------------------------------------.
 
 Level 13 abilities:
@@ -256,38 +265,43 @@ May study spell command undead to 80%
 May study spell fell gravesite to 95%
 May study spell gravemist to 80%
 May study spell invigorate unlife to 100%
+May study spell mark of doom to 60%
 May study spell power of the dead to 80%
 May study spell profane sacrament to 70%
-May train skill grim resolve to 90%
-May train skill rites of the grave to 90%
-May train skill fell warding to 90%
-May train skill deadslam to 95%
 May train skill eldritch weave to 100%
+May train skill rites of the grave to 90%
+May train skill deadslam to 95%
+May train skill ferment unlife to 35%
 May train skill quick chant to 95%
+May train skill fell warding to 90%
+May train skill grim resolve to 90%
 ------------------------------------------------------.
 
 Level 14 abilities:
 May study spell command undead to 90%
 May study spell fell gravesite to 100%
 May study spell gravemist to 90%
+May study spell mark of doom to 80%
 May study spell power of the dead to 90%
 May study spell profane sacrament to 90%
 May study spell relocate to 95%
+May train skill fell insights to 75%
 May train skill fell warding to 95%
 May train skill grim resolve to 95%
-May train skill fell insights to 75%
 ------------------------------------------------------.
 
 Level 15 abilities:
 May study spell command undead to 100%
 May study spell gravemist to 100%
+May study spell mark of doom to 100%
 May study spell power of the dead to 100%
 May study spell profane sacrament to 100%
 May study spell relocate to 100%
-May train skill grim resolve to 100%
-May train skill rites of the grave to 100%
 May train skill fell insights to 80%
-May train skill fell warding to 100%
+May train skill rites of the grave to 100%
 May train skill deadslam to 100%
+May train skill ferment unlife to 50%
 May train skill quick chant to 100%
+May train skill fell warding to 100%
+May train skill grim resolve to 100%
 ------------------------------------------------------.
