@@ -216,6 +216,7 @@ herbal smoke resistance:400
 heroic charge:0
 hew:30000
 hiding:2000
+
 hit placement:0
 holy might:37500
 horsemanship:3000
@@ -511,3 +512,5 @@ sang froid:1000000
 synaptic currents:1000000
 toxic disposition:1000000
 steady metabolism:180000
+skill that removes user from location of origin and places user in location of destination:100000
+skill where a fighter using battlecry and peaople in party can us there attack as soon as use beast speech goes:150000

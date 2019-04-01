@@ -742,3 +742,7 @@ undead servitor:5000
 ward living:600
 gravechill:1000
 theft of vitality:6000
+spell that increases the increase of hp:200000
+spell that reduces reduction of hp:2000
+spell that reduces sp and increases hp:1200
+spell that reduces sp and reduces hp:2000

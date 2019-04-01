@@ -6075,3 +6075,58 @@ elements of shadow. The wyvern will keep watch over a specified
 area for a given amount of time, reporting to the caster of
 the spell whenever anything occurs within the room.
 ---------------------------------------------------
+Help on spell:   Spell that increases the increase of hp
+Casting time:    6 rounds
+Spell cost:      276 SPs
+Spell type:      heal
+Spell words:     consuming spell points to increase the rate at which hit points
+                 periodically increase
+Affecting stats: wisdom, intelligence, flow of life and mastery of medicine
+
+It is a known fact that hit points will periodically increase over time,
+until reaching a certain integer defined as the hit point maximum. The rate
+at which hit points increase in this periodic manner can itself be increased,
+including by use of magical incantations such as the 'spell that increases
+the increase of hp'. Unfortunately, while this spell increases the rate at
+which hit points automatically increase, it also decreases the amount of
+spell points held by the caster.
+---------------------------------------------------
+Help on spell: Spell that reduces reduction of hp
+Casting time:  7 rounds
+Spell cost:    212 SPs
+Spell type:    defensive
+Spell words:   i will cast a spell on you that reduces the damage you take
+
+The 'spell that reduces reduction of hp' is a magical technique
+that works by taking the amount of hp by which the target's hit points
+will be reduced, and reducing that amount, thereby reducing the reduction
+to the players hp, and leaving more hp behind on the player for future
+reducing. The spell also reduces some sp from the caster of the 'spell that
+reduces reduction of hp', in exchange for reducing the redution of
+hp for the target.
+---------------------------------------------------
+Help on spell:   Spell that reduces sp and increases hp
+Casting time:    3 rounds
+Spell cost:      106 SPs
+Spell type:      heal
+Maximum healing: 925 (529 if protected) (8.73 heal/sp)
+Spell words:     consuming spell points to increment hitpoints
+Affecting stat:  wis
+---------------------------------------------------
+Help on spell:   Spell that reduces sp and reduces hp
+Casting time:    3 rounds
+Spell cost:      329 SPs
+Spell type:      attack
+Damage type:     death
+Spell damage:    340 - 420
+Spell words:     consuming spell points to decrement victim's hit points
+Affecting stats: intelligence, wisdom and spell percent
+
+The spell known as 'spell that reduces sp and reduces hp' is a magical
+incantation that subtracts spell points from the caster, resulting in
+the subtraction of a usually larger number of hit points from the
+target. After subtracting enough hit points from a target, the caster
+can receive various forms of virtual currency which are subsequently
+used to increase the caster's power, so that the caster may cast more
+spells that reduce the caster's spell points and reduce the victim's hit
+points.

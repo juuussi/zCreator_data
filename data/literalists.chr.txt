@@ -1,0 +1,82 @@
+# Updated on April 1st, 2019
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hit points(5), Spell points(5), Intelligence(4), Strength(4),   |
+|     | Constitution(4), Dexterity(4), Wisdom(4), Charisma(4),          |
+|     | Spell point regeneration(4), Hit point regeneration(4)          |
+|   2 | Hit points(5), Spell points(5), Intelligence(4), Strength(4),   |
+|     | Constitution(4), Dexterity(4), Wisdom(4), Charisma(4),          |
+|     | Spell point regeneration(4), Hit point regeneration(4)          |
+|   3 | Hit points(5), Spell points(5), Intelligence(4), Strength(4),   |
+|     | Constitution(4), Dexterity(4), Wisdom(4), Charisma(4),          |
+|     | Spell point regeneration(4), Hit point regeneration(4)          |
+|   4 | Hit points(5), Spell points(5), Intelligence(4), Strength(4),   |
+|     | Constitution(4), Dexterity(4), Wisdom(4), Charisma(4),          |
+|     | Spell point regeneration(4), Hit point regeneration(4)          |
+|   5 | Hit points(5), Spell points(5), Intelligence(4), Strength(4),   |
+|     | Constitution(4), Dexterity(4), Wisdom(4), Charisma(4),          |
+|     | Spell point regeneration(4), Hit point regeneration(4)          |
+`-----------------------------------------------------------------------'
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell spell that increases the increase of hp to 25%
+May study spell spell that reduces reduction of hp to 25%
+May study spell spell that reduces sp and increases hp to 25%
+May study spell spell that reduces sp and reduces hp to 25%
+May study spell summon wild cat to 25%
+May train skill beast speech to 100%
+May train skill skill that saves sp to 100%
+May train skill skill that removes user from location of origin and places user in location of destination to 25%
+May train skill skill where a fighter using battlecry and peaople in party can us there attack as soon as use beast speech goes to 25%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell spell that increases the increase of hp to 50%
+May study spell spell that reduces reduction of hp to 50%
+May study spell spell that reduces sp and increases hp to 50%
+May study spell spell that reduces sp and reduces hp to 50%
+May study spell summon wild cat to 50%
+May train skill beast speech to 200%
+May train skill skill that saves sp to 200%
+May train skill skill that removes user from location of origin and places user in location of destination to 50%
+May train skill skill where a fighter using battlecry and peaople in party can us there attack as soon as use beast speech goes to 50%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell spell that increases the increase of hp to 65%
+May study spell spell that reduces reduction of hp to 65%
+May study spell spell that reduces sp and increases hp to 65%
+May study spell spell that reduces sp and reduces hp to 65%
+May study spell summon wild cat to 65%
+May train skill beast speech to 300%
+May train skill skill that saves sp to 300%
+May train skill skill that removes user from location of origin and places user in location of destination to 65%
+May train skill skill where a fighter using battlecry and peaople in party can us there attack as soon as use beast speech goes to 65%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell spell that increases the increase of hp to 80%
+May study spell spell that reduces reduction of hp to 80%
+May study spell spell that reduces sp and increases hp to 80%
+May study spell spell that reduces sp and reduces hp to 80%
+May study spell summon wild cat to 80%
+May train skill beast speech to 400%
+May train skill skill that saves sp to 400%
+May train skill skill that removes user from location of origin and places user in location of destination to 80%
+May train skill skill where a fighter using battlecry and peaople in party can us there attack as soon as use beast speech goes to 80%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell spell that increases the increase of hp to 100%
+May study spell spell that reduces reduction of hp to 100%
+May study spell spell that reduces sp and increases hp to 100%
+May study spell spell that reduces sp and reduces hp to 100%
+May study spell summon wild cat to 100%
+May train skill beast speech to 500%
+May train skill skill that saves sp to 500%
+May train skill skill that removes user from location of origin and places user in location of destination to 100%
+May train skill skill where a fighter using battlecry and peaople in party can us there attack as soon as use beast speech goes to 100%
+------------------------------------------------------.
