@@ -18,11 +18,14 @@ anti-magic field:1000
 antivenin:900
 apollo's adagio:700
 arcane bulwark:2400
+arcane infusion:660000
 aria of the eagles:700
 armour of god:2000
 ashes to ashes:2800
 asphyxiation preference:250000
 asphyxiation vulnerability:0
+assess weakness:3000
+augmented strikes:19000
 aura detection:100
 aura sense:200
 awaken talisman:15000
@@ -33,6 +36,7 @@ bario's bawdy ballad:700
 barkskin:800
 beaks of acid:10000
 berserker's bravura:700
+bestow unlife:1300
 billow of miasma:0
 bitter apathy:0
 black death:7000
@@ -40,9 +44,11 @@ black orb:200
 blade blessing:2000
 blemished health:6000
 blindness:600
+blink assault:2400
 blizzard storm:0
 blizzard:0
 blurred image:800
+bolster unlife:1000
 bonded spirits:0
 bone shatter:0
 brain unpain:9900
@@ -79,6 +85,7 @@ call for sword:600
 call grimoire:200
 call lightning:0
 call mind control device:200
+call of the grave:30000
 call spirit:65000
 cancellation:45000
 cantana of shadow:300
@@ -89,6 +96,7 @@ cause disease:5000
 cause light wounds:100
 cause serious wounds:500
 caustic opposition:1700
+celerity:60000
 celestial disposition:100
 cellular asphyxia:5000
 chain lightning:2700
@@ -123,6 +131,7 @@ cold ray:2000
 cold vulnerability:0
 colored lights:0
 colourful berry:0
+command undead:750000
 commune with nature:700
 confuse:3200
 confusion:0
@@ -163,13 +172,13 @@ dark absolution:10000
 dark embryo:35000
 dark force:0
 dark teach:200000
-dark teach:200000
 darkfire:8000
 darkness:100
 deadly attention:200
 death armour:0
 death defying feat:0
 death fog:0
+death nova:8000
 death sanctification:0
 death wish:400
 deathslash:0
@@ -179,11 +188,13 @@ demonic rage:2500
 demonic shield:5000
 demonic test:200
 deprive warmth:6000
+desecrate weapon:15000
 detect alignment:2000
 detect magical potential:90000
 devastating hate:0
 dimension door:1600
 dimensional gate:10000
+diminish decay:2500
 dirge of despair:4700
 dismiss:700
 dispel curse:300
@@ -205,6 +216,8 @@ draining mine:0
 earthquake:2000
 earthslide:10000
 effusion of entity:2000
+eldritch burn:4000
+eldritch ward:3500
 electric blade:1000
 electric vulnerability:0
 electrical field:1000
@@ -239,6 +252,8 @@ fear:2100
 feast:200
 feather weight:700
 feeblemind:900
+fell gravesite:150000
+fell tempest:10000
 feminist chant:0
 finger of death:2900
 fire blade:1000
@@ -255,12 +270,14 @@ flame blade:800
 flamestrike:600
 flaming pestilence:0
 flash of power:2000
+flaw-seeking eye:30000
 flesh rot:19000
 flesh to stone:0
 flickerfire:1500
 flight:700
 floating disc:100
 floating letters:100
+fool's gold:625000
 force of nature:10000
 force shield:2500
 forget:2000
@@ -280,6 +297,10 @@ glue:0
 golden arrow:2000
 good berry:0
 grave stench:200
+gravechill:1000
+gravegate:2000
+gravemist:8000
+gravesight:5000
 greater acid invulnerability:2400
 greater asphyxiation invulnerability:2400
 greater cold invulnerability:2400
@@ -310,6 +331,7 @@ harmony armour:5500
 harmony hand:3300
 haste:0
 haunt:100
+haunt:1000
 headache:100
 heal all:2000
 heal body:3000
@@ -321,6 +343,7 @@ healing wind:1900
 heat weapon:5000
 heavy weight:2000
 hellfire:3100
+hexer's gambit:24000
 hinge door:15000
 hole:600
 holy glow:5000
@@ -343,15 +366,18 @@ impart knowledge:45000
 impart lore:45000
 improved identify:4000
 incendiary coating:6000
+infallible vision:4800
 infernal vestment:2400
 infinity reincarnation:0
 infravision:600
 inner power:19000
 insect plague:0
 insect plaque:0
+invigorate unlife:2000
 invigorate:2000
 invisibility:200
 iron will:2000
+jigoku blade:3000
 jolts:0
 killing cloud:3200
 kiss of helios:300
@@ -395,9 +421,9 @@ magic missile:100
 magical preference:250000
 magical storm:2000
 magical transfixion:1500
+magical wave:0
 magical vestment:0
 magical vulnerability:0
-magical wave:0
 major distant heal:900
 major distant transfer:900
 major energy drain:0
@@ -407,18 +433,21 @@ major magical resistance:0
 major transfer:900
 make scar:100
 malach's mourning:4700
+malediction:20000
+malefic brand:35000
 mana drain:2000
 mana leech:900
 mana short:0
 mark of cain:800
+mark of doom:35000
 mark of zomm:6100
 mark undead:100
 mental aegis:1700
 mental glance:10000
 mental illusions:300000
 mental storm:2000
-mental vision:0
 mental watch:0
+mental vision:0
 metamorphosis:0
 meteor blast:800
 meteor storm:900
@@ -449,6 +478,7 @@ mystic bulwark:1700
 mystic impairment:6000
 mystic vision:0
 nature's portal:800
+necrotic blight:5000
 neptune's blessing:400
 neural internecion:25000
 neutralize blade:500
@@ -481,12 +511,16 @@ poison vulnerability:0
 poison:2000
 poisonous pigeons:10000
 power blast:2700
+power of the dead:25000
 power transfer:500
 power word:0
 preparation of harmony:48200
 preservation:1100
 prismatic spray:0
 produce fire:700
+profane halo:12000
+profane sacrament:75000
+profane sanctuary:3000
 project force:2000
 protection from evil:0
 protection from good:2500
@@ -497,7 +531,9 @@ psionic vulnerability:0
 psychic aegis:2400
 psychic crush:5000
 pyrotechnics:100
+quench life:6000
 question unholiness:20200
+radiant aegis:6600
 rain dance:0
 raise dead:700
 random reincarnation:0
@@ -543,6 +579,7 @@ sensory overload:0
 sever link:2700
 sex change:200
 shadow shield:600
+shadowmantle:5000
 sharp nails:2500
 shatter limb:6000
 shelter:500
@@ -572,9 +609,17 @@ soothing heat:300
 soul fusion:70000
 soul merge:200
 soul wrack:800
+soulflay:3000
 soulsuck:500
 spacial barrier:500
 spark shelter:1700
+spectral armour:5500
+spectral touch:5500
+spell that increases the increase of hp:200000
+spell that reduces reduction of hp:2000
+spell that reduces sp and increases hp:1200
+spell that reduces sp and reduces hp:2000
+spellblade's ardor:21000
 spellshield:133000
 spirit of nature:40000
 spiritual hammer:0
@@ -586,6 +631,7 @@ stonefist:0
 stoneshoes:0
 stoneskin:800
 stun resistance:12000
+stygian fire:4500
 suffocation:1500
 summon bag of holding:7700
 summon bear:5000
@@ -634,6 +680,8 @@ teleport with error:400
 teleport without error:800
 tenrai blade:1750
 terror:2000
+the vengeful dead:5000
+theft of vitality:6000
 thermal drain:300
 thorn spray:0
 thunderclap:3500
@@ -654,6 +702,7 @@ true transfer:1400
 true unpain:800
 unbeliever's doom:2200
 unchain:200
+undead servitor:5000
 unholy absolution:0
 unholy courage:11000
 unholy gift:0
@@ -661,88 +710,39 @@ unholy power:100000
 unholy presence:3200
 unholy strength:100000
 uplifting melody:700
-vaporic armour:1500
-vaporic blade:3500
-venom fend:2400
-vestment of flame:1700
-vigorous concerto:700
-viscous flesh:4800
-visualize act:29000
-vitriolic bane:6000
-voids of life:10000
-vortex magica:15000
 wail of banshee:100
 wall of fire:500
 wall of thorns:700
+vaporic armour:1500
+vaporic blade:3500
 war song:0
+ward living:600
 ward of steel:2400
 ward of stone:1700
 ward undead:2200
+warping blade:18000
 warriors bane:5000
 water breathing:10000
 water walking:100
 watery breath:70000
 weary arms:5000
+venom fend:2400
 were curse:2000
+vestment of flame:1700
 white orb:200
+vigorous concerto:700
 wild goose:33000
 wildfire:20000
 winter's rebuke:2400
+viscous flesh:4800
 wisdom of ptah:200
+visualize act:29000
 wither:1500
+vitriolic bane:6000
+voids of life:10000
 wolf eyes:600
 word of recall:2000
+vortex magica:15000
 wrath of god:2500
 wrath of tefnut:600
 wyvern watch:14000
-jigoku blade:3000
-blink assault:2400
-infallible vision:4800
-assess weakness:3000
-augmented strikes:19000
-hexer's gambit:24000
-radiant aegis:6600
-arcane infusion:660000
-celerity:60000
-flaw-seeking eye:30000
-spellblade's ardor:21000
-warping blade:18000
-bestow unlife:1300
-bolster unlife:1000
-call of the grave:30000
-command undead:750000
-death nova:8000
-desecrate weapon:15000
-diminish decay:2500
-eldritch burn:4000
-eldritch ward:3500
-fell gravesite:150000
-fell tempest:10000
-gravegate:2000
-gravemist:8000
-gravesight:5000
-haunt:1000
-invigorate unlife:2000
-malediction:20000
-malefic brand:35000
-mark of doom:35000
-necrotic blight:5000
-power of the dead:25000
-profane halo:12000
-profane sacrament:75000
-profane sanctuary:3000
-quench life:6000
-shadowmantle:5000
-soulflay:3000
-spectral armour:5500
-spectral touch:5500
-stygian fire:4500
-the vengeful dead:5000
-undead servitor:5000
-ward living:600
-gravechill:1000
-theft of vitality:6000
-spell that increases the increase of hp:200000
-spell that reduces reduction of hp:2000
-spell that reduces sp and increases hp:1200
-spell that reduces sp and reduces hp:2000

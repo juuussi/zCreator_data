@@ -1,4 +1,5 @@
 acrobatics:1900
+acrobatics:1900
 adrenal surge:0
 adrenaline rush:5000
 advanced martial arts:250000
@@ -20,6 +21,7 @@ arcane lore:75000
 archery:0
 armour piercing:0
 arrow handling:300000
+art of bushido:42000
 art of telepathy:400000
 artistic license:0
 assassins dream poison:1600
@@ -38,6 +40,7 @@ balance momentum:110000
 barbs:0
 bargain:5500
 bash:2000
+batter:15000
 battle hardness:15000
 battle lore:75000
 battle stamina:150000
@@ -53,14 +56,17 @@ blade parry:0
 bladed fury:3000
 bless:10000
 blinding dust:200
+blood harvest:45000
 bloodletting:200
 body control:200000
 body_slam:0
 bookkeeping:4000
 bravery:34000
 brawl:34000
+breathless brilliance:1000000
 build body:25000
 ca reo:10000
+cabinetry:2500
 call for fire:30000
 call for ice:30000
 call for thunder:30000
@@ -70,6 +76,8 @@ camping:400
 cannibalize:750000
 carve millennium staff:1000
 carve millennium wand:500
+caustic wit:1000000
+cavalier's charge:40000
 ceremony:10000
 channel death magic:2000
 channel power:9999900
@@ -96,6 +104,7 @@ convert:1200
 corpse skinning:100
 create illusion:300
 create pitfall:0
+creative accounting:2000
 cripple:0
 critical:6000
 cross slash:7000
@@ -106,6 +115,8 @@ damage awareness:0
 damage direction:110000
 dancing blade:15000
 dark ritual:10000
+deadly torrent:43000
+deadslam:25000
 death blow:0
 deceitful blow:3000
 decisive blows:72000
@@ -143,6 +154,7 @@ dweomersight:3500
 earth lore:2500
 edged polearms:25000
 eerie fixation:150000
+eldritch weave:300000
 electric enchanting:400000
 elemental favor:1500
 elemental mastery:2500
@@ -150,22 +162,28 @@ engrave message:0
 enhance criticals:5000
 enhance features:1300
 enhance tracking:0
+enhanced evasion:80000
 enhanced riposte:432100
 epitaph:100
+essence attunement:1000000
 essence eye:100
 establish roost:17000
 estimate efficiency:120000
 eternal shielding:150000
 evaluate corpse:12000
 evil omens:0
+eviscerate:3500
 evocation:12000
 exsanguination:0
 extract bodypart:8000
+facilitating payments:200000
 fake death:2500
 fake guilt:13000
 farsight:1700
 fast blow:1000
 fatal blow:0
+fell insights:200000
+fell warding:400000
 ferment unlife:120000
 find herbs:15700
 find traps:300
@@ -174,6 +192,7 @@ fire enchanting:200000
 fire lore:2500
 firevision:0
 first aid:600
+fleeting auguries:5625
 flip kick:2600
 flow of life:8600
 flying tackle:0
@@ -190,12 +209,15 @@ forcepush:0
 forge talisman:6000
 forgery:0
 gem placement:0
+gestalt conjuration:10000000
 glance:600
 good omens:0
 grace of god:8000
 grapple:7600
+gravesmite :50000
 greater illusion control:0
 greater vulnerability:250200
+grim resolve:750000
 grounding:2500
 hack-n-slash:0
 hammer:37000
@@ -216,9 +238,9 @@ herbal smoke resistance:400
 heroic charge:0
 hew:30000
 hiding:2000
-
 hit placement:0
 holy might:37500
+hoodwink:5000
 horsemanship:3000
 hunting:200
 hurl axes:2000
@@ -228,13 +250,16 @@ ignore zarch whines:0
 imitation:213
 immortality:0
 impale:0
+incendiary instincts:1000000
 inner strength:543200
 instrumentation:300000
+intentionality:10000000
 interrupting force:500000
 invocation:12000
 juggling:24000
 jupiter lore:1000
 kamikaze:40000
+keen strikes:2500
 ki:10000
 kick placement:40000
 kick:500
@@ -243,8 +268,9 @@ kiru:8000
 knowledge of omens:0
 kungfu:30000
 leadership:500
-legendary conjury:44000
 leftwield:800
+legendary conjury:44000
+life of the mind:1000000
 litany:4000
 loc ecsuram:10000
 locking:0
@@ -285,6 +311,7 @@ mathematics:10000
 meditate:50000
 memorize features:300
 mercury lore:400
+metachrosis:50000
 modify bodypart:8000
 mounted attack:2700
 mounted combat:11800
@@ -329,7 +356,6 @@ pon deila:10000
 possessions:700
 power kick:2000
 power manipulation:4000
-power manipulation:4000
 pra evaleo:10000
 prayer to gods:1000
 prayer:400
@@ -338,12 +364,15 @@ prepare enchantment:0
 prepare potion:2000
 prev enire:10000
 primal scream:0
+profanities:250000
 protected blade:30000
 psionic efficiency:490000
 pummel:0
 purify soul:7000
 purity of spirit:50000
 purse evaluation:400
+purse-cutting:125000
+quantum sleight:1000000
 quick chant:2000
 quick shielding:199100
 quick shot:300000
@@ -351,6 +380,7 @@ quick-thrusts:1000
 rage:1500000
 randomize preference:900
 ranged tactics:30000
+reaping stance :850000
 recitation:1000
 rectitude:25000
 remove elements:2000
@@ -359,14 +389,18 @@ rescue:10000
 retort:250000
 righteousness:3000
 riposte:13700
+rites of the grave:300000
 ritual of black eternity:3000
+ruinous utterance:750000
 running red:11700
 sacrifice of extended life:2000
+sang froid:1000000
 saturn lore:1200
 scattershot:24000
 sense resistances:0
 sense stats:0
 sense weakness:444444
+senseliving:2000
 sensory overload:5000
 sharpen:0
 shield fighting:4000
@@ -376,7 +410,9 @@ shielding of death:520000
 shrapnel:0
 silent movement:35000
 skewer:3000
+skill that removes user from location of origin and places:100000
 skill that saves sp:100
+skill where a fighter using battlecry and peaople in party can:150000
 slash:30000
 sleight:1800
 slip:4900
@@ -393,6 +429,7 @@ spiritual link:200000
 split corpse:30000
 spot weakness:40000
 steady aim:300000
+steady metabolism:180000
 steal:79600
 stellar shadows:1500
 sting:0
@@ -410,6 +447,7 @@ sun lore:200
 sweep:4000
 switch weapon:400
 symmetry recognition:0
+synaptic currents:1000000
 system shock:3000000
 tameshivar:35000
 target:0
@@ -426,6 +464,7 @@ tonal projection:43000
 torch creation:100
 tormentation:63000
 toss:14000
+toxic disposition:1000000
 tracking:12000
 trained eye:30000
 transfer control:45500
@@ -441,15 +480,13 @@ tumble:75000
 tumbling:32700
 undead surgery:50000
 unfreeze:0
+unhallowed magic:2000
 unholy ceremony:400000
 unholy surgery:50000
 upper hand:45000
 uranus lore:1400
-vampiric touch:0
-venus lore:600
-vocal training:30000
-volo:10000
 wall of steel:25000
+vampiric touch:0
 wandmaking:2000
 warcry:0
 water lore:2500
@@ -469,48 +506,19 @@ weapon skill 2h staff:300
 weapon skill 2h sword:300
 weapon skill bow:500
 weaponsmithing:0
+venus lore:600
 whirling maces:49000
 whirlwind attack:1400
 whirlwind slash:34000
 whirlwind:0
 wild blow:500
+wild strike:3750
 wilderness survival:2000
+vile totem:6000
 will of god:8000
 willpower:110000
+vocal training:30000
+volo:10000
 wondrous legerdemain:700000
 zapping:100
 zhinakoku:35000
-art of bushido:42000
-wild strike:3750
-keen strikes:2500
-deadly torrent:43000
-fleeting auguries:5625
-blood harvest:45000
-deadslam:25000
-eldritch weave:300000
-eviscerate:3500
-fell insights:200000
-fell warding:400000
-gravesmite :50000
-grim resolve:750000
-profanities:250000
-reaping stance :850000
-rites of the grave:300000
-ruinous utterance:750000
-senseliving:2000
-unhallowed magic:2000
-vile totem:6000
-cavalier's charge:40000
-breathless brilliance:1000000
-caustic wit:1000000
-essence attunement:1000000
-gestalt conjuration:10000000
-incendiary instincts:1000000
-intentionality:10000000
-life of the mind:1000000
-sang froid:1000000
-synaptic currents:1000000
-toxic disposition:1000000
-steady metabolism:180000
-skill that removes user from location of origin and places user in location of destination:100000
-skill where a fighter using battlecry and peaople in party can us there attack as soon as use beast speech goes:150000
