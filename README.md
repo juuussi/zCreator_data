@@ -7,7 +7,7 @@ Obtain a copy of Nashira's zCreator and install it. A link to a download can be 
 
 ## Installing updated data
 
-To download all the data as a single archive, press the "Clone or download" button, and then select "Download ZIP". After download extract the data and replace your zCreator data/ folder with the one you downloaded.
+To download all the data as a single archive, press the "<> Code" button, and then select "Download ZIP". After download extract the data and replace your zCreator data/ folder with the one you downloaded.
 
 ## For advanced users with Git knowledge
 
