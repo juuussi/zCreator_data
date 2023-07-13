@@ -39,6 +39,8 @@ If you have updates, please fork the repository, make your changes, and send a p
 
 ## Updating guild/sub information
 
+To add a new guild/subguild, add it to the "guilds.chr" file. Include the official name and maximum level of the guild/subguild.
+
 ### Guild/subguild data files have the following format:
 - Level information ("info")
 - Skill/spell information ("info full")
