@@ -1,0 +1,345 @@
+Added 2023-07-14
+
+,-----------------------------------------------------------------------.
+| Lvl | Guild bonuses                                                   |
+|=====|=================================================================|
+|   1 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Physical resistance(1)                                          |
+|   2 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Fire resistance(1), Magical resistance(1),                      |
+|     | Physical resistance(1)                                          |
+|   3 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Physical resistance(1)                                          |
+|   4 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Fire resistance(1), Magical resistance(1),                      |
+|     | Physical resistance(1)                                          |
+|   5 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Physical resistance(1)                                          |
+|   6 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Fire resistance(1), Magical resistance(1),                      |
+|     | Physical resistance(1)                                          |
+|   7 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Physical resistance(1)                                          |
+|   8 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Fire resistance(1), Magical resistance(1),                      |
+|     | Physical resistance(1)                                          |
+|   9 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Physical resistance(1)                                          |
+|  10 | Hit points(10), Constitution(4), Wisdom(3), Charisma(3),        |
+|     | Spell point regeneration(3), Hit point regeneration(3),         |
+|     | Fire resistance(1), Magical resistance(1),                      |
+|     | Physical resistance(1)                                          |
+`-----------------------------------------------------------------------'
+------------------------------------------------------.
+
+Level 1 abilities:
+May study spell empyreal bastion to 5%
+May study spell golden dawn to 5%
+May study spell golden mantle to 5%
+May study spell indomitable spirit to 5%
+May study spell lightbringer to 50%
+May study spell radiance to 5%
+May study spell relocate to 5%
+May study spell solar flare to 5%
+May study spell starburst to 5%
+May study spell starcore to 5%
+May study spell starshards to 5%
+May study spell teleport without error to 10%
+May train skill critical to 15%
+May train skill essence eye to 25%
+May train skill weapon skill 1h sword to 50%
+May train skill doublehit to 15%
+May train skill attack to 30%
+May train skill unyielding will to 10%
+May train skill weapon skill 2h sword to 50%
+May train skill golden dome to 10%
+May train skill parry to 10%
+May train skill meteoric charge to 10%
+------------------------------------------------------.
+
+Level 2 abilities:
+May study spell empyreal bastion to 10%
+May study spell golden dawn to 10%
+May study spell golden mantle to 10%
+May study spell indomitable spirit to 10%
+May study spell lightbringer to 75%
+May study spell radiance to 10%
+May study spell relocate to 25%
+May study spell solar flare to 10%
+May study spell starburst to 10%
+May study spell starcore to 10%
+May study spell starshards to 10%
+May train skill critical to 20%
+May train skill essence eye to 50%
+May train skill weapon skill 1h sword to 75%
+May train skill doublehit to 20%
+May train skill attack to 50%
+May train skill unyielding will to 20%
+May train skill weapon skill 2h sword to 75%
+May train skill golden dome to 20%
+May train skill parry to 20%
+May train skill meteoric charge to 20%
+------------------------------------------------------.
+
+Level 3 abilities:
+May study spell empyreal bastion to 20%
+May study spell golden dawn to 20%
+May study spell golden mantle to 20%
+May study spell indomitable spirit to 20%
+May study spell lightbringer to 85%
+May study spell radiance to 20%
+May study spell relocate to 50%
+May study spell solar flare to 20%
+May study spell starburst to 20%
+May study spell starcore to 20%
+May study spell starshards to 20%
+May study spell teleport without error to 30%
+May train skill critical to 25%
+May train skill essence eye to 75%
+May train skill leadership to 15%
+May train skill weapon skill 1h sword to 85%
+May train skill doublehit to 25%
+May train skill attack to 75%
+May train skill unyielding will to 30%
+May train skill weapon skill 2h sword to 85%
+May train skill quick chant to 15%
+May train skill battle tactics to 15%
+May train skill golden dome to 30%
+May train skill steady metabolism to 15%
+May train skill parry to 30%
+May train skill meteoric charge to 30%
+------------------------------------------------------.
+
+Level 4 abilities:
+May study spell empyreal bastion to 30%
+May study spell golden dawn to 30%
+May study spell golden mantle to 30%
+May study spell indomitable spirit to 30%
+May study spell lightbringer to 90%
+May study spell radiance to 30%
+May study spell relocate to 75%
+May study spell solar flare to 30%
+May study spell starburst to 30%
+May study spell starcore to 30%
+May study spell starshards to 30%
+May train skill critical to 30%
+May train skill essence eye to 85%
+May train skill leadership to 30%
+May train skill weapon skill 1h sword to 90%
+May train skill doublehit to 30%
+May train skill attack to 90%
+May train skill unyielding will to 40%
+May train skill weapon skill 2h sword to 90%
+May train skill quick chant to 25%
+May train skill battle tactics to 30%
+May train skill golden dome to 40%
+May train skill steady metabolism to 25%
+May train skill parry to 40%
+May train skill meteoric charge to 40%
+------------------------------------------------------.
+
+Level 5 abilities:
+May study spell brilliance to 30%
+May study spell empyreal bastion to 40%
+May study spell golden dawn to 40%
+May study spell golden mantle to 40%
+May study spell golden meteor to 20%
+May study spell indomitable spirit to 40%
+May study spell lightbringer to 100%
+May study spell radiance to 40%
+May study spell rain of stars to 20%
+May study spell relocate to 100%
+May study spell solar flare to 40%
+May study spell starburst to 40%
+May study spell starcore to 40%
+May study spell starshards to 40%
+May study spell teleport without error to 50%
+May train skill essence eye to 100%
+May train skill the art of war to 20%
+May train skill weapon skill 1h sword to 100%
+May train skill attack to 100%
+May train skill unyielding will to 50%
+May train skill battle tactics to 50%
+May train skill quick chant to 30%
+May train skill golden spear to 20%
+May train skill sundering star to 20%
+May train skill golden dome to 50%
+May train skill critical to 40%
+May train skill leadership to 50%
+May train skill doublehit to 40%
+May train skill weapon skill 2h sword to 100%
+May train skill stun to 20%
+May train skill parry to 50%
+May train skill obliteration to 20%
+May train skill steady metabolism to 30%
+May train skill meteoric charge to 50%
+May train skill whirlwind attack to 20%
+------------------------------------------------------.
+
+Level 6 abilities:
+May study spell brilliance to 50%
+May study spell empyreal bastion to 50%
+May study spell golden dawn to 50%
+May study spell golden mantle to 50%
+May study spell indomitable spirit to 50%
+May study spell radiance to 50%
+May study spell solar flare to 50%
+May study spell starburst to 50%
+May study spell starcore to 50%
+May study spell starshards to 50%
+May train skill critical to 50%
+May train skill the art of war to 35%
+May train skill leadership to 65%
+May train skill doublehit to 50%
+May train skill unyielding will to 60%
+May train skill golden spear to 35%
+May train skill quick chant to 40%
+May train skill battle tactics to 65%
+May train skill golden dome to 60%
+May train skill steady metabolism to 40%
+May train skill parry to 60%
+May train skill stun to 40%
+May train skill meteoric charge to 60%
+May train skill whirlwind attack to 40%
+------------------------------------------------------.
+
+Level 7 abilities:
+May study spell brilliance to 70%
+May study spell empyreal bastion to 60%
+May study spell golden dawn to 60%
+May study spell golden mantle to 60%
+May study spell golden meteor to 40%
+May study spell indomitable spirit to 60%
+May study spell radiance to 60%
+May study spell rain of stars to 40%
+May study spell solar flare to 60%
+May study spell starburst to 60%
+May study spell starcore to 60%
+May study spell starlight crescent to 25%
+May study spell starshards to 60%
+May study spell sunlight arc to 25%
+May study spell teleport without error to 75%
+May train skill critical to 70%
+May train skill the art of war to 50%
+May train skill leadership to 80%
+May train skill doublehit to 70%
+May train skill unyielding will to 70%
+May train skill sundering star to 40%
+May train skill golden spear to 50%
+May train skill quick chant to 50%
+May train skill battle tactics to 80%
+May train skill golden dome to 70%
+May train skill steady metabolism to 50%
+May train skill obliteration to 40%
+May train skill parry to 70%
+May train skill stun to 60%
+May train skill meteoric charge to 70%
+May train skill whirlwind attack to 60%
+------------------------------------------------------.
+
+Level 8 abilities:
+May study spell brilliance to 80%
+May study spell empyreal bastion to 70%
+May study spell golden dawn to 70%
+May study spell golden mantle to 70%
+May study spell golden meteor to 60%
+May study spell indomitable spirit to 70%
+May study spell radiance to 70%
+May study spell rain of stars to 60%
+May study spell solar flare to 70%
+May study spell starburst to 70%
+May study spell starcore to 70%
+May study spell starlight crescent to 50%
+May study spell starshards to 70%
+May study spell sunlight arc to 50%
+May train skill critical to 90%
+May train skill the art of war to 65%
+May train skill leadership to 90%
+May train skill doublehit to 90%
+May train skill unyielding will to 80%
+May train skill sundering star to 60%
+May train skill golden spear to 65%
+May train skill quick chant to 60%
+May train skill battle tactics to 90%
+May train skill golden dome to 80%
+May train skill steady metabolism to 70%
+May train skill obliteration to 60%
+May train skill parry to 80%
+May train skill stun to 80%
+May train skill meteoric charge to 80%
+May train skill whirlwind attack to 80%
+------------------------------------------------------.
+
+Level 9 abilities:
+May study spell brilliance to 90%
+May study spell empyreal bastion to 85%
+May study spell golden dawn to 85%
+May study spell golden mantle to 85%
+May study spell golden meteor to 80%
+May study spell indomitable spirit to 85%
+May study spell radiance to 85%
+May study spell rain of stars to 80%
+May study spell solar flare to 85%
+May study spell starburst to 85%
+May study spell starcore to 85%
+May study spell starlight crescent to 75%
+May study spell starshards to 85%
+May study spell sunlight arc to 75%
+May study spell teleport without error to 100%
+May train skill critical to 100%
+May train skill the art of war to 80%
+May train skill leadership to 95%
+May train skill doublehit to 100%
+May train skill unyielding will to 90%
+May train skill sundering star to 80%
+May train skill golden spear to 80%
+May train skill quick chant to 70%
+May train skill battle tactics to 95%
+May train skill golden dome to 90%
+May train skill steady metabolism to 85%
+May train skill obliteration to 80%
+May train skill parry to 90%
+May train skill stun to 90%
+May train skill meteoric charge to 90%
+May train skill whirlwind attack to 90%
+------------------------------------------------------.
+
+Level 10 abilities:
+May study spell brilliance to 100%
+May study spell empyreal bastion to 100%
+May study spell golden dawn to 100%
+May study spell golden mantle to 100%
+May study spell golden meteor to 100%
+May study spell indomitable spirit to 100%
+May study spell radiance to 100%
+May study spell rain of stars to 100%
+May study spell solar flare to 100%
+May study spell starburst to 100%
+May study spell starcore to 100%
+May study spell starlight crescent to 100%
+May study spell starshards to 100%
+May study spell sunlight arc to 100%
+May train skill the art of war to 100%
+May train skill leadership to 100%
+May train skill unyielding will to 100%
+May train skill sundering star to 100%
+May train skill golden spear to 100%
+May train skill quick chant to 75%
+May train skill battle tactics to 100%
+May train skill golden dome to 100%
+May train skill parry to 100%
+May train skill stun to 100%
+May train skill obliteration to 100%
+May train skill steady metabolism to 100%
+May train skill meteoric charge to 100%
+May train skill whirlwind attack to 100%
+------------------------------------------------------.
